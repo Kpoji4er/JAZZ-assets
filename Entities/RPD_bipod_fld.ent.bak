@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="RPD_bipod_fld"/>
+	</state>
+	<mesh_description id="RPD_bipod_fld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/RPD_bipod_fld_RPD_bipod_fld.m.hgm"/>
+			<material file="Materials/RPD_bipod_fld_RPD_bipod_fld.mtl"/>
+			<bsphere value="-15.799,0.026,-2.298,17.058"/>
+			<box min="-32.575,-3.381,-5.367" max="0.977,3.433,0.770"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/RPD.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

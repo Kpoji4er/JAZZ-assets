@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M79"/>
+	</state>
+	<mesh_description id="M79">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M79_M79.m.hgm"/>
+			<material file="Materials/M79_M79.mtl"/>
+			<bsphere value="9.839,0.340,8.877,42.955"/>
+			<box min="-31.009,-3.860,-5.056" max="50.687,4.541,22.810"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M79.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="24.824,-0.652,3.083" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="50.631,-0.147,6.012" spot_rot="0.000002,-0.999975,0.000004,2.7972"/>
+		<attach name="Trigger" spot_pos="6.431,-0.041,-2.586" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

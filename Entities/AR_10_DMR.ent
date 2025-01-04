@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="AR_10_DMR">
+	<state id="idle">
+		<mesh_ref ref="AR_10_DMR"/>
+	</state>
+	<mesh_description id="AR_10_DMR">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AR_10_DMR_AR_10_DMR.m.hgm"/>
+			<material file="Materials/AR_10_DMR_AR_10_DMR.mtl"/>
+			<bsphere value="19.116,-0.024,0.100,48.707"/>
+			<box min="-29.127,-2.829,-8.536" max="67.358,2.781,8.736"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AR-10.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="30.440,0.000,6.171" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="67.309,-0.024,5.534" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="6.110,0.000,8.534" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.240,0.000,-0.021" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

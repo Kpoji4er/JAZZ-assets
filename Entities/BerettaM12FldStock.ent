@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="BerettaM12FldStock">
+	<state id="idle">
+		<mesh_ref ref="BerettaM12FldStock"/>
+	</state>
+	<mesh_description id="BerettaM12FldStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/BerettaM12FldStock_BerettaM12FldStock.m.hgm"/>
+			<material file="Materials/BerettaM12FldStock_BerettaM12FldStock.mtl"/>
+			<bsphere value="17.620,1.031,-2.103,15.573"/>
+			<box min="2.250,-1.287,-3.817" max="32.991,3.348,-0.389"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SimplesColection.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

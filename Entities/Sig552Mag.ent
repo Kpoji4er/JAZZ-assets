@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Sig552Mag"/>
+	</state>
+	<mesh_description id="Sig552Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Sig552Mag_Sig552Mag.m.hgm"/>
+			<material file="Materials/Sig552Mag_Sig552Mag.mtl"/>
+			<bsphere value="1.785,0.012,-3.427,9.672"/>
+			<box min="-2.912,-1.361,-12.369" max="6.483,1.385,5.515"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sig Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

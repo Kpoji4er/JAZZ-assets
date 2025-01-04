@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Agram2000">
+	<state id="idle">
+		<mesh_ref ref="Agram2000"/>
+	</state>
+	<mesh_description id="Agram2000">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Agram2000_Agram2000.m.hgm"/>
+			<material file="Materials/Agram2000_Agram2000.mtl"/>
+			<bsphere value="10.202,-0.841,0.660,22.309"/>
+			<box min="-10.165,-3.735,-9.678" max="30.570,2.053,10.998"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SimplesColection.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="20.302,0.000,0.000" spot_rot="-0.000000,-1.000000,-0.000000,90.0000"/>
+		<attach name="Magazine" spot_pos="12.060,0.000,0.000"/>
+		<attach name="Muzzle" spot_pos="30.570,0.000,6.673" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.727,0.000,0.455"/>
+	</mesh_description>
+</entity>

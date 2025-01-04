@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Spas12"/>
+	</state>
+	<mesh_description id="Spas12">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Spas12_Spas12.m.hgm"/>
+			<material file="Materials/Spas12_Spas12.mtl"/>
+			<bsphere value="29.428,0.105,0.729,34.688"/>
+			<box min="-4.381,-2.597,-8.415" max="63.236,2.808,9.873"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Spas12.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="38.740,0.000,2.644" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="63.206,0.000,5.170" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.099,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

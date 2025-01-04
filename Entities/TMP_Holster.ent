@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="TMP_Holster"/>
+	</state>
+	<mesh_description id="TMP_Holster">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/TMP_Holster_TMP_Holster.m.hgm"/>
+			<material file="Materials/TMP_Holster_TMP_Holster.mtl"/>
+			<bsphere value="0.139,0.198,-12.466,13.281"/>
+			<box min="-1.791,-1.228,-25.705" max="2.068,1.625,0.772"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/TMP.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

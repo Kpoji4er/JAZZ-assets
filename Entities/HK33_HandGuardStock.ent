@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="HK33_HandGuardStock"/>
+	</state>
+	<mesh_description id="HK33_HandGuardStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/HK33_HandGuardStock_HK33_HandGuardStock.m.hgm"/>
+			<material file="Materials/HK33_HandGuardStock_HK33_HandGuardStock.mtl"/>
+			<bsphere value="-4.566,0.000,0.163,12.924"/>
+			<box min="-17.230,-2.528,-2.147" max="8.099,2.528,2.472"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/HK_33.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

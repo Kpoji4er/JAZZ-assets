@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SVT_Byonet"/>
+	</state>
+	<mesh_description id="SVT_Byonet">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SVT_Byonet_SVT_Byonet.m.hgm"/>
+			<material file="Materials/SVT_Byonet_SVT_Byonet.mtl"/>
+			<bsphere value="16.327,-0.157,-0.130,18.181"/>
+			<box min="-1.772,-1.401,-3.256" max="34.427,1.087,2.996"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SVT-40.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

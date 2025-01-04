@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="China_Lake"/>
+	</state>
+	<mesh_description id="China_Lake">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/China_Lake_China_Lake.m.hgm"/>
+			<material file="Materials/China_Lake_China_Lake.mtl"/>
+			<bsphere value="16.005,-0.258,5.306,43.365"/>
+			<box min="-24.884,-3.533,-9.122" max="56.893,3.018,19.735"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/ChinaLake.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="44.963,0.000,0.011" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="56.893,-0.082,2.886" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="3.620,0.000,-2.816" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

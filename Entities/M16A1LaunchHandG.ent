@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M16A1LaunchHandG">
+	<state id="idle">
+		<mesh_ref ref="M16A1LaunchHandG"/>
+	</state>
+	<mesh_description id="M16A1LaunchHandG">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16A1LaunchHandG_M16A1LaunchHandG.m.hgm"/>
+			<material file="Materials/M16A1LaunchHandG_M16A1LaunchHandG.mtl"/>
+			<bsphere value="-16.261,0.230,-3.609,23.093"/>
+			<box min="-38.385,-4.429,-12.636" max="5.863,4.889,5.418"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="-35.729,-0.024,-9.728" spot_rot="0.000000,1.000000,-0.000000,105.0000"/>
+	</mesh_description>
+</entity>

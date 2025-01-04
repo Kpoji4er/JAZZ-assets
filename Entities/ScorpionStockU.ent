@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="ScorpionStockU">
+	<state id="idle">
+		<mesh_ref ref="ScorpionStockU"/>
+	</state>
+	<mesh_description id="ScorpionStockU">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/ScorpionStockU_ScorpionStockU.m.hgm"/>
+			<material file="Materials/ScorpionStockU_ScorpionStockU.mtl"/>
+			<bsphere value="-14.620,0.029,-4.361,15.554"/>
+			<box min="-29.625,-2.138,-9.412" max="0.384,2.196,0.690"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Scorpion.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

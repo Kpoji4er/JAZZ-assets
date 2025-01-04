@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Luger">
+	<state id="idle">
+		<mesh_ref ref="Luger"/>
+	</state>
+	<mesh_description id="Luger">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Luger_Luger.m.hgm"/>
+			<material file="Materials/Luger_Luger.mtl"/>
+			<bsphere value="5.940,-0.033,-1.667,12.947"/>
+			<box min="-5.397,-1.644,-8.967" max="17.277,1.578,5.632"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Luger.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="17.109,0.000,3.889" spot_rot="0.707107,-0.000000,0.707107,180.0000" spot_scale="1"/>
+	</mesh_description>
+</entity>

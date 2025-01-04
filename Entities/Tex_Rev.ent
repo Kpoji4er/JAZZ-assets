@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Tex_Rev">
+	<state id="idle">
+		<mesh_ref ref="Tex_Rev"/>
+	</state>
+	<mesh_description id="Tex_Rev">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Tex_Rev_Tex_Rev.m.hgm"/>
+			<material file="Materials/Tex_Rev_Tex_Rev.mtl"/>
+			<bsphere value="14.003,0.000,0.626,20.079"/>
+			<box min="-4.697,-2.599,-7.086" max="32.703,2.599,8.339"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Tex_Revolver.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="32.703,0.000,5.882" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="5.608,0.000,-0.362" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

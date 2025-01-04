@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M60">
+	<state id="idle">
+		<mesh_ref ref="M60"/>
+	</state>
+	<mesh_description id="M60">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M60_M60.m.hgm"/>
+			<material file="Materials/M60_M60.mtl"/>
+			<bsphere value="25.238,1.448,7.014,66.042"/>
+			<box min="-40.223,-6.131,-9.434" max="90.700,9.028,23.463"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M60Complex.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="78.921,0.000,6.952" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_pos="30.249,0.000,5.381"/>
+		<attach name="Magazine" spot_pos="5.128,-6.054,1.958" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="83.102,-0.322,10.458" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.309,0.000,0.000"/>
+	</mesh_description>
+</entity>

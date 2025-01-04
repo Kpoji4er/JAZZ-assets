@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="G3Sniper"/>
+	</state>
+	<mesh_description id="G3Sniper">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G3Sniper_G3Sniper.m.hgm"/>
+			<material file="Materials/G3Sniper_G3Sniper.mtl"/>
+			<bsphere value="15.096,-0.146,2.310,50.598"/>
+			<box min="-35.116,-3.191,-9.140" max="65.308,2.898,13.760"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G3 Complex.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_note="Bipod" spot_pos="52.722,0.000,6.491" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_note="Hand_l_grip" spot_pos="29.921,0.000,7.393" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_note="Magazine" spot_pos="15.859,0.000,2.710" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_note="Mount" spot_pos="3.706,0.000,9.514" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="65.224,0.051,7.199" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="3.706,0.000,13.985" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_note="Trigger" spot_pos="5.136,0.000,-0.342" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="TMP"/>
+	</state>
+	<mesh_description id="TMP">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/TMP_TMP.m.hgm"/>
+			<material file="Materials/TMP_TMP.mtl"/>
+			<bsphere value="3.945,-0.070,-0.341,14.522"/>
+			<box min="-9.027,-1.927,-7.884" max="16.918,1.787,7.202"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/TMP.fbx"/>
+		</lod>
+		<attach name="General" spot_pos="-8.796,0.001,2.835" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_pos="11.543,0.001,-3.124" spot_rot="0.000000,1.000000,0.000000,265.0000"/>
+		<attach name="Magazine" spot_pos="0.000,0.000,-2.567" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="16.450,0.001,3.724" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.445,0.000,0.369" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="RPD"/>
+	</state>
+	<mesh_description id="RPD">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/RPD_RPD.m.hgm"/>
+			<material file="Materials/RPD_RPD.mtl"/>
+			<bsphere value="19.932,-0.431,2.314,29.470"/>
+			<box min="-9.238,-4.259,-7.463" max="49.102,3.398,12.090"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/RPD.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_pos="40.259,0.080,7.745" spot_rot="0.000000,0.000000,1.000000,0.0014"/>
+		<attach name="Bipod" spot_pos="72.765,-0.144,4.061" spot_rot="-0.000971,-0.743674,-0.000518,0.0294"/>
+		<attach name="Center" spot_pos="26.964,0.001,5.429" spot_rot="-0.000201,0.000000,1.000000,180.0000"/>
+		<attach name="Hand_l_grip" spot_pos="34.715,-1.561,5.122" spot_rot="-0.000201,0.000000,1.000000,180.0000"/>
+		<attach name="Magazine" spot_pos="20.846,-0.305,0.636" spot_rot="-0.000201,0.000000,1.000000,180.0000"/>
+		<attach name="Mount" spot_pos="19.891,-0.067,11.724" spot_rot="0.000000,0.000000,1.000000,0.0082"/>
+		<attach name="Muzzle" spot_pos="77.088,-0.091,7.873" spot_rot="-0.000493,-0.915375,-0.000863,0.0362"/>
+		<attach name="Rail_mount" spot_pos="19.984,0.001,12.297" spot_rot="0.000000,0.000000,1.000000,0.0082"/>
+		<attach name="Scope" spot_pos="19.891,-0.062,11.672" spot_rot="0.000000,0.000000,1.000000,0.0082"/>
+		<attach name="Stock" spot_pos="-9.579,0.001,3.769" spot_rot="0.000000,0.000000,1.000000,0.0082"/>
+		<attach name="Trigger" spot_pos="6.361,-1.289,1.804" spot_rot="-0.000201,0.000000,1.000000,180.0000"/>
+	</mesh_description>
+</entity>

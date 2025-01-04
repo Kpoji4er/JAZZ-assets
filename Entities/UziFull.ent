@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="UziFull"/>
+	</state>
+	<mesh_description id="UziFull">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/UziFull_UziFull.m.hgm"/>
+			<material file="Materials/UziFull_UziFull.mtl"/>
+			<bsphere value="7.361,0.054,1.228,26.738"/>
+			<box min="-18.951,-2.614,-9.353" max="33.672,2.723,11.809"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/UZI.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="15.010,0.094,4.319" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="0.000,0.000,-9.437" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_pos="-8.345,0.094,8.330" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="33.693,0.094,4.966" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="-6.674,0.094,9.470" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-16.897,0.094,5.424" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.298,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

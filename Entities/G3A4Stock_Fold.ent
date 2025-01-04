@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="Folded">
+		<mesh_ref ref="G3A4Stock_Fold"/>
+	</state>
+	<mesh_description id="G3A4Stock_Fold">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G3A4Stock_Fold_G3A4Stock_Fold.m.hgm"/>
+			<material file="Materials/G3A4Stock_Fold_G3A4Stock_Fold.mtl"/>
+			<bsphere value="8.305,-0.011,-4.148,16.960"/>
+			<box min="-7.699,-2.480,-10.602" max="24.309,2.458,2.306"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G3 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

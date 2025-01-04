@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="PKMFoldBipod">
+	<state id="idle">
+		<mesh_ref ref="PKMFoldBipod"/>
+	</state>
+	<mesh_description id="PKMFoldBipod">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PKMFoldBipod_PKMFoldBipod.m.hgm"/>
+			<material file="Materials/PKMFoldBipod_PKMFoldBipod.mtl"/>
+			<bsphere value="13.172,-0.006,0.140,15.629"/>
+			<box min="-1.934,-3.086,-3.239" max="28.279,3.074,3.519"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PKMDone.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

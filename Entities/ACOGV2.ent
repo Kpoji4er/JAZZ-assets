@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="ACOGV2">
+	<state id="idle">
+		<mesh_ref ref="ACOGV2"/>
+	</state>
+	<mesh_description id="ACOGV2">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/ACOGV2_ACOGV2.m.hgm"/>
+			<material file="Materials/ACOGV2_ACOGV2.mtl"/>
+			<bsphere value="-1.939,0.145,3.435,9.004"/>
+			<box min="-9.950,-3.027,-0.696" max="6.072,3.317,7.566"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

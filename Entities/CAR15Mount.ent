@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="CAR15Mount"/>
+	</state>
+	<mesh_description id="CAR15Mount">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/CAR15Mount_CAR15Mount.m.hgm"/>
+			<material file="Materials/CAR15Mount_CAR15Mount.mtl"/>
+			<bsphere value="0.789,-1.233,1.064,8.891"/>
+			<box min="-7.721,-3.701,-1.069" max="9.298,1.236,3.196"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/CAR15.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

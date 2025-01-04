@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="StrikerUnfold"/>
+	</state>
+	<mesh_description id="StrikerUnfold">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/StrikerUnfold_StrikerUnfold.m.hgm"/>
+			<material file="Materials/StrikerUnfold_StrikerUnfold.mtl"/>
+			<bsphere value="-15.052,0.162,-2.964,21.210"/>
+			<box min="-34.794,-2.812,-11.075" max="4.689,3.136,5.146"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Striker.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

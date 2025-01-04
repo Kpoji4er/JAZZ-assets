@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="UMPStockFolded">
+	<state id="idle">
+		<mesh_ref ref="UMPStockFolded"/>
+	</state>
+	<mesh_description id="UMPStockFolded">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/UMPStockFolded_UMPStockFolded.m.hgm"/>
+			<material file="Materials/UMPStockFolded_UMPStockFolded.mtl"/>
+			<bsphere value="11.642,4.351,-2.913,13.354"/>
+			<box min="-0.489,1.935,-8.880" max="23.773,6.768,3.053"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/UMP45.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

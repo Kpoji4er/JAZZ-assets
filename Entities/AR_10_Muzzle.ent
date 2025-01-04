@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="AR_10_Muzzle"/>
+	</state>
+	<mesh_description id="AR_10_Muzzle">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AR_10_Muzzle_AR_10_Muzzle.m.hgm"/>
+			<material file="Materials/AR_10_Muzzle_AR_10_Muzzle.mtl"/>
+			<bsphere value="2.456,0.000,0.000,2.611"/>
+			<box min="0.022,-1.059,-1.059" max="4.890,1.059,1.059"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AR-10.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

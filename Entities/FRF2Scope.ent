@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="FRF2Scope">
+	<state id="idle">
+		<mesh_ref ref="FRF2Scope"/>
+	</state>
+	<mesh_description id="FRF2Scope">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/FRF2Scope_FRF2Scope.m.hgm"/>
+			<material file="Materials/FRF2Scope_FRF2Scope.mtl"/>
+			<bsphere value="-2.749,0.384,2.035,21.432"/>
+			<box min="-23.686,-2.878,-2.913" max="18.189,3.646,6.983"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/FRF2.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

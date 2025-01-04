@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="AR_10_IronSight"/>
+	</state>
+	<mesh_description id="AR_10_IronSight">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AR_10_IronSight_AR_10_IronSight.m.hgm"/>
+			<material file="Materials/AR_10_IronSight_AR_10_IronSight.mtl"/>
+			<bsphere value="16.711,0.439,1.331,25.058"/>
+			<box min="-8.284,-1.540,-1.465" max="41.706,2.417,4.126"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AR-10.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

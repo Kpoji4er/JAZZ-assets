@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Makarov">
+	<state id="idle">
+		<mesh_ref ref="Makarov"/>
+	</state>
+	<mesh_description id="Makarov">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Makarov_Makarov.m.hgm"/>
+			<material file="Materials/Makarov_Makarov.mtl"/>
+			<bsphere value="4.007,-0.148,-1.368,9.775"/>
+			<box min="-4.041,-1.732,-7.659" max="12.054,1.437,4.924"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Makarov.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="11.798,0.000,3.377"/>
+	</mesh_description>
+</entity>

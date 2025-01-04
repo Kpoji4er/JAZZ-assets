@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M60E4ModernMount">
+	<state id="idle">
+		<mesh_ref ref="M60E4ModernMount"/>
+	</state>
+	<mesh_description id="M60E4ModernMount">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M60E4ModernMount_M60E4ModernMount.m.hgm"/>
+			<material file="Materials/M60E4ModernMount_M60E4ModernMount.mtl"/>
+			<bsphere value="5.158,0.014,4.683,27.522"/>
+			<box min="-21.500,-3.463,-2.095" max="31.816,3.491,11.462"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M60Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

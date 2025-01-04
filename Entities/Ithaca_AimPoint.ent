@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Ithaca_AimPoint"/>
+	</state>
+	<mesh_description id="Ithaca_AimPoint">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Ithaca_AimPoint_Ithaca_AimPoint.m.hgm"/>
+			<material file="Materials/Ithaca_AimPoint_Ithaca_AimPoint.mtl"/>
+			<bsphere value="2.761,0.206,3.780,6.386"/>
+			<box min="-3.010,-2.033,-0.386" max="8.531,2.444,7.946"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Ithaca_37.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

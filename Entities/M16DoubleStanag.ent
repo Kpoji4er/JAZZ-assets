@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M16DoubleStanag"/>
+	</state>
+	<mesh_description id="M16DoubleStanag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16DoubleStanag_M16DoubleStanag.m.hgm"/>
+			<material file="Materials/M16DoubleStanag_M16DoubleStanag.mtl"/>
+			<bsphere value="1.576,-2.894,-3.969,12.784"/>
+			<box min="-3.695,-7.419,-15.366" max="6.847,1.631,7.427"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

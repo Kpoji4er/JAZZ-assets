@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Zastava_M70">
+	<state id="idle">
+		<mesh_ref ref="Zastava_M70"/>
+	</state>
+	<mesh_description id="Zastava_M70">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Zastava_M70_Zastava_M70.m.hgm"/>
+			<material file="Materials/Zastava_M70_Zastava_M70.mtl"/>
+			<bsphere value="28.182,0.648,0.662,35.052"/>
+			<box min="-5.897,-2.955,-9.529" max="62.262,4.251,10.853"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M70.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="41.984,0.000,4.259" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="General" spot_pos="47.988,0.000,6.695" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_pos="31.531,0.000,6.241" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="12.906,0.000,4.459"/>
+		<attach name="Muzzle" spot_pos="60.623,0.008,5.081" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-2.380,0.000,3.505" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.893,0.000,0.682" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

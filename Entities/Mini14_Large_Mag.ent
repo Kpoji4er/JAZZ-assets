@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Mini14_Large_Mag">
+	<state id="idle">
+		<mesh_ref ref="Mini14_Large_Mag"/>
+	</state>
+	<mesh_description id="Mini14_Large_Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Mini14_Large_Mag_Mini14_Large_Mag.m.hgm"/>
+			<material file="Materials/Mini14_Large_Mag_Mini14_Large_Mag.mtl"/>
+			<bsphere value="0.968,1.034,-7.021,9.673"/>
+			<box min="-3.994,-0.154,-15.602" max="5.931,2.223,1.560"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Mini-14.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

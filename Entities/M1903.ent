@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M1903"/>
+	</state>
+	<mesh_description id="M1903">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1903_M1903.m.hgm"/>
+			<material file="Materials/M1903_M1903.mtl"/>
+			<bsphere value="29.898,0.860,-1.361,62.563"/>
+			<box min="-31.991,-4.189,-13.072" max="91.786,5.910,10.350"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1903.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="35.733,0.000,5.996" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="91.741,-0.449,6.925" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="26.420,-0.449,9.815" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.731,0.000,0.408" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

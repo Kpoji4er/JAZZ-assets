@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="G3Supressor"/>
+	</state>
+	<mesh_description id="G3Supressor">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G3Supressor_G3Supressor.m.hgm"/>
+			<material file="Materials/G3Supressor_G3Supressor.mtl"/>
+			<bsphere value="13.664,-0.003,0.014,14.064"/>
+			<box min="-0.056,-3.466,-3.499" max="27.383,3.460,3.527"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G3 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

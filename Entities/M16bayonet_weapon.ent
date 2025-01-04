@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M16bayonet_weapon"/>
+	</state>
+	<mesh_description id="M16bayonet_weapon">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16bayonet_weapon_M16bayonet_weapon.m.hgm"/>
+			<material file="Materials/M16bayonet_weapon_M16bayonet_weapon.mtl"/>
+			<bsphere value="5.636,-0.098,0.094,17.585"/>
+			<box min="-11.820,-1.754,-4.157" max="23.093,1.557,4.345"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

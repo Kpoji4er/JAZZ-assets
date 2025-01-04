@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M16A4IronSight">
+	<state id="idle">
+		<mesh_ref ref="M16A4IronSight"/>
+	</state>
+	<mesh_description id="M16A4IronSight">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16A4IronSight_M16A4IronSight.m.hgm"/>
+			<material file="Materials/M16A4IronSight_M16A4IronSight.mtl"/>
+			<bsphere value="-5.849,0.063,2.358,3.619"/>
+			<box min="-7.474,-1.789,-0.355" max="-4.224,1.916,5.071"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

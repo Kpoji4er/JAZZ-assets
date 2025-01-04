@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="G3Sniper_Scope"/>
+	</state>
+	<mesh_description id="G3Sniper_Scope">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G3Sniper_Scope_G3Sniper_Scope.m.hgm"/>
+			<material file="Materials/G3Sniper_Scope_G3Sniper_Scope.mtl"/>
+			<bsphere value="1.289,0.293,-0.232,15.357"/>
+			<box min="-13.612,-2.295,-4.588" max="16.190,2.881,4.125"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G3 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

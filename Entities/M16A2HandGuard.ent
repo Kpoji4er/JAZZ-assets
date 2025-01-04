@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M16A2HandGuard">
+	<state id="idle">
+		<mesh_ref ref="M16A2HandGuard"/>
+	</state>
+	<mesh_description id="M16A2HandGuard">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16A2HandGuard_M16A2HandGuard.m.hgm"/>
+			<material file="Materials/M16A2HandGuard_M16A2HandGuard.mtl"/>
+			<bsphere value="-18.340,-0.059,-0.006,19.625"/>
+			<box min="-37.812,-3.651,-3.489" max="1.131,3.533,3.476"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

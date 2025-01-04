@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Type56Mag">
+	<state id="idle">
+		<mesh_ref ref="Type56Mag"/>
+	</state>
+	<mesh_description id="Type56Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Type56Mag_Type56Mag.m.hgm"/>
+			<material file="Materials/Type56Mag_Type56Mag.mtl"/>
+			<bsphere value="4.259,-0.048,-7.787,12.716"/>
+			<box min="-3.655,-1.584,-18.321" max="12.173,1.487,2.747"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

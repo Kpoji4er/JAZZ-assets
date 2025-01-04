@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MAC2429_Bipod_fld">
+	<state id="idle">
+		<mesh_ref ref="MAC2429_Bipod_fld"/>
+	</state>
+	<mesh_description id="MAC2429_Bipod_fld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MAC2429_Bipod_fld_MAC2429_Bipod_fld.m.hgm"/>
+			<material file="Materials/MAC2429_Bipod_fld_MAC2429_Bipod_fld.mtl"/>
+			<bsphere value="-16.118,0.052,-2.630,18.102"/>
+			<box min="-33.836,-3.719,-6.019" max="1.600,3.823,0.760"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Mac2429.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

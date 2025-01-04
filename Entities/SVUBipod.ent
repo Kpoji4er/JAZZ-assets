@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="SVUBipod">
+	<state id="folded">
+		<mesh_ref ref="SVUFoldBipod"/>
+	</state>
+	<state id="idle">
+		<mesh_ref ref="SVUUnfoldBipod"/>
+	</state>
+	<mesh_description id="SVUFoldBipod">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SVUBipod_SVUFoldBipod.m.hgm"/>
+			<material file="Materials/SVUBipod_SVUFoldBipod.mtl"/>
+			<bsphere value="-12.287,0.000,-0.215,13.569"/>
+			<box min="-25.565,-3.099,-1.873" max="0.991,3.099,1.443"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+	<mesh_description id="SVUUnfoldBipod">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SVUBipod_SVUUnfoldBipod.m.hgm"/>
+			<material file="Materials/SVUBipod_SVUUnfoldBipod.mtl"/>
+			<bsphere value="-0.370,0.000,-11.921,16.396"/>
+			<box min="-1.919,-11.167,-24.731" max="1.180,11.167,0.890"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

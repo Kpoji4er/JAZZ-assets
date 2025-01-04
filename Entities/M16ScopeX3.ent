@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M16ScopeX3"/>
+	</state>
+	<mesh_description id="M16ScopeX3">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16ScopeX3_M16ScopeX3.m.hgm"/>
+			<material file="Materials/M16ScopeX3_M16ScopeX3.mtl"/>
+			<bsphere value="-0.387,0.302,1.046,9.085"/>
+			<box min="-9.054,-2.133,-3.308" max="8.280,2.737,5.401"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

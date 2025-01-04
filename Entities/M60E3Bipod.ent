@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M60E3Bipod">
+	<state id="folded">
+		<mesh_ref ref="M60E3Bipod"/>
+	</state>
+	<state id="idle">
+		<mesh_ref ref="M60E3BipodUnfld"/>
+	</state>
+	<mesh_description id="M60E3Bipod">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M60E3Bipod_M60E3Bipod.m.hgm"/>
+			<material file="Materials/M60E3Bipod_M60E3Bipod.mtl"/>
+			<bsphere value="-15.130,-0.051,-3.024,17.219"/>
+			<box min="-31.039,-7.419,-6.713" max="0.779,7.316,0.665"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M60Complex.fbx"/>
+		</lod>
+	</mesh_description>
+	<mesh_description id="M60E3BipodUnfld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M60E3Bipod_M60E3BipodUnfld.m.hgm"/>
+			<material file="Materials/M60E3Bipod_M60E3BipodUnfld.mtl"/>
+			<bsphere value="0.573,-0.051,-12.748,24.465"/>
+			<box min="-2.390,-20.640,-26.167" max="3.535,20.537,0.670"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M60Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

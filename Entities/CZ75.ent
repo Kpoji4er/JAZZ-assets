@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="CZ75">
+	<state id="idle">
+		<mesh_ref ref="CZ75"/>
+	</state>
+	<mesh_description id="CZ75">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/CZ75_CZ75.m.hgm"/>
+			<material file="Materials/CZ75_CZ75.mtl"/>
+			<bsphere value="5.260,0.000,-1.403,11.866"/>
+			<box min="-5.039,-1.685,-8.247" max="15.559,1.685,5.441"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/CZ75.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="15.415,0.000,3.781" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

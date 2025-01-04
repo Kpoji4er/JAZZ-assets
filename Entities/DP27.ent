@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="DP27"/>
+	</state>
+	<mesh_description id="DP27">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/DP27_DP27.m.hgm"/>
+			<material file="Materials/DP27_DP27.mtl"/>
+			<bsphere value="31.408,0.000,1.596,59.263"/>
+			<box min="-27.601,-12.325,-7.861" max="90.417,12.325,11.053"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/DP.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="56.986,0.000,1.246" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="90.306,0.000,5.308" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="5.032,0.000,0.910" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

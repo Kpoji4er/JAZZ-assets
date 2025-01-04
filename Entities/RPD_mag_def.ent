@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="RPD_mag_def"/>
+	</state>
+	<mesh_description id="RPD_mag_def">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/RPD_mag_def_RPD_mag_def.m.hgm"/>
+			<material file="Materials/RPD_mag_def_RPD_mag_def.mtl"/>
+			<bsphere value="0.106,0.186,-3.076,13.553"/>
+			<box min="-4.167,-8.441,-16.053" max="4.379,8.813,9.901"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/RPD.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

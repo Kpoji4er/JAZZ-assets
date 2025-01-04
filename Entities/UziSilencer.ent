@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="UziSilencer"/>
+	</state>
+	<mesh_description id="UziSilencer">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/UziSilencer_UziSilencer.m.hgm"/>
+			<material file="Materials/UziSilencer_UziSilencer.mtl"/>
+			<bsphere value="5.627,0.000,-0.001,13.320"/>
+			<box min="-7.551,-2.127,-2.128" max="18.804,2.127,2.125"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/UZI.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

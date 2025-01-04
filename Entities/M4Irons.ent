@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M4Irons"/>
+	</state>
+	<mesh_description id="M4Irons">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M4Irons_M4Irons.m.hgm"/>
+			<material file="Materials/M4Irons_M4Irons.mtl"/>
+			<bsphere value="13.444,-0.201,-1.322,23.761"/>
+			<box min="-9.957,-2.970,-7.770" max="36.845,2.568,5.126"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

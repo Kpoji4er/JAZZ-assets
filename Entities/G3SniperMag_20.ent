@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="G3SniperMag_20"/>
+	</state>
+	<mesh_description id="G3SniperMag_20">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G3SniperMag_20_G3SniperMag_20.m.hgm"/>
+			<material file="Materials/G3SniperMag_20_G3SniperMag_20.mtl"/>
+			<bsphere value="0.330,0.057,-3.966,8.565"/>
+			<box min="-3.996,-1.059,-11.683" max="4.656,1.172,3.751"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G3 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

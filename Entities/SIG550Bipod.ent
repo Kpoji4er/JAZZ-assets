@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="SIG550Bipod">
+	<state id="folded">
+		<mesh_ref ref="SIG550FldBipod"/>
+	</state>
+	<state id="idle">
+		<mesh_ref ref="SIG550UnfldBipod"/>
+	</state>
+	<mesh_description id="SIG550FldBipod">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SIG550Bipod_SIG550FldBipod.m.hgm"/>
+			<material file="Materials/SIG550Bipod_SIG550FldBipod.mtl"/>
+			<bsphere value="-13.352,0.000,-0.340,14.079"/>
+			<box min="-27.297,-2.360,-1.168" max="0.594,2.360,0.487"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sig Complex.fbx"/>
+		</lod>
+	</mesh_description>
+	<mesh_description id="SIG550UnfldBipod">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SIG550Bipod_SIG550UnfldBipod.m.hgm"/>
+			<material file="Materials/SIG550Bipod_SIG550UnfldBipod.mtl"/>
+			<bsphere value="-0.133,0.000,-11.627,19.565"/>
+			<box min="-0.860,-15.718,-23.770" max="0.594,15.718,0.515"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sig Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="AWM_Bipod">
+	<state id="folded">
+		<mesh_ref ref="AWM_BipodFld"/>
+	</state>
+	<state id="idle">
+		<mesh_ref ref="AWM_BipodUnFld"/>
+	</state>
+	<mesh_description id="AWM_BipodFld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AWM_Bipod_AWM_BipodFld.m.hgm"/>
+			<material file="Materials/AWM_Bipod_AWM_BipodFld.mtl"/>
+			<bsphere value="10.315,0.036,-1.813,13.423"/>
+			<box min="-2.587,-3.314,-4.617" max="23.216,3.386,0.990"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AWM.fbx"/>
+		</lod>
+	</mesh_description>
+	<mesh_description id="AWM_BipodUnFld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AWM_Bipod_AWM_BipodUnFld.m.hgm"/>
+			<material file="Materials/AWM_Bipod_AWM_BipodUnFld.mtl"/>
+			<bsphere value="1.802,-0.012,-9.799,14.256"/>
+			<box min="-2.587,-8.918,-20.588" max="6.191,8.895,0.990"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AWM.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Grease"/>
+	</state>
+	<mesh_description id="Grease">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Grease_Grease.m.hgm"/>
+			<material file="Materials/Grease_Grease.mtl"/>
+			<bsphere value="19.461,0.164,-3.074,25.322"/>
+			<box min="-3.334,-2.813,-16.922" max="42.256,3.141,10.774"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/GreaseGun.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="22.992,0.007,0.329" spot_rot="0.000000,1.000000,-0.000000,90.0000"/>
+		<attach name="Muzzle" spot_pos="42.150,0.021,6.910" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-2.268,0.021,4.906" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.652,0.007,0.540" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

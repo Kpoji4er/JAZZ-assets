@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="MP7"/>
+	</state>
+	<mesh_description id="MP7">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MP7_MP7.m.hgm"/>
+			<material file="Materials/MP7_MP7.mtl"/>
+			<bsphere value="5.906,0.003,-3.648,21.921"/>
+			<box min="-13.041,-1.901,-15.275" max="24.854,1.908,7.980"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MP7A1.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="22.009,0.025,3.547" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="-1.624,0.000,7.792" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-11.943,0.000,4.887" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.210,0.000,1.032" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Under" spot_pos="16.376,0.000,0.397" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

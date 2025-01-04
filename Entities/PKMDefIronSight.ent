@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="PKMDefIronSight">
+	<state id="idle">
+		<mesh_ref ref="PKMDefIronSight"/>
+	</state>
+	<mesh_description id="PKMDefIronSight">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PKMDefIronSight_PKMDefIronSight.m.hgm"/>
+			<material file="Materials/PKMDefIronSight_PKMDefIronSight.mtl"/>
+			<bsphere value="1.033,0.277,0.421,5.471"/>
+			<box min="-4.318,-2.041,-0.846" max="6.385,2.595,1.687"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PKMDone.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

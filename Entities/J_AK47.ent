@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="J_AK47">
+	<state id="idle">
+		<mesh_ref ref="J_AK47"/>
+	</state>
+	<mesh_description id="J_AK47">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/J_AK47_J_AK47.m.hgm"/>
+			<material file="Materials/J_AK47_J_AK47.mtl"/>
+			<bsphere value="15.346,1.422,0.502,45.935"/>
+			<box min="-30.197,-1.994,-9.789" max="60.889,4.838,10.793"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="40.593,0.170,4.986" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_pos="32.658,0.000,6.651" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="14.480,0.000,5.362" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="60.305,0.039,5.533" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.672,0.000,0.078" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Under" spot_pos="46.372,0.070,4.846" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

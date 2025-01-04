@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="G3Muzzle"/>
+	</state>
+	<mesh_description id="G3Muzzle">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G3Muzzle_G3Muzzle.m.hgm"/>
+			<material file="Materials/G3Muzzle_G3Muzzle.mtl"/>
+			<bsphere value="2.886,0.000,-0.027,3.030"/>
+			<box min="0.020,-1.155,-1.181" max="5.753,1.155,1.127"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G3 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

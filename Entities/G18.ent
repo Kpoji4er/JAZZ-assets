@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="G18"/>
+	</state>
+	<mesh_description id="G18">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G18_G18.m.hgm"/>
+			<material file="Materials/G18_G18.mtl"/>
+			<bsphere value="4.947,0.016,-1.089,12.413"/>
+			<box min="-5.808,-1.548,-7.979" max="15.702,1.580,5.801"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G17.fbx"/>
+		</lod>
+		<attach name="Magazine" spot_pos="-2.622,0.034,-7.973" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="15.587,0.034,4.410" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="0.124,0.034,5.410" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="13.068,0.000,1.554" spot_rot="1.000000,0.000000,0.000000,180.0000"/>
+		<attach name="Trigger" spot_pos="4.923,0.000,0.134" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

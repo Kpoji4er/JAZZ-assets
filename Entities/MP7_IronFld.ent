@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="MP7_IronFld"/>
+	</state>
+	<mesh_description id="MP7_IronFld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MP7_IronFld_MP7_IronFld.m.hgm"/>
+			<material file="Materials/MP7_IronFld_MP7_IronFld.mtl"/>
+			<bsphere value="4.454,0.216,0.548,13.600"/>
+			<box min="-9.084,-1.355,-0.456" max="17.991,1.788,1.552"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MP7A1.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

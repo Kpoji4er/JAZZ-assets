@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="NSPU"/>
+	</state>
+	<mesh_description id="NSPU">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/NSPU_NSPU.m.hgm"/>
+			<material file="Materials/NSPU_NSPU.mtl"/>
+			<bsphere value="9.767,-0.557,1.044,28.061"/>
+			<box min="-16.509,-5.949,-8.795" max="36.042,4.836,10.883"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

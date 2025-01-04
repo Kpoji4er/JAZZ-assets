@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M1903_Optic"/>
+	</state>
+	<mesh_description id="M1903_Optic">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1903_Optic_M1903_Optic.m.hgm"/>
+			<material file="Materials/M1903_Optic_M1903_Optic.mtl"/>
+			<bsphere value="9.290,0.186,2.883,33.102"/>
+			<box min="-23.697,-3.481,-0.721" max="42.278,3.854,6.487"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1903.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

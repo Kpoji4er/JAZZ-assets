@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="MP5A2"/>
+	</state>
+	<mesh_description id="MP5A2">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MP5A2_MP5A2.m.hgm"/>
+			<material file="Materials/MP5A2_MP5A2.mtl"/>
+			<bsphere value="4.319,-0.524,3.223,33.077"/>
+			<box min="-28.410,-3.694,-7.469" max="37.048,2.645,13.914"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MP5A2A3.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="23.144,0.000,7.468" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="14.371,0.000,2.744" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_pos="7.416,0.000,9.497" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="36.785,0.000,7.394" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="7.697,0.000,12.404" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.679,0.000,0.193" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

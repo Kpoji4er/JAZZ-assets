@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Spectr_M4">
+	<state id="idle">
+		<mesh_ref ref="Spectr_M4"/>
+	</state>
+	<mesh_description id="Spectr_M4">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Spectr_M4_Spectr_M4.m.hgm"/>
+			<material file="Materials/Spectr_M4_Spectr_M4.mtl"/>
+			<bsphere value="9.795,-0.252,0.404,19.752"/>
+			<box min="-8.723,-2.270,-8.151" max="28.314,1.767,8.960"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Spectr M4.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="20.798,-0.271,-0.555" spot_rot="0.000000,1.000000,0.000000,265.0000"/>
+		<attach name="Magazine" spot_pos="11.909,-0.271,4.370" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="28.067,-0.252,4.965" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="5.103,-0.271,0.154" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

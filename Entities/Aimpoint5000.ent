@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Aimpoint5000">
+	<state id="idle">
+		<mesh_ref ref="Aimpoint5000"/>
+	</state>
+	<mesh_description id="Aimpoint5000">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Aimpoint5000_Aimpoint5000.m.hgm"/>
+			<material file="Materials/Aimpoint5000_Aimpoint5000.mtl"/>
+			<bsphere value="0.549,-0.789,1.548,10.958"/>
+			<box min="-10.107,-4.297,-1.828" max="11.204,2.719,4.924"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/CAR15.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

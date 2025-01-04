@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="PKM_Bipod">
+	<state id="folded">
+		<mesh_ref ref="PKM_Fld_Bipod"/>
+	</state>
+	<state id="idle">
+		<mesh_ref ref="PKM_Unfld_Bipod"/>
+	</state>
+	<mesh_description id="PKM_Fld_Bipod">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PKM_Bipod_PKM_Fld_Bipod.m.hgm"/>
+			<material file="Materials/PKM_Bipod_PKM_Fld_Bipod.mtl"/>
+			<bsphere value="13.118,-0.062,-0.761,14.557"/>
+			<box min="-1.167,-1.890,-2.939" max="27.403,1.767,1.417"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PKMCorrect.fbx"/>
+		</lod>
+	</mesh_description>
+	<mesh_description id="PKM_Unfld_Bipod">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PKM_Bipod_PKM_Unfld_Bipod.m.hgm"/>
+			<material file="Materials/PKM_Bipod_PKM_Unfld_Bipod.mtl"/>
+			<bsphere value="0.030,-0.063,-11.664,20.772"/>
+			<box min="-2.155,-17.448,-23.804" max="2.215,17.323,0.475"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PKMCorrect.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

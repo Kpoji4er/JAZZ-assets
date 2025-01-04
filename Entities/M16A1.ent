@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M16A1">
+	<state id="idle">
+		<mesh_ref ref="M16A1"/>
+	</state>
+	<mesh_description id="M16A1">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16A1_M16A1.m.hgm"/>
+			<material file="Materials/M16A1_M16A1.mtl"/>
+			<bsphere value="22.385,0.686,2.690,58.481"/>
+			<box min="-35.816,-2.944,-10.287" max="80.586,4.316,15.667"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+		<attach name="General" spot_pos="23.162,-0.638,5.912"/>
+		<attach name="Hand_l_grip" spot_pos="35.562,0.000,7.623" spot_rot="-0.000000,-1.000049,-0.000003,4.0987"/>
+		<attach name="Handguard" spot_pos="54.992,0.000,7.623" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Launcher" spot_pos="54.992,0.000,7.623" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="12.365,0.066,-0.107" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_pos="8.729,0.011,13.612" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="77.234,0.000,7.623"/>
+		<attach name="Scope" spot_pos="8.724,0.011,15.960" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="66.367,0.064,7.509" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side2" spot_pos="74.517,0.000,7.623" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.347,0.000,0.000"/>
+	</mesh_description>
+</entity>

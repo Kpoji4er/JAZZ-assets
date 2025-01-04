@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MPLStockFolded">
+	<state id="idle">
+		<mesh_ref ref="MPLStockFolded"/>
+	</state>
+	<mesh_description id="MPLStockFolded">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MPLStockFolded_MPLStockFolded.m.hgm"/>
+			<material file="Materials/MPLStockFolded_MPLStockFolded.mtl"/>
+			<bsphere value="14.497,0.136,-4.753,16.944"/>
+			<box min="-0.546,-0.359,-12.687" max="29.540,0.631,3.181"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MPL.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

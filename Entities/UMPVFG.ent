@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="UMPVFG">
+	<state id="idle">
+		<mesh_ref ref="UMPVFG"/>
+	</state>
+	<mesh_description id="UMPVFG">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/UMPVFG_UMPVFG.m.hgm"/>
+			<material file="Materials/UMPVFG_UMPVFG.mtl"/>
+			<bsphere value="-0.054,0.215,-4.689,5.806"/>
+			<box min="-2.425,-1.389,-10.034" max="2.317,1.819,0.656"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/UMP45.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_note="Hand_L_Grip" spot_pos="0.293,-0.400,-5.873" spot_rot="0.000000,1.000000,0.000000,269.6931"/>
+	</mesh_description>
+</entity>

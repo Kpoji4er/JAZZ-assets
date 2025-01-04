@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="DoubleStanag"/>
+	</state>
+	<mesh_description id="DoubleStanag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/DoubleStanag_DoubleStanag.m.hgm"/>
+			<material file="Materials/DoubleStanag_DoubleStanag.mtl"/>
+			<bsphere value="1.470,-2.699,-3.702,11.922"/>
+			<box min="-3.446,-6.919,-14.331" max="6.386,1.521,6.927"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/CAR15.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

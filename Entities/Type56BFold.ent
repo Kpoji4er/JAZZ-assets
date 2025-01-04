@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Type56BFold">
+	<state id="Folded">
+		<mesh_ref ref="Type56BFold"/>
+	</state>
+	<mesh_description id="Type56BFold">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Type56BFold_Type56BFold.m.hgm"/>
+			<material file="Materials/Type56BFold_Type56BFold.mtl"/>
+			<bsphere value="-15.403,-0.052,-0.647,15.851"/>
+			<box min="-31.209,-0.994,-1.917" max="0.403,0.889,0.622"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

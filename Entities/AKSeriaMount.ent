@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="AKSeriaMount"/>
+	</state>
+	<mesh_description id="AKSeriaMount">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AKSeriaMount_AKSeriaMount.m.hgm"/>
+			<material file="Materials/AKSeriaMount_AKSeriaMount.mtl"/>
+			<bsphere value="-0.517,-1.791,-0.472,6.333"/>
+			<box min="-6.820,-2.119,-1.828" max="5.787,-1.463,0.883"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

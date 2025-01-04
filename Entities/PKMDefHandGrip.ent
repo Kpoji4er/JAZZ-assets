@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="PKMDefHandGrip">
+	<state id="idle">
+		<mesh_ref ref="PKMDefHandGrip"/>
+	</state>
+	<mesh_description id="PKMDefHandGrip">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PKMDefHandGrip_PKMDefHandGrip.m.hgm"/>
+			<material file="Materials/PKMDefHandGrip_PKMDefHandGrip.mtl"/>
+			<bsphere value="-0.944,0.062,-5.441,7.222"/>
+			<box min="-4.942,-1.363,-11.429" max="3.054,1.487,0.548"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PKMDone.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

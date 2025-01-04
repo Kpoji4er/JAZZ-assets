@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="SteyrScout">
+	<state id="idle">
+		<mesh_ref ref="SteyrScout"/>
+	</state>
+	<mesh_description id="SteyrScout">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SteyrScout_SteyrScout.m.hgm"/>
+			<material file="Materials/SteyrScout_SteyrScout.mtl"/>
+			<bsphere value="13.230,0.754,2.577,44.082"/>
+			<box min="-30.212,-2.077,-6.180" max="56.672,3.585,11.335"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/leeenfield.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_pos="55.500,0.073,7.577" spot_rot="0.000000,0.000000,1.000000,0.0234"/>
+		<attach name="Bipod" spot_pos="75.078,0.156,7.580" spot_rot="0.000000,0.000000,1.000000,0.0036"/>
+		<attach name="Center" spot_pos="23.552,0.000,6.642" spot_rot="-0.000014,0.000000,1.000000,180.0002"/>
+		<attach name="Hand_l_grip" spot_pos="39.119,-0.994,7.838" spot_rot="-0.000014,0.000000,1.000000,180.0002"/>
+		<attach name="Magazine" spot_pos="17.259,-0.130,3.347" spot_rot="-0.000014,0.000000,1.000000,180.0002"/>
+		<attach name="Mount" spot_pos="26.743,0.000,11.105" spot_rot="0.000000,0.000000,1.000000,0.0063"/>
+		<attach name="Muzzle" spot_pos="84.569,0.174,7.613" spot_rot="0.000000,0.000000,1.000000,0.0036"/>
+		<attach name="Rail_mount" spot_pos="26.563,0.000,11.482" spot_rot="0.000000,0.000000,1.000000,0.0063"/>
+		<attach name="Scope" spot_pos="26.231,0.000,10.713" spot_rot="0.000000,0.000000,1.000000,0.0063"/>
+		<attach name="Stock" spot_pos="-4.830,0.000,0.538" spot_rot="0.000000,0.000000,1.000000,0.0063"/>
+		<attach name="Trigger" spot_pos="7.850,-0.589,1.733" spot_rot="-0.000014,0.000000,1.000000,180.0002"/>
+	</mesh_description>
+</entity>

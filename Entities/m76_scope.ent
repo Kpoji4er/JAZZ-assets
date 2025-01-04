@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="m76_scope"/>
+	</state>
+	<mesh_description id="m76_scope">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/m76_scope_m76_scope.m.hgm"/>
+			<material file="Materials/m76_scope_m76_scope.mtl"/>
+			<bsphere value="0.060,-0.715,-0.460,12.976"/>
+			<box min="-11.947,-3.508,-6.971" max="12.068,2.077,6.050"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/m76.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M700"/>
+	</state>
+	<mesh_description id="M700">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M700_M700.m.hgm"/>
+			<material file="Materials/M700_M700.mtl"/>
+			<bsphere value="28.818,0.997,-2.548,65.797"/>
+			<box min="-36.149,-1.884,-13.526" max="93.786,3.878,8.430"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M700.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="35.446,0.000,4.713" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="93.786,0.000,6.955" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="13.951,0.000,8.186" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.705,0.000,-1.100" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

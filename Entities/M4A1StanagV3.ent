@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M4A1StanagV3"/>
+	</state>
+	<mesh_description id="M4A1StanagV3">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M4A1StanagV3_M4A1StanagV3.m.hgm"/>
+			<material file="Materials/M4A1StanagV3_M4A1StanagV3.mtl"/>
+			<bsphere value="1.299,-0.240,-2.094,11.385"/>
+			<box min="-3.652,-1.875,-12.673" max="6.250,1.395,8.486"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="G3SimpleScope"/>
+	</state>
+	<mesh_description id="G3SimpleScope">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G3SimpleScope_G3SimpleScope.m.hgm"/>
+			<material file="Materials/G3SimpleScope_G3SimpleScope.mtl"/>
+			<bsphere value="-2.548,-0.313,-0.278,11.029"/>
+			<box min="-12.786,-2.678,-5.070" max="7.691,2.051,4.513"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G3 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

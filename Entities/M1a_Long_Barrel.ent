@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M1a_Long_Barrel">
+	<state id="idle">
+		<mesh_ref ref="M1a_Long_Barrel"/>
+	</state>
+	<mesh_description id="M1a_Long_Barrel">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1a_Long_Barrel_M1a_Long_Barrel.m.hgm"/>
+			<material file="Materials/M1a_Long_Barrel_M1a_Long_Barrel.mtl"/>
+			<bsphere value="-12.639,0.865,-3.183,39.120"/>
+			<box min="-51.563,-2.838,-9.060" max="26.286,4.567,2.694"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1a.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="19.681,-0.043,-0.096" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side2" spot_pos="17.967,-0.043,-0.109" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

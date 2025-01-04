@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Viking_mag_def">
+	<state id="idle">
+		<mesh_ref ref="Viking_mag_def"/>
+	</state>
+	<mesh_description id="Viking_mag_def">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Viking_mag_def_Viking_mag_def.m.hgm"/>
+			<material file="Materials/Viking_mag_def_Viking_mag_def.mtl"/>
+			<bsphere value="-1.552,-0.062,-6.740,8.203"/>
+			<box min="-5.380,-1.593,-13.840" max="2.276,1.469,0.360"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/viking.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

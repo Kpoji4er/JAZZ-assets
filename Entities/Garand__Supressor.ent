@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Garand__Supressor"/>
+	</state>
+	<mesh_description id="Garand__Supressor">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Garand__Supressor_Garand__Supressor.m.hgm"/>
+			<material file="Materials/Garand__Supressor_Garand__Supressor.mtl"/>
+			<bsphere value="2.079,-0.005,-0.700,15.042"/>
+			<box min="-12.679,-2.306,-3.723" max="16.837,2.297,2.324"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Garand.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="UMPUnderRail">
+	<state id="idle">
+		<mesh_ref ref="UMPUnderRail"/>
+	</state>
+	<mesh_description id="UMPUnderRail">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/UMPUnderRail_UMPUnderRail.m.hgm"/>
+			<material file="Materials/UMPUnderRail_UMPUnderRail.mtl"/>
+			<bsphere value="-1.700,0.215,0.404,5.850"/>
+			<box min="-7.465,-0.851,0.124" max="4.066,1.281,0.683"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/UMP45.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

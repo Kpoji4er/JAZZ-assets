@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="HMMWV">
+	<state id="idle">
+		<mesh_ref ref="HMMWV"/>
+	</state>
+	<mesh_description id="HMMWV">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/HMMWV_HMMWV.m.hgm"/>
+			<material file="Materials/HMMWV_HMMWV.mtl"/>
+			<bsphere value="-0.002,-0.561,92.061,246.101"/>
+			<box min="-130.695,-222.864,-0.374" max="130.691,221.742,184.496"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/HMVEE.fbx"/>
+		</lod>
+		<surf type="collision" name="PVS" points="107.592,-225.969,-6.151;-107.592,225.969,-6.151;-107.592,-225.969,-6.151"/>
+		<surf type="collision" name="PVS" points="107.592,-225.969,193.849;-107.592,-225.969,-6.151;-107.592,-225.969,193.849"/>
+		<surf type="collision" name="PVS" points="-107.592,225.969,-6.151;-107.592,-225.969,193.849;-107.592,-225.969,-6.151"/>
+		<surf type="collision" name="PVS" points="-107.592,-225.969,193.849;-107.592,225.969,-6.151;-107.592,225.969,193.849"/>
+		<surf type="collision" name="PVS" points="-107.592,225.969,193.849;107.592,225.969,193.849;-107.592,-225.969,193.849"/>
+		<surf type="collision" name="PVS" points="107.592,225.969,-6.151;-107.592,225.969,193.849;-107.592,225.969,-6.151"/>
+		<surf type="collision" name="PVS" points="-107.592,-225.969,-6.151;107.592,-225.969,193.849;107.592,-225.969,-6.151"/>
+		<surf type="collision" name="PVS" points="107.592,225.969,193.849;107.592,-225.969,-6.151;107.592,-225.969,193.849"/>
+		<surf type="collision" name="PVS" points="-107.592,-225.969,193.849;107.592,225.969,193.849;107.592,-225.969,193.849"/>
+		<surf type="collision" name="PVS" points="107.592,-225.969,-6.151;107.592,225.969,-6.151;-107.592,225.969,-6.151"/>
+		<surf type="collision" name="PVS" points="107.592,-225.969,-6.151;107.592,225.969,193.849;107.592,225.969,-6.151"/>
+		<surf type="collision" name="PVS" points="-107.592,225.969,193.849;107.592,225.969,-6.151;107.592,225.969,193.849"/>
+		<surf_hash type="collision" value="2411580624"/>
+	</mesh_description>
+</entity>

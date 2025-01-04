@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="AKMMag"/>
+	</state>
+	<mesh_description id="AKMMag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AKMMag_AKMMag.m.hgm"/>
+			<material file="Materials/AKMMag_AKMMag.mtl"/>
+			<bsphere value="4.892,-0.197,-9.053,12.814"/>
+			<box min="-3.292,-1.618,-19.696" max="13.075,1.224,1.591"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

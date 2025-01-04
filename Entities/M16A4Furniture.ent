@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M16A4Furniture">
+	<state id="idle">
+		<mesh_ref ref="M16A4Furniture"/>
+	</state>
+	<mesh_description id="M16A4Furniture">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16A4Furniture_M16A4Furniture.m.hgm"/>
+			<material file="Materials/M16A4Furniture_M16A4Furniture.mtl"/>
+			<bsphere value="-13.045,0.059,3.340,10.095"/>
+			<box min="-22.333,-3.989,-0.748" max="-3.756,4.108,7.427"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

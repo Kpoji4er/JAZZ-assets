@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="KSP_58_B"/>
+	</state>
+	<mesh_description id="KSP_58_B">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/KSP_58_B_KSP_58_B.m.hgm"/>
+			<material file="Materials/KSP_58_B_KSP_58_B.mtl"/>
+			<bsphere value="29.948,0.159,4.568,65.940"/>
+			<box min="-35.723,-7.231,-7.797" max="95.619,7.549,16.932"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/KSP 58B.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="67.256,0.000,2.723" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_pos="31.067,5.721,14.907" spot_rot="1.000000,0.000000,0.000000,180.0000"/>
+		<attach name="Magazine" spot_pos="23.247,-3.632,1.605" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="88.464,0.000,9.403" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="13.028,0.000,14.233" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="3.973,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

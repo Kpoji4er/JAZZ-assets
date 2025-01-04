@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M1a_MountUnder"/>
+	</state>
+	<mesh_description id="M1a_MountUnder">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1a_MountUnder_M1a_MountUnder.m.hgm"/>
+			<material file="Materials/M1a_MountUnder_M1a_MountUnder.mtl"/>
+			<bsphere value="2.766,-0.043,-0.491,11.225"/>
+			<box min="-8.422,-1.104,-1.095" max="13.954,1.018,0.113"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1a.fbx"/>
+		</lod>
+		<attach name="Side" spot_pos="9.649,0.000,-0.706" spot_rot="1.000000,0.000000,0.000000,180.0000"/>
+		<attach name="Under" spot_pos="-2.437,0.000,-0.706" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

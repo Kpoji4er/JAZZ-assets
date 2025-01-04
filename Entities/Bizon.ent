@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Bizon">
+	<state id="idle">
+		<mesh_ref ref="Bizon"/>
+	</state>
+	<mesh_description id="Bizon">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Bizon_Bizon.m.hgm"/>
+			<material file="Materials/Bizon_Bizon.mtl"/>
+			<bsphere value="20.269,0.331,1.196,25.945"/>
+			<box min="-4.395,-2.925,-8.803" max="44.932,3.587,11.196"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="25.313,0.000,2.562" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="42.472,0.000,6.067" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="5.327,0.061,11.604" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-3.822,0.061,4.489" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="5.161,0.000,1.083" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

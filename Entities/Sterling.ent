@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Sterling">
+	<state id="idle">
+		<mesh_ref ref="Sterling"/>
+	</state>
+	<mesh_description id="Sterling">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Sterling_Sterling.m.hgm"/>
+			<material file="Materials/Sterling_Sterling.mtl"/>
+			<bsphere value="7.717,-12.545,-0.596,30.187"/>
+			<box min="-18.698,-27.715,-9.336" max="34.133,2.624,8.144"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sterling_SMG.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="11.170,-15.597,4.385" spot_rot="0.707107,0.707107,0.000000,180.0000" spot_scale="89"/>
+		<attach name="Muzzle" spot_pos="34.136,-0.118,4.374" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="89"/>
+		<attach name="Stock" spot_pos="-3.510,-0.118,2.433" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="89"/>
+		<attach name="Trigger" spot_pos="5.104,-0.048,-1.242" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="89"/>
+	</mesh_description>
+</entity>

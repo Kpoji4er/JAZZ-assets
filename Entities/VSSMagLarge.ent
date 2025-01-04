@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="VSSMagLarge"/>
+	</state>
+	<mesh_description id="VSSMagLarge">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/VSSMagLarge_VSSMagLarge.m.hgm"/>
+			<material file="Materials/VSSMagLarge_VSSMagLarge.mtl"/>
+			<bsphere value="1.113,0.043,-3.173,8.504"/>
+			<box min="-3.281,-1.677,-10.791" max="5.506,1.764,4.446"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="folded">
+		<mesh_ref ref="U100_bipod_fld"/>
+	</state>
+	<state id="idle">
+		<mesh_ref ref="U100_bipod_unfld"/>
+	</state>
+	<mesh_description id="U100_bipod_fld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/U100_bipod_fld_U100_bipod_fld.m.hgm"/>
+			<material file="Materials/U100_bipod_fld_U100_bipod_fld.mtl"/>
+			<bsphere value="8.786,-0.038,-0.027,11.258"/>
+			<box min="-1.953,-3.564,-1.501" max="19.524,3.487,1.447"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/u100_partsseperated.fbx"/>
+		</lod>
+	</mesh_description>
+	<mesh_description id="U100_bipod_unfld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/U100_bipod_unfld_U100_bipod_unfld.m.hgm"/>
+			<material file="Materials/U100_bipod_unfld_U100_bipod_unfld.mtl"/>
+			<bsphere value="0.678,-0.176,-8.080,14.366"/>
+			<box min="-1.953,-11.075,-17.465" max="3.308,10.723,1.306"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/u100_partsseperated.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

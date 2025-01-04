@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="UziDrum"/>
+	</state>
+	<mesh_description id="UziDrum">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/UziDrum_UziDrum.m.hgm"/>
+			<material file="Materials/UziDrum_UziDrum.mtl"/>
+			<bsphere value="0.303,0.176,-1.339,15.062"/>
+			<box min="-2.792,-7.288,-16.208" max="3.399,7.641,13.531"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/UZI.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

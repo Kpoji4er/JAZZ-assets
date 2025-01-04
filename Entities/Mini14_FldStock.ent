@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Mini14_FldStock">
+	<state id="idle">
+		<mesh_ref ref="Mini14_FldStock"/>
+	</state>
+	<mesh_description id="Mini14_FldStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Mini14_FldStock_Mini14_FldStock.m.hgm"/>
+			<material file="Materials/Mini14_FldStock_Mini14_FldStock.mtl"/>
+			<bsphere value="17.587,4.347,-0.442,17.989"/>
+			<box min="-0.191,1.350,-2.286" max="35.366,7.345,1.402"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Mini-14.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

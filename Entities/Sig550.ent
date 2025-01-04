@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Sig550"/>
+	</state>
+	<mesh_description id="Sig550">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Sig550_Sig550.m.hgm"/>
+			<material file="Materials/Sig550_Sig550.mtl"/>
+			<bsphere value="31.498,0.174,4.546,35.342"/>
+			<box min="-3.613,-2.649,-2.413" max="66.608,2.997,11.505"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sig Complex.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="46.682,0.000,3.617" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_pos="30.515,0.000,5.455" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Handgrip" spot_pos="0.000,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="11.378,0.000,-0.982" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="62.735,0.000,5.441" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="8.565,0.000,9.339" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-3.623,0.000,2.865" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.356,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

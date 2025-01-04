@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="HighCalRev"/>
+	</state>
+	<mesh_description id="HighCalRev">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/HighCalRev_HighCalRev.m.hgm"/>
+			<material file="Materials/HighCalRev_HighCalRev.mtl"/>
+			<bsphere value="11.635,0.000,0.000,18.602"/>
+			<box min="-5.391,-2.242,-7.949" max="28.662,2.243,7.949"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/HighCalRev.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="27.639,0.000,3.334" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="19.421,0.000,1.531" spot_rot="1.000000,0.000000,0.000000,180.0000"/>
+		<attach name="Trigger" spot_pos="5.035,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

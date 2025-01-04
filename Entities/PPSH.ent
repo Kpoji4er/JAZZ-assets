@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="PPSH">
+	<state id="idle">
+		<mesh_ref ref="PPSH"/>
+	</state>
+	<mesh_description id="PPSH">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PPSH_PPSH.m.hgm"/>
+			<material file="Materials/PPSH_PPSH.mtl"/>
+			<bsphere value="11.447,0.440,-0.567,36.269"/>
+			<box min="-23.824,-2.039,-9.166" max="46.719,2.920,8.033"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PPSH.fbx"/>
+		</lod>
+		<attach name="Magazine" spot_note="Magazine" spot_pos="17.634,0.000,0.030" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="111"/>
+		<attach name="Muzzle" spot_pos="45.091,0.250,5.021" spot_rot="0.000000,-0.000000,1.000000,90.0000" spot_scale="1"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="AWM">
+	<state id="idle">
+		<mesh_ref ref="AWM"/>
+	</state>
+	<mesh_description id="AWM">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AWM_AWM.m.hgm"/>
+			<material file="Materials/AWM_AWM.mtl"/>
+			<bsphere value="29.644,1.134,0.563,59.682"/>
+			<box min="-29.572,-3.334,-7.454" max="88.860,5.602,8.579"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AWM.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="41.261,0.008,3.807" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="115"/>
+		<attach name="Hand_l_grip" spot_pos="30.007,0.008,4.744" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="115"/>
+		<attach name="Muzzle" spot_pos="83.697,0.008,6.388" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="115"/>
+		<attach name="Scope" spot_pos="13.856,0.008,8.283" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="115"/>
+		<attach name="Trigger" spot_pos="4.303,0.008,-0.040" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="115"/>
+	</mesh_description>
+</entity>

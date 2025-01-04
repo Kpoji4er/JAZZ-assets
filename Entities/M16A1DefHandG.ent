@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M16A1DefHandG">
+	<state id="idle">
+		<mesh_ref ref="M16A1DefHandG"/>
+	</state>
+	<mesh_description id="M16A1DefHandG">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16A1DefHandG_M16A1DefHandG.m.hgm"/>
+			<material file="Materials/M16A1DefHandG_M16A1DefHandG.mtl"/>
+			<bsphere value="-17.560,0.068,-0.833,19.293"/>
+			<box min="-36.385,-4.262,-5.118" max="1.264,4.397,3.453"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="-19.429,0.190,0.158" spot_rot="0.000002,-1.000008,0.000004,4.2068"/>
+	</mesh_description>
+</entity>

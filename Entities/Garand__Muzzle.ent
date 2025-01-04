@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Garand__Muzzle"/>
+	</state>
+	<mesh_description id="Garand__Muzzle">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Garand__Muzzle_Garand__Muzzle.m.hgm"/>
+			<material file="Materials/Garand__Muzzle_Garand__Muzzle.mtl"/>
+			<bsphere value="-3.724,-0.005,-0.782,9.229"/>
+			<box min="-12.483,-2.204,-3.748" max="5.036,2.195,2.185"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Garand.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="U100_magazine_ext"/>
+	</state>
+	<mesh_description id="U100_magazine_ext">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/U100_magazine_ext_U100_magazine_ext.m.hgm"/>
+			<material file="Materials/U100_magazine_ext_U100_magazine_ext.mtl"/>
+			<bsphere value="-0.068,-0.071,-7.272,9.311"/>
+			<box min="-3.965,-8.050,-15.586" max="3.829,7.907,1.043"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/u100_partsseperated.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

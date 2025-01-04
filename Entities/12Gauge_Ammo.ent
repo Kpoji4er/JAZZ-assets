@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="12Gauge_Ammo"/>
+	</state>
+	<mesh_description id="12Gauge_Ammo">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/12Gauge_Ammo_12Gauge_Ammo.m.hgm"/>
+			<material file="Materials/12Gauge_Ammo_12Gauge_Ammo.mtl"/>
+			<bsphere value="1.448,-0.367,2.570,5.990"/>
+			<box min="-3.733,-3.372,-0.063" max="6.628,2.638,5.203"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Stoeger_outback.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

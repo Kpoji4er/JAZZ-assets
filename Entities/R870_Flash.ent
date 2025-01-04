@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="R870_Flash">
+	<state id="idle">
+		<mesh_ref ref="R870_Flash"/>
+	</state>
+	<mesh_description id="R870_Flash">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/R870_Flash_R870_Flash.m.hgm"/>
+			<material file="Materials/R870_Flash_R870_Flash.mtl"/>
+			<bsphere value="2.146,-0.004,-1.636,2.764"/>
+			<box min="0.018,-1.758,-3.399" max="4.275,1.750,0.128"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/870.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

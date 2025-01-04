@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="AN94_DefMag">
+	<state id="idle">
+		<mesh_ref ref="AN94_DefMag"/>
+	</state>
+	<mesh_description id="AN94_DefMag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AN94_DefMag_AN94_DefMag.m.hgm"/>
+			<material file="Materials/AN94_DefMag_AN94_DefMag.mtl"/>
+			<bsphere value="2.561,-0.272,-8.443,13.067"/>
+			<box min="-5.007,-2.285,-20.063" max="10.129,1.740,3.176"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

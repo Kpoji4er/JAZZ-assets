@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="cartridge_box"/>
+	</state>
+	<mesh_description id="cartridge_box">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/cartridge_box_cartridge_box.m.hgm"/>
+			<material file="Materials/cartridge_box_cartridge_box.mtl"/>
+			<bsphere value="0.000,0.000,-1.291,36.994"/>
+			<box min="-31.488,-22.795,-13.737" max="31.488,22.795,11.155"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/surfaceCartridge_box.fbx"/>
+		</lod>
+		<surf type="collision" name="PVS" points="-14.714,-22.795,-12.249;-26.380,22.795,-12.249;-26.380,-22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="-26.380,-22.795,-10.355;-26.380,22.795,-1.156;-26.380,-22.795,-1.156"/>
+		<surf type="collision" name="PVS" points="-26.380,-22.795,-1.156;26.380,-22.795,-10.355;-26.380,-22.795,-10.355"/>
+		<surf type="collision" name="PVS" points="-26.380,-22.795,-10.355;26.380,-22.795,-10.355;-14.714,-22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="9.247,-22.795,-12.249;-9.247,22.795,-12.249;-9.247,-22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="-28.274,-22.795,-1.156;-28.274,22.795,-1.156;-28.274,-22.795,3.850"/>
+		<surf type="collision" name="PVS" points="-20.531,22.795,5.744;-20.531,-22.795,5.744;-28.274,-22.795,5.744"/>
+		<surf type="collision" name="PVS" points="-14.913,-22.795,5.744;-26.380,-22.795,3.850;-20.531,-22.795,5.744"/>
+		<surf type="collision" name="PVS" points="26.380,-22.795,3.850;-26.380,-22.795,-1.156;-26.380,-22.795,3.850"/>
+		<surf type="collision" name="PVS" points="14.913,-22.795,5.744;-26.380,-22.795,3.850;-14.913,-22.795,5.744"/>
+		<surf type="collision" name="PVS" points="-26.380,-22.795,-10.355;-26.380,22.795,-10.355;-26.380,22.795,-1.156"/>
+		<surf type="collision" name="PVS" points="-14.714,-22.795,-12.249;-14.714,22.795,-12.249;-26.380,22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="-9.247,22.795,-12.249;-26.380,22.795,-10.355;-14.714,22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="9.247,22.795,-12.249;-26.380,22.795,-10.355;-9.247,22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="-26.380,22.795,-10.355;9.247,22.795,-12.249;14.714,22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="26.380,22.795,-10.355;-26.380,22.795,-1.156;-26.380,22.795,-10.355"/>
+		<surf type="collision" name="PVS" points="-28.274,22.795,3.850;-28.274,-22.795,3.850;-28.274,22.795,-1.156"/>
+		<surf type="collision" name="PVS" points="-20.531,22.795,5.744;-28.274,-22.795,5.744;-28.274,22.795,5.744"/>
+		<surf type="collision" name="PVS" points="14.913,22.795,5.744;-14.913,-22.795,5.744;-14.913,22.795,5.744"/>
+		<surf type="collision" name="PVS" points="-26.380,22.795,3.850;-14.913,22.795,5.744;-20.531,22.795,5.744"/>
+		<surf type="collision" name="PVS" points="-26.380,22.795,-1.156;26.380,22.795,3.850;-26.380,22.795,3.850"/>
+		<surf type="collision" name="PVS" points="-26.380,22.795,3.850;26.380,22.795,3.850;-14.913,22.795,5.744"/>
+		<surf type="collision" name="PVS" points="26.380,-22.795,-10.355;-9.247,-22.795,-12.249;-14.714,-22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="-9.247,-22.795,-12.249;26.380,-22.795,-10.355;9.247,-22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="26.380,-22.795,-10.355;-26.380,-22.795,-1.156;26.380,-22.795,-1.156"/>
+		<surf type="collision" name="PVS" points="9.247,-22.795,-12.249;26.380,-22.795,-10.355;14.714,-22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="26.380,-22.795,-12.249;14.714,22.795,-12.249;14.714,-22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="26.380,-22.795,-1.156;26.380,22.795,-10.355;26.380,-22.795,-10.355"/>
+		<surf type="collision" name="PVS" points="20.531,-22.795,5.744;-26.380,-22.795,3.850;14.913,-22.795,5.744"/>
+		<surf type="collision" name="PVS" points="-26.380,-22.795,3.850;20.531,-22.795,5.744;28.274,-22.795,5.744"/>
+		<surf type="collision" name="PVS" points="26.380,-22.795,-1.156;-26.380,-22.795,-1.156;26.380,-22.795,3.850"/>
+		<surf type="collision" name="PVS" points="14.913,-22.795,5.744;-14.913,-22.795,5.744;14.913,22.795,5.744"/>
+		<surf type="collision" name="PVS" points="20.531,-22.795,5.744;20.531,22.795,5.744;28.274,-22.795,5.744"/>
+		<surf type="collision" name="PVS" points="28.274,22.795,3.850;28.274,-22.795,-1.156;28.274,-22.795,3.850"/>
+		<surf type="collision" name="PVS" points="-9.247,22.795,-12.249;9.247,-22.795,-12.249;9.247,22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="26.380,22.795,-10.355;-26.380,22.795,-10.355;14.714,22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="26.380,22.795,-1.156;-26.380,22.795,-1.156;26.380,22.795,-10.355"/>
+		<surf type="collision" name="PVS" points="14.714,22.795,-12.249;26.380,-22.795,-12.249;26.380,22.795,-12.249"/>
+		<surf type="collision" name="PVS" points="26.380,-22.795,-1.156;26.380,22.795,-1.156;26.380,22.795,-10.355"/>
+		<surf type="collision" name="PVS" points="26.380,22.795,3.850;-26.380,22.795,-1.156;26.380,22.795,-1.156"/>
+		<surf type="collision" name="PVS" points="-14.913,22.795,5.744;26.380,22.795,3.850;14.913,22.795,5.744"/>
+		<surf type="collision" name="PVS" points="14.913,22.795,5.744;26.380,22.795,3.850;20.531,22.795,5.744"/>
+		<surf type="collision" name="PVS" points="28.274,22.795,5.744;28.274,-22.795,5.744;20.531,22.795,5.744"/>
+		<surf type="collision" name="PVS" points="28.274,-22.795,-1.156;28.274,22.795,3.850;28.274,22.795,-1.156"/>
+		<surf_hash type="collision" value="3191155152"/>
+	</mesh_description>
+</entity>

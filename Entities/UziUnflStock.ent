@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="UziUnflStock"/>
+	</state>
+	<mesh_description id="UziUnflStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/UziUnflStock_UziUnflStock.m.hgm"/>
+			<material file="Materials/UziUnflStock_UziUnflStock.mtl"/>
+			<bsphere value="-13.034,-0.211,-6.419,15.790"/>
+			<box min="-26.096,-2.628,-15.169" max="0.027,2.207,2.332"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/UZI.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

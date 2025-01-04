@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M16BarrelRedDot">
+	<state id="idle">
+		<mesh_ref ref="M16BarrelRedDot"/>
+	</state>
+	<mesh_description id="M16BarrelRedDot">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16BarrelRedDot_M16BarrelRedDot.m.hgm"/>
+			<material file="Materials/M16BarrelRedDot_M16BarrelRedDot.mtl"/>
+			<bsphere value="-0.300,-0.006,-0.951,3.302"/>
+			<box min="-3.081,-1.027,-2.898" max="2.482,1.016,0.997"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

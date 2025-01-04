@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="RPD_barrel_def"/>
+	</state>
+	<mesh_description id="RPD_barrel_def">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/RPD_barrel_def_RPD_barrel_def.m.hgm"/>
+			<material file="Materials/RPD_barrel_def_RPD_barrel_def.mtl"/>
+			<bsphere value="6.145,-0.306,0.622,31.115"/>
+			<box min="-24.708,-2.452,-4.499" max="36.998,1.840,5.743"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/RPD.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="32.505,-0.224,-3.684" spot_rot="-0.002355,-0.748809,-0.000345,0.0296"/>
+		<attach name="Muzzle" spot_pos="36.828,-0.171,0.129" spot_rot="0.000000,0.000000,1.000000,0.0144"/>
+	</mesh_description>
+</entity>

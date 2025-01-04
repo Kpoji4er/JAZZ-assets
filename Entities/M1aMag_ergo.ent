@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M1aMag_ergo"/>
+	</state>
+	<mesh_description id="M1aMag_ergo">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1aMag_ergo_M1aMag_ergo.m.hgm"/>
+			<material file="Materials/M1aMag_ergo_M1aMag_ergo.mtl"/>
+			<bsphere value="0.522,-0.043,-4.058,8.988"/>
+			<box min="-3.911,-1.540,-12.478" max="4.954,1.455,4.363"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1a.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

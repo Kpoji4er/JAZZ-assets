@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="G36cUnfldStock"/>
+	</state>
+	<mesh_description id="G36cUnfldStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G36cUnfldStock_G36cUnfldStock.m.hgm"/>
+			<material file="Materials/G36cUnfldStock_G36cUnfldStock.mtl"/>
+			<bsphere value="-11.794,0.304,-4.823,15.390"/>
+			<box min="-24.572,-2.236,-13.498" max="0.984,2.845,3.852"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G36c.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

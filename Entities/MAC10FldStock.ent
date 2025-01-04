@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MAC10FldStock">
+	<state id="idle">
+		<mesh_ref ref="MAC10FldStock"/>
+	</state>
+	<mesh_description id="MAC10FldStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MAC10FldStock_MAC10FldStock.m.hgm"/>
+			<material file="Materials/MAC10FldStock_MAC10FldStock.mtl"/>
+			<bsphere value="8.964,-0.090,3.635,10.684"/>
+			<box min="-0.809,-1.961,-0.862" max="18.738,1.782,8.132"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Mac10.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

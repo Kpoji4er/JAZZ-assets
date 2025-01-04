@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="PKM_Mag">
+	<state id="idle">
+		<mesh_ref ref="PKM_Mag"/>
+	</state>
+	<mesh_description id="PKM_Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PKM_Mag_PKM_Mag.m.hgm"/>
+			<material file="Materials/PKM_Mag_PKM_Mag.mtl"/>
+			<bsphere value="0.660,0.366,-1.947,14.387"/>
+			<box min="-4.910,-11.946,-13.102" max="6.229,12.678,9.208"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PKMCorrect.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

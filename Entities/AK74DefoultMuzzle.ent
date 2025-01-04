@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="AK74DefoultMuzzle"/>
+	</state>
+	<mesh_description id="AK74DefoultMuzzle">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AK74DefoultMuzzle_AK74DefoultMuzzle.m.hgm"/>
+			<material file="Materials/AK74DefoultMuzzle_AK74DefoultMuzzle.mtl"/>
+			<bsphere value="3.628,0.000,0.003,3.860"/>
+			<box min="-0.041,-1.431,-1.428" max="7.296,1.431,1.434"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

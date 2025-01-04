@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="VSS"/>
+	</state>
+	<mesh_description id="VSS">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/VSS_VSS.m.hgm"/>
+			<material file="Materials/VSS_VSS.mtl"/>
+			<bsphere value="12.578,0.655,-0.542,42.117"/>
+			<box min="-29.006,-2.865,-8.840" max="54.161,4.175,7.756"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="19.858,0.000,3.430" spot_rot="0.000000,-1.000002,0.000000,14.6680"/>
+		<attach name="Magazine" spot_pos="12.374,0.000,-0.054" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_pos="5.607,-2.196,2.374" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="54.034,0.000,4.315" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="5.077,0.166,9.079" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="39.082,-0.396,1.934" spot_rot="1.000000,0.000000,-0.000000,167.7143"/>
+		<attach name="Side2" spot_pos="32.158,0.026,4.232" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side3" spot_pos="39.084,0.026,4.232" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.844,0.000,0.548" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Under" spot_pos="32.330,0.000,2.102" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MAC10">
+	<state id="idle">
+		<mesh_ref ref="MAC10"/>
+	</state>
+	<mesh_description id="MAC10">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MAC10_MAC10.m.hgm"/>
+			<material file="Materials/MAC10_MAC10.mtl"/>
+			<bsphere value="4.460,0.150,0.794,14.030"/>
+			<box min="-7.413,-1.986,-6.771" max="16.332,2.286,8.358"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Mac10.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="9.071,0.133,-0.022" spot_rot="-0.000000,1.000000,-0.000000,143.5227"/>
+		<attach name="Magazine" spot_pos="0.617,0.212,-6.892" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="16.332,0.212,4.558" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-9.315,0.212,0.426" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.275,0.133,0.574"/>
+	</mesh_description>
+</entity>

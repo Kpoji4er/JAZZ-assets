@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Type56">
+	<state id="idle">
+		<mesh_ref ref="Type56"/>
+	</state>
+	<mesh_description id="Type56">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Type56_Type56.m.hgm"/>
+			<material file="Materials/Type56_Type56.mtl"/>
+			<bsphere value="17.400,1.220,1.771,45.325"/>
+			<box min="-27.612,-2.217,-8.134" max="62.412,4.657,11.676"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="33.035,-0.011,6.531" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="14.548,-0.011,3.032" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="61.544,-0.028,6.120" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="5.281,-0.011,1.623" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Under" spot_pos="55.859,-0.011,3.289" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Glock_17_Mag">
+	<state id="idle">
+		<mesh_ref ref="Glock_17_Mag"/>
+	</state>
+	<mesh_description id="Glock_17_Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Glock_17_Mag_Glock_17_Mag.m.hgm"/>
+			<material file="Materials/Glock_17_Mag_Glock_17_Mag.mtl"/>
+			<bsphere value="1.916,0.000,5.534,7.889"/>
+			<box min="-2.382,-1.484,-0.956" max="6.214,1.484,12.023"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G17.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

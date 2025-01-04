@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="U100_handle"/>
+	</state>
+	<mesh_description id="U100_handle">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/U100_handle_U100_handle.m.hgm"/>
+			<material file="Materials/U100_handle_U100_handle.mtl"/>
+			<bsphere value="7.173,-2.220,-0.032,9.262"/>
+			<box min="-1.671,-4.969,-1.269" max="16.018,0.529,1.206"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/u100_partsseperated.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M16A1Holster">
+	<state id="idle">
+		<mesh_ref ref="M16A1Holster"/>
+	</state>
+	<mesh_description id="M16A1Holster">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16A1Holster_M16A1Holster.m.hgm"/>
+			<material file="Materials/M16A1Holster_M16A1Holster.mtl"/>
+			<bsphere value="-8.424,0.777,-3.632,42.375"/>
+			<box min="-49.981,-3.625,-12.416" max="33.134,5.178,5.153"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

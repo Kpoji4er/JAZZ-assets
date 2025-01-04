@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M92_UnfldStock">
+	<state id="idle">
+		<mesh_ref ref="M92_UnfldStock"/>
+	</state>
+	<mesh_description id="M92_UnfldStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M92_UnfldStock_M92_UnfldStock.m.hgm"/>
+			<material file="Materials/M92_UnfldStock_M92_UnfldStock.mtl"/>
+			<bsphere value="-15.667,-0.416,-5.861,19.174"/>
+			<box min="-33.139,-4.003,-13.728" max="1.806,3.170,2.006"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M95.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

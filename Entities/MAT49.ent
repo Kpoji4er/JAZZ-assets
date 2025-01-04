@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MAT49">
+	<state id="idle">
+		<mesh_ref ref="MAT49"/>
+	</state>
+	<mesh_description id="MAT49">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MAT49_MAT49.m.hgm"/>
+			<material file="Materials/MAT49_MAT49.mtl"/>
+			<bsphere value="18.686,-0.666,-1.227,26.577"/>
+			<box min="-5.591,-3.936,-12.718" max="42.963,2.605,10.265"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Mat 49.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="17.695,-0.420,-6.946" spot_rot="-0.000001,1.000000,0.000000,180.0000"/>
+		<attach name="Magazine" spot_pos="18.481,-0.420,-12.731" spot_rot="0.000000,0.000000,1.000000,0.0001"/>
+		<attach name="Muzzle" spot_pos="42.302,-0.311,5.979" spot_rot="0.000000,0.000000,1.000000,0.0001"/>
+		<attach name="Stock" spot_pos="-5.353,-0.311,4.050" spot_rot="0.000000,0.000000,1.000000,0.0001"/>
+		<attach name="Trigger" spot_pos="5.129,-0.521,0.443" spot_rot="0.000000,0.000000,1.000000,0.0001"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Bar_Bipod">
+	<state id="folded">
+		<mesh_ref ref="Bar_BipFld"/>
+	</state>
+	<state id="idle">
+		<mesh_ref ref="Bar_BipUnfld"/>
+	</state>
+	<mesh_description id="Bar_BipFld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Bar_Bipod_Bar_BipFld.m.hgm"/>
+			<material file="Materials/Bar_Bipod_Bar_BipFld.mtl"/>
+			<bsphere value="-46.815,0.021,-2.430,48.918"/>
+			<box min="-95.602,-5.972,-8.190" max="1.972,6.015,3.331"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/BAR.fbx"/>
+		</lod>
+	</mesh_description>
+	<mesh_description id="Bar_BipUnfld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Bar_Bipod_Bar_BipUnfld.m.hgm"/>
+			<material file="Materials/Bar_Bipod_Bar_BipUnfld.mtl"/>
+			<bsphere value="-49.165,0.022,-5.791,55.181"/>
+			<box min="-100.900,-16.240,-18.814" max="2.569,16.283,7.232"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/BAR.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="SIGUnfoldStock">
+	<state id="idle">
+		<mesh_ref ref="SIGUnfoldStock"/>
+	</state>
+	<mesh_description id="SIGUnfoldStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SIGUnfoldStock_SIGUnfoldStock.m.hgm"/>
+			<material file="Materials/SIGUnfoldStock_SIGUnfoldStock.mtl"/>
+			<bsphere value="-11.212,0.283,-2.044,14.202"/>
+			<box min="-23.632,-1.740,-9.747" max="1.207,2.306,5.659"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sig Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

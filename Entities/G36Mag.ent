@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="G36Mag"/>
+	</state>
+	<mesh_description id="G36Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G36Mag_G36Mag.m.hgm"/>
+			<material file="Materials/G36Mag_G36Mag.mtl"/>
+			<bsphere value="1.499,0.143,-4.578,12.791"/>
+			<box min="-4.522,-2.318,-16.128" max="7.519,2.605,6.973"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G36c.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

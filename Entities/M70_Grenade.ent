@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M70_Grenade"/>
+	</state>
+	<mesh_description id="M70_Grenade">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M70_Grenade_M70_Grenade.m.hgm"/>
+			<material file="Materials/M70_Grenade_M70_Grenade.mtl"/>
+			<bsphere value="8.645,-0.008,0.029,10.330"/>
+			<box min="-1.579,-2.075,-2.040" max="18.868,2.058,2.098"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M70.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

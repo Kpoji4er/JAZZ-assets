@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M4ModernStanag"/>
+	</state>
+	<mesh_description id="M4ModernStanag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M4ModernStanag_M4ModernStanag.m.hgm"/>
+			<material file="Materials/M4ModernStanag_M4ModernStanag.mtl"/>
+			<bsphere value="1.207,-0.050,-4.383,10.275"/>
+			<box min="-3.274,-2.025,-13.922" max="5.688,1.925,5.156"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

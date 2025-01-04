@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Trench_Shovel1"/>
+	</state>
+	<mesh_description id="Trench_Shovel1">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Trench_Shovel1_Trench_Shovel1.m.hgm"/>
+			<material file="Materials/Trench_Shovel1_Trench_Shovel1.mtl"/>
+			<bsphere value="-0.024,0.221,13.986,30.586"/>
+			<box min="-8.632,-1.643,-16.578" max="8.585,2.084,44.551"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SKS.fbx"/>
+		</lod>
+		<attach name="Center" spot_pos="-0.289,0.217,-14.041" spot_rot="0.003521,0.003466,0.999988,90.9087" spot_scale="157"/>
+	</mesh_description>
+</entity>

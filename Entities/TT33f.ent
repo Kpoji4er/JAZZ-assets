@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="TT33f"/>
+	</state>
+	<mesh_description id="TT33f">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/TT33f_TT33f.m.hgm"/>
+			<material file="Materials/TT33f_TT33f.mtl"/>
+			<bsphere value="6.230,-0.208,-1.603,12.201"/>
+			<box min="-4.358,-1.823,-8.704" max="16.818,1.406,5.497"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/TT33.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="16.629,0.000,4.138" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

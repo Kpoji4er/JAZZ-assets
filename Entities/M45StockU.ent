@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M45StockU">
+	<state id="idle">
+		<mesh_ref ref="M45StockU"/>
+	</state>
+	<mesh_description id="M45StockU">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M45StockU_M45StockU.m.hgm"/>
+			<material file="Materials/M45StockU_M45StockU.mtl"/>
+			<bsphere value="-10.884,0.317,-5.049,13.469"/>
+			<box min="-23.240,-1.040,-10.935" max="1.471,1.674,0.838"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M45.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

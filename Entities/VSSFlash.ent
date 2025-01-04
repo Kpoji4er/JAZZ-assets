@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="VSSFlash"/>
+	</state>
+	<mesh_description id="VSSFlash">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/VSSFlash_VSSFlash.m.hgm"/>
+			<material file="Materials/VSSFlash_VSSFlash.mtl"/>
+			<bsphere value="-6.520,-0.290,-1.108,17.477"/>
+			<box min="-23.459,-2.631,-5.065" max="10.420,2.052,2.850"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

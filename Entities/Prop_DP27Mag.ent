@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Prop_DP27Mag"/>
+	</state>
+	<mesh_description id="Prop_DP27Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Prop_DP27Mag_Prop_DP27Mag.m.hgm"/>
+			<material file="Materials/Prop_DP27Mag_Prop_DP27Mag.mtl"/>
+			<bsphere value="0.780,1.834,1.416,13.617"/>
+			<box min="-11.543,-10.678,-0.226" max="13.102,14.347,3.057"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/DP.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

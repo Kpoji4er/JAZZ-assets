@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MP5SD">
+	<state id="idle">
+		<mesh_ref ref="MP5SD"/>
+	</state>
+	<mesh_description id="MP5SD">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MP5SD_MP5SD.m.hgm"/>
+			<material file="Materials/MP5SD_MP5SD.mtl"/>
+			<bsphere value="21.806,-0.133,3.029,29.559"/>
+			<box min="-6.440,-3.252,-8.597" max="50.052,2.987,14.654"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MP5.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="23.193,1.439,7.542" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="14.738,0.113,2.536" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_pos="6.734,0.113,9.933" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="50.022,0.113,7.580" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="7.468,0.113,12.881" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-4.479,0.113,5.756" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.449,0.110,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

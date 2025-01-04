@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="CAR15"/>
+	</state>
+	<mesh_description id="CAR15">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/CAR15_CAR15.m.hgm"/>
+			<material file="Materials/CAR15_CAR15.mtl"/>
+			<bsphere value="13.248,0.202,3.156,37.017"/>
+			<box min="-23.306,-3.533,-9.037" max="49.802,3.937,15.349"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/CAR15.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="29.778,-0.487,7.486" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="12.316,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_pos="9.366,0.000,13.530" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="49.809,0.000,7.545" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="9.361,0.000,15.879" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="31.376,0.000,4.361" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-15.564,0.000,7.674" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.246,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

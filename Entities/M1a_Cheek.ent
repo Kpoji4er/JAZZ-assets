@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M1a_Cheek"/>
+	</state>
+	<mesh_description id="M1a_Cheek">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1a_Cheek_M1a_Cheek.m.hgm"/>
+			<material file="Materials/M1a_Cheek_M1a_Cheek.mtl"/>
+			<bsphere value="1.924,0.248,1.377,8.377"/>
+			<box min="-5.310,-2.936,-2.825" max="9.158,3.431,5.579"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1a.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Sig550Custom"/>
+	</state>
+	<mesh_description id="Sig550Custom">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Sig550Custom_Sig550Custom.m.hgm"/>
+			<material file="Materials/Sig550Custom_Sig550Custom.mtl"/>
+			<bsphere value="31.491,0.164,4.543,35.342"/>
+			<box min="-3.620,-2.659,-2.416" max="66.601,2.987,11.502"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sig Complex.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="32.905,-0.010,1.689" spot_rot="-0.000000,1.000000,0.000000,110.3601"/>
+		<attach name="Handgrip" spot_pos="-0.013,-0.010,-0.001" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="11.375,-0.010,-0.982" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="62.727,-0.010,5.438" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="8.560,-0.010,9.335" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="44.970,-0.010,2.859" spot_rot="1.000000,0.000000,-0.000000,180.0000"/>
+		<attach name="Stock" spot_pos="-3.635,-0.010,2.859" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.369,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Under" spot_pos="39.330,-0.010,2.859" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SteyrS_Scope"/>
+	</state>
+	<mesh_description id="SteyrS_Scope">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SteyrS_Scope_SteyrS_Scope.m.hgm"/>
+			<material file="Materials/SteyrS_Scope_SteyrS_Scope.mtl"/>
+			<bsphere value="0.357,0.161,2.641,15.872"/>
+			<box min="-15.291,-2.823,-0.396" max="16.005,3.144,5.678"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/leeenfield.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

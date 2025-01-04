@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="PKMDefMuzzle">
+	<state id="idle">
+		<mesh_ref ref="PKMDefMuzzle"/>
+	</state>
+	<mesh_description id="PKMDefMuzzle">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PKMDefMuzzle_PKMDefMuzzle.m.hgm"/>
+			<material file="Materials/PKMDefMuzzle_PKMDefMuzzle.mtl"/>
+			<bsphere value="1.278,-0.015,-0.012,6.728"/>
+			<box min="-5.291,-1.698,-1.694" max="7.847,1.667,1.671"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PKMDone.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

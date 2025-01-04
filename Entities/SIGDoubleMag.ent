@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SIGDoubleMag"/>
+	</state>
+	<mesh_description id="SIGDoubleMag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SIGDoubleMag_SIGDoubleMag.m.hgm"/>
+			<material file="Materials/SIGDoubleMag_SIGDoubleMag.mtl"/>
+			<bsphere value="1.504,-1.424,-2.609,9.433"/>
+			<box min="-2.894,-4.212,-11.011" max="5.901,1.365,5.793"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sig Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

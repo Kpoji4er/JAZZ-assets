@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="MP5Plank"/>
+	</state>
+	<mesh_description id="MP5Plank">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MP5Plank_MP5Plank.m.hgm"/>
+			<material file="Materials/MP5Plank_MP5Plank.mtl"/>
+			<bsphere value="1.230,0.000,1.528,6.867"/>
+			<box min="-5.332,-1.882,-0.041" max="7.792,1.882,3.096"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MP5A2A3.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

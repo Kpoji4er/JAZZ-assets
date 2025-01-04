@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SteyrS_Muzzle_def"/>
+	</state>
+	<mesh_description id="SteyrS_Muzzle_def">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SteyrS_Muzzle_def_SteyrS_Muzzle_def.m.hgm"/>
+			<material file="Materials/SteyrS_Muzzle_def_SteyrS_Muzzle_def.mtl"/>
+			<bsphere value="8.032,-0.023,-0.028,8.368"/>
+			<box min="-0.176,-1.718,-1.778" max="16.239,1.672,1.722"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/leeenfield.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

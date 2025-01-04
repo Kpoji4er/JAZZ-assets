@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Hk23eMag"/>
+	</state>
+	<mesh_description id="Hk23eMag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Hk23eMag_Hk23eMag.m.hgm"/>
+			<material file="Materials/Hk23eMag_Hk23eMag.mtl"/>
+			<bsphere value="0.506,-1.020,-2.536,13.261"/>
+			<box min="-4.228,-10.559,-10.771" max="5.240,8.518,5.699"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Hk23e.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

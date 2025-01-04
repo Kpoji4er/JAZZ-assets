@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Scorpion">
+	<state id="idle">
+		<mesh_ref ref="Scorpion"/>
+	</state>
+	<mesh_description id="Scorpion">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Scorpion_Scorpion.m.hgm"/>
+			<material file="Materials/Scorpion_Scorpion.mtl"/>
+			<bsphere value="11.288,0.000,-1.153,17.002"/>
+			<box min="-4.079,-2.365,-10.582" max="26.655,2.365,8.276"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Scorpion.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_note="Hand_L_Grip" spot_pos="14.113,0.000,-1.180" spot_rot="-0.000000,1.000000,-0.000000,255.1283" spot_scale="93"/>
+		<attach name="Muzzle" spot_pos="26.652,0.000,5.347" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="93"/>
+		<attach name="Stock" spot_pos="-3.598,0.000,5.045" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="93"/>
+	</mesh_description>
+</entity>

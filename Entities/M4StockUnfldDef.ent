@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M4StockUnfldDef"/>
+	</state>
+	<mesh_description id="M4StockUnfldDef">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M4StockUnfldDef_M4StockUnfldDef.m.hgm"/>
+			<material file="Materials/M4StockUnfldDef_M4StockUnfldDef.mtl"/>
+			<bsphere value="-18.700,-0.323,-7.212,11.831"/>
+			<box min="-27.844,-2.634,-14.723" max="-9.555,1.989,0.299"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

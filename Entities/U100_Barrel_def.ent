@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="U100_Barrel_def"/>
+	</state>
+	<mesh_description id="U100_Barrel_def">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/U100_Barrel_def_U100_Barrel_def.m.hgm"/>
+			<material file="Materials/U100_Barrel_def_U100_Barrel_def.mtl"/>
+			<bsphere value="-3.644,0.063,-0.162,23.279"/>
+			<box min="-26.891,-0.992,-1.367" max="19.604,1.119,1.043"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/u100_partsseperated.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="19.605,0.051,0.026" spot_rot="0.000000,0.000000,1.000000,0.0003"/>
+	</mesh_description>
+</entity>

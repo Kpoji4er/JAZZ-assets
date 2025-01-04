@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="MP7_GripUnfld"/>
+	</state>
+	<mesh_description id="MP7_GripUnfld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MP7_GripUnfld_MP7_GripUnfld.m.hgm"/>
+			<material file="Materials/MP7_GripUnfld_MP7_GripUnfld.mtl"/>
+			<bsphere value="0.060,0.000,-3.760,5.284"/>
+			<box min="-1.450,-1.267,-8.794" max="1.571,1.267,1.273"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MP7A1.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="PUOptic"/>
+	</state>
+	<mesh_description id="PUOptic">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PUOptic_PUOptic.m.hgm"/>
+			<material file="Materials/PUOptic_PUOptic.mtl"/>
+			<bsphere value="-1.473,-0.262,-0.829,10.091"/>
+			<box min="-10.577,-3.576,-5.549" max="7.631,3.052,3.892"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Mosin.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

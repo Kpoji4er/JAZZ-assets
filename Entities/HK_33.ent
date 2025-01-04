@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="HK_33"/>
+	</state>
+	<mesh_description id="HK_33">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/HK_33_HK_33.m.hgm"/>
+			<material file="Materials/HK_33_HK_33.mtl"/>
+			<bsphere value="7.977,-0.235,5.662,38.014"/>
+			<box min="-29.681,-2.545,-2.571" max="45.634,2.074,13.894"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/HK_33.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_pos="44.835,0.000,7.223" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Bipod" spot_pos="42.837,-0.046,6.737" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="General" spot_pos="0.000,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_pos="29.744,0.000,7.063" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Handguard" spot_pos="33.514,-0.046,6.737" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="14.315,0.000,3.646" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_pos="10.100,-0.046,9.413" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="7.930,-0.046,11.101" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="35.645,-2.720,6.740" spot_rot="1.000000,-0.000000,-0.000000,90.0000"/>
+		<attach name="Trigger" spot_pos="4.210,0.000,0.105" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

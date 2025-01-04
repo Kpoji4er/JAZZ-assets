@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M45">
+	<state id="idle">
+		<mesh_ref ref="M45"/>
+	</state>
+	<mesh_description id="M45">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M45_M45.m.hgm"/>
+			<material file="Materials/M45_M45.mtl"/>
+			<bsphere value="19.819,0.000,-2.322,26.616"/>
+			<box min="-5.158,-2.920,-13.462" max="44.796,2.920,8.817"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M45.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="44.119,0.000,4.898" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="24.528,0.000,0.574" spot_rot="1.000000,0.000000,-0.000000,180.0000"/>
+		<attach name="Stock" spot_pos="-4.250,0.000,1.708" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="MP5Silencer"/>
+	</state>
+	<mesh_description id="MP5Silencer">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MP5Silencer_MP5Silencer.m.hgm"/>
+			<material file="Materials/MP5Silencer_MP5Silencer.mtl"/>
+			<bsphere value="8.140,0.000,0.000,9.744"/>
+			<box min="-1.463,-1.750,-1.750" max="17.744,1.750,1.750"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MP5A2A3.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

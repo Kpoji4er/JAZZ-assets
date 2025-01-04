@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="SteyrS_Barrel_def">
+	<state id="idle">
+		<mesh_ref ref="SteyrS_Barrel_def"/>
+	</state>
+	<mesh_description id="SteyrS_Barrel_def">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SteyrS_Barrel_def_SteyrS_Barrel_def.m.hgm"/>
+			<material file="Materials/SteyrS_Barrel_def_SteyrS_Barrel_def.mtl"/>
+			<bsphere value="13.561,0.038,0.215,15.574"/>
+			<box min="-1.987,-0.992,-0.928" max="29.109,1.069,1.357"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/leeenfield.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="29.069,0.101,0.037" spot_rot="0.000000,0.000000,1.000000,0.0010"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="SKS">
+	<state id="idle">
+		<mesh_ref ref="SKS"/>
+	</state>
+	<mesh_description id="SKS">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SKS_SKS.m.hgm"/>
+			<material file="Materials/SKS_SKS.mtl"/>
+			<bsphere value="21.665,0.797,0.500,51.121"/>
+			<box min="-29.084,-1.857,-8.634" max="72.415,3.451,9.634"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SKS.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="35.755,0.000,4.803" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="71.686,0.000,5.831" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

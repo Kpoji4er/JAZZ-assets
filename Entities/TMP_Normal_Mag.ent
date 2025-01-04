@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="TMP_Normal_Mag"/>
+	</state>
+	<mesh_description id="TMP_Normal_Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/TMP_Normal_Mag_TMP_Normal_Mag.m.hgm"/>
+			<material file="Materials/TMP_Normal_Mag_TMP_Normal_Mag.mtl"/>
+			<bsphere value="-0.032,0.001,-7.714,5.219"/>
+			<box min="-1.754,-0.856,-12.597" max="1.690,0.857,-2.830"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/TMP.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SVT_40"/>
+	</state>
+	<mesh_description id="SVT_40">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SVT_40_SVT_40.m.hgm"/>
+			<material file="Materials/SVT_40_SVT_40.mtl"/>
+			<bsphere value="32.000,1.118,-0.160,61.328"/>
+			<box min="-29.019,-2.714,-8.936" max="93.018,4.950,8.615"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SVT-40.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="35.460,0.000,4.402" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="18.331,0.000,3.263" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="89.825,-0.001,5.137" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="12.180,-0.001,5.082" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side2" spot_pos="83.181,0.000,3.251" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.509,0.000,-1.546" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="StrikerFold"/>
+	</state>
+	<mesh_description id="StrikerFold">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/StrikerFold_StrikerFold.m.hgm"/>
+			<material file="Materials/StrikerFold_StrikerFold.mtl"/>
+			<bsphere value="20.227,0.162,4.022,23.341"/>
+			<box min="-2.741,-2.812,-0.490" max="43.195,3.136,8.535"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Striker.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

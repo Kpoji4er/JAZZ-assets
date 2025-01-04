@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="MountRailVSS"/>
+	</state>
+	<mesh_description id="MountRailVSS">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MountRailVSS_MountRailVSS.m.hgm"/>
+			<material file="Materials/MountRailVSS_MountRailVSS.mtl"/>
+			<bsphere value="1.600,0.871,3.005,9.548"/>
+			<box min="-6.933,-1.579,-0.663" max="10.132,3.321,6.674"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

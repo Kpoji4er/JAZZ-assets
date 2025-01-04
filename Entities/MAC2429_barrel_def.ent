@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="MAC2429_barrel_def"/>
+	</state>
+	<mesh_description id="MAC2429_barrel_def">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MAC2429_barrel_def_MAC2429_barrel_def.m.hgm"/>
+			<material file="Materials/MAC2429_barrel_def_MAC2429_barrel_def.mtl"/>
+			<bsphere value="23.082,-0.856,-1.131,25.213"/>
+			<box min="-1.919,-3.709,-4.170" max="48.083,1.998,1.908"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Mac2429.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="32.995,-0.224,-2.572" spot_rot="0.000000,0.000000,1.000000,0.0010"/>
+		<attach name="Muzzle" spot_pos="45.822,-0.141,-0.407" spot_rot="0.000000,0.000000,1.000000,0.0010"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SIGHandGripDef"/>
+	</state>
+	<mesh_description id="SIGHandGripDef">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SIGHandGripDef_SIGHandGripDef.m.hgm"/>
+			<material file="Materials/SIGHandGripDef_SIGHandGripDef.mtl"/>
+			<bsphere value="-1.911,0.000,-3.306,6.320"/>
+			<box min="-6.337,-1.335,-8.371" max="2.516,1.336,1.759"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sig Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

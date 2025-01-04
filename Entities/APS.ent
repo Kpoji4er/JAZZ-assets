@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="APS">
+	<state id="idle">
+		<mesh_ref ref="APS"/>
+	</state>
+	<mesh_description id="APS">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/APS_APS.m.hgm"/>
+			<material file="Materials/APS_APS.mtl"/>
+			<bsphere value="6.301,0.347,-1.050,11.643"/>
+			<box min="-3.860,-1.145,-7.868" max="16.463,1.840,5.769"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/APS.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="16.400,0.000,4.028" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

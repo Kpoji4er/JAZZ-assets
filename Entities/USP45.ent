@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="USP45">
+	<state id="idle">
+		<mesh_ref ref="USP45"/>
+	</state>
+	<mesh_description id="USP45">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/USP45_USP45.m.hgm"/>
+			<material file="Materials/USP45_USP45.mtl"/>
+			<bsphere value="5.810,-0.233,-0.808,13.049"/>
+			<box min="-5.224,-1.834,-8.301" max="16.844,1.367,6.685"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/USP45.fbx"/>
+		</lod>
+		<attach name="Mount" spot_pos="13.222,0.000,1.477" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="16.645,0.000,4.898" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="1.389,0.000,7.390" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="14.086,0.000,2.051" spot_rot="1.000000,-0.000000,0.000000,180.0000"/>
+	</mesh_description>
+</entity>

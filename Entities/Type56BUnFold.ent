@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Type56BUnFold">
+	<state id="Unfolded">
+		<mesh_ref ref="Type56BUnFold"/>
+	</state>
+	<mesh_description id="Type56BUnFold">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Type56BUnFold_Type56BUnFold.m.hgm"/>
+			<material file="Materials/Type56BUnFold_Type56BUnFold.mtl"/>
+			<bsphere value="14.812,-0.052,0.260,15.852"/>
+			<box min="-0.989,-0.994,-1.005" max="30.613,0.889,1.524"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

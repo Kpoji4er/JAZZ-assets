@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="VSSWing1"/>
+	</state>
+	<mesh_description id="VSSWing1">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/VSSWing1_VSSWing1.m.hgm"/>
+			<material file="Materials/VSSWing1_VSSWing1.mtl"/>
+			<bsphere value="-0.010,-0.477,-0.334,3.059"/>
+			<box min="-1.614,-2.976,-2.713" max="1.593,2.021,2.045"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M70_GL_Iron_Unfld">
+	<state id="idle">
+		<mesh_ref ref="M70_GL_Iron_Unfld"/>
+	</state>
+	<mesh_description id="M70_GL_Iron_Unfld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M70_GL_Iron_Unfld_M70_GL_Iron_Unfld.m.hgm"/>
+			<material file="Materials/M70_GL_Iron_Unfld_M70_GL_Iron_Unfld.mtl"/>
+			<bsphere value="0.911,0.001,4.063,6.538"/>
+			<box min="-0.947,-1.395,-2.088" max="2.768,1.396,10.213"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M70.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

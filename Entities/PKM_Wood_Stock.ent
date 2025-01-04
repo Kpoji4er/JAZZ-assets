@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="PKM_Wood_Stock">
+	<state id="idle">
+		<mesh_ref ref="PKM_Wood_Stock"/>
+	</state>
+	<mesh_description id="PKM_Wood_Stock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PKM_Wood_Stock_PKM_Wood_Stock.m.hgm"/>
+			<material file="Materials/PKM_Wood_Stock_PKM_Wood_Stock.mtl"/>
+			<bsphere value="-14.699,0.086,-1.815,16.129"/>
+			<box min="-29.484,-2.165,-8.886" max="0.086,2.337,5.256"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PKMCorrect.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

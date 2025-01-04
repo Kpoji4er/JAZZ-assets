@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Viking"/>
+	</state>
+	<mesh_description id="Viking">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Viking_Viking.m.hgm"/>
+			<material file="Materials/Viking_Viking.mtl"/>
+			<bsphere value="4.039,0.000,-0.475,10.469"/>
+			<box min="-4.913,-1.788,-6.440" max="12.991,1.788,5.490"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/viking.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_pos="14.706,-0.016,5.619" spot_rot="-0.000001,-0.000000,-1.000674,0.5222"/>
+		<attach name="Center" spot_pos="5.729,0.043,0.963" spot_rot="0.000000,-0.000000,1.000000,180.0000"/>
+		<attach name="Magazine" spot_pos="-1.871,0.048,-6.997" spot_rot="0.004557,0.999990,0.000000,180.0000" spot_scale="87"/>
+		<attach name="Mount" spot_pos="10.372,0.017,6.976" spot_rot="-0.000001,-0.000000,-1.000674,0.5222"/>
+		<attach name="Muzzle" spot_pos="14.846,-0.014,5.679" spot_rot="-0.000001,-0.000000,-1.000674,0.5222"/>
+		<attach name="Scope" spot_pos="10.192,0.017,6.767" spot_rot="-0.000001,-0.000000,-1.000674,0.5222"/>
+		<attach name="Side" spot_pos="11.096,0.017,2.973" spot_rot="1.000000,-0.000000,-0.000000,180.0000"/>
+		<attach name="Trigger" spot_pos="6.621,-0.357,1.781" spot_rot="0.000000,-0.000000,1.000000,180.0000"/>
+	</mesh_description>
+</entity>

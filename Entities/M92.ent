@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M92">
+	<state id="idle">
+		<mesh_ref ref="M92"/>
+	</state>
+	<mesh_description id="M92">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M92_M92.m.hgm"/>
+			<material file="Materials/M92_M92.mtl"/>
+			<bsphere value="28.298,1.797,1.087,35.706"/>
+			<box min="-6.120,-1.846,-10.929" max="62.715,5.439,13.104"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M95.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="36.385,0.000,6.917" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="15.734,0.000,5.037" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="58.905,0.152,5.975" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-2.165,0.000,3.655" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="5.026,0.000,0.476"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="AKMHandguard"/>
+	</state>
+	<mesh_description id="AKMHandguard">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AKMHandguard_AKMHandguard.m.hgm"/>
+			<material file="Materials/AKMHandguard_AKMHandguard.mtl"/>
+			<bsphere value="-0.025,0.042,-0.878,9.215"/>
+			<box min="-8.286,-1.922,-5.149" max="8.236,2.006,3.393"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

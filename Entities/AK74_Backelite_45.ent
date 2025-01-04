@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="AK74_Backelite_45"/>
+	</state>
+	<mesh_description id="AK74_Backelite_45">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AK74_Backelite_45_AK74_Backelite_45.m.hgm"/>
+			<material file="Materials/AK74_Backelite_45_AK74_Backelite_45.mtl"/>
+			<bsphere value="4.044,-0.183,-11.241,15.572"/>
+			<box min="-4.420,-1.559,-25.243" max="12.509,1.194,2.761"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

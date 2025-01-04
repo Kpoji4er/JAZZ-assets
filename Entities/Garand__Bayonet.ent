@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Garand__Bayonet"/>
+	</state>
+	<mesh_description id="Garand__Bayonet">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Garand__Bayonet_Garand__Bayonet.m.hgm"/>
+			<material file="Materials/Garand__Bayonet_Garand__Bayonet.mtl"/>
+			<bsphere value="4.129,0.046,-3.136,16.594"/>
+			<box min="-12.427,-0.936,-7.213" max="20.684,1.028,0.941"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Garand.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

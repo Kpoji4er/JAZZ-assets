@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="PKM">
+	<state id="idle">
+		<mesh_ref ref="PKM"/>
+	</state>
+	<mesh_description id="PKM">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PKM_PKM.m.hgm"/>
+			<material file="Materials/PKM_PKM.mtl"/>
+			<bsphere value="36.152,-0.658,2.151,47.824"/>
+			<box min="-11.283,-8.800,-8.542" max="83.586,7.484,12.844"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PKMCorrect.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="54.502,-0.092,2.796" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_pos="25.886,-7.153,11.137" spot_rot="-1.000001,-0.000000,-0.000000,35.0000"/>
+		<attach name="Magazine" spot_pos="19.422,-0.092,1.261" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_pos="14.014,-0.092,12.123" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="81.285,-0.122,6.942" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="11.551,-0.092,14.496" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-5.586,-0.092,5.158" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="5.016,0.000,0.269" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

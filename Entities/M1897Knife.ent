@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M1897Knife"/>
+	</state>
+	<mesh_description id="M1897Knife">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1897Knife_M1897Knife.m.hgm"/>
+			<material file="Materials/M1897Knife_M1897Knife.mtl"/>
+			<bsphere value="26.786,0.004,1.088,28.836"/>
+			<box min="-1.932,-2.417,-2.627" max="55.503,2.424,4.802"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1897.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

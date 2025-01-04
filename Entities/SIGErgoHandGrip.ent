@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SIGErgoHandGrip"/>
+	</state>
+	<mesh_description id="SIGErgoHandGrip">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SIGErgoHandGrip_SIGErgoHandGrip.m.hgm"/>
+			<material file="Materials/SIGErgoHandGrip_SIGErgoHandGrip.mtl"/>
+			<bsphere value="-2.816,0.000,-5.111,8.321"/>
+			<box min="-8.143,-1.899,-11.801" max="2.510,1.899,1.580"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sig Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

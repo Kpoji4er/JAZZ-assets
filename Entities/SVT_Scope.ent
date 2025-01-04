@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SVT_Scope"/>
+	</state>
+	<mesh_description id="SVT_Scope">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SVT_Scope_SVT_Scope.m.hgm"/>
+			<material file="Materials/SVT_Scope_SVT_Scope.mtl"/>
+			<bsphere value="-6.209,-0.278,4.014,9.287"/>
+			<box min="-14.968,-2.567,-0.175" max="2.550,2.011,8.203"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SVT-40.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

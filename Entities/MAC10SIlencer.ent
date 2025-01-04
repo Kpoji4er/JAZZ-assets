@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MAC10SIlencer">
+	<state id="idle">
+		<mesh_ref ref="MAC10SIlencer"/>
+	</state>
+	<mesh_description id="MAC10SIlencer">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MAC10SIlencer_MAC10SIlencer.m.hgm"/>
+			<material file="Materials/MAC10SIlencer_MAC10SIlencer.mtl"/>
+			<bsphere value="7.952,-0.079,0.000,11.743"/>
+			<box min="-3.668,-2.384,-2.305" max="19.572,2.226,2.305"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Mac10.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="19.615,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

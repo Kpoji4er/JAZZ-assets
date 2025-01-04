@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="G3Mount"/>
+	</state>
+	<mesh_description id="G3Mount">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G3Mount_G3Mount.m.hgm"/>
+			<material file="Materials/G3Mount_G3Mount.mtl"/>
+			<bsphere value="-0.369,-0.037,2.295,7.060"/>
+			<box min="-6.921,-2.092,-0.103" max="6.183,2.017,4.694"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G3 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

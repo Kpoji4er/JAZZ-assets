@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="G36cDoubleMag"/>
+	</state>
+	<mesh_description id="G36cDoubleMag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G36cDoubleMag_G36cDoubleMag.m.hgm"/>
+			<material file="Materials/G36cDoubleMag_G36cDoubleMag.mtl"/>
+			<bsphere value="1.459,-1.759,-3.504,11.123"/>
+			<box min="-3.628,-5.679,-13.264" max="6.546,2.162,6.256"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G36c.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

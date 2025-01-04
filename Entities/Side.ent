@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Side">
+	<state id="idle">
+		<mesh_ref ref="Side"/>
+	</state>
+	<mesh_description id="Side">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Side_Side.m.hgm"/>
+			<material file="Materials/Side_Side.mtl"/>
+			<bsphere value="-0.195,-1.181,0.228,4.511"/>
+			<box min="-4.066,-2.056,-2.095" max="3.677,-0.306,2.552"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/870.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

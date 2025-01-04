@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Colt1911">
+	<state id="idle">
+		<mesh_ref ref="Colt1911"/>
+	</state>
+	<mesh_description id="Colt1911">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Colt1911_Colt1911.m.hgm"/>
+			<material file="Materials/Colt1911_Colt1911.mtl"/>
+			<bsphere value="6.163,0.000,-1.210,12.595"/>
+			<box min="-4.838,-1.696,-8.090" max="17.163,1.696,5.669"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/1911.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="-1.196,0.470,-5.285" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="17.227,0.000,3.917" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

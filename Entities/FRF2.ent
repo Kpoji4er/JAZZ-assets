@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="FRF2"/>
+	</state>
+	<mesh_description id="FRF2">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/FRF2_FRF2.m.hgm"/>
+			<material file="Materials/FRF2_FRF2.mtl"/>
+			<bsphere value="27.131,0.030,-3.830,57.999"/>
+			<box min="-29.580,-16.284,-19.312" max="83.842,16.344,11.652"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/FRF2.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="31.598,0.000,6.341" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="11.646,0.000,2.647" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="78.224,0.030,7.404" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="12.942,0.000,13.327" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.809,0.000,0.677" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

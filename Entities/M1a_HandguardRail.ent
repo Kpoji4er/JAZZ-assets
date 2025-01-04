@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M1a_HandguardRail"/>
+	</state>
+	<mesh_description id="M1a_HandguardRail">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1a_HandguardRail_M1a_HandguardRail.m.hgm"/>
+			<material file="Materials/M1a_HandguardRail_M1a_HandguardRail.mtl"/>
+			<bsphere value="12.353,-1.068,0.778,18.894"/>
+			<box min="-6.206,-5.054,-1.401" max="30.911,2.919,2.958"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1a.fbx"/>
+		</lod>
+		<attach name="Scope" spot_pos="1.530,0.000,2.728" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

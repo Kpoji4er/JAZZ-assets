@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Garand_Exp_Scope"/>
+	</state>
+	<mesh_description id="Garand_Exp_Scope">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Garand_Exp_Scope_Garand_Exp_Scope.m.hgm"/>
+			<material file="Materials/Garand_Exp_Scope_Garand_Exp_Scope.mtl"/>
+			<bsphere value="-0.861,-0.150,0.410,5.019"/>
+			<box min="-5.529,-2.505,-1.429" max="3.807,2.206,2.249"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Garand.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

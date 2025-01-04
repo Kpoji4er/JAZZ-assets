@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="G3Scope_Rail">
+	<state id="idle">
+		<mesh_ref ref="G3Scope_Rail"/>
+	</state>
+	<mesh_description id="G3Scope_Rail">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G3Scope_Rail_G3Scope_Rail.m.hgm"/>
+			<material file="Materials/G3Scope_Rail_G3Scope_Rail.mtl"/>
+			<bsphere value="0.128,0.613,2.772,10.576"/>
+			<box min="-10.192,-2.383,-0.681" max="10.447,3.610,6.226"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G3 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

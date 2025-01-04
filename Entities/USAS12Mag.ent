@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="USAS12Mag"/>
+	</state>
+	<mesh_description id="USAS12Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/USAS12Mag_USAS12Mag.m.hgm"/>
+			<material file="Materials/USAS12Mag_USAS12Mag.mtl"/>
+			<bsphere value="2.207,0.002,-12.160,14.362"/>
+			<box min="-3.534,-1.386,-25.405" max="7.948,1.391,1.084"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/USAS12.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

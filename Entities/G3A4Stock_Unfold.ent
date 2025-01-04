@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="G3A4Stock_Unfold"/>
+	</state>
+	<mesh_description id="G3A4Stock_Unfold">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G3A4Stock_Unfold_G3A4Stock_Unfold.m.hgm"/>
+			<material file="Materials/G3A4Stock_Unfold_G3A4Stock_Unfold.mtl"/>
+			<bsphere value="-9.697,-0.011,-4.148,16.960"/>
+			<box min="-25.701,-2.480,-10.602" max="6.307,2.458,2.306"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G3 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="AKMFoldStock"/>
+	</state>
+	<mesh_description id="AKMFoldStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AKMFoldStock_AKMFoldStock.m.hgm"/>
+			<material file="Materials/AKMFoldStock_AKMFoldStock.mtl"/>
+			<bsphere value="20.417,0.032,-1.171,19.258"/>
+			<box min="1.234,-3.061,-3.893" max="39.601,3.125,1.551"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Zast_M70_Unfldstk">
+	<state id="idle">
+		<mesh_ref ref="Zast_M70_Unfldstk"/>
+	</state>
+	<mesh_description id="Zast_M70_Unfldstk">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Zast_M70_Unfldstk_Zast_M70_Unfldstk.m.hgm"/>
+			<material file="Materials/Zast_M70_Unfldstk_Zast_M70_Unfldstk.mtl"/>
+			<bsphere value="-13.969,0.001,-3.906,16.643"/>
+			<box min="-29.785,-2.853,-9.973" max="1.847,2.854,2.161"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M70.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

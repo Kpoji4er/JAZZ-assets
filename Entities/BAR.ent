@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="BAR">
+	<state id="idle">
+		<mesh_ref ref="BAR"/>
+	</state>
+	<mesh_description id="BAR">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/BAR_BAR.m.hgm"/>
+			<material file="Materials/BAR_BAR.mtl"/>
+			<bsphere value="28.215,1.473,1.838,51.298"/>
+			<box min="-22.788,-3.996,-7.052" max="79.217,6.943,10.727"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/BAR.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="72.439,0.000,5.344" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_pos="30.733,0.000,4.186" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="79.206,0.022,6.014" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="5.584,0.000,0.295" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="40mm_Frag"/>
+	</state>
+	<mesh_description id="40mm_Frag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/40mm_Frag_40mm_Frag.m.hgm"/>
+			<material file="Materials/40mm_Frag_40mm_Frag.mtl"/>
+			<bsphere value="-0.066,0.084,-0.528,6.706"/>
+			<box min="-2.527,-2.376,-6.762" max="2.396,2.544,5.706"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M79.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

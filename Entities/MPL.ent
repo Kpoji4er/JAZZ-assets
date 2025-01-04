@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MPL">
+	<state id="idle">
+		<mesh_ref ref="MPL"/>
+	</state>
+	<mesh_description id="MPL">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MPL_MPL.m.hgm"/>
+			<material file="Materials/MPL_MPL.mtl"/>
+			<bsphere value="16.157,-0.354,-3.144,22.446"/>
+			<box min="-4.847,-3.032,-16.281" max="37.161,2.324,9.992"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MPL.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="19.700,0.000,4.949" spot_rot="-0.000000,1.000000,0.000000,90.0000"/>
+		<attach name="Muzzle" spot_pos="36.594,0.000,4.183" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-2.926,1.682,4.129" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

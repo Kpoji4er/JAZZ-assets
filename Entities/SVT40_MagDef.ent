@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SVT40_MagDef"/>
+	</state>
+	<mesh_description id="SVT40_MagDef">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SVT40_MagDef_SVT40_MagDef.m.hgm"/>
+			<material file="Materials/SVT40_MagDef_SVT40_MagDef.mtl"/>
+			<bsphere value="0.417,0.000,-4.704,7.145"/>
+			<box min="-4.006,-1.615,-10.599" max="4.839,1.615,1.191"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SVT-40.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

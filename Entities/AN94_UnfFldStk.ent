@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="AN94_UnfFldStk">
+	<state id="idle">
+		<mesh_ref ref="AN94_UnfFldStk"/>
+	</state>
+	<mesh_description id="AN94_UnfFldStk">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AN94_UnfFldStk_AN94_UnfFldStk.m.hgm"/>
+			<material file="Materials/AN94_UnfFldStk_AN94_UnfFldStk.mtl"/>
+			<bsphere value="-13.186,-2.076,-3.148,13.759"/>
+			<box min="-25.726,-4.220,-8.873" max="-0.646,0.068,2.578"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

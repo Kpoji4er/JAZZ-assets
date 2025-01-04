@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="P90Planks"/>
+	</state>
+	<mesh_description id="P90Planks">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P90Planks_P90Planks.m.hgm"/>
+			<material file="Materials/P90Planks_P90Planks.mtl"/>
+			<bsphere value="0.106,0.004,0.031,4.476"/>
+			<box min="-3.905,-2.022,-1.009" max="4.117,2.029,1.071"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P90.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

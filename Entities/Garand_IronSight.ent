@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Garand_IronSight"/>
+	</state>
+	<mesh_description id="Garand_IronSight">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Garand_IronSight_Garand_IronSight.m.hgm"/>
+			<material file="Materials/Garand_IronSight_Garand_IronSight.mtl"/>
+			<bsphere value="1.060,-0.027,0.135,3.290"/>
+			<box min="-1.217,-2.483,-1.389" max="3.337,2.430,1.659"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Garand.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

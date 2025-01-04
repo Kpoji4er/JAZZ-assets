@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="G3Bipod">
+	<state id="folded">
+		<mesh_ref ref="G3Bipod_Fold"/>
+	</state>
+	<state id="idle">
+		<mesh_ref ref="G3Bipod_Unfold"/>
+	</state>
+	<mesh_description id="G3Bipod_Fold">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G3Bipod_G3Bipod_Fold.m.hgm"/>
+			<material file="Materials/G3Bipod_G3Bipod_Fold.mtl"/>
+			<bsphere value="-11.901,0.090,-0.560,12.845"/>
+			<box min="-24.353,-3.359,-1.784" max="0.550,3.539,0.663"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G3 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+	<mesh_description id="G3Bipod_Unfold">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G3Bipod_G3Bipod_Unfold.m.hgm"/>
+			<material file="Materials/G3Bipod_G3Bipod_Unfold.mtl"/>
+			<bsphere value="-0.093,0.108,-10.287,15.629"/>
+			<box min="-0.779,-11.221,-21.237" max="0.593,11.437,0.663"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G3 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

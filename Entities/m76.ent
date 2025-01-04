@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="m76"/>
+	</state>
+	<mesh_description id="m76">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/m76_m76.m.hgm"/>
+			<material file="Materials/m76_m76.mtl"/>
+			<bsphere value="22.139,0.869,2.033,29.146"/>
+			<box min="-5.900,-2.439,-7.910" max="50.178,4.176,11.976"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/m76.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_pos="42.395,0.073,7.295" spot_rot="0.000000,0.000000,1.000000,0.0002"/>
+		<attach name="Center" spot_pos="22.185,0.000,6.642" spot_rot="-0.000014,0.000000,1.000000,180.0000"/>
+		<attach name="Hand_l_grip" spot_pos="29.614,-1.635,7.417" spot_rot="-0.000014,0.000000,1.000000,180.0000"/>
+		<attach name="Magazine" spot_pos="14.878,-0.130,4.083" spot_rot="-0.000014,0.000000,1.000000,180.0000"/>
+		<attach name="Mount" spot_pos="11.400,0.000,13.252" spot_rot="0.000000,0.000000,1.000000,0.0015"/>
+		<attach name="Muzzle" spot_pos="61.901,-0.022,6.850" spot_rot="0.000000,0.000000,1.000000,0.0008"/>
+		<attach name="ToC_Aftermarket_Muzzles" spot_pos="61.901,-0.022,6.850" spot_rot="0.000000,0.000000,1.000000,0.0008"/>
+		<attach name="ToC_Aftermarket_Silencers" spot_pos="61.901,-0.022,6.850" spot_rot="0.000000,0.000000,1.000000,0.0008"/>
+		<attach name="Rail_mount" spot_pos="11.423,0.000,12.477" spot_rot="0.000000,0.000000,1.000000,0.0015"/>
+		<attach name="Scope" spot_pos="8.951,-0.054,11.831" spot_rot="0.000000,0.000000,1.000000,0.0015"/>
+		<attach name="Stock" spot_pos="-4.990,0.000,4.966" spot_rot="0.000000,0.000000,1.000000,0.0015"/>
+		<attach name="Trigger" spot_pos="6.569,-0.589,2.350" spot_rot="-0.000014,0.000000,1.000000,180.0000"/>
+	</mesh_description>
+</entity>

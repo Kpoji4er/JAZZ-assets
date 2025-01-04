@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Striker"/>
+	</state>
+	<mesh_description id="Striker">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Striker_Striker.m.hgm"/>
+			<material file="Materials/Striker_Striker.mtl"/>
+			<bsphere value="23.970,-0.389,0.877,30.954"/>
+			<box min="-5.556,-8.530,-8.619" max="53.496,7.752,10.372"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Striker.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="36.274,-0.325,1.214" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="110"/>
+		<attach name="Muzzle" spot_pos="53.496,-0.390,6.529" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="110"/>
+		<attach name="Stock" spot_pos="-1.713,-0.390,6.529" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="110"/>
+		<attach name="Trigger" spot_pos="6.163,-0.325,1.214" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="110"/>
+	</mesh_description>
+</entity>

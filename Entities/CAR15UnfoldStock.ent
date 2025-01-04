@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="CAR15UnfoldStock"/>
+	</state>
+	<mesh_description id="CAR15UnfoldStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/CAR15UnfoldStock_CAR15UnfoldStock.m.hgm"/>
+			<material file="Materials/CAR15UnfoldStock_CAR15UnfoldStock.mtl"/>
+			<bsphere value="-8.469,0.000,-3.362,10.207"/>
+			<box min="-16.923,-2.107,-9.082" max="-0.015,2.107,2.359"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/CAR15.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

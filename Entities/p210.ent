@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="p210"/>
+	</state>
+	<mesh_description id="p210">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/p210_p210.m.hgm"/>
+			<material file="Materials/p210_p210.mtl"/>
+			<bsphere value="5.174,0.427,-2.199,13.284"/>
+			<box min="-6.342,-1.411,-9.399" max="16.690,2.265,5.001"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P210_alt2.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="16.370,0.427,3.399" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

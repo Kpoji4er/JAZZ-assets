@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MAC2429">
+	<state id="idle">
+		<mesh_ref ref="MAC2429"/>
+	</state>
+	<mesh_description id="MAC2429">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MAC2429_MAC2429.m.hgm"/>
+			<material file="Materials/MAC2429_MAC2429.mtl"/>
+			<bsphere value="21.363,0.715,4.811,25.667"/>
+			<box min="-3.604,-2.778,-6.535" max="46.331,4.207,16.157"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Mac2429.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_pos="31.970,0.080,9.004" spot_rot="0.000000,0.000000,1.000000,0.0002"/>
+		<attach name="Center" spot_pos="23.682,0.001,5.429" spot_rot="-0.000014,0.000000,1.000000,180.0000"/>
+		<attach name="Hand_l_grip" spot_pos="23.181,-1.561,3.526" spot_rot="-0.000014,0.000000,1.000000,180.0000"/>
+		<attach name="Magazine" spot_pos="14.604,-0.141,10.897" spot_rot="-0.000014,0.000000,1.000000,180.0000"/>
+		<attach name="Stock" spot_pos="-3.644,0.001,5.618" spot_rot="0.000000,0.000000,1.000000,0.0015"/>
+		<attach name="Trigger" spot_pos="6.513,-0.948,1.534" spot_rot="-0.000014,0.000000,1.000000,180.0000"/>
+	</mesh_description>
+</entity>

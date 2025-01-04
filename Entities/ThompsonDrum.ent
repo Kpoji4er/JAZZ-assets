@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="ThompsonDrum">
+	<state id="idle">
+		<mesh_ref ref="ThompsonDrum"/>
+	</state>
+	<mesh_description id="ThompsonDrum">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/ThompsonDrum_ThompsonDrum.m.hgm"/>
+			<material file="Materials/ThompsonDrum_ThompsonDrum.mtl"/>
+			<bsphere value="0.827,0.316,-8.270,10.982"/>
+			<box min="-2.709,-10.258,-18.725" max="4.363,10.890,2.185"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1A1_Thompson.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

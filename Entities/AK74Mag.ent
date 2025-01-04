@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="AK74Mag"/>
+	</state>
+	<mesh_description id="AK74Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AK74Mag_AK74Mag.m.hgm"/>
+			<material file="Materials/AK74Mag_AK74Mag.mtl"/>
+			<bsphere value="2.662,0.067,-10.346,12.754"/>
+			<box min="-4.193,-1.303,-21.655" max="9.518,1.436,0.963"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

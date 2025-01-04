@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MP5A4Stock">
+	<state id="idle">
+		<mesh_ref ref="MP5A4Stock"/>
+	</state>
+	<mesh_description id="MP5A4Stock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MP5A4Stock_MP5A4Stock.m.hgm"/>
+			<material file="Materials/MP5A4Stock_MP5A4Stock.mtl"/>
+			<bsphere value="-13.552,-0.185,-2.047,16.383"/>
+			<box min="-28.659,-2.705,-10.114" max="1.554,2.334,6.021"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MP5.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

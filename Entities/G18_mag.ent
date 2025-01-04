@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="G18_mag"/>
+	</state>
+	<mesh_description id="G18_mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G18_mag_G18_mag.m.hgm"/>
+			<material file="Materials/G18_mag_G18_mag.mtl"/>
+			<bsphere value="2.189,0.000,4.725,7.826"/>
+			<box min="-1.682,-1.371,-2.802" max="6.059,1.371,12.252"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G17.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

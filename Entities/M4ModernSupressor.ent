@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M4ModernSupressor"/>
+	</state>
+	<mesh_description id="M4ModernSupressor">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M4ModernSupressor_M4ModernSupressor.m.hgm"/>
+			<material file="Materials/M4ModernSupressor_M4ModernSupressor.mtl"/>
+			<bsphere value="4.676,0.084,-0.031,8.127"/>
+			<box min="-3.261,-2.189,-2.013" max="12.613,2.356,1.951"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

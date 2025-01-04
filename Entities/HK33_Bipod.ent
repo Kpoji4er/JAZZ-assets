@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="HK33_Bipod">
+	<state id="folded">
+		<mesh_ref ref="HK33_Bipod_Folded"/>
+	</state>
+	<state id="idle">
+		<mesh_ref ref="HK33_Bipod_Unfolded"/>
+	</state>
+	<mesh_description id="HK33_Bipod_Folded">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/HK33_Bipod_HK33_Bipod_Folded.m.hgm"/>
+			<material file="Materials/HK33_Bipod_HK33_Bipod_Folded.mtl"/>
+			<bsphere value="-11.777,0.000,0.268,13.395"/>
+			<box min="-24.624,-3.108,-3.520" max="1.070,3.108,4.056"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/HK_33.fbx"/>
+		</lod>
+	</mesh_description>
+	<mesh_description id="HK33_Bipod_Unfolded">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/HK33_Bipod_HK33_Bipod_Unfolded.m.hgm"/>
+			<material file="Materials/HK33_Bipod_HK33_Bipod_Unfolded.mtl"/>
+			<bsphere value="-0.060,0.000,-9.971,20.128"/>
+			<box min="-1.211,-15.556,-23.997" max="1.092,15.556,4.056"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/HK_33.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

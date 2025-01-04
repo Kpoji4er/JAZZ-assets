@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="ValFoldStock"/>
+	</state>
+	<mesh_description id="ValFoldStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/ValFoldStock_ValFoldStock.m.hgm"/>
+			<material file="Materials/ValFoldStock_ValFoldStock.mtl"/>
+			<bsphere value="14.889,-2.979,-2.529,15.768"/>
+			<box min="-0.129,-5.251,-7.952" max="29.907,-0.707,2.894"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

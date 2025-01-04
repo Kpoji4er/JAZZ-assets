@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="U100_muzzle"/>
+	</state>
+	<mesh_description id="U100_muzzle">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/U100_muzzle_U100_muzzle.m.hgm"/>
+			<material file="Materials/U100_muzzle_U100_muzzle.mtl"/>
+			<bsphere value="1.914,0.013,-0.038,2.309"/>
+			<box min="-0.076,-1.278,-1.329" max="3.904,1.304,1.253"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/u100_partsseperated.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M1aGrip_Light">
+	<state id="idle">
+		<mesh_ref ref="M1aGrip_Light"/>
+	</state>
+	<mesh_description id="M1aGrip_Light">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1aGrip_Light_M1aGrip_Light.m.hgm"/>
+			<material file="Materials/M1aGrip_Light_M1aGrip_Light.mtl"/>
+			<bsphere value="1.915,-0.043,-5.388,8.787"/>
+			<box min="-4.989,-2.237,-11.489" max="8.820,2.151,0.714"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1a.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="-2.293,0.000,-5.470" spot_rot="0.000000,-1.000000,0.000000,90.0000"/>
+	</mesh_description>
+</entity>

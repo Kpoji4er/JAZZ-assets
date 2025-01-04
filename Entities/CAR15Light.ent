@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="CAR15Light"/>
+	</state>
+	<mesh_description id="CAR15Light">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/CAR15Light_CAR15Light.m.hgm"/>
+			<material file="Materials/CAR15Light_CAR15Light.mtl"/>
+			<bsphere value="0.445,1.210,-2.204,12.574"/>
+			<box min="-11.545,-3.803,-5.551" max="12.434,6.222,1.142"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/CAR15.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="-1.598,0.000,-2.255" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Ithaca_Rail"/>
+	</state>
+	<mesh_description id="Ithaca_Rail">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Ithaca_Rail_Ithaca_Rail.m.hgm"/>
+			<material file="Materials/Ithaca_Rail_Ithaca_Rail.mtl"/>
+			<bsphere value="0.037,-0.014,0.112,6.161"/>
+			<box min="-6.038,-1.168,-0.367" max="6.112,1.139,0.591"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Ithaca_37.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

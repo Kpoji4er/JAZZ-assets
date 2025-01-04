@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="MP7_FldStk"/>
+	</state>
+	<mesh_description id="MP7_FldStk">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MP7_FldStk_MP7_FldStk.m.hgm"/>
+			<material file="Materials/MP7_FldStk_MP7_FldStk.mtl"/>
+			<bsphere value="13.735,0.000,-3.963,17.578"/>
+			<box min="-3.089,-1.758,-9.064" max="30.559,1.758,1.138"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MP7A1.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

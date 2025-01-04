@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MP5A4Flashlight">
+	<state id="idle">
+		<mesh_ref ref="MP5A4Flashlight"/>
+	</state>
+	<mesh_description id="MP5A4Flashlight">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MP5A4Flashlight_MP5A4Flashlight.m.hgm"/>
+			<material file="Materials/MP5A4Flashlight_MP5A4Flashlight.mtl"/>
+			<bsphere value="4.152,0.000,0.058,4.881"/>
+			<box min="-0.397,-1.769,-1.712" max="8.700,1.769,1.827"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MP5.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

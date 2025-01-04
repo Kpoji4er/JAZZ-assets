@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="PKMDefStock">
+	<state id="idle">
+		<mesh_ref ref="PKMDefStock"/>
+	</state>
+	<mesh_description id="PKMDefStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PKMDefStock_PKMDefStock.m.hgm"/>
+			<material file="Materials/PKMDefStock_PKMDefStock.mtl"/>
+			<bsphere value="-14.546,0.036,-1.653,17.779"/>
+			<box min="-30.915,-2.393,-9.066" max="1.822,2.466,5.760"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PKMDone.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

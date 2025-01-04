@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="PKM_Scope">
+	<state id="idle">
+		<mesh_ref ref="PKM_Scope"/>
+	</state>
+	<mesh_description id="PKM_Scope">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PKM_Scope_PKM_Scope.m.hgm"/>
+			<material file="Materials/PKM_Scope_PKM_Scope.mtl"/>
+			<bsphere value="-0.422,0.231,2.258,5.062"/>
+			<box min="-4.728,-2.067,-0.496" max="3.883,2.528,5.013"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PKMCorrect.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="m76_barrel_def"/>
+	</state>
+	<mesh_description id="m76_barrel_def">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/m76_barrel_def_m76_barrel_def.m.hgm"/>
+			<material file="Materials/m76_barrel_def_m76_barrel_def.mtl"/>
+			<bsphere value="12.414,-0.152,1.197,29.022"/>
+			<box min="-16.491,-2.215,-2.329" max="41.319,1.911,4.723"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/m76.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="35.222,-0.141,-0.260" spot_rot="0.000000,0.000000,1.000000,0.0010"/>
+		<attach name="ToC_Aftermarket_Silencers" spot_pos="35.222,-0.141,-0.260" spot_rot="0.000000,0.000000,1.000000,0.0010"/>
+		<attach name="ToC_Aftermarket_Muzzles" spot_pos="35.222,-0.141,-0.260" spot_rot="0.000000,0.000000,1.000000,0.0010"/>
+	</mesh_description>
+</entity>

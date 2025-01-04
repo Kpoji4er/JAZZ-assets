@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="AK74RecieverGrip"/>
+	</state>
+	<mesh_description id="AK74RecieverGrip">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AK74RecieverGrip_AK74RecieverGrip.m.hgm"/>
+			<material file="Materials/AK74RecieverGrip_AK74RecieverGrip.mtl"/>
+			<bsphere value="-0.013,0.025,0.014,1.654"/>
+			<box min="-0.904,-1.481,-0.881" max="0.877,1.532,0.909"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

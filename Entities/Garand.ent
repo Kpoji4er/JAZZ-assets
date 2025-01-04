@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Garand"/>
+	</state>
+	<mesh_description id="Garand">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Garand_Garand.m.hgm"/>
+			<material file="Materials/Garand_Garand.mtl"/>
+			<bsphere value="25.147,0.871,-0.696,55.259"/>
+			<box min="-29.528,-2.409,-11.051" max="79.822,4.151,9.660"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Garand.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="36.643,0.000,5.209" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="79.829,0.005,6.779" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="6.674,0.150,7.938" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.845,0.000,-1.367" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="DP27_Bipod">
+	<state id="folded">
+		<mesh_ref ref="DP27_FldBip"/>
+	</state>
+	<state id="idle">
+		<mesh_ref ref="DP27_UnfldBip"/>
+	</state>
+	<mesh_description id="DP27_FldBip">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/DP27_Bipod_DP27_FldBip.m.hgm"/>
+			<material file="Materials/DP27_Bipod_DP27_FldBip.mtl"/>
+			<bsphere value="-15.555,0.000,-0.213,16.487"/>
+			<box min="-31.730,-5.603,-1.493" max="0.620,5.604,1.068"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/DP.fbx"/>
+		</lod>
+	</mesh_description>
+	<mesh_description id="DP27_UnfldBip">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/DP27_Bipod_DP27_UnfldBip.m.hgm"/>
+			<material file="Materials/DP27_Bipod_DP27_UnfldBip.mtl"/>
+			<bsphere value="6.771,0.000,-12.702,21.182"/>
+			<box min="-0.985,-16.569,-25.818" max="14.528,16.570,0.413"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/DP.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

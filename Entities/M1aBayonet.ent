@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M1aBayonet"/>
+	</state>
+	<mesh_description id="M1aBayonet">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1aBayonet_M1aBayonet.m.hgm"/>
+			<material file="Materials/M1aBayonet_M1aBayonet.mtl"/>
+			<bsphere value="10.344,0.000,-2.113,12.991"/>
+			<box min="-2.443,-1.110,-5.344" max="23.131,1.110,1.118"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1a.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

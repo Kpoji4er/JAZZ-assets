@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="HK_33_Lower"/>
+	</state>
+	<mesh_description id="HK_33_Lower">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/HK_33_Lower_HK_33_Lower.m.hgm"/>
+			<material file="Materials/HK_33_Lower_HK_33_Lower.mtl"/>
+			<bsphere value="2.209,-0.046,-1.132,10.852"/>
+			<box min="-6.239,-1.473,-7.855" max="10.658,1.381,5.591"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/HK_33.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

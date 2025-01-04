@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="PPS_43_Stk_fld"/>
+	</state>
+	<mesh_description id="PPS_43_Stk_fld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PPS_43_Stk_fld_PPS_43_Stk_fld.m.hgm"/>
+			<material file="Materials/PPS_43_Stk_fld_PPS_43_Stk_fld.mtl"/>
+			<bsphere value="13.381,-0.007,0.973,15.243"/>
+			<box min="-1.680,-3.044,-1.225" max="28.442,3.030,3.171"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PPS-43.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="ValMag20"/>
+	</state>
+	<mesh_description id="ValMag20">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/ValMag20_ValMag20.m.hgm"/>
+			<material file="Materials/ValMag20_ValMag20.mtl"/>
+			<bsphere value="0.996,0.079,-3.647,7.984"/>
+			<box min="-3.464,-1.395,-10.704" max="5.455,1.553,3.410"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

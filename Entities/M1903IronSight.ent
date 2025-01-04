@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M1903IronSight"/>
+	</state>
+	<mesh_description id="M1903IronSight">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1903IronSight_M1903IronSight.m.hgm"/>
+			<material file="Materials/M1903IronSight_M1903IronSight.mtl"/>
+			<bsphere value="-0.055,0.121,2.256,4.449"/>
+			<box min="-0.514,-1.516,-2.060" max="0.404,1.757,6.572"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1903.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

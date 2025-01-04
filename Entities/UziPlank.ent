@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="UziPlank"/>
+	</state>
+	<mesh_description id="UziPlank">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/UziPlank_UziPlank.m.hgm"/>
+			<material file="Materials/UziPlank_UziPlank.mtl"/>
+			<bsphere value="2.225,-0.018,0.615,4.146"/>
+			<box min="-1.712,-1.262,-0.077" max="6.161,1.225,1.308"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/UZI.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="MAC2429_Stock_def"/>
+	</state>
+	<mesh_description id="MAC2429_Stock_def">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MAC2429_Stock_def_MAC2429_Stock_def.m.hgm"/>
+			<material file="Materials/MAC2429_Stock_def_MAC2429_Stock_def.mtl"/>
+			<bsphere value="-12.497,-0.050,-3.278,14.750"/>
+			<box min="-25.035,-1.794,-10.865" max="0.041,1.695,4.308"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Mac2429.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

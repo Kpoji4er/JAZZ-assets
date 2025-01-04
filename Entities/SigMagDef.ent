@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SigMagDef"/>
+	</state>
+	<mesh_description id="SigMagDef">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SigMagDef_SigMagDef.m.hgm"/>
+			<material file="Materials/SigMagDef_SigMagDef.mtl"/>
+			<bsphere value="1.508,-0.091,-2.605,9.320"/>
+			<box min="-2.890,-1.592,-11.007" max="5.905,1.411,5.797"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sig Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

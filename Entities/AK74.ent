@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="AK74">
+	<state id="idle">
+		<mesh_ref ref="AK74"/>
+	</state>
+	<mesh_description id="AK74">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AK74_AK74.m.hgm"/>
+			<material file="Materials/AK74_AK74.mtl"/>
+			<bsphere value="28.562,1.491,2.422,34.632"/>
+			<box min="-4.840,-2.522,-8.624" max="61.965,5.504,13.468"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="42.733,0.050,6.755" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="General" spot_pos="6.836,-0.081,6.084" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_pos="31.296,0.013,7.672" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Handguard" spot_pos="31.296,0.013,8.651" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="14.035,0.013,4.625" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_pos="6.587,0.445,5.657" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="61.433,0.013,7.278" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="5.261,0.145,12.310" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="33.425,0.013,8.641" spot_rot="1.000000,0.000000,0.000000,90.0000"/>
+		<attach name="Side3" spot_pos="19.909,4.001,8.246" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-4.896,0.013,7.397" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.787,0.076,1.136" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Under" spot_pos="48.321,0.013,6.584" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="MP5SmallMag"/>
+	</state>
+	<mesh_description id="MP5SmallMag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MP5SmallMag_MP5SmallMag.m.hgm"/>
+			<material file="Materials/MP5SmallMag_MP5SmallMag.mtl"/>
+			<bsphere value="-0.828,0.023,-1.944,6.100"/>
+			<box min="-3.575,-1.110,-7.561" max="1.918,1.157,3.673"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MP5A2A3.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

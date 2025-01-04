@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M60MagOld">
+	<state id="idle">
+		<mesh_ref ref="M60MagOld"/>
+	</state>
+	<mesh_description id="M60MagOld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M60MagOld_M60MagOld.m.hgm"/>
+			<material file="Materials/M60MagOld_M60MagOld.mtl"/>
+			<bsphere value="-0.416,-7.646,-1.326,12.800"/>
+			<box min="-5.627,-15.791,-10.496" max="4.795,0.498,7.844"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M60Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="RPD_ironsight"/>
+	</state>
+	<mesh_description id="RPD_ironsight">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/RPD_ironsight_RPD_ironsight.m.hgm"/>
+			<material file="Materials/RPD_ironsight_RPD_ironsight.mtl"/>
+			<bsphere value="-0.766,-0.017,0.788,4.775"/>
+			<box min="-5.116,-2.012,-0.110" max="3.584,1.978,1.686"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/RPD.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

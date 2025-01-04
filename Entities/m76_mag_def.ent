@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="m76_mag_def"/>
+	</state>
+	<mesh_description id="m76_mag_def">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/m76_mag_def_m76_mag_def.m.hgm"/>
+			<material file="Materials/m76_mag_def_m76_mag_def.mtl"/>
+			<bsphere value="-0.291,-0.059,-3.080,6.324"/>
+			<box min="-4.782,-1.314,-7.620" max="4.199,1.196,1.461"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/m76.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

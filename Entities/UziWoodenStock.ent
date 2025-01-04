@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="UziWoodenStock"/>
+	</state>
+	<mesh_description id="UziWoodenStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/UziWoodenStock_UziWoodenStock.m.hgm"/>
+			<material file="Materials/UziWoodenStock_UziWoodenStock.mtl"/>
+			<bsphere value="-6.244,-0.383,-7.163,18.472"/>
+			<box min="-23.920,-2.957,-15.354" max="11.433,2.192,1.028"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/UZI.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

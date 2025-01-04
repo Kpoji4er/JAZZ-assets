@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="ASVALUnfoldStock"/>
+	</state>
+	<mesh_description id="ASVALUnfoldStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/ASVALUnfoldStock_ASVALUnfoldStock.m.hgm"/>
+			<material file="Materials/ASVALUnfoldStock_ASVALUnfoldStock.mtl"/>
+			<bsphere value="-13.163,-0.040,-6.287,15.526"/>
+			<box min="-27.686,-1.792,-12.404" max="1.359,1.711,-0.171"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="HK33_MagDef"/>
+	</state>
+	<mesh_description id="HK33_MagDef">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/HK33_MagDef_HK33_MagDef.m.hgm"/>
+			<material file="Materials/HK33_MagDef_HK33_MagDef.mtl"/>
+			<bsphere value="0.905,-0.044,-5.504,9.443"/>
+			<box min="-3.380,-1.454,-14.010" max="5.191,1.366,3.002"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/HK_33.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="AKMUnfoldStock"/>
+	</state>
+	<mesh_description id="AKMUnfoldStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AKMUnfoldStock_AKMUnfoldStock.m.hgm"/>
+			<material file="Materials/AKMUnfoldStock_AKMUnfoldStock.mtl"/>
+			<bsphere value="-10.421,0.032,-5.425,16.478"/>
+			<box min="-25.652,-3.061,-12.438" max="4.810,3.125,1.588"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

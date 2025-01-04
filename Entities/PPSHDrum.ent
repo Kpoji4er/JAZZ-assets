@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="PPSHDrum">
+	<state id="idle">
+		<mesh_ref ref="PPSHDrum"/>
+	</state>
+	<mesh_description id="PPSHDrum">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PPSHDrum_PPSHDrum.m.hgm"/>
+			<material file="Materials/PPSHDrum_PPSHDrum.mtl"/>
+			<bsphere value="0.210,0.257,-1.973,7.157"/>
+			<box min="-2.117,-6.338,-8.896" max="2.537,6.852,4.950"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PPSH.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_note="Hand_L_Grip" spot_pos="1.348,0.874,-4.240" spot_rot="0.000000,1.000000,-0.000000,180.1809"/>
+	</mesh_description>
+</entity>

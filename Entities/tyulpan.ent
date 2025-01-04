@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="tyulpan"/>
+	</state>
+	<mesh_description id="tyulpan">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/tyulpan_tyulpan.m.hgm"/>
+			<material file="Materials/tyulpan_tyulpan.mtl"/>
+			<bsphere value="-2.971,-0.191,-1.103,13.072"/>
+			<box min="-13.025,-3.960,-9.359" max="7.083,3.579,7.152"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

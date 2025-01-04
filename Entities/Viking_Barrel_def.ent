@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Viking_Barrel_def"/>
+	</state>
+	<mesh_description id="Viking_Barrel_def">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Viking_Barrel_def_Viking_Barrel_def.m.hgm"/>
+			<material file="Materials/Viking_Barrel_def_Viking_Barrel_def.mtl"/>
+			<bsphere value="-9.428,-0.080,-0.711,9.741"/>
+			<box min="-19.083,-1.375,-3.151" max="0.226,1.214,1.730"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/viking.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="0.141,0.003,0.060" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

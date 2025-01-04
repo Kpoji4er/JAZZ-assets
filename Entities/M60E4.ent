@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M60E4">
+	<state id="idle">
+		<mesh_ref ref="M60E4"/>
+	</state>
+	<mesh_description id="M60E4">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M60E4_M60E4.m.hgm"/>
+			<material file="Materials/M60E4_M60E4.mtl"/>
+			<bsphere value="24.930,-0.255,5.759,62.711"/>
+			<box min="-37.339,-8.910,-8.611" max="87.199,8.400,20.130"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M60Complex.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="44.304,-0.057,6.988" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="2.429,-3.961,5.540" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_pos="15.361,-0.057,5.386" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="80.563,-0.043,10.242" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="1.289,0.000,16.660"/>
+		<attach name="Side" spot_pos="32.192,-3.390,11.129" spot_rot="1.000000,0.000000,0.000000,180.0000"/>
+		<attach name="Trigger" spot_pos="5.460,-0.028,0.800"/>
+		<attach name="Under" spot_pos="32.724,-0.057,3.568" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

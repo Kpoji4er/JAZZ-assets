@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Spectr_M4_Mag">
+	<state id="idle">
+		<mesh_ref ref="Spectr_M4_Mag"/>
+	</state>
+	<mesh_description id="Spectr_M4_Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Spectr_M4_Mag_Spectr_M4_Mag.m.hgm"/>
+			<material file="Materials/Spectr_M4_Mag_Spectr_M4_Mag.mtl"/>
+			<bsphere value="1.009,0.019,-10.404,10.608"/>
+			<box min="-1.996,-2.174,-20.792" max="4.015,2.212,-0.015"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Spectr M4.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

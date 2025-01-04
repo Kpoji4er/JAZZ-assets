@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Hamvee">
+	<state id="idle">
+		<mesh_ref ref="Hamvee"/>
+	</state>
+	<mesh_description id="Hamvee">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Hamvee_Hamvee.m.hgm"/>
+			<material file="Materials/Hamvee_Hamvee.mtl"/>
+			<bsphere value="-7.994,-4.764,25.673,145.721"/>
+			<box min="-143.410,-73.952,-50.661" max="127.422,64.425,102.007"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Hamvee.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

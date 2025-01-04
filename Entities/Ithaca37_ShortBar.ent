@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Ithaca37_ShortBar">
+	<state id="idle">
+		<mesh_ref ref="Ithaca37_ShortBar"/>
+	</state>
+	<mesh_description id="Ithaca37_ShortBar">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Ithaca37_ShortBar_Ithaca37_ShortBar.m.hgm"/>
+			<material file="Materials/Ithaca37_ShortBar_Ithaca37_ShortBar.mtl"/>
+			<bsphere value="17.908,0.007,-2.845,18.570"/>
+			<box min="-0.213,-2.575,-7.195" max="36.029,2.589,1.505"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Ithaca_37.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="36.075,0.007,0.049" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

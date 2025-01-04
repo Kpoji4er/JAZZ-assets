@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="AR10_Auto"/>
+	</state>
+	<mesh_description id="AR10_Auto">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AR10_Auto_AR10_Auto.m.hgm"/>
+			<material file="Materials/AR10_Auto_AR10_Auto.mtl"/>
+			<bsphere value="14.433,0.068,2.074,45.681"/>
+			<box min="-30.891,-2.640,-8.371" max="59.758,2.776,12.519"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AR-10.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="30.436,0.000,6.175" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_pos="6.859,0.068,10.932" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="59.684,0.068,6.213" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="6.836,0.068,12.984" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.032,0.000,-0.089" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

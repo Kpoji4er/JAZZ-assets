@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Agram2000Silencer">
+	<state id="idle">
+		<mesh_ref ref="Agram2000Silencer"/>
+	</state>
+	<mesh_description id="Agram2000Silencer">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Agram2000Silencer_Agram2000Silencer.m.hgm"/>
+			<material file="Materials/Agram2000Silencer_Agram2000Silencer.mtl"/>
+			<bsphere value="4.143,0.001,0.020,16.897"/>
+			<box min="-12.635,-2.489,-2.471" max="20.920,2.492,2.511"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SimplesColection.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

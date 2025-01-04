@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="UMPScopeRail">
+	<state id="idle">
+		<mesh_ref ref="1"/>
+	</state>
+	<mesh_description id="1">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/UMPScopeRail_1.m.hgm"/>
+			<material file="Materials/UMPScopeRail_1.mtl"/>
+			<bsphere value="0.788,0.433,0.147,7.524"/>
+			<box min="-6.664,-0.633,-0.351" max="8.240,1.499,0.645"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/UMP45.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

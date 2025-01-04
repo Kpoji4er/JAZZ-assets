@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="KSP_58_Bipod"/>
+	</state>
+	<mesh_description id="KSP_58_Bipod">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/KSP_58_Bipod_KSP_58_Bipod.m.hgm"/>
+			<material file="Materials/KSP_58_Bipod_KSP_58_Bipod.mtl"/>
+			<bsphere value="-0.139,-0.015,-12.513,19.765"/>
+			<box min="-2.567,-14.782,-25.945" max="2.289,14.751,0.919"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/KSP 58B.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

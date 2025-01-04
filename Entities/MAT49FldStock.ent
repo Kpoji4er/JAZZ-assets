@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="MAT49FldStock"/>
+	</state>
+	<mesh_description id="MAT49FldStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MAT49FldStock_MAT49FldStock.m.hgm"/>
+			<material file="Materials/MAT49FldStock_MAT49FldStock.mtl"/>
+			<bsphere value="11.358,0.012,-6.321,24.149"/>
+			<box min="-11.914,-2.444,-12.412" max="34.629,2.469,-0.231"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Mat 49.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

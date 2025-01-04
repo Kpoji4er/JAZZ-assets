@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Ithaca37"/>
+	</state>
+	<mesh_description id="Ithaca37">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Ithaca37_Ithaca37.m.hgm"/>
+			<material file="Materials/Ithaca37_Ithaca37.mtl"/>
+			<bsphere value="10.635,-0.009,3.318,10.362"/>
+			<box min="1.474,-2.084,-1.511" max="19.796,2.066,8.146"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Ithaca_37.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_pos="19.816,0.000,6.384" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="General" spot_pos="-26.350,0.000,-8.897" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_pos="40.129,0.000,3.347" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_pos="13.618,0.000,8.165" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="68.213,0.007,6.433" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="14.355,0.000,8.522" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side2" spot_pos="-0.617,0.000,-8.113" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="1.715,0.000,5.959" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.297,0.000,0.035" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

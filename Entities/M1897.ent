@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M1897"/>
+	</state>
+	<mesh_description id="M1897">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1897_M1897.m.hgm"/>
+			<material file="Materials/M1897_M1897.mtl"/>
+			<bsphere value="19.833,-0.761,-1.322,54.231"/>
+			<box min="-33.672,-3.164,-11.529" max="73.338,1.643,8.886"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1897.fbx"/>
+		</lod>
+		<attach name="Hand_l_grid" spot_pos="41.448,-0.761,3.406" spot_rot="-0.000000,-0.000000,0.000000,0.0000" spot_scale="76"/>
+		<attach name="Muzzle" spot_pos="73.327,-0.761,6.393" spot_rot="-0.000000,-0.000000,0.000000,0.0000" spot_scale="76"/>
+		<attach name="Side" spot_pos="62.203,-0.761,0.013" spot_rot="-0.000000,-0.000000,0.000000,0.0000" spot_scale="76"/>
+		<attach name="Trigger" spot_pos="4.789,-0.761,0.013" spot_rot="-0.000000,-0.000000,0.000000,0.0000" spot_scale="76"/>
+	</mesh_description>
+</entity>

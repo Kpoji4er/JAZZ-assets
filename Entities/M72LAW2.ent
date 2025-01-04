@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M72LAW2"/>
+	</state>
+	<mesh_description id="M72LAW2">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M72LAW2_M72LAW2.m.hgm"/>
+			<material file="Materials/M72LAW2_M72LAW2.mtl"/>
+			<bsphere value="-4.118,0.524,8.855,43.977"/>
+			<box min="-46.780,-3.035,-5.952" max="38.544,4.082,23.662"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Panzerschreck.fbx"/>
+		</lod>
+		<attach name="Center" spot_pos="-1.717,0.064,8.947" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="159"/>
+		<attach name="Exhaust" spot_pos="-46.094,-0.049,9.058" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="125"/>
+		<attach name="Hand_l_grip" spot_pos="26.085,-0.567,5.083" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="183"/>
+		<attach name="Holster" spot_pos="-4.288,-0.049,9.120" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="125"/>
+		<attach name="Muzzle" spot_pos="10.870,0.589,9.085" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="67"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M1aMag_Def"/>
+	</state>
+	<mesh_description id="M1aMag_Def">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1aMag_Def_M1aMag_Def.m.hgm"/>
+			<material file="Materials/M1aMag_Def_M1aMag_Def.mtl"/>
+			<bsphere value="0.411,-0.002,-2.671,7.757"/>
+			<box min="-3.678,-1.166,-9.808" max="4.500,1.163,4.465"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1a.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Sig552SWAT"/>
+	</state>
+	<mesh_description id="Sig552SWAT">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Sig552SWAT_Sig552SWAT.m.hgm"/>
+			<material file="Materials/Sig552SWAT_Sig552SWAT.mtl"/>
+			<bsphere value="6.733,0.788,1.672,34.720"/>
+			<box min="-27.203,-1.851,-7.229" max="40.669,3.427,10.573"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sig Complex.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="24.776,0.000,5.139" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Handgrip" spot_pos="-0.136,0.007,0.018" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="11.384,0.065,-0.963" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="38.041,0.000,4.735" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="8.477,0.065,8.627" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.278,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

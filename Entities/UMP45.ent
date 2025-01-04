@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="UMP45">
+	<state id="idle">
+		<mesh_ref ref="UMP45"/>
+	</state>
+	<mesh_description id="UMP45">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/UMP45_UMP45.m.hgm"/>
+			<material file="Materials/UMP45_UMP45.mtl"/>
+			<bsphere value="14.569,-0.085,-2.863,23.470"/>
+			<box min="-6.262,-3.195,-18.396" max="35.400,3.025,12.671"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/UMP45.fbx"/>
+		</lod>
+		<attach name="Mount" spot_note="Mount" spot_pos="8.146,0.000,10.038" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mountfront" spot_note="Mountfront" spot_pos="28.134,0.218,3.384" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mountside" spot_note="Mountside" spot_pos="26.074,0.218,5.842" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="33.552,0.437,5.797" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="8.146,0.458,10.503" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_note="Side" spot_pos="26.074,2.773,5.842" spot_rot="-1.000000,-0.000000,-0.000000,90.0000"/>
+		<attach name="Stock" spot_note="Stock" spot_pos="-4.346,0.000,6.691" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Under" spot_note="Under" spot_pos="28.134,0.218,3.384" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

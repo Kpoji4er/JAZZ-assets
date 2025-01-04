@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="P90MAg"/>
+	</state>
+	<mesh_description id="P90MAg">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P90MAg_P90MAg.m.hgm"/>
+			<material file="Materials/P90MAg_P90MAg.mtl"/>
+			<bsphere value="-1.314,0.122,0.235,13.890"/>
+			<box min="-15.030,-1.914,-1.033" max="12.402,2.157,1.503"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P90.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="PPS_43"/>
+	</state>
+	<mesh_description id="PPS_43">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PPS_43_PPS_43.m.hgm"/>
+			<material file="Materials/PPS_43_PPS_43.mtl"/>
+			<bsphere value="25.362,0.602,-4.125,33.476"/>
+			<box min="-6.667,-3.710,-17.079" max="57.392,4.915,8.828"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/PPS-43.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="54.938,0.039,5.201" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-4.032,0.039,4.414" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.482,0.000,0.442" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

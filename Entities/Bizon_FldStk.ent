@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Bizon_FldStk">
+	<state id="idle">
+		<mesh_ref ref="Bizon_FldStk"/>
+	</state>
+	<mesh_description id="Bizon_FldStk">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Bizon_FldStk_Bizon_FldStk.m.hgm"/>
+			<material file="Materials/Bizon_FldStk_Bizon_FldStk.mtl"/>
+			<bsphere value="11.444,-3.578,-3.093,13.066"/>
+			<box min="-0.592,-5.465,-8.350" max="23.480,-1.691,2.164"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

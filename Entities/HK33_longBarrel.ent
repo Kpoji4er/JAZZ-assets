@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="HK33_longBarrel"/>
+	</state>
+	<mesh_description id="HK33_longBarrel">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/HK33_longBarrel_HK33_longBarrel.m.hgm"/>
+			<material file="Materials/HK33_longBarrel_HK33_longBarrel.mtl"/>
+			<bsphere value="-0.859,-0.047,0.051,27.244"/>
+			<box min="-28.054,-1.674,-1.572" max="26.336,1.580,1.674"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/HK_33.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="21.047,-0.046,0.062" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

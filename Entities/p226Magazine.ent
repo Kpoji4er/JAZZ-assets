@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="p226Magazine">
+	<state id="idle">
+		<mesh_ref ref="p226Magazine"/>
+	</state>
+	<mesh_description id="p226Magazine">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/p226Magazine_p226Magazine.m.hgm"/>
+			<material file="Materials/p226Magazine_p226Magazine.mtl"/>
+			<bsphere value="-0.390,0.000,-2.076,6.688"/>
+			<box min="-3.289,-1.246,-7.973" max="2.509,1.246,3.822"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/p226.fbx"/>
+		</lod>
+		<attach name="Magazine" spot_pos="-0.474,0.000,0.022" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

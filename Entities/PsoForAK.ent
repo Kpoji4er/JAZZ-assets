@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="PsoForAK"/>
+	</state>
+	<mesh_description id="PsoForAK">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PsoForAK_PsoForAK.m.hgm"/>
+			<material file="Materials/PsoForAK_PsoForAK.mtl"/>
+			<bsphere value="-3.904,-0.399,-1.056,17.280"/>
+			<box min="-20.191,-4.159,-7.929" max="12.383,3.361,5.817"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M92_Mag">
+	<state id="idle">
+		<mesh_ref ref="M92_Mag"/>
+	</state>
+	<mesh_description id="M92_Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M92_Mag_M92_Mag.m.hgm"/>
+			<material file="Materials/M92_Mag_M92_Mag.mtl"/>
+			<bsphere value="3.779,0.151,-11.525,13.691"/>
+			<box min="-4.768,-1.278,-23.039" max="12.326,1.581,-0.010"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M95.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

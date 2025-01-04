@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="VALMagSmall"/>
+	</state>
+	<mesh_description id="VALMagSmall">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/VALMagSmall_VALMagSmall.m.hgm"/>
+			<material file="Materials/VALMagSmall_VALMagSmall.mtl"/>
+			<bsphere value="0.490,0.080,-1.292,6.218"/>
+			<box min="-3.458,-1.444,-6.516" max="4.437,1.603,3.931"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

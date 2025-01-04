@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Kobra"/>
+	</state>
+	<mesh_description id="Kobra">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Kobra_Kobra.m.hgm"/>
+			<material file="Materials/Kobra_Kobra.mtl"/>
+			<bsphere value="0.059,-0.704,-3.235,10.093"/>
+			<box min="-7.329,-3.247,-10.001" max="7.447,1.839,3.531"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

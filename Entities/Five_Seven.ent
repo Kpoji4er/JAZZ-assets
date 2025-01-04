@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Five_Seven"/>
+	</state>
+	<mesh_description id="Five_Seven">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Five_Seven_Five_Seven.m.hgm"/>
+			<material file="Materials/Five_Seven_Five_Seven.mtl"/>
+			<bsphere value="5.770,0.003,-0.669,12.976"/>
+			<box min="-5.083,-1.884,-8.311" max="16.623,1.891,6.973"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/5.7.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="16.547,0.000,4.870" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="12.875,0.000,2.413" spot_rot="1.000000,0.000000,-0.000000,180.0000"/>
+		<attach name="Trigger" spot_pos="4.777,0.000,0.301" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

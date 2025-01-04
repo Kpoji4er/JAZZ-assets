@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="R870">
+	<state id="idle">
+		<mesh_ref ref="R870"/>
+	</state>
+	<mesh_description id="R870">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/R870_R870.m.hgm"/>
+			<material file="Materials/R870_R870.mtl"/>
+			<bsphere value="20.273,-0.760,-1.578,48.261"/>
+			<box min="-27.250,-3.730,-10.606" max="67.795,2.211,7.450"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/870.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="39.422,0.000,3.014" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="115"/>
+		<attach name="Mount" spot_pos="14.651,-0.368,7.203" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="115"/>
+		<attach name="Muzzle" spot_pos="67.685,0.000,5.752" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="115"/>
+		<attach name="Scope" spot_pos="14.651,0.000,7.986" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="49.152,0.003,0.747" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side2" spot_pos="13.222,-1.645,4.616" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="115"/>
+		<attach name="Trigger" spot_pos="6.908,0.000,0.063" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="115"/>
+	</mesh_description>
+</entity>

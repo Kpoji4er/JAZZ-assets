@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SVU"/>
+	</state>
+	<mesh_description id="SVU">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SVU_SVU.m.hgm"/>
+			<material file="Materials/SVU_SVU.mtl"/>
+			<bsphere value="8.710,0.877,2.367,45.285"/>
+			<box min="-35.908,-2.601,-7.314" max="53.328,4.355,12.048"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+		<attach name="Bipod" spot_pos="32.797,0.000,2.902" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_pos="16.469,0.000,3.266" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="-13.622,0.000,2.109" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_pos="2.623,-2.260,4.602" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="53.284,0.000,4.915" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="2.885,-0.070,11.192" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.588,0.000,0.258" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

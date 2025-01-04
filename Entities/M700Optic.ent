@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="M700Optic"/>
+	</state>
+	<mesh_description id="M700Optic">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M700Optic_M700Optic.m.hgm"/>
+			<material file="Materials/M700Optic_M700Optic.mtl"/>
+			<bsphere value="5.604,0.000,2.697,19.077"/>
+			<box min="-13.262,-2.686,-0.203" max="24.471,2.686,5.597"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M700.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

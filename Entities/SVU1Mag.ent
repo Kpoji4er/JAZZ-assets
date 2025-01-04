@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SVU1Mag"/>
+	</state>
+	<mesh_description id="SVU1Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SVU1Mag_SVU1Mag.m.hgm"/>
+			<material file="Materials/SVU1Mag_SVU1Mag.mtl"/>
+			<bsphere value="0.106,0.001,-4.403,7.200"/>
+			<box min="-4.522,-1.574,-10.076" max="4.734,1.576,1.269"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

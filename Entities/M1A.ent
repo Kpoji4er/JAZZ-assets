@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M1A">
+	<state id="idle">
+		<mesh_ref ref="M1A"/>
+	</state>
+	<mesh_description id="M1A">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M1A_M1A.m.hgm"/>
+			<material file="Materials/M1A_M1A.mtl"/>
+			<bsphere value="12.447,-0.043,-0.850,41.053"/>
+			<box min="-27.795,-2.612,-9.249" max="52.689,2.526,7.548"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1a.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_pos="53.267,0.000,6.394" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="General" spot_pos="22.565,-0.043,5.470" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="15.689,0.000,1.305" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mountfront" spot_pos="37.420,0.000,2.124" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-16.528,-0.043,0.271" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.621,0.000,-0.913" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

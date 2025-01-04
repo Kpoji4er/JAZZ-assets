@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Sterling_UnfldStk">
+	<state id="idle">
+		<mesh_ref ref="Sterling_UnfldStk"/>
+	</state>
+	<mesh_description id="Sterling_UnfldStk">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Sterling_UnfldStk_Sterling_UnfldStk.m.hgm"/>
+			<material file="Materials/Sterling_UnfldStk_Sterling_UnfldStk.mtl"/>
+			<bsphere value="-17.169,0.058,-5.917,19.391"/>
+			<box min="-35.473,-2.016,-12.640" max="1.135,2.131,0.805"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sterling_SMG.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

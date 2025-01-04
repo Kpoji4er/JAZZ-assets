@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="USAS12"/>
+	</state>
+	<mesh_description id="USAS12">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/USAS12_USAS12.m.hgm"/>
+			<material file="Materials/USAS12_USAS12.mtl"/>
+			<bsphere value="16.978,1.692,4.611,51.644"/>
+			<box min="-33.878,-2.423,-8.695" max="67.835,5.806,17.917"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/USAS12.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="33.553,0.059,7.924" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="14.774,0.059,4.879" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="67.835,0.059,7.236" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="3.988,0.059,0.134" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

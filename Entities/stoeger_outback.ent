@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="stoeger_outback"/>
+	</state>
+	<mesh_description id="stoeger_outback">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/stoeger_outback_stoeger_outback.m.hgm"/>
+			<material file="Materials/stoeger_outback_stoeger_outback.mtl"/>
+			<bsphere value="12.727,0.000,-1.651,42.490"/>
+			<box min="-28.988,-1.750,-10.591" max="54.443,1.750,7.289"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Stoeger_outback.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="54.494,0.000,5.520" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.017,0.000,-0.792" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

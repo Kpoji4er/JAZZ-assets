@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Ithaca37_NoStock"/>
+	</state>
+	<mesh_description id="Ithaca37_NoStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Ithaca37_NoStock_Ithaca37_NoStock.m.hgm"/>
+			<material file="Materials/Ithaca37_NoStock_Ithaca37_NoStock.mtl"/>
+			<bsphere value="-2.867,-0.018,-7.018,9.132"/>
+			<box min="-7.473,-2.790,-15.974" max="1.739,2.755,1.938"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Ithaca_37.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

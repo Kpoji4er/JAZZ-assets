@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M60E3HandGrip">
+	<state id="idle">
+		<mesh_ref ref="M60E3HandGrip"/>
+	</state>
+	<mesh_description id="M60E3HandGrip">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M60E3HandGrip_M60E3HandGrip.m.hgm"/>
+			<material file="Materials/M60E3HandGrip_M60E3HandGrip.mtl"/>
+			<bsphere value="15.076,-0.053,-4.524,16.700"/>
+			<box min="-0.017,-2.324,-12.157" max="30.168,2.218,3.109"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M60Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

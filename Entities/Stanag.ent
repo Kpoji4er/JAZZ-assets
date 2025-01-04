@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Stanag"/>
+	</state>
+	<mesh_description id="Stanag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Stanag_Stanag.m.hgm"/>
+			<material file="Materials/Stanag_Stanag.mtl"/>
+			<bsphere value="1.319,-0.164,-3.920,11.252"/>
+			<box min="-3.458,-1.594,-14.342" max="6.096,1.266,6.503"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/CAR15.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

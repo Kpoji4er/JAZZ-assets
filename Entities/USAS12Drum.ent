@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="USAS12Drum"/>
+	</state>
+	<mesh_description id="USAS12Drum">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/USAS12Drum_USAS12Drum.m.hgm"/>
+			<material file="Materials/USAS12Drum_USAS12Drum.mtl"/>
+			<bsphere value="-0.034,0.077,-7.568,9.797"/>
+			<box min="-4.254,-8.859,-16.163" max="4.186,9.013,1.027"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/USAS12.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

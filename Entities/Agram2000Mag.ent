@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Agram2000Mag">
+	<state id="idle">
+		<mesh_ref ref="Agram2000Mag"/>
+	</state>
+	<mesh_description id="Agram2000Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Agram2000Mag_Agram2000Mag.m.hgm"/>
+			<material file="Materials/Agram2000Mag_Agram2000Mag.mtl"/>
+			<bsphere value="1.876,0.000,-6.776,13.201"/>
+			<box min="-2.764,-1.391,-19.364" max="6.517,1.391,5.812"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SimplesColection.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

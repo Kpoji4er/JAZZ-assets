@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="p220">
+	<state id="idle">
+		<mesh_ref ref="P220"/>
+	</state>
+	<mesh_description id="P220">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P220_P220.m.hgm"/>
+			<material file="Materials/P220_P220.mtl"/>
+			<bsphere value="5.189,-0.042,-1.382,12.364"/>
+			<box min="-5.395,-1.435,-8.384" max="15.773,1.352,5.620"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/p220.fbx"/>
+		</lod>
+		<attach name="Mount" spot_pos="11.136,0.000,1.381" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="15.573,0.000,4.212" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="11.148,0.000,1.182" spot_rot="1.000000,0.000000,-0.000000,180.0000"/>
+	</mesh_description>
+	<mesh_description id="p220">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/p220_p220.m.hgm"/>
+			<material file="Materials/p220_p220.mtl"/>
+			<bsphere value="5.756,0.000,-0.585,11.571"/>
+			<box min="-4.244,-1.385,-6.917" max="15.756,1.385,5.747"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/p220.fbx"/>
+		</lod>
+		<attach name="Mount" spot_pos="11.136,0.000,1.381"/>
+		<attach name="Muzzle" spot_pos="15.102,0.000,4.437"/>
+		<attach name="Side" spot_pos="11.148,0.000,1.182" spot_rot="1.000000,-0.000000,0.000000,180.0000"/>
+	</mesh_description>
+</entity>

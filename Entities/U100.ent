@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="U100"/>
+	</state>
+	<mesh_description id="U100">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/U100_U100.m.hgm"/>
+			<material file="Materials/U100_U100.mtl"/>
+			<bsphere value="14.724,-0.630,2.659,28.264"/>
+			<box min="-12.742,-3.524,-6.835" max="42.190,2.264,12.153"/>
+			<src file="C:/Users/Archimedes/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/u100_partsseperated.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_pos="45.179,-0.146,6.993" spot_rot="0.000000,0.000000,1.000000,0.0016"/>
+		<attach name="Center" spot_pos="15.659,0.001,6.849" spot_rot="-0.000024,0.000000,1.000000,180.0000"/>
+		<attach name="Bipod" spot_pos="35.833,-0.176,5.261" spot_rot="-0.000024,0.000000,1.000000,180.0000"/>
+		<attach name="Hand_l_grip" spot_pos="25.815,-1.192,-0.833" spot_rot="-0.000024,0.000000,1.000000,180.0000"/>
+		<attach name="Magazine" spot_pos="11.846,-0.141,5.321" spot_rot="-0.000024,0.000000,1.000000,180.0000"/>
+		<attach name="Mountfront" spot_pos="34.195,1.278,10.438" spot_rot="-0.000024,0.000000,1.000000,180.0000"/>
+		<attach name="Mountside" spot_pos="28.756,-1.594,8.770" spot_rot="-0.000024,0.000000,1.000000,180.0000"/>
+		<attach name="Rail_mount" spot_pos="7.614,0.001,10.407" spot_rot="-0.000024,0.000000,1.000000,180.0000"/>
+		<attach name="Scope" spot_pos="7.614,0.001,9.724" spot_rot="-0.000024,0.000000,1.000000,180.0000"/>
+		<attach name="Scope" spot_pos="7.614,0.001,10.356" spot_rot="-0.000024,0.000000,1.000000,180.0000"/>
+		<attach name="Stock" spot_pos="-10.516,-0.049,6.120" spot_rot="0.000000,0.000000,1.000000,0.0004"/>
+		<attach name="Trigger" spot_pos="6.725,-0.948,2.168" spot_rot="-0.000024,0.000000,1.000000,180.0000"/>
+	</mesh_description>
+</entity>

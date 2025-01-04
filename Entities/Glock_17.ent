@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Glock_17">
+	<state id="idle">
+		<mesh_ref ref="Glock_17"/>
+	</state>
+	<mesh_description id="Glock_17">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Glock_17_Glock_17.m.hgm"/>
+			<material file="Materials/Glock_17_Glock_17.mtl"/>
+			<bsphere value="5.029,-0.043,-1.249,12.833"/>
+			<box min="-6.028,-1.680,-8.378" max="16.086,1.595,5.880"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G17.fbx"/>
+		</lod>
+		<attach name="Magazine" spot_pos="-2.744,-0.014,-8.376" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="15.916,-0.014,4.173" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_pos="0.147,-0.014,5.424" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="13.196,-0.014,1.586" spot_rot="1.000000,0.000000,-0.000000,180.0000"/>
+		<attach name="Trigger" spot_pos="4.909,0.000,0.231" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

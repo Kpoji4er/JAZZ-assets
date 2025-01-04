@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SIGdefFldStock"/>
+	</state>
+	<mesh_description id="SIGdefFldStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SIGdefFldStock_SIGdefFldStock.m.hgm"/>
+			<material file="Materials/SIGdefFldStock_SIGdefFldStock.mtl"/>
+			<bsphere value="12.619,3.277,-2.044,14.199"/>
+			<box min="0.165,1.267,-9.747" max="25.073,5.287,5.659"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Sig Complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

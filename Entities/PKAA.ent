@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="PKAA"/>
+	</state>
+	<mesh_description id="PKAA">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/PKAA_PKAA.m.hgm"/>
+			<material file="Materials/PKAA_PKAA.mtl"/>
+			<bsphere value="-0.607,-0.707,-1.048,9.812"/>
+			<box min="-6.785,-3.965,-9.013" max="5.570,2.552,6.917"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AK complex.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

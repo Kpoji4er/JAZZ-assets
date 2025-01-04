@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Grease_Stock_unfld"/>
+	</state>
+	<mesh_description id="Grease_Stock_unfld">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Grease_Stock_Unfld_Grease_Stock_unfld.m.hgm"/>
+			<material file="Materials/Grease_Stock_Unfld_Grease_Stock_unfld.mtl"/>
+			<bsphere value="-9.277,0.000,-4.504,14.893"/>
+			<box min="-23.310,-1.952,-9.236" max="4.756,1.951,0.227"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/GreaseGun.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

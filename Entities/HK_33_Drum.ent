@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="HK_33_Drum"/>
+	</state>
+	<mesh_description id="HK_33_Drum">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/HK_33_Drum_HK_33_Drum.m.hgm"/>
+			<material file="Materials/HK_33_Drum_HK_33_Drum.mtl"/>
+			<bsphere value="-0.821,-0.046,-2.235,10.400"/>
+			<box min="-4.354,-9.916,-7.280" max="2.712,9.824,2.810"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/HK_33.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

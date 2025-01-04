@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="THOMPSON_SMG">
+	<state id="LOD1">
+		<mesh_ref ref="THOMPSON_SMG_LOD1"/>
+	</state>
+	<state id="idle">
+		<mesh_ref ref="THOMPSON_SMG"/>
+	</state>
+	<mesh_description id="THOMPSON_SMG">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/THOMPSON_SMG_THOMPSON_SMG.m.hgm"/>
+			<material file="Materials/THOMPSON_SMG_THOMPSON_SMG.mtl"/>
+			<bsphere value="0.913,-0.007,-2.325,42.129"/>
+			<box min="-39.780,-2.860,-14.787" max="41.606,2.845,10.136"/>
+			<src file="C:/Users/DESKTOP/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1A1_Thompson.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="28.206,-0.007,4.388" spot_scale="82"/>
+		<attach name="Magazine" spot_pos="10.236,0.060,3.681" spot_scale="82"/>
+		<attach name="Muzzle" spot_pos="41.576,-0.007,6.328" spot_scale="82"/>
+	</mesh_description>
+	<mesh_description id="THOMPSON_SMG_LOD1">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/THOMPSON_SMG_THOMPSON_SMG_LOD1.m.hgm"/>
+			<material file="Materials/THOMPSON_SMG_THOMPSON_SMG_LOD1.mtl"/>
+			<bsphere value="0.914,-0.007,-2.325,42.079"/>
+			<box min="-39.780,-2.860,-14.787" max="41.607,2.845,10.136"/>
+			<src file="C:/Users/DESKTOP/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M1A1_Thompson.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

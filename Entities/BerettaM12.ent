@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="BerettaM12">
+	<state id="idle">
+		<mesh_ref ref="BerettaM12"/>
+	</state>
+	<mesh_description id="BerettaM12">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/BerettaM12_BerettaM12.m.hgm"/>
+			<material file="Materials/BerettaM12_BerettaM12.mtl"/>
+			<bsphere value="11.909,-0.920,1.653,22.825"/>
+			<box min="-9.926,-3.866,-7.567" max="33.745,2.027,10.873"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SimplesColection.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_pos="22.103,0.000,0.328" spot_rot="-0.000000,1.000000,-0.000000,140.3906"/>
+		<attach name="Magazine" spot_pos="11.243,0.000,-1.118" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_pos="33.742,0.001,6.644" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_pos="-9.888,0.000,6.723" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Trigger" spot_pos="4.941,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

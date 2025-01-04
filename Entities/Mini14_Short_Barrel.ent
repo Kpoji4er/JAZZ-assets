@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Mini14_Short_Barrel">
+	<state id="idle">
+		<mesh_ref ref="Mini14_Short_Barrel"/>
+	</state>
+	<mesh_description id="Mini14_Short_Barrel">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Mini14_Short_Barrel_Mini14_Short_Barrel.m.hgm"/>
+			<material file="Materials/Mini14_Short_Barrel_Mini14_Short_Barrel.mtl"/>
+			<bsphere value="13.348,0.000,-0.022,14.657"/>
+			<box min="-1.280,-1.084,-2.869" max="27.975,1.084,2.825"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Mini-14.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="24.089,0.000,0.000"/>
+	</mesh_description>
+</entity>

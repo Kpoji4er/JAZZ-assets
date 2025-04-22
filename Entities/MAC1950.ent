@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MAC1950">
+	<state id="idle">
+		<mesh_ref ref="MAC1950"/>
+	</state>
+	<mesh_description id="MAC1950">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MAC1950_MAC1950.m.hgm"/>
+			<material file="Materials/MAC1950_MAC1950.mtl"/>
+			<bsphere value="5.494,0.000,-2.044,11.845"/>
+			<box min="-4.206,-1.277,-9.454" max="15.194,1.277,5.365"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MAC1950.fbx"/>
+		</lod>
+		<attach name="Mount" spot_note="Mount" spot_pos="10.953,-0.031,1.319" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="15.214,-0.103,3.618" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_note="Side" spot_pos="11.269,0.031,0.990" spot_rot="1.000000,-0.000000,0.000000,180.0000"/>
+	</mesh_description>
+</entity>

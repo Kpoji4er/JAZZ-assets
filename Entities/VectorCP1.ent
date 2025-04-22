@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="VectorCP1"/>
+	</state>
+	<mesh_description id="VectorCP1">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/VectorCP1_VectorCP1.m.hgm"/>
+			<material file="Materials/VectorCP1_VectorCP1.mtl"/>
+			<bsphere value="5.331,0.000,-1.688,12.727"/>
+			<box min="-5.011,-1.661,-9.769" max="15.673,1.661,6.393"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="15.483,-0.103,4.653" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

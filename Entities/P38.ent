@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="P38">
+	<state id="idle">
+		<mesh_ref ref="P38"/>
+	</state>
+	<mesh_description id="P38">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P38_P38.m.hgm"/>
+			<material file="Materials/P38_P38.mtl"/>
+			<bsphere value="2.843,-0.018,-0.764,9.545"/>
+			<box min="-4.558,-1.650,-7.277" max="10.244,1.614,5.749"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/p382.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="9.889,0.216,4.686" spot_rot="1.000000,0.000000,-0.000000,180.0000" spot_scale="87"/>
+	</mesh_description>
+</entity>

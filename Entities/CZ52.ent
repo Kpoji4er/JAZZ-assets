@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="CZ52">
+	<state id="idle">
+		<mesh_ref ref="CZ52"/>
+	</state>
+	<mesh_description id="CZ52">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/CZ52_CZ52.m.hgm"/>
+			<material file="Materials/CZ52_CZ52.mtl"/>
+			<bsphere value="5.950,0.199,-1.229,12.597"/>
+			<box min="-4.884,-1.199,-8.553" max="16.784,1.598,6.094"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/CZ52.fbx"/>
+		</lod>
+		<attach name="Mount" spot_note="Mount" spot_pos="12.478,0.218,2.444" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="16.530,-0.103,4.653" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_note="Side" spot_pos="13.899,0.247,2.147" spot_rot="1.000000,0.000000,-0.000000,180.0000"/>
+	</mesh_description>
+</entity>

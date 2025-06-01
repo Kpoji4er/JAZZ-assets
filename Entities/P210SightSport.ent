@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="P210SightSport"/>
+	</state>
+	<mesh_description id="P210SightSport">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P210SightSport_P210SightSport.m.hgm"/>
+			<material file="Materials/P210SightSport_P210SightSport.mtl"/>
+			<bsphere value="-0.179,0.117,-0.093,1.378"/>
+			<box min="-1.270,-0.700,-0.478" max="0.911,0.934,0.293"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P210.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="P226MuzzleSil"/>
+	</state>
+	<mesh_description id="P226MuzzleSil">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P226MuzzleSil_P226MuzzleSil.m.hgm"/>
+			<material file="Materials/P226MuzzleSil_P226MuzzleSil.mtl"/>
+			<bsphere value="11.328,0.029,0.032,11.617"/>
+			<box min="-0.129,-2.135,-2.120" max="22.785,2.193,2.183"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P226_HGMAT.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

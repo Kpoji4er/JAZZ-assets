@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="P226Reflex"/>
+	</state>
+	<mesh_description id="P226Reflex">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P226Reflex_P226Reflex.m.hgm"/>
+			<material file="Materials/P226Reflex_P226Reflex.mtl"/>
+			<bsphere value="-0.337,-0.092,1.229,3.718"/>
+			<box min="-3.214,-1.869,-0.575" max="2.540,1.684,3.033"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P226_HGMAT.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

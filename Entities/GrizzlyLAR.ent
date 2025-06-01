@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="GrizzlyLAR">
+	<state id="idle">
+		<mesh_ref ref="GrizzlyLAR"/>
+	</state>
+	<mesh_description id="GrizzlyLAR">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/GrizzlyLAR_GrizzlyLAR.m.hgm"/>
+			<material file="Materials/GrizzlyLAR_GrizzlyLAR.mtl"/>
+			<bsphere value="7.382,-0.084,-0.889,13.211"/>
+			<box min="-4.648,-1.569,-7.209" max="19.413,1.402,5.431"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/GrizzlyLAR.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="19.218,-0.003,3.435" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

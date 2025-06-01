@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Welrod"/>
+	</state>
+	<mesh_description id="Welrod">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Welrod_Welrod.m.hgm"/>
+			<material file="Materials/Welrod_Welrod.mtl"/>
+			<bsphere value="8.261,0.929,-1.418,18.568"/>
+			<box min="-9.095,-0.891,-8.711" max="25.618,2.750,5.875"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Welrod.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="24.976,1.097,3.621" spot_rot="-0.030536,-0.830315,0.556420,1.3791"/>
+	</mesh_description>
+</entity>

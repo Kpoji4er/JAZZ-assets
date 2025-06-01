@@ -7,10 +7,12 @@
 		<lod idx="0" distance="0">
 			<mesh file="Meshes/APS_APS.m.hgm"/>
 			<material file="Materials/APS_APS.mtl"/>
-			<bsphere value="6.301,0.347,-1.050,11.643"/>
-			<box min="-3.860,-1.145,-7.868" max="16.463,1.840,5.769"/>
+			<bsphere value="6.544,-0.198,-1.147,12.937"/>
+			<box min="-4.575,-1.847,-8.593" max="17.664,1.451,6.300"/>
 			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/APS.fbx"/>
 		</lod>
-		<attach name="Muzzle" spot_pos="16.400,0.000,4.028" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="17.462,-0.103,4.636" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="17.413,-0.103,4.693" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_note="Stock" spot_pos="-3.806,0.000,-7.107" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
 	</mesh_description>
 </entity>

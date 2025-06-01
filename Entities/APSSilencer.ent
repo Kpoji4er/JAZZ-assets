@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="APSSilencer"/>
+	</state>
+	<mesh_description id="APSSilencer">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/APSSilencer_APSSilencer.m.hgm"/>
+			<material file="Materials/APSSilencer_APSSilencer.mtl"/>
+			<bsphere value="7.610,0.103,-0.820,10.805"/>
+			<box min="-3.044,-1.719,-2.680" max="18.265,1.925,1.039"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/APS.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

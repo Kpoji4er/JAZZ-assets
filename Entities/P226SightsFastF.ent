@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="P226SightsFastF"/>
+	</state>
+	<mesh_description id="P226SightsFastF">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P226SightsFastF_P226SightsFastF.m.hgm"/>
+			<material file="Materials/P226SightsFastF_P226SightsFastF.mtl"/>
+			<bsphere value="0.087,0.008,0.421,0.843"/>
+			<box min="-0.612,-0.576,-0.054" max="0.786,0.593,0.896"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P226_HGMAT.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="P220MagExt">
+	<state id="idle">
+		<mesh_ref ref="P220MagExt"/>
+	</state>
+	<mesh_description id="P220MagExt">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P220MagExt_P220MagExt.m.hgm"/>
+			<material file="Materials/P220MagExt_P220MagExt.mtl"/>
+			<bsphere value="2.514,-0.041,-4.043,8.113"/>
+			<box min="-1.478,-0.934,-11.330" max="6.505,0.852,3.244"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P220.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

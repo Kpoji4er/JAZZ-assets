@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="P226Grip">
+	<state id="idle">
+		<mesh_ref ref="P226Grip"/>
+	</state>
+	<mesh_description id="P226Grip">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P226Grip_P226Grip.m.hgm"/>
+			<material file="Materials/P226Grip_P226Grip.mtl"/>
+			<bsphere value="-0.573,0.371,0.679,7.738"/>
+			<box min="-4.709,-1.659,-5.691" max="3.563,2.402,7.049"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P226_HGMAT.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

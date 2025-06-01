@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entity path="" name="">
 	<state id="idle">
-		<mesh_ref ref="p210"/>
+		<mesh_ref ref="P210"/>
 	</state>
-	<mesh_description id="p210">
+	<mesh_description id="P210">
 		<lod idx="0" distance="0">
-			<mesh file="Meshes/p210_p210.m.hgm"/>
-			<material file="Materials/p210_p210.mtl"/>
-			<bsphere value="5.174,0.427,-2.199,13.284"/>
-			<box min="-6.342,-1.411,-9.399" max="16.690,2.265,5.001"/>
-			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P210_alt2.fbx"/>
+			<mesh file="Meshes/P210_P210.m.hgm"/>
+			<material file="Materials/P210_P210.mtl"/>
+			<bsphere value="4.997,-0.221,-1.704,10.930"/>
+			<box min="-4.735,-1.507,-8.203" max="14.729,1.064,4.794"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P210.fbx"/>
 		</lod>
-		<attach name="Muzzle" spot_pos="16.370,0.427,3.399" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="12.594,-0.103,4.446" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Handgrip" spot_note="HandGrip" spot_pos="-0.392,-0.103,-3.274" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_note="Mount" spot_pos="-0.392,-0.117,5.048" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mountfront" spot_note="Mountfront" spot_pos="11.726,0.218,1.116" spot_rot="1.000000,0.000000,0.000000,180.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="15.101,-0.103,3.897" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="-0.392,-0.117,5.048" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_note="Side" spot_pos="12.405,0.247,1.094" spot_rot="1.000000,0.000000,0.000000,180.0000"/>
 	</mesh_description>
 </entity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="SWModel29Barrel">
+	<state id="idle">
+		<mesh_ref ref="SWModel29Barrel"/>
+	</state>
+	<mesh_description id="SWModel29Barrel">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SWModel29Barrel_SWModel29Barrel.m.hgm"/>
+			<material file="Materials/SWModel29Barrel_SWModel29Barrel.mtl"/>
+			<bsphere value="5.559,0.370,0.587,10.652"/>
+			<box min="-5.000,-0.658,-0.994" max="16.117,1.399,2.167"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SWModel29.fbx"/>
+		</lod>
+		<attach name="Mountfront" spot_note="Mountfront" spot_pos="11.890,0.279,-1.095" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="15.912,0.356,0.078" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_note="Side" spot_pos="10.567,0.344,-1.183" spot_rot="1.000000,-0.000000,0.000000,180.0000"/>
+	</mesh_description>
+</entity>

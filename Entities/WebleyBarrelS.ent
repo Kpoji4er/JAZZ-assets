@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="WebleyBarrelS">
+	<state id="idle">
+		<mesh_ref ref="WebleyBarrelS"/>
+	</state>
+	<mesh_description id="WebleyBarrelS">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/WebleyBarrelS_WebleyBarrelS.m.hgm"/>
+			<material file="Materials/WebleyBarrelS_WebleyBarrelS.mtl"/>
+			<bsphere value="1.111,0.103,2.189,8.246"/>
+			<box min="-6.986,-0.730,0.647" max="9.209,0.937,3.730"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Webley.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="9.063,0.000,1.522" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

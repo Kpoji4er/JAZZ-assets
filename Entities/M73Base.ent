@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M73Base">
+	<state id="idle">
+		<mesh_ref ref="M73Base"/>
+	</state>
+	<mesh_description id="M73Base">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M73Base_M73Base.m.hgm"/>
+			<material file="Materials/M73Base_M73Base.mtl"/>
+			<bsphere value="4.191,0.000,0.599,12.830"/>
+			<box min="-6.313,-2.185,-7.165" max="14.695,2.185,8.363"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MR73.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="15.483,-0.103,5.795" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Handgrip" spot_note="HandGrip" spot_pos="-0.071,-0.103,0.530" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="15.483,-0.103,5.795" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

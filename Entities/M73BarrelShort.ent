@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M73BarrelShort">
+	<state id="idle">
+		<mesh_ref ref="M73BarrelShort"/>
+	</state>
+	<mesh_description id="M73BarrelShort">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M73BarrelShort_M73BarrelShort.m.hgm"/>
+			<material file="Materials/M73BarrelShort_M73BarrelShort.mtl"/>
+			<bsphere value="-1.506,0.104,0.438,5.629"/>
+			<box min="-6.816,-0.841,-1.548" max="3.805,1.049,2.424"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MR73.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="3.608,0.050,0.591" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

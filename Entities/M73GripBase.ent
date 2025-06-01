@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M73GripBase">
+	<state id="idle">
+		<mesh_ref ref="M73GripBase"/>
+	</state>
+	<mesh_description id="M73GripBase">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M73GripBase_M73GripBase.m.hgm"/>
+			<material file="Materials/M73GripBase_M73GripBase.mtl"/>
+			<bsphere value="-1.753,0.104,-2.103,7.006"/>
+			<box min="-6.293,-1.667,-7.738" max="2.788,1.874,3.533"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MR73.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

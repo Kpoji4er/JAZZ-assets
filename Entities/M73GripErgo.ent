@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M73GripErgo">
+	<state id="idle">
+		<mesh_ref ref="M73GripErgo"/>
+	</state>
+	<mesh_description id="M73GripErgo">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M73GripErgo_M73GripErgo.m.hgm"/>
+			<material file="Materials/M73GripErgo_M73GripErgo.mtl"/>
+			<bsphere value="-1.858,0.103,-2.094,7.033"/>
+			<box min="-6.463,-1.713,-7.840" max="2.746,1.919,3.652"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MR73.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="P226Barrel">
+	<state id="idle">
+		<mesh_ref ref="P226Barrel"/>
+	</state>
+	<mesh_description id="P226Barrel">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P226Barrel_P226Barrel.m.hgm"/>
+			<material file="Materials/P226Barrel_P226Barrel.mtl"/>
+			<bsphere value="-4.029,-0.022,-2.164,12.313"/>
+			<box min="-16.083,-1.574,-5.234" max="8.025,1.531,0.906"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P226_HGMAT.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="6.481,0.054,-0.394" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<entity path="" name="">
+<entity path="" name="38Special">
 	<state id="idle">
 		<mesh_ref ref="38Special"/>
 	</state>
@@ -7,10 +7,10 @@
 		<lod idx="0" distance="0">
 			<mesh file="Meshes/38Special_38Special.m.hgm"/>
 			<material file="Materials/38Special_38Special.mtl"/>
-			<bsphere value="6.066,0.021,1.011,12.926"/>
-			<box min="-5.527,-1.906,-4.887" max="17.660,1.949,6.910"/>
+			<bsphere value="3.563,0.021,1.011,10.738"/>
+			<box min="-5.527,-1.906,-4.887" max="12.653,1.949,6.910"/>
 			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/38sp.fbx"/>
 		</lod>
-		<attach name="Muzzle" spot_note="Muzzle" spot_pos="17.494,-0.103,5.293" spot_rot="0.000000,0.000000,1.000000,0.0005"/>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="10.105,-0.103,5.301" spot_rot="0.000000,0.000000,1.000000,0.0005"/>
 	</mesh_description>
 </entity>

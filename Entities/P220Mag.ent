@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="P220Mag">
+	<state id="idle">
+		<mesh_ref ref="P220Mag"/>
+	</state>
+	<mesh_description id="P220Mag">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P220Mag_P220Mag.m.hgm"/>
+			<material file="Materials/P220Mag_P220Mag.mtl"/>
+			<bsphere value="2.494,0.057,-4.918,7.223"/>
+			<box min="-1.321,-1.032,-11.183" max="6.310,1.146,1.347"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P220.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

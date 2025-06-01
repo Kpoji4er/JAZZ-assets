@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="P226SightsAccR"/>
+	</state>
+	<mesh_description id="P226SightsAccR">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P226SightsAccR_P226SightsAccR.m.hgm"/>
+			<material file="Materials/P226SightsAccR_P226SightsAccR.mtl"/>
+			<bsphere value="0.245,-0.016,0.323,1.184"/>
+			<box min="-0.381,-0.923,-0.111" max="0.871,0.891,0.756"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P226_HGMAT.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

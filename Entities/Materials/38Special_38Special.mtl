@@ -28,7 +28,7 @@
 		<Property AnimationFramesX="1"/>
 		<Property AnimationFramesY="1"/>
 		<Property AnimationTime="0"/>
-		<Property StretchFactor1="1.174074"/>
+		<Property StretchFactor1="1.163035"/>
 		<Property StretchFactor2="1.000000"/>
 		<Property TerrainDistortedMesh="0"/>
 		<Property Deposition="0"/>
@@ -53,4 +53,4 @@
 		<Property Colors="1"/>
 	</Material>
 </Materials>
-<!-- Exported to Build (429616336)-->
+<!-- Exported to Build (1103246305)-->

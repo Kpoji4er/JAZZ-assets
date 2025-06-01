@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="APSBarrelSilencer"/>
+	</state>
+	<mesh_description id="APSBarrelSilencer">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/APSBarrelSilencer_APSBarrelSilencer.m.hgm"/>
+			<material file="Materials/APSBarrelSilencer_APSBarrelSilencer.mtl"/>
+			<bsphere value="-5.165,0.103,-0.071,8.728"/>
+			<box min="-13.836,-0.892,-1.066" max="3.506,1.098,0.924"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/APS.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="3.373,0.000,0.011" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

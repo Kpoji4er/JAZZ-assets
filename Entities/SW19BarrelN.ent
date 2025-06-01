@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="SW19BarrelN">
+	<state id="idle">
+		<mesh_ref ref="SW19BarrelN"/>
+	</state>
+	<mesh_description id="SW19BarrelN">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SW19BarrelN_SW19BarrelN.m.hgm"/>
+			<material file="Materials/SW19BarrelN_SW19BarrelN.mtl"/>
+			<bsphere value="3.092,0.094,-0.058,5.715"/>
+			<box min="-2.184,-0.981,-2.259" max="8.367,1.169,2.143"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SWModel19.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="8.254,0.000,0.030" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

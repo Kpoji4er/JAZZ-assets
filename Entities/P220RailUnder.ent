@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="P220RailUnder">
+	<state id="idle">
+		<mesh_ref ref="P220RailUnder"/>
+	</state>
+	<mesh_description id="P220RailUnder">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P220RailUnder_P220RailUnder.m.hgm"/>
+			<material file="Materials/P220RailUnder_P220RailUnder.mtl"/>
+			<bsphere value="0.467,-0.003,-1.757,5.251"/>
+			<box min="-4.255,-1.374,-3.991" max="5.189,1.368,0.476"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P220.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

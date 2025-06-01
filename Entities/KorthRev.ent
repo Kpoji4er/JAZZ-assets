@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="KorthRev"/>
+	</state>
+	<mesh_description id="KorthRev">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/KorthRev_KorthRev.m.hgm"/>
+			<material file="Materials/KorthRev_KorthRev.mtl"/>
+			<bsphere value="10.882,0.000,-0.090,17.758"/>
+			<box min="-5.241,-2.385,-8.714" max="27.006,2.385,8.533"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="26.643,-0.003,5.818" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="8.846,0.458,7.021" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_note="Side" spot_pos="18.596,1.165,5.056" spot_rot="1.000000,-0.000000,-0.000000,270.0000"/>
+	</mesh_description>
+</entity>

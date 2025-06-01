@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="P220SightF">
+	<state id="idle">
+		<mesh_ref ref="P220SightF"/>
+	</state>
+	<mesh_description id="P220SightF">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P220SightF_P220SightF.m.hgm"/>
+			<material file="Materials/P220SightF_P220SightF.mtl"/>
+			<bsphere value="0.123,-0.002,0.220,0.655"/>
+			<box min="-0.450,-0.230,0.000" max="0.697,0.226,0.439"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P220.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

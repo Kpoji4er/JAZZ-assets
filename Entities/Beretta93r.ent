@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Beretta93r">
+	<state id="idle">
+		<mesh_ref ref="Beretta93r"/>
+	</state>
+	<mesh_description id="Beretta93r">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Beretta93r_Beretta93r.m.hgm"/>
+			<material file="Materials/Beretta93r_Beretta93r.mtl"/>
+			<bsphere value="8.048,-0.059,-2.625,15.857"/>
+			<box min="-5.197,-1.697,-11.901" max="21.294,1.579,6.652"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/B93.fbx"/>
+		</lod>
+		<attach name="Mount" spot_note="Mount" spot_pos="1.702,0.000,6.388" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="21.002,-0.103,5.374" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="1.702,0.002,6.454" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

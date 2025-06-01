@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<entity path="" name="p220">
+<entity path="" name="P220">
 	<state id="idle">
 		<mesh_ref ref="P220"/>
 	</state>
@@ -7,24 +7,16 @@
 		<lod idx="0" distance="0">
 			<mesh file="Meshes/P220_P220.m.hgm"/>
 			<material file="Materials/P220_P220.mtl"/>
-			<bsphere value="5.189,-0.042,-1.382,12.364"/>
-			<box min="-5.395,-1.435,-8.384" max="15.773,1.352,5.620"/>
-			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/p220.fbx"/>
+			<bsphere value="5.617,-0.141,-1.019,13.287"/>
+			<box min="-5.573,-1.946,-8.334" max="16.807,1.663,6.296"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P220.fbx"/>
 		</lod>
-		<attach name="Mount" spot_pos="11.136,0.000,1.381" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
-		<attach name="Muzzle" spot_pos="15.573,0.000,4.212" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
-		<attach name="Side" spot_pos="11.148,0.000,1.182" spot_rot="1.000000,0.000000,-0.000000,180.0000"/>
-	</mesh_description>
-	<mesh_description id="p220">
-		<lod idx="0" distance="0">
-			<mesh file="Meshes/p220_p220.m.hgm"/>
-			<material file="Materials/p220_p220.mtl"/>
-			<bsphere value="5.756,0.000,-0.585,11.571"/>
-			<box min="-4.244,-1.385,-6.917" max="15.756,1.385,5.747"/>
-			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/p220.fbx"/>
-		</lod>
-		<attach name="Mount" spot_pos="11.136,0.000,1.381"/>
-		<attach name="Muzzle" spot_pos="15.102,0.000,4.437"/>
-		<attach name="Side" spot_pos="11.148,0.000,1.182" spot_rot="1.000000,-0.000000,0.000000,180.0000"/>
+		<attach name="Magazine" spot_note="Magazine" spot_pos="-2.570,-0.034,-6.894" spot_rot="1.000000,0.000000,-0.000000,180.0000"/>
+		<attach name="Mount" spot_note="Mount" spot_pos="11.726,-0.034,2.520" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="16.798,-0.103,5.174" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="0.439,-0.026,6.180" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_note="Side" spot_pos="14.052,-0.080,1.474" spot_rot="1.000000,0.000000,-0.000000,180.0000"/>
+		<attach name="Sightsf" spot_note="SightsF" spot_pos="16.006,0.002,6.296" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Sightsr" spot_note="SightsR" spot_pos="-1.769,0.002,6.154" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
 	</mesh_description>
 </entity>

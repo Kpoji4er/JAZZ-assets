@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="P210BarrelLong"/>
+	</state>
+	<mesh_description id="P210BarrelLong">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P210BarrelLong_P210BarrelLong.m.hgm"/>
+			<material file="Materials/P210BarrelLong_P210BarrelLong.mtl"/>
+			<bsphere value="-5.252,0.103,-1.097,9.904"/>
+			<box min="-15.102,-0.882,-2.957" max="4.597,1.088,0.762"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P210.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Webley">
+	<state id="idle">
+		<mesh_ref ref="Webley"/>
+	</state>
+	<mesh_description id="Webley">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Webley_Webley.m.hgm"/>
+			<material file="Materials/Webley_Webley.mtl"/>
+			<bsphere value="4.164,-0.005,0.672,12.221"/>
+			<box min="-6.032,-2.327,-7.637" max="14.361,2.318,8.982"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Webley.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="P210HandGripSport"/>
+	</state>
+	<mesh_description id="P210HandGripSport">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P210HandGripSport_P210HandGripSport.m.hgm"/>
+			<material file="Materials/P210HandGripSport_P210HandGripSport.mtl"/>
+			<bsphere value="-0.829,0.103,-0.149,7.042"/>
+			<box min="-5.448,-1.735,-5.785" max="3.790,1.941,5.486"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P210.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

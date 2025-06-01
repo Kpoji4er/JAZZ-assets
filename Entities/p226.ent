@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entity path="" name="p226">
 	<state id="idle">
-		<mesh_ref ref="p226"/>
+		<mesh_ref ref="P226"/>
 	</state>
+	<mesh_description id="P226">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/P226_P226.m.hgm"/>
+			<material file="Materials/P226_P226.mtl"/>
+			<bsphere value="1.839,0.015,-1.393,10.285"/>
+			<box min="-5.713,-1.830,-9.339" max="9.391,1.859,6.553"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P226_HGMAT.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="12.091,0.308,5.646" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Handgrip" spot_note="HandGrip" spot_pos="-0.392,-0.103,-3.274" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_note="Magazine" spot_pos="-2.570,0.377,-6.894" spot_rot="1.000000,-0.000000,0.000000,180.0000"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="1.705,0.385,6.585" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_note="Side" spot_pos="13.212,0.332,1.345" spot_rot="1.000000,-0.000000,0.000000,180.0000"/>
+		<attach name="Sightsf" spot_note="Sightsf" spot_pos="16.853,0.385,6.429" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Sightsr" spot_note="Sightsr" spot_pos="-2.388,0.385,6.408" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_note="Stock" spot_pos="-3.806,0.000,-7.107" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Under" spot_note="Under" spot_pos="28.134,0.218,3.384" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
 	<mesh_description id="p226">
 		<lod idx="0" distance="0">
 			<mesh file="Meshes/p226_p226.m.hgm"/>
@@ -11,7 +29,7 @@
 			<box min="-4.650,-1.768,-7.833" max="14.417,1.631,5.771"/>
 			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/p226.fbx"/>
 		</lod>
-		<attach name="Magazine" spot_pos="-0.382,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
-		<attach name="Muzzle" spot_pos="14.231,0.000,4.212" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_pos="-0.382,0.000,0.000"/>
+		<attach name="Muzzle" spot_pos="14.231,0.000,4.212"/>
 	</mesh_description>
 </entity>

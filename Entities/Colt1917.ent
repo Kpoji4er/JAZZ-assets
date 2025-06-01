@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="Colt1917"/>
+	</state>
+	<mesh_description id="Colt1917">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Colt1917_Colt1917.m.hgm"/>
+			<material file="Materials/Colt1917_Colt1917.mtl"/>
+			<bsphere value="9.946,0.000,0.006,17.967"/>
+			<box min="-6.273,-2.472,-9.007" max="26.166,2.472,9.019"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/.fbx"/>
+		</lod>
+		<attach name="Mountfront" spot_note="Mountfront" spot_pos="21.841,0.218,5.662" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="25.873,-0.103,6.729" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_note="Side" spot_pos="21.604,0.011,5.591" spot_rot="1.000000,-0.000000,0.000000,180.0000"/>
+	</mesh_description>
+</entity>

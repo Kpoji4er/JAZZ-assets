@@ -12,5 +12,7 @@
 			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P226_HGMAT.fbx"/>
 		</lod>
 		<attach name="Muzzle" spot_note="Muzzle" spot_pos="3.500,0.054,-0.394" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_note="Side" spot_pos="0.193,0.023,-4.237" spot_rot="1.000000,-0.000000,0.000000,180.0000"/>
+		<attach name="Sightsf" spot_note="Sightsf" spot_pos="1.931,0.077,0.783" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
 	</mesh_description>
 </entity>

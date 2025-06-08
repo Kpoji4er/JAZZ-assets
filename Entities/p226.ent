@@ -15,8 +15,8 @@
 		<attach name="Handgrip" spot_note="HandGrip" spot_pos="-0.392,-0.103,-3.274" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
 		<attach name="Magazine" spot_note="Magazine" spot_pos="-2.570,0.377,-6.894" spot_rot="1.000000,-0.000000,0.000000,180.0000"/>
 		<attach name="Scope" spot_note="Scope" spot_pos="1.705,0.385,6.585" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
-		<attach name="Side" spot_note="Side" spot_pos="13.212,0.332,1.345" spot_rot="1.000000,-0.000000,0.000000,180.0000"/>
-		<attach name="Sightsf" spot_note="Sightsf" spot_pos="16.853,0.385,6.429" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_pos="12.284,0.332,1.409" spot_rot="1.000000,-0.000000,0.000000,180.0000"/>
+		<attach name="Sightsf" spot_pos="14.022,0.385,6.429" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
 		<attach name="Sightsr" spot_note="Sightsr" spot_pos="-2.388,0.385,6.408" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
 		<attach name="Stock" spot_note="Stock" spot_pos="-3.806,0.000,-7.107" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
 		<attach name="Under" spot_note="Under" spot_pos="28.134,0.218,3.384" spot_rot="0.000000,0.000000,1.000000,0.0000"/>

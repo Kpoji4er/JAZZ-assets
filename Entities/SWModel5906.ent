@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="SWModel5906">
+	<state id="idle">
+		<mesh_ref ref="SWModel5906"/>
+	</state>
+	<mesh_description id="SWModel5906">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SWModel5906_SWModel5906.m.hgm"/>
+			<material file="Materials/SWModel5906_SWModel5906.mtl"/>
+			<bsphere value="4.855,0.000,-0.574,11.959"/>
+			<box min="-5.145,-1.515,-7.894" max="14.855,1.515,6.746"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SWModel5906.fbx"/>
+		</lod>
+		<attach name="Mountfront" spot_note="Mountfront" spot_pos="11.617,0.047,2.200" spot_rot="1.000000,0.000000,0.000000,180.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="14.765,-0.003,5.272" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_note="Side" spot_pos="11.680,0.044,2.233" spot_rot="1.000000,0.000000,0.000000,180.0000"/>
+	</mesh_description>
+</entity>

@@ -3143,6 +3143,7 @@ return {
 					PlaceObj('ModItemEntity', {
 						'name', "p226",
 						'ClassParents', {},
+						'entity_name', "p226",
 						'material', {
 							"Materials/P226_P226",
 							"Materials/p226_p226",
@@ -3655,6 +3656,54 @@ return {
 						},
 						'mesh', {
 							"Meshes/WebleyBarrel_WebleyBarrel.m",
+						},
+					}),
+					}),
+				PlaceObj('ModItemFolder', {
+					'name', "SWModel5906",
+				}, {
+					PlaceObj('ModItemEntity', {
+						'name', "SWModel5906",
+						'ClassParents', {},
+						'entity_name', "SWModel5906",
+						'material', {
+							"Materials/SWModel5906_SWModel5906",
+						},
+						'mesh', {
+							"Meshes/SWModel5906_SWModel5906.m",
+						},
+						'texture', {
+							"73790016828239490825",
+							"73790003882296025255",
+							"73790020789468889730",
+							"73790032066298730713",
+						},
+					}),
+					}),
+				PlaceObj('ModItemFolder', {
+					'name', "SWModel52",
+				}, {
+					PlaceObj('ModItemEntity', {
+						'name', "SWModel52",
+						'ClassParents', {},
+						'entity_name', "SWModel52",
+						'material', {
+							"Materials/SWModel52_SWModel52",
+						},
+						'mesh', {
+							"Meshes/SWModel52_SWModel52.m",
+						},
+						'texture', {
+							"62700017474530998201",
+							"62700005155907356451",
+							"62700020838624088529",
+							"62700035153160617758",
+							"62700041172911148667",
+							"62700065760936256496",
+							"62700051730320927631",
+							"62700072463166255092",
+							"62700083943926139718",
+							"62700092067821872585",
 						},
 					}),
 					}),

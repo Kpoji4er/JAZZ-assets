@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="SWModel52">
+	<state id="idle">
+		<mesh_ref ref="SWModel52"/>
+	</state>
+	<mesh_description id="SWModel52">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SWModel52_SWModel52.m.hgm"/>
+			<material file="Materials/SWModel52_SWModel52.mtl"/>
+			<bsphere value="6.804,-0.092,-0.542,13.275"/>
+			<box min="-4.732,-1.681,-7.999" max="18.340,1.496,6.916"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/SWModel52.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="18.200,-0.066,4.982" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

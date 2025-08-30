@@ -82,7 +82,7 @@
 		<Property AnimationFramesX="1"/>
 		<Property AnimationFramesY="1"/>
 		<Property AnimationTime="0"/>
-		<Property StretchFactor1="2.383895"/>
+		<Property StretchFactor1="2.154236"/>
 		<Property StretchFactor2="1.000000"/>
 		<Property TerrainDistortedMesh="0"/>
 		<Property Deposition="0"/>
@@ -135,7 +135,7 @@
 		<Property AnimationFramesX="1"/>
 		<Property AnimationFramesY="1"/>
 		<Property AnimationTime="0"/>
-		<Property StretchFactor1="1.544766"/>
+		<Property StretchFactor1="1.278207"/>
 		<Property StretchFactor2="1.000000"/>
 		<Property TerrainDistortedMesh="0"/>
 		<Property Deposition="0"/>
@@ -188,7 +188,7 @@
 		<Property AnimationFramesX="1"/>
 		<Property AnimationFramesY="1"/>
 		<Property AnimationTime="0"/>
-		<Property StretchFactor1="2.029846"/>
+		<Property StretchFactor1="1.470958"/>
 		<Property StretchFactor2="1.000000"/>
 		<Property TerrainDistortedMesh="0"/>
 		<Property Deposition="0"/>
@@ -213,4 +213,4 @@
 		<Property Colors="1"/>
 	</Material>
 </Materials>
-<!-- Exported to Build (755450090)-->
+<!-- Exported to Build (192841815)-->

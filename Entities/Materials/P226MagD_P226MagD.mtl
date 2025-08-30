@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="50110018520660532671.dds" mc="0"/>
-		<AOMap Name="50110003016476303364.dds" mc="0"/>
-		<SIMap Name="50110023129004468057.dds" mc="0"/>
-		<BaseColorMap Name="50110034297204849246.dds" mc="0"/>
-		<RMMap Name="50110048040036003825.dds" mc="0"/>
+		<NormalMap Name="55790018870263073527.dds" mc="0"/>
+		<AOMap Name="55790001556801926023.dds" mc="0"/>
+		<SIMap Name="55790027035785888008.dds" mc="0"/>
+		<BaseColorMap Name="55790033386267503843.dds" mc="0"/>
+		<RMMap Name="55790049200153278280.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -29,7 +29,7 @@
 		<Property AnimationFramesX="1"/>
 		<Property AnimationFramesY="1"/>
 		<Property AnimationTime="0"/>
-		<Property StretchFactor1="3.013506"/>
+		<Property StretchFactor1="1.541926"/>
 		<Property StretchFactor2="1.000000"/>
 		<Property TerrainDistortedMesh="0"/>
 		<Property Deposition="0"/>
@@ -54,4 +54,4 @@
 		<Property Colors="1"/>
 	</Material>
 </Materials>
-<!-- Exported to Build (1197280576)-->
+<!-- Exported to Build (191648821)-->

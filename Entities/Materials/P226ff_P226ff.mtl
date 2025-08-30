@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="32340013765427933389.dds" mc="0"/>
-		<AOMap Name="32340006362296455609.dds" mc="0"/>
-		<SIMap Name="32340025978149510907.dds" mc="0"/>
-		<BaseColorMap Name="32340034513432387401.dds" mc="0"/>
-		<RMMap Name="32340043736328977909.dds" mc="0"/>
+		<NormalMap Name="44380012759201504440.dds" mc="0"/>
+		<AOMap Name="44380005142559357030.dds" mc="0"/>
+		<SIMap Name="44380021930245389132.dds" mc="0"/>
+		<BaseColorMap Name="44380000774507889668.dds" mc="0"/>
+		<RMMap Name="44380039668099956688.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,11 +54,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="32340060533785541028.dds" mc="0"/>
-		<AOMap Name="32340056199103140537.dds" mc="0"/>
-		<SIMap Name="32340077910528160648.dds" mc="0"/>
-		<BaseColorMap Name="32340084749661433449.dds" mc="0"/>
-		<RMMap Name="32340093787383286008.dds" mc="0"/>
+		<NormalMap Name="44380058783728306764.dds" mc="0"/>
+		<AOMap Name="44380048199659572875.dds" mc="0"/>
+		<SIMap Name="44380062891475835930.dds" mc="0"/>
+		<BaseColorMap Name="44380010829994010840.dds" mc="0"/>
+		<RMMap Name="44380077578816967551.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -107,11 +107,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="32340113180520380547.dds" mc="0"/>
-		<AOMap Name="32340107557444682853.dds" mc="0"/>
-		<SIMap Name="32340128528734287788.dds" mc="0"/>
-		<BaseColorMap Name="32340133779691936686.dds" mc="0"/>
-		<RMMap Name="32340143439159909531.dds" mc="0"/>
+		<NormalMap Name="44380092324897454024.dds" mc="0"/>
+		<AOMap Name="44380081750892018390.dds" mc="0"/>
+		<SIMap Name="44380103845642314691.dds" mc="0"/>
+		<BaseColorMap Name="44380022108216905041.dds" mc="0"/>
+		<RMMap Name="44380118211935264030.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -160,11 +160,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="32340160174813619496.dds" mc="0"/>
-		<AOMap Name="32340151647662400323.dds" mc="0"/>
-		<SIMap Name="32340172701018105291.dds" mc="0"/>
-		<BaseColorMap Name="32340184205555157345.dds" mc="0"/>
-		<RMMap Name="32340191090398953791.dds" mc="0"/>
+		<NormalMap Name="44380135322899745389.dds" mc="0"/>
+		<AOMap Name="44380126530044828392.dds" mc="0"/>
+		<SIMap Name="44380147412713456681.dds" mc="0"/>
+		<BaseColorMap Name="44380031793200619649.dds" mc="0"/>
+		<RMMap Name="44380156514493840848.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -213,4 +213,4 @@
 		<Property Colors="1"/>
 	</Material>
 </Materials>
-<!-- Exported to Build (755909676)-->
+<!-- Exported to Build (194185431)-->

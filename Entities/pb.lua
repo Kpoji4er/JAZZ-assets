@@ -1,3 +1,3 @@
-EntityData["Webley"] = {
+EntityData["pb"] = {
 	editor_artset = "Mods",
 }

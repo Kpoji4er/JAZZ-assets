@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="pb">
+	<state id="idle">
+		<mesh_ref ref="pb"/>
+	</state>
+	<mesh_description id="pb">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/pb_pb.m.hgm"/>
+			<material file="Materials/pb_pb.mtl"/>
+			<bsphere value="11.443,-0.052,-1.268,16.933"/>
+			<box min="-4.343,-1.709,-8.121" max="27.228,1.605,5.584"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/pb.fbx"/>
+		</lod>
+		<attach name="Muzzle" spot_pos="27.168,0.161,3.343" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

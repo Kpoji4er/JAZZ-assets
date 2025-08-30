@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<entity path="" name="Webley">
+<entity path="" name="Webleyf">
 	<state id="idle">
-		<mesh_ref ref="Webley"/>
+		<mesh_ref ref="Webleyf"/>
 	</state>
-	<mesh_description id="Webley">
+	<mesh_description id="Webleyf">
 		<lod idx="0" distance="0">
-			<mesh file="Meshes/Webley_Webley.m.hgm"/>
-			<material file="Materials/Webley_Webley.mtl"/>
+			<mesh file="Meshes/Webleyf_Webleyf.m.hgm"/>
+			<material file="Materials/Webleyf_Webleyf.mtl"/>
 			<bsphere value="4.164,-0.005,0.672,12.221"/>
 			<box min="-6.032,-2.327,-7.637" max="14.361,2.318,8.982"/>
 			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/Webley.fbx"/>
 		</lod>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="10.105,-0.103,5.301" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
 	</mesh_description>
 </entity>

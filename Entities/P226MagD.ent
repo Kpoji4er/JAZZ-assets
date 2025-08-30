@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<entity path="" name="P226Mag">
+<entity path="" name="">
 	<state id="idle">
-		<mesh_ref ref="P226Mag"/>
+		<mesh_ref ref="P226MagD"/>
 	</state>
-	<mesh_description id="P226Mag">
+	<mesh_description id="P226MagD">
 		<lod idx="0" distance="0">
-			<mesh file="Meshes/P226Mag_P226Mag.m.hgm"/>
-			<material file="Materials/P226Mag_P226Mag.mtl"/>
+			<mesh file="Meshes/P226MagD_P226MagD.m.hgm"/>
+			<material file="Materials/P226MagD_P226MagD.mtl"/>
 			<bsphere value="1.884,-0.032,-3.775,7.704"/>
 			<box min="-1.950,-1.379,-10.400" max="5.718,1.314,2.850"/>
 			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/P226_HGMAT.fbx"/>

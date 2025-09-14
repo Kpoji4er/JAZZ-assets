@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="DeLisleSights"/>
+	</state>
+	<mesh_description id="DeLisleSights">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/DeLisleSights_DeLisleSights.m.hgm"/>
+			<material file="Materials/DeLisleSights_DeLisleSights.mtl"/>
+			<bsphere value="13.827,0.020,1.308,3.661"/>
+			<box min="10.307,-1.234,0.551" max="17.346,1.274,2.066"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/DeLisle.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="KimberMagExt">
+	<state id="idle">
+		<mesh_ref ref="KimberMagExt"/>
+	</state>
+	<mesh_description id="KimberMagExt">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/KimberMagExt_KimberMagExt.m.hgm"/>
+			<material file="Materials/KimberMagExt_KimberMagExt.mtl"/>
+			<bsphere value="-0.452,0.292,-1.809,8.116"/>
+			<box min="-4.620,-0.670,-9.187" max="3.716,1.255,5.569"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/kimberport.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

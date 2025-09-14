@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="KimberIrons">
+	<state id="idle">
+		<mesh_ref ref="KimberIrons"/>
+	</state>
+	<mesh_description id="KimberIrons">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/KimberIrons_KimberIrons.m.hgm"/>
+			<material file="Materials/KimberIrons_KimberIrons.mtl"/>
+			<bsphere value="0.701,-0.883,-0.592,1.895"/>
+			<box min="-0.875,-1.858,-1.210" max="2.276,0.091,0.027"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/kimberport.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

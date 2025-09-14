@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="KimberBarrelL">
+	<state id="idle">
+		<mesh_ref ref="KimberBarrelL"/>
+	</state>
+	<mesh_description id="KimberBarrelL">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/KimberBarrelL_KimberBarrelL.m.hgm"/>
+			<material file="Materials/KimberBarrelL_KimberBarrelL.mtl"/>
+			<bsphere value="0.641,0.624,-1.550,14.554"/>
+			<box min="-13.818,-0.905,-4.247" max="15.099,2.153,1.148"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/kimberport.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

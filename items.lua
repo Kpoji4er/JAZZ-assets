@@ -3724,6 +3724,161 @@ return {
 						},
 					}),
 					}),
+				PlaceObj('ModItemFolder', {
+					'name', "Kimber",
+				}, {
+					PlaceObj('ModItemEntity', {
+						'name', "Kimber",
+						'ClassParents', {},
+						'entity_name', "Kimber",
+						'material', {
+							"Materials/Kimber_Kimber",
+						},
+						'mesh', {
+							"Meshes/Kimber_Kimber.m",
+						},
+						'texture', {
+							"46020007300284572767",
+							"46020011540458376961",
+							"46020022410556477480",
+						},
+					}),
+					PlaceObj('ModItemEntity', {
+						'name', "KimberBarrel",
+						'ClassParents', {},
+						'entity_name', "KimberBarrel",
+						'material', {
+							"Materials/KimberBarrel_KimberBarrel",
+						},
+						'mesh', {
+							"Meshes/KimberBarrel_KimberBarrel.m",
+						},
+						'texture', {
+							"82020000547132843071",
+							"82020014431558980532",
+							"82020023133176085908",
+						},
+					}),
+					PlaceObj('ModItemEntity', {
+						'name', "KimberMagExt",
+						'ClassParents', {},
+						'entity_name', "KimberMagExt",
+						'material', {
+							"Materials/KimberMagExt_KimberMagExt",
+						},
+						'mesh', {
+							"Meshes/KimberMagExt_KimberMagExt.m",
+						},
+						'texture', {
+							"81840002236907065947",
+							"81840014683468270350",
+							"81840029898964715482",
+						},
+					}),
+					PlaceObj('ModItemEntity', {
+						'name', "KimberMag",
+						'ClassParents', {},
+						'entity_name', "KimberMag",
+						'material', {
+							"Materials/KimberMag_KimberMag",
+						},
+						'mesh', {
+							"Meshes/KimberMag_KimberMag.m",
+						},
+						'texture', {
+							"63790007997876932191",
+							"63790018392568999018",
+							"63790022920128254544",
+						},
+					}),
+					PlaceObj('ModItemEntity', {
+						'name', "KimberIrons",
+						'ClassParents', {},
+						'entity_name', "KimberIrons",
+						'material', {
+							"Materials/KimberIrons_KimberIrons",
+						},
+						'mesh', {
+							"Meshes/KimberIrons_KimberIrons.m",
+						},
+						'texture', {
+							"76250008562128854935",
+							"76250016593819508511",
+							"76250025393799407503",
+						},
+					}),
+					PlaceObj('ModItemEntity', {
+						'name', "KimberBarrelL",
+						'ClassParents', {},
+						'entity_name', "KimberBarrelL",
+						'material', {
+							"Materials/KimberBarrelL_KimberBarrelL",
+						},
+						'mesh', {
+							"Meshes/KimberBarrelL_KimberBarrelL.m",
+						},
+						'texture', {
+							"87780008825495848933",
+							"87780016469754530243",
+							"87780026939145795093",
+							"87780000990913346846",
+						},
+					}),
+					}),
+				}),
+			}),
+		PlaceObj('ModItemFolder', {
+			'name', "Rifles",
+		}, {
+			PlaceObj('ModItemFolder', {
+				'name', "DeLisle",
+			}, {
+				PlaceObj('ModItemEntity', {
+					'name', "DeLisle",
+					'ClassParents', {},
+					'entity_name', "DeLisle",
+					'material', {
+						"Materials/DeLisle_DeLisle",
+					},
+					'mesh', {
+						"Meshes/DeLisle_DeLisle.m",
+					},
+					'texture', {
+						"51740015001905396735",
+						"51740002208128850299",
+						"51740029720208590348",
+						"51740008107635236297",
+						"51740015001905396735",
+						"51740002208128850299",
+						"51740029720208590348",
+						"51740008107635236297",
+						"51740015001905396735",
+						"51740002208128850299",
+						"51740029720208590348",
+						"51740008107635236297",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "DeLisleSights",
+					'ClassParents', {},
+					'entity_name', "DeLisleSights",
+					'material', {
+						"Materials/DeLisleSights_DeLisleSights",
+					},
+					'mesh', {
+						"Meshes/DeLisleSights_DeLisleSights.m",
+					},
+					'texture', {
+						"88000010294861800433",
+						"88000005874961576012",
+						"88000026086151895937",
+						"88000039199704927961",
+						"88000010294861800433",
+						"88000005874961576012",
+						"88000026086151895937",
+						"88000039199704927961",
+					},
+				}),
 				}),
 			}),
 		}),

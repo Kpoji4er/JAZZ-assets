@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="DeLisle">
+	<state id="idle">
+		<mesh_ref ref="DeLisle"/>
+	</state>
+	<mesh_description id="DeLisle">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/DeLisle_DeLisle.m.hgm"/>
+			<material file="Materials/DeLisle_DeLisle.mtl"/>
+			<bsphere value="15.376,1.521,-0.679,43.870"/>
+			<box min="-27.860,-2.551,-10.547" max="58.611,5.593,9.190"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/DeLisle.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_note="Hand_L_Grip" spot_pos="30.081,0.000,3.827" spot_rot="-0.000000,1.000000,0.000000,90.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="58.861,0.363,6.405" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="15.527,-0.020,7.093" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

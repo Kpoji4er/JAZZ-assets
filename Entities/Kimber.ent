@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="Kimber">
+	<state id="idle">
+		<mesh_ref ref="Kimber"/>
+	</state>
+	<mesh_description id="Kimber">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Kimber_Kimber.m.hgm"/>
+			<material file="Materials/Kimber_Kimber.mtl"/>
+			<bsphere value="4.254,0.324,-2.397,12.790"/>
+			<box min="-6.794,-1.772,-9.989" max="15.301,2.420,5.195"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/kimberport.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="10.105,-0.103,5.301" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Magazine" spot_note="Magazine" spot_pos="-1.701,0.218,-4.377" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="25.139,0.533,4.304" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="-2.055,1.394,6.443" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Side" spot_note="Side" spot_pos="13.900,0.218,1.083" spot_rot="0.000000,0.000000,1.000000,180.0000"/>
+	</mesh_description>
+</entity>

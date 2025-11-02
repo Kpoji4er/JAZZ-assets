@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="ZF4Scope">
+	<state id="idle">
+		<mesh_ref ref="ZF4Scope"/>
+	</state>
+	<mesh_description id="ZF4Scope">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/ZF4Scope_ZF4Scope.m.hgm"/>
+			<material file="Materials/ZF4Scope_ZF4Scope.mtl"/>
+			<bsphere value="0.004,-0.635,3.384,7.843"/>
+			<box min="-6.921,-2.803,-0.632" max="6.929,1.532,7.401"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/STG44.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

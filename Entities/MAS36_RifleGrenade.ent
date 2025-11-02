@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MAS36_RifleGrenade">
+	<state id="idle">
+		<mesh_ref ref="MAS36_RifleGrenade"/>
+	</state>
+	<mesh_description id="MAS36_RifleGrenade">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MAS36_RifleGrenade_MAS36_RifleGrenade.m.hgm"/>
+			<material file="Materials/MAS36_RifleGrenade_MAS36_RifleGrenade.mtl"/>
+			<bsphere value="14.392,-0.363,0.135,14.924"/>
+			<box min="-0.376,-2.495,-1.995" max="29.161,1.769,2.265"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MAS36.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

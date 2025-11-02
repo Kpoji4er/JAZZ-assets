@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="AA52Bipod">
+	<state id="folded">
+		<mesh_ref ref="AA52BipodF"/>
+	</state>
+	<state id="idle">
+		<mesh_ref ref="AA52Bipod"/>
+	</state>
+	<mesh_description id="AA52Bipod">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AA52Bipod_AA52Bipod.m.hgm"/>
+			<material file="Materials/AA52Bipod_AA52Bipod.mtl"/>
+			<bsphere value="0.538,0.118,-17.108,27.468"/>
+			<box min="-3.366,-22.287,-35.398" max="4.443,22.522,1.182"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AA52.fbx"/>
+		</lod>
+	</mesh_description>
+	<mesh_description id="AA52BipodF">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AA52Bipod_AA52BipodF.m.hgm"/>
+			<material file="Materials/AA52Bipod_AA52BipodF.mtl"/>
+			<bsphere value="-19.293,0.092,-2.925,20.948"/>
+			<box min="-39.241,-6.453,-6.936" max="0.655,6.637,1.085"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AA52.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="FG42Bipod">
+	<state id="folded">
+		<mesh_ref ref="FG42BipodF"/>
+	</state>
+	<state id="idle">
+		<mesh_ref ref="FG42Bipod"/>
+	</state>
+	<mesh_description id="FG42Bipod">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/FG42Bipod_FG42Bipod.m.hgm"/>
+			<material file="Materials/FG42Bipod_FG42Bipod.mtl"/>
+			<bsphere value="4.372,0.088,-10.672,17.380"/>
+			<box min="2.421,-12.136,-23.384" max="6.323,12.312,2.040"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/FG42.fbx"/>
+		</lod>
+	</mesh_description>
+	<mesh_description id="FG42BipodF">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/FG42Bipod_FG42BipodF.m.hgm"/>
+			<material file="Materials/FG42Bipod_FG42BipodF.mtl"/>
+			<bsphere value="-8.932,0.075,-0.354,13.904"/>
+			<box min="-22.550,-2.546,-2.883" max="4.685,2.696,2.175"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/FG42.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

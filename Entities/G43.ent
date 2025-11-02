@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="G43">
+	<state id="idle">
+		<mesh_ref ref="G43"/>
+	</state>
+	<mesh_description id="G43">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/G43_G43.m.hgm"/>
+			<material file="Materials/G43_G43.mtl"/>
+			<bsphere value="26.754,0.770,1.141,57.992"/>
+			<box min="-30.888,-1.829,-8.739" max="84.397,3.369,11.020"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/G43.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="13.016,0.712,7.655" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="126"/>
+		<attach name="Hand_l_grip" spot_note="Hand_L_Grip" spot_pos="47.362,0.323,6.523" spot_rot="-0.000000,1.000000,0.000000,90.0000" spot_scale="126"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="84.385,0.781,6.721" spot_scale="126"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="7.155,0.861,6.306" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="126"/>
+	</mesh_description>
+</entity>

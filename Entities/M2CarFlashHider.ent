@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M2CarFlashHider">
+	<state id="idle">
+		<mesh_ref ref="M2CarFlashHider"/>
+	</state>
+	<mesh_description id="M2CarFlashHider">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M2CarFlashHider_M2CarFlashHider.m.hgm"/>
+			<material file="Materials/M2CarFlashHider_M2CarFlashHider.mtl"/>
+			<bsphere value="1.631,0.044,-0.251,4.021"/>
+			<box min="-2.255,-0.988,-1.283" max="5.517,1.077,0.781"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M3_Carbine_Attachments.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

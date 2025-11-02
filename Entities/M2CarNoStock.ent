@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M2CarNoStock">
+	<state id="idle">
+		<mesh_ref ref="M2CarNoStock"/>
+	</state>
+	<mesh_description id="M2CarNoStock">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M2CarNoStock_M2CarNoStock.m.hgm"/>
+			<material file="Materials/M2CarNoStock_M2CarNoStock.mtl"/>
+			<bsphere value="18.771,-0.073,-3.390,24.502"/>
+			<box min="-4.870,-1.862,-11.328" max="42.412,1.716,4.548"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M3_Carbine_Attachments.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

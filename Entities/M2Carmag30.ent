@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M2Carmag30">
+	<state id="idle">
+		<mesh_ref ref="M2Carmag30"/>
+	</state>
+	<mesh_description id="M2Carmag30">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M2Carmag30_M2Carmag30.m.hgm"/>
+			<material file="Materials/M2Carmag30_M2Carmag30.mtl"/>
+			<bsphere value="0.858,0.170,-5.305,8.218"/>
+			<box min="-2.298,-0.598,-12.888" max="4.014,0.939,2.278"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M3_Carbine_Attachments.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

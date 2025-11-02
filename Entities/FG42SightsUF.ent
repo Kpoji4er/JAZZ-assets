@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="FG42SightsUF">
+	<state id="idle">
+		<mesh_ref ref="FG42SightsUF"/>
+	</state>
+	<mesh_description id="FG42SightsUF">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/FG42SightsUF_FG42SightsUF.m.hgm"/>
+			<material file="Materials/FG42SightsUF_FG42SightsUF.mtl"/>
+			<bsphere value="28.218,-0.009,3.130,29.461"/>
+			<box min="-1.130,-0.945,0.322" max="57.566,0.926,5.937"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/FG42.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

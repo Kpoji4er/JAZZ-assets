@@ -3880,6 +3880,457 @@ return {
 					},
 				}),
 				}),
+			PlaceObj('ModItemFolder', {
+				'name', "MAS36",
+			}, {
+				PlaceObj('ModItemEntity', {
+					'name', "MAS36",
+					'ClassParents', {},
+					'entity_name', "MAS36",
+					'material', {
+						"Materials/MAS36_MAS36",
+					},
+					'mesh', {
+						"Meshes/MAS36_MAS36.m",
+					},
+					'texture', {
+						"38300018985803427251",
+						"38300004772533844958",
+						"38300028114022601822",
+						"38300034720599302024",
+						"38300053494277776160",
+						"38300041118975327330",
+						"38300060056717007378",
+						"38300070210085635151",
+						"38300098461778645908",
+						"38300087352141743933",
+						"38300109301349887557",
+						"38300116933491789204",
+						"38300013753082339079",
+						"38300007846600788915",
+						"38300023564764763923",
+						"38300033031319025383",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "MAS36_RifleGrenade",
+					'ClassParents', {},
+					'entity_name', "MAS36_RifleGrenade",
+					'material', {
+						"Materials/MAS36_RifleGrenade_MAS36_RifleGrenade",
+					},
+					'mesh', {
+						"Meshes/MAS36_RifleGrenade_MAS36_RifleGrenade.m",
+					},
+					'texture', {
+						"11617001470161779690",
+						"11617000199580908193",
+						"11617002405379499498",
+						"11617003139430821986",
+					},
+				}),
+				}),
+			PlaceObj('ModItemFolder', {
+				'name', "MAS49",
+			}, {
+				PlaceObj('ModItemEntity', {
+					'name', "MAS49",
+					'ClassParents', {},
+					'entity_name', "MAS49",
+					'material', {
+						"Materials/MAS49_MAS49",
+					},
+					'mesh', {
+						"Meshes/MAS49_MAS49.m",
+					},
+					'texture', {
+						"38340016967618321873",
+						"38340001741862011536",
+						"38340028994983608540",
+						"38340030563193085243",
+					},
+				}),
+				}),
+			PlaceObj('ModItemFolder', {
+				'name', "STG44",
+			}, {
+				PlaceObj('ModItemEntity', {
+					'name', "STG44",
+					'ClassParents', {},
+					'entity_name', "STG44",
+					'material', {
+						"Materials/STG44_STG44",
+					},
+					'mesh', {
+						"Meshes/STG44_STG44.m",
+					},
+					'texture', {
+						"38420010327861231456",
+						"38420009260009304170",
+						"38420028975366635345",
+						"38420032671938188028",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "STG44Wrap",
+					'ClassParents', {},
+					'entity_name', "STG44Wrap",
+					'material', {
+						"Materials/STG44Wrap_STG44Wrap",
+					},
+					'mesh', {
+						"Meshes/STG44Wrap_STG44Wrap.m",
+					},
+					'texture', {
+						"62520013968424786650",
+						"62520003004444431779",
+						"62520027800295594005",
+						"62520033015619910041",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "ZF4Scope",
+					'ClassParents', {},
+					'entity_name', "ZF4Scope",
+					'material', {
+						"Materials/ZF4Scope_ZF4Scope",
+					},
+					'mesh', {
+						"Meshes/ZF4Scope_ZF4Scope.m",
+					},
+					'texture', {
+						"57180008742190801605",
+						"57180010271285141146",
+						"57180023917724405506",
+					},
+				}),
+				}),
+			PlaceObj('ModItemFolder', {
+				'name', "M2Carbine",
+			}, {
+				PlaceObj('ModItemEntity', {
+					'name', "M2Carbine",
+					'ClassParents', {},
+					'entity_name', "M2Carbine",
+					'material', {
+						"Materials/M2Carbine_M2Carbine",
+					},
+					'mesh', {
+						"Meshes/M2Carbine_M2Carbine.m",
+					},
+					'texture', {
+						"63190004657219524238",
+						"63190012153184654015",
+						"63190020963789076607",
+						"63190040399433762237",
+						"63190031979916613064",
+						"63190052990060013060",
+						"63190062276910426076",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "M2Carmag30",
+					'ClassParents', {},
+					'entity_name', "M2Carmag30",
+					'material', {
+						"Materials/M2Carmag30_M2Carmag30",
+					},
+					'mesh', {
+						"Meshes/M2Carmag30_M2Carmag30.m",
+					},
+					'texture', {
+						"68130011882712063922",
+						"68130009189065645934",
+						"68130022904658329748",
+						"68130031340053431774",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "M2Carmag15",
+					'ClassParents', {},
+					'entity_name', "M2Carmag15",
+					'material', {
+						"Materials/M2Carmag15_M2Carmag15",
+					},
+					'mesh', {
+						"Meshes/M2Carmag15_M2Carmag15.m",
+					},
+					'texture', {
+						"68160015617148046638",
+						"68160006779267808168",
+						"68160020495284761401",
+						"68160034553881751229",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "M2CarStockLightU",
+					'ClassParents', {},
+					'entity_name', "M2CarStockLightU",
+					'material', {
+						"Materials/M2CarStockLightU_M2CarStockLightU",
+					},
+					'mesh', {
+						"Meshes/M2CarStockLightU_M2CarStockLightU.m",
+					},
+					'texture', {
+						"10510001388009147038",
+						"10510000529725500182",
+						"10510002520163081580",
+						"10510003084655094318",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "M2CarScopeMount",
+					'ClassParents', {},
+					'entity_name', "M2CarScopeMount",
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "M2CarStockFull",
+					'ClassParents', {},
+					'entity_name', "M2CarStockFull",
+					'material', {
+						"Materials/M2CarStockFull_M2CarStockFull",
+					},
+					'mesh', {
+						"Meshes/M2CarStockFull_M2CarStockFull.m",
+					},
+					'texture', {
+						"93240006559761618086",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "M2CarStockLightF",
+					'ClassParents', {},
+					'entity_name', "M2CarStockLightF",
+					'material', {
+						"Materials/M2CarStockLightF_M2CarStockLightF",
+					},
+					'mesh', {
+						"Meshes/M2CarStockLightF_M2CarStockLightF.m",
+					},
+					'texture', {
+						"10495001579488910813",
+						"10495000161813578008",
+						"10495002836438443501",
+						"10495003104991145779",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "M2CarNoStock",
+					'ClassParents', {},
+					'entity_name', "M2CarNoStock",
+					'material', {
+						"Materials/M2CarNoStock_M2CarNoStock",
+					},
+					'mesh', {
+						"Meshes/M2CarNoStock_M2CarNoStock.m",
+					},
+					'texture', {
+						"81100014970429084859",
+						"81100004541295363283",
+						"81100028498578825055",
+						"81100032814972005255",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "M2CarFlashHider",
+					'ClassParents', {},
+					'entity_name', "M2CarFlashHider",
+					'material', {
+						"Materials/M2CarFlashHider_M2CarFlashHider",
+					},
+					'mesh', {
+						"Meshes/M2CarFlashHider_M2CarFlashHider.m",
+					},
+					'texture', {
+						"98910000374250910375",
+						"98910016643053043355",
+						"98910025154423241520",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "M2CarNightScope",
+					'ClassParents', {},
+					'entity_name', "M2CarNightScope",
+					'material', {
+						"Materials/M2CarNightScope_M2CarNightScope",
+					},
+					'mesh', {
+						"Meshes/M2CarNightScope_M2CarNightScope.m",
+					},
+					'texture', {
+						"99170007174735775609",
+						"99170013117002566298",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "M2CarAutofire",
+					'ClassParents', {},
+					'entity_name', "M2CarAutofire",
+					'material', {
+						"Materials/M2CarAutofire_M2CarAutofire",
+					},
+					'mesh', {
+						"Meshes/M2CarAutofire_M2CarAutofire.m",
+					},
+					'texture', {
+						"87360015012923046621",
+						"87360006154794545820",
+						"87360028431740010602",
+						"87360030213953228737",
+					},
+				}),
+				}),
+			PlaceObj('ModItemFolder', {
+				'name', "G43",
+			}, {
+				PlaceObj('ModItemEntity', {
+					'name', "G43",
+					'ClassParents', {},
+					'entity_name', "G43",
+					'material', {
+						"Materials/G43_G43",
+					},
+					'mesh', {
+						"Meshes/G43_G43.m",
+					},
+					'texture', {
+						"26740019469786286162",
+						"26740003454747811148",
+						"26740023903632741229",
+						"26740003510359942620",
+					},
+				}),
+				}),
+			PlaceObj('ModItemFolder', {
+				'name', "FG42",
+			}, {
+				PlaceObj('ModItemEntity', {
+					'name', "FG42",
+					'ClassParents', {},
+					'entity_name', "FG42",
+					'material', {
+						"Materials/FG42_FG42",
+					},
+					'mesh', {
+						"Meshes/FG42_FG42.m",
+					},
+					'texture', {
+						"32430009989085465489",
+						"32430013322606375757",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "FG42Bipod",
+					'ClassParents', {},
+					'entity_name', "FG42Bipod",
+					'material', {
+						"Materials/FG42Bipod_FG42Bipod",
+						"Materials/FG42Bipod_FG42BipodF",
+					},
+					'mesh', {
+						"Meshes/FG42Bipod_FG42Bipod.m",
+						"Meshes/FG42Bipod_FG42BipodF.m",
+					},
+					'texture', {
+						"62370009688710109439",
+						"62370018443627560025",
+						"62370009688710109439",
+						"62370018443627560025",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "FG42Scope",
+					'ClassParents', {},
+					'entity_name', "FG42Scope",
+					'material', {
+						"Materials/FG42Scope_FG42Scope",
+					},
+					'mesh', {
+						"Meshes/FG42Scope_FG42Scope.m",
+					},
+					'texture', {
+						"62490017810093766927",
+						"62490004922793384407",
+						"62490025501576783125",
+						"62490033283939455181",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "FG42SightsF",
+					'ClassParents', {},
+					'entity_name', "FG42SightsF",
+					'material', {
+						"Materials/FG42SightsF_FG42SightsF",
+					},
+					'mesh', {
+						"Meshes/FG42SightsF_FG42SightsF.m",
+					},
+					'texture', {
+						"74390008435356918992",
+						"74390019019337896075",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "FG42SightsUF",
+					'ClassParents', {},
+					'entity_name', "FG42SightsUF",
+					'material', {
+						"Materials/FG42SightsUF_FG42SightsUF",
+					},
+					'mesh', {
+						"Meshes/FG42SightsUF_FG42SightsUF.m",
+					},
+					'texture', {
+						"80240007465005122628",
+						"80240017791200026693",
+					},
+				}),
+				}),
+			PlaceObj('ModItemFolder', {
+				'name', "AA52",
+			}, {
+				PlaceObj('ModItemEntity', {
+					'name', "AA52Bipod",
+					'ClassParents', {},
+					'entity_name', "AA52Bipod",
+					'material', {
+						"Materials/AA52Bipod_AA52Bipod",
+						"Materials/AA52Bipod_AA52BipodF",
+					},
+					'mesh', {
+						"Meshes/AA52Bipod_AA52Bipod.m",
+						"Meshes/AA52Bipod_AA52BipodF.m",
+					},
+					'texture', {
+						"62270002818998927207",
+						"62270011421028226660",
+						"62270024380771104279",
+						"62270002818998927207",
+						"62270011421028226660",
+						"62270024380771104279",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "AA52",
+					'ClassParents', {},
+					'entity_name', "AA52",
+					'material', {
+						"Materials/AA52_AA52",
+					},
+					'mesh', {
+						"Meshes/AA52_AA52.m",
+					},
+					'texture', {
+						"32330007373254678626",
+						"32330019460974834554",
+						"32330022670727193209",
+						"32330036236786109253",
+						"32330048283488196351",
+						"32330056339643067102",
+					},
+				}),
+				}),
 			}),
 		}),
 	PlaceObj('ModItemFolder', {

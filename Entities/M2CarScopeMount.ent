@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M2CarScopeMount">
+	<state id="idle">
+		<mesh_ref ref="M2CarScopeMount"/>
+	</state>
+	<mesh_description id="M2CarScopeMount">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M2CarScopeMount_M2CarScopeMount.m.hgm"/>
+			<material file="Materials/M2CarScopeMount_M2CarScopeMount.mtl"/>
+			<bsphere value="0.942,0.100,0.919,7.492"/>
+			<box min="-6.479,-0.458,-0.123" max="8.364,0.659,1.961"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M3_Carbine_Attachments.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

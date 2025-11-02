@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="AA52"/>
+	</state>
+	<mesh_description id="AA52">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AA52_AA52.m.hgm"/>
+			<material file="Materials/AA52_AA52.mtl"/>
+			<bsphere value="31.112,-5.759,5.628,80.679"/>
+			<box min="-48.590,-22.608,-10.792" max="110.815,11.090,22.047"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/AA52.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="20.119,0.308,11.647" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Bipod" spot_note="Bipod" spot_pos="84.552,0.363,7.748" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_note="Hand_L_Grip" spot_pos="31.830,7.729,19.077" spot_rot="0.000000,1.000000,-0.000000,90.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="109.201,0.363,11.044" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

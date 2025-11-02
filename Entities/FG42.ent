@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="FG42">
+	<state id="idle">
+		<mesh_ref ref="FG42"/>
+	</state>
+	<mesh_description id="FG42">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/FG42_FG42.m.hgm"/>
+			<material file="Materials/FG42_FG42.mtl"/>
+			<bsphere value="16.497,-5.906,2.047,53.257"/>
+			<box min="-35.461,-18.109,-7.885" max="68.454,6.298,11.980"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/FG42.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="12.681,0.306,6.348" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="107"/>
+		<attach name="Bipod" spot_note="Bipod" spot_pos="58.277,0.365,6.397" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="107"/>
+		<attach name="Hand_l_grip" spot_note="Hand_L_Grip" spot_pos="22.457,-0.025,8.026" spot_rot="-0.000000,1.000000,0.000000,90.0000" spot_scale="107"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="68.317,0.365,8.080" spot_scale="107"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="-0.388,0.433,10.941" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="107"/>
+	</mesh_description>
+</entity>

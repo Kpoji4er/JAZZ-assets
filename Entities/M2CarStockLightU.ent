@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M2CarStockLightU">
+	<state id="idle">
+		<mesh_ref ref="M2CarStockLightU"/>
+	</state>
+	<mesh_description id="M2CarStockLightU">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M2CarStockLightU_M2CarStockLightU.m.hgm"/>
+			<material file="Materials/M2CarStockLightU_M2CarStockLightU.mtl"/>
+			<bsphere value="3.200,-0.073,-4.948,40.274"/>
+			<box min="-36.012,-1.862,-14.445" max="42.412,1.716,4.548"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M3_Carbine_Attachments.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

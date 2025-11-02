@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="STG44">
+	<state id="idle">
+		<mesh_ref ref="STG44"/>
+	</state>
+	<mesh_description id="STG44">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/STG44_STG44.m.hgm"/>
+			<material file="Materials/STG44_STG44.mtl"/>
+			<bsphere value="11.075,-0.856,-2.402,47.396"/>
+			<box min="-35.015,-3.926,-18.779" max="57.166,2.215,13.974"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/STG44.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="16.253,0.515,8.137" spot_rot="-0.000000,0.000005,-0.999979,4.0325" spot_scale="101"/>
+		<attach name="Hand_l_grip" spot_note="Hand_L_Grip" spot_pos="34.925,-1.554,8.405" spot_rot="0.035161,0.998770,0.034973,269.6226" spot_scale="101"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="55.798,-3.564,7.262" spot_rot="-0.000000,0.000005,-0.999979,4.0325" spot_scale="101"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="1.256,0.365,8.894" spot_rot="-0.000000,0.000005,-0.999979,4.0325" spot_scale="101"/>
+		<attach name="Side" spot_note="Side" spot_pos="35.216,-0.798,8.477" spot_rot="0.999381,-0.035183,-0.000000,180.0000" spot_scale="101"/>
+	</mesh_description>
+</entity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M2Carbine">
+	<state id="idle">
+		<mesh_ref ref="M2Carbine"/>
+	</state>
+	<mesh_description id="M2Carbine">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M2Carbine_M2Carbine.m.hgm"/>
+			<material file="Materials/M2Carbine_M2Carbine.mtl"/>
+			<bsphere value="30.002,-0.861,2.946,33.842"/>
+			<box min="-3.662,-4.875,-1.874" max="63.665,3.154,7.766"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M3_Carbine_Attachments.fbx"/>
+		</lod>
+		<attach name="Autofire" spot_note="Autofire" spot_pos="13.619,0.003,4.786" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="12.554,0.003,4.994" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_note="Hand_L_Grip" spot_pos="25.663,-0.005,4.193" spot_rot="-0.000000,1.000000,0.000000,269.6931"/>
+		<attach name="Magazine" spot_note="Magazine" spot_pos="13.619,0.003,0.412" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Mount" spot_note="Mount" spot_pos="10.428,-0.008,6.436" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="63.407,0.000,5.798" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="10.428,-0.008,6.436" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Stock" spot_note="Stock" spot_pos="0.054,0.000,2.590" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

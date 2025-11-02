@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="MAS49">
+	<state id="idle">
+		<mesh_ref ref="MAS49"/>
+	</state>
+	<mesh_description id="MAS49">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MAS49_MAS49.m.hgm"/>
+			<material file="Materials/MAS49_MAS49.mtl"/>
+			<bsphere value="16.368,0.729,-0.967,50.243"/>
+			<box min="-32.906,-2.100,-13.003" max="65.642,3.559,11.070"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/MAS49.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="18.734,1.616,7.852" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="122"/>
+		<attach name="Hand_l_grip" spot_note="Hand_L_Grip" spot_pos="33.784,0.711,6.589" spot_rot="0.000000,1.000000,-0.000000,269.6931" spot_scale="122"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="65.188,0.064,7.372" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="122"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="27.775,0.165,8.531" spot_rot="0.000000,0.000000,1.000000,0.0000" spot_scale="122"/>
+	</mesh_description>
+</entity>

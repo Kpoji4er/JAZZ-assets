@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="M2CarNightScope">
+	<state id="idle">
+		<mesh_ref ref="M2CarNightScope"/>
+	</state>
+	<mesh_description id="M2CarNightScope">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M2CarNightScope_M2CarNightScope.m.hgm"/>
+			<material file="Materials/M2CarNightScope_M2CarNightScope.mtl"/>
+			<bsphere value="4.915,0.089,-0.092,25.534"/>
+			<box min="-15.796,-5.787,-19.923" max="25.626,5.964,19.739"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M3_Carbine_Attachments.fbx"/>
+		</lod>
+		<attach name="Hand_l_grip" spot_note="Hand_L_Grip" spot_pos="21.276,0.004,-13.547" spot_rot="0.000000,1.000000,0.000000,269.6931"/>
+	</mesh_description>
+</entity>

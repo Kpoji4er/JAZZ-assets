@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="STG44Wrap">
+	<state id="idle">
+		<mesh_ref ref="STG44Wrap"/>
+	</state>
+	<mesh_description id="STG44Wrap">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/STG44Wrap_STG44Wrap.m.hgm"/>
+			<material file="Materials/STG44Wrap_STG44Wrap.mtl"/>
+			<bsphere value="0.572,-0.788,0.096,5.854"/>
+			<box min="-5.014,-2.517,-2.452" max="6.158,0.940,2.644"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/STG44.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

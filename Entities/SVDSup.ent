@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SVDSup"/>
+	</state>
+	<mesh_description id="SVDSup">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SVDSup_SVDSup.m.hgm"/>
+			<material file="Materials/SVDSup_SVDSup.mtl"/>
+			<bsphere value="15.018,0.180,0.134,16.089"/>
+			<box min="-0.979,-1.784,-1.830" max="31.014,2.144,2.098"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

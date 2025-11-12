@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="SVDCustom"/>
+	</state>
+	<mesh_description id="SVDCustom">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SVDCustom_SVDCustom.m.hgm"/>
+			<material file="Materials/SVDCustom_SVDCustom.mtl"/>
+			<bsphere value="19.301,0.278,1.102,47.889"/>
+			<box min="-28.274,-3.134,-7.443" max="66.875,3.691,9.647"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/.fbx"/>
+		</lod>
+		<attach name="Barrel" spot_note="Barrel" spot_pos="21.636,0.308,5.646" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Hand_l_grip" spot_note="Hand_L_Grip" spot_pos="45.953,0.000,6.448" spot_rot="0.000000,1.000000,-0.000000,90.0000"/>
+		<attach name="Muzzle" spot_note="Muzzle" spot_pos="67.863,-0.180,5.502" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+		<attach name="Scope" spot_note="Scope" spot_pos="15.527,-0.020,9.276" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
+	</mesh_description>
+</entity>

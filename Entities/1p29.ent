@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="">
+	<state id="idle">
+		<mesh_ref ref="1p29"/>
+	</state>
+	<mesh_description id="1p29">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/1p29_1p29.m.hgm"/>
+			<material file="Materials/1p29_1p29.mtl"/>
+			<bsphere value="-1.278,-2.737,-0.559,22.344"/>
+			<box min="-22.593,-6.540,-8.246" max="20.036,1.066,7.128"/>
+			<src file="C:/Users/SsAnd/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/.fbx"/>
+		</lod>
+	</mesh_description>
+</entity>

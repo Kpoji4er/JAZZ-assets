@@ -4331,6 +4331,59 @@ return {
 					},
 				}),
 				}),
+			PlaceObj('ModItemFolder', {
+				'name', "SVD",
+			}, {
+				PlaceObj('ModItemEntity', {
+					'name', "SVDSup",
+					'ClassParents', {},
+					'entity_name', "SVDSup",
+					'material', {
+						"Materials/SVDSup_SVDSup",
+					},
+					'mesh', {
+						"Meshes/SVDSup_SVDSup.m",
+					},
+					'texture', {
+						"45490000307791325655",
+						"45490019794490121016",
+						"45490020606665254324",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "SVDCustom",
+					'ClassParents', {},
+					'entity_name', "SVDCustom",
+					'material', {
+						"Materials/SVDCustom_SVDCustom",
+					},
+					'mesh', {
+						"Meshes/SVDCustom_SVDCustom.m",
+					},
+					'texture', {
+						"63720007796907756515",
+						"63720013345353103803",
+						"63720029019874195412",
+						"63720033530706982757",
+						"63720046725735059605",
+					},
+				}),
+				PlaceObj('ModItemEntity', {
+					'name', "1p29",
+					'ClassParents', {},
+					'entity_name', "1p29",
+					'material', {
+						"Materials/1p29_1p29",
+					},
+					'mesh', {
+						"Meshes/1p29_1p29.m",
+					},
+					'texture', {
+						"32680009620106742885",
+						"32680018356338004402",
+					},
+				}),
+				}),
 			}),
 		}),
 	PlaceObj('ModItemFolder', {

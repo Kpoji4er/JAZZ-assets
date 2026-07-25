@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <entity path="" name="HMMWV">
+	<!-- Static mesh states for combat Unit. Replace mesh later; keep state ids stable for Idle/Walk hooks. -->
 	<state id="idle">
+		<mesh_ref ref="HMMWV"/>
+	</state>
+	<state id="Idle">
+		<mesh_ref ref="HMMWV"/>
+	</state>
+	<state id="idle_Combat">
+		<mesh_ref ref="HMMWV"/>
+	</state>
+	<state id="death">
+		<mesh_ref ref="HMMWV"/>
+	</state>
+	<state id="Death">
+		<mesh_ref ref="HMMWV"/>
+	</state>
+	<state id="walk">
+		<mesh_ref ref="HMMWV"/>
+	</state>
+	<state id="Walk">
+		<mesh_ref ref="HMMWV"/>
+	</state>
+	<state id="run">
+		<mesh_ref ref="HMMWV"/>
+	</state>
+	<state id="Run">
 		<mesh_ref ref="HMMWV"/>
 	</state>
 	<mesh_description id="HMMWV">
@@ -15,7 +40,7 @@
 		<surf type="collision" name="PVS" points="107.592,-225.969,193.849;-107.592,-225.969,-6.151;-107.592,-225.969,193.849"/>
 		<surf type="collision" name="PVS" points="-107.592,225.969,-6.151;-107.592,-225.969,193.849;-107.592,-225.969,-6.151"/>
 		<surf type="collision" name="PVS" points="-107.592,-225.969,193.849;-107.592,225.969,-6.151;-107.592,225.969,193.849"/>
-		<surf type="collision" name="PVS" points="-107.592,225.969,193.849;107.592,225.969,193.849;-107.592,-225.969,193.849"/>
+		<surf type="collision" name="PVS" points="-107.592,225.969,193.849;107.592,225.969,193.849;-107.592,225.969,193.849"/>
 		<surf type="collision" name="PVS" points="107.592,225.969,-6.151;-107.592,225.969,193.849;-107.592,225.969,-6.151"/>
 		<surf type="collision" name="PVS" points="-107.592,-225.969,-6.151;107.592,-225.969,193.849;107.592,-225.969,-6.151"/>
 		<surf type="collision" name="PVS" points="107.592,225.969,193.849;107.592,-225.969,-6.151;107.592,-225.969,193.849"/>

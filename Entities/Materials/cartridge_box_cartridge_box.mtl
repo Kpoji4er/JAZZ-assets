@@ -7,7 +7,7 @@
 		<BaseColorMap Name="8873003.dds" mc="0"/>
 		<RMMap Name="8873004.dds" mc="0"/>
 		<Property Opacity="100"/>
-		<Property ViewDependentOpacity="1"/>
+		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
 		<Property CastShadow="1"/>
 		<Property ReceiveShadow="1"/>
@@ -17,21 +17,21 @@
 		<Property TwoSidedShading="1"/>
 		<Property DisableTwoSidedNormals="0"/>
 		<Property TerrainDistortedBlendNormals="0"/>
-		<Property Translucency="1"/>
+		<Property Translucency="0"/>
 		<Property DepthWrite="1"/>
 		<Property UOffset="0.000000"/>
 		<Property VOffset="0.000000"/>
 		<Property USize="1.000000"/>
 		<Property VSize="1.000000"/>
 		<Property BlendType="None"/>
-		<Property Distortion="1"/>
-		<Property DepthSoftness="0.100000"/>
+		<Property Distortion="0"/>
+		<Property DepthSoftness="0.000000"/>
 		<Property AnimationFramesX="1"/>
 		<Property AnimationFramesY="1"/>
 		<Property AnimationTime="0"/>
 		<Property StretchFactor1="1.791744"/>
 		<Property StretchFactor2="1.000000"/>
-		<Property TerrainDistortedMesh="2"/>
+		<Property TerrainDistortedMesh="0"/>
 		<Property Deposition="0"/>
 		<Property Terrain="0"/>
 		<Property VertexColorUsage0="None"/>
@@ -44,7 +44,7 @@
 		<Property NormalMapDecal="1"/>
 		<Property RMDecal="1"/>
 		<Property SIDecal="1"/>
-		<Property SSS="1"/>
+		<Property SSS="0"/>
 		<Property Hair="0"/>
 		<Property NoDepthTestable="0"/>
 		<Property UIElement="0"/>

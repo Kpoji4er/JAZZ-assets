@@ -4,7 +4,6 @@
 		<NormalMap Name="5281000.dds" mc="0"/>
 		<SpecialMap Name="5281003.dds" mc="0"/>
 		<BaseColorMap Name="5281001.dds" mc="0"/>
-		<RMMap Name="5281002.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -56,7 +55,6 @@
 		<NormalMap Name="5281004.dds" mc="0"/>
 		<SpecialMap Name="5281007.dds" mc="0"/>
 		<BaseColorMap Name="5281005.dds" mc="0"/>
-		<RMMap Name="5281006.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

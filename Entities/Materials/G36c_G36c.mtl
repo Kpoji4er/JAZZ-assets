@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3275000.dds" mc="0"/>
-		<BaseColorMap Name="3275001.dds" mc="0"/>
+		<NormalMap Name="G36c_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="G36c_Base_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -51,8 +51,8 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3275000.dds" mc="0"/>
-		<BaseColorMap Name="3275001.dds" mc="0"/>
+		<NormalMap Name="G36c_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="G36c_Base_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -101,8 +101,8 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3275002.dds" mc="0"/>
-		<BaseColorMap Name="3275003.dds" mc="0"/>
+		<NormalMap Name="G36c_Norm.dds" mc="0"/>
+		<BaseColorMap Name="G36c_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

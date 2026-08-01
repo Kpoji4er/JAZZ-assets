@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6243001.dds" mc="0"/>
-		<AOMap Name="6243000.dds" mc="0"/>
-		<SpecialMap Name="6243004.dds" mc="0"/>
-		<BaseColorMap Name="6243002.dds" mc="0"/>
-		<RMMap Name="6243003.dds" mc="0"/>
+		<NormalMap Name="M60_Norm.dds" mc="0"/>
+		<AOMap Name="M60_AO.dds" mc="0"/>
+		<SpecialMap Name="M60_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="M60_Base.dds" mc="0"/>
+		<RMMap Name="M60_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

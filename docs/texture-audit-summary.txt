@@ -1,0 +1,12 @@
+﻿AssetsRoot=C:\Users\SsAnd\AppData\Roaming\Jagged Alliance 3\Mods\jazz_assets
+Mode=DryRun
+EntityFilter=
+Referenced=1367
+Textures=1367
+Fallbacks=1356
+UnusedTex=0
+FallbacksOnly=0
+MissingAfterRetarget=0
+RenameRows=0
+ContentDupGroups=3
+UniqueFinals=1367

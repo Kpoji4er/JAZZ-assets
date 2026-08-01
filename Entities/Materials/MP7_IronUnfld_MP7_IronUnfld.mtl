@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8720001.dds" mc="0"/>
-		<AOMap Name="8720000.dds" mc="0"/>
-		<SpecialMap Name="8720004.dds" mc="0"/>
-		<BaseColorMap Name="8720002.dds" mc="0"/>
-		<RMMap Name="8720003.dds" mc="0"/>
+		<NormalMap Name="MP7_FldStk_Norm.dds" mc="0"/>
+		<AOMap Name="MP7_FldStk_AO.dds" mc="0"/>
+		<SpecialMap Name="MP7_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="MP7_FldStk_Base.dds" mc="0"/>
+		<RMMap Name="MP7_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

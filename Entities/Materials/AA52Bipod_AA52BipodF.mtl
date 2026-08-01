@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="62270002818998927207.dds" mc="0"/>
-		<BaseColorMap Name="62270011421028226660.dds" mc="0"/>
-		<RMMap Name="62270024380771104279.dds" mc="0"/>
+		<NormalMap Name="AA52_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="AA52_Base.dds" mc="0"/>
+		<RMMap Name="AA52_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

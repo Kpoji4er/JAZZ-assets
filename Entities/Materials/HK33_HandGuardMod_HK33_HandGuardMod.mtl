@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="11010000.dds" mc="0"/>
-		<BaseColorMap Name="11010001.dds" mc="0"/>
-		<RMMap Name="11010002.dds" mc="0"/>
+		<NormalMap Name="HK_33_Norm.dds" mc="0"/>
+		<BaseColorMap Name="HK_33_Base_2.dds" mc="0"/>
+		<RMMap Name="HK_33_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -52,9 +52,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="11010003.dds" mc="0"/>
-		<BaseColorMap Name="11010004.dds" mc="0"/>
-		<RMMap Name="11010005.dds" mc="0"/>
+		<NormalMap Name="HK33_Bipod_Norm.dds" mc="0"/>
+		<BaseColorMap Name="HK33_Bipod_Base.dds" mc="0"/>
+		<RMMap Name="HK33_Bipod_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

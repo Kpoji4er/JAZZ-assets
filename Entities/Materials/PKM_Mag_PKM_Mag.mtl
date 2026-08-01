@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="5104001.dds" mc="0"/>
-		<AOMap Name="5104000.dds" mc="0"/>
-		<SpecialMap Name="5104003.dds" mc="0"/>
-		<BaseColorMap Name="5104002.dds" mc="0"/>
+		<NormalMap Name="PKM_Mag_Norm_2.dds" mc="0"/>
+		<AOMap Name="PKM_Mag_AO_2.dds" mc="0"/>
+		<SpecialMap Name="PKM_Mag_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="PKM_Mag_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -53,11 +53,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="5104005.dds" mc="0"/>
-		<AOMap Name="5104004.dds" mc="0"/>
-		<SpecialMap Name="5104008.dds" mc="0"/>
-		<BaseColorMap Name="5104006.dds" mc="0"/>
-		<RMMap Name="5104007.dds" mc="0"/>
+		<NormalMap Name="PKM_Mag_Norm.dds" mc="0"/>
+		<AOMap Name="PKM_Mag_AO.dds" mc="0"/>
+		<SpecialMap Name="Tex_Rev_SPEC_3.dds" mc="0"/>
+		<BaseColorMap Name="PKM_Mag_Base_2.dds" mc="0"/>
+		<RMMap Name="PKM_Mag_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

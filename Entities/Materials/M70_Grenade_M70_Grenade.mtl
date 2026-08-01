@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="7469001.dds" mc="0"/>
-		<AOMap Name="7469000.dds" mc="0"/>
-		<SpecialMap Name="7469004.dds" mc="0"/>
-		<BaseColorMap Name="7469002.dds" mc="0"/>
-		<RMMap Name="7469003.dds" mc="0"/>
+		<NormalMap Name="M70_Grenade_Norm.dds" mc="0"/>
+		<AOMap Name="M70_Grenade_AO.dds" mc="0"/>
+		<SpecialMap Name="M70_Grenade_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="M70_Grenade_Base.dds" mc="0"/>
+		<RMMap Name="M70_Grenade_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

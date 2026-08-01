@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9381000.dds" mc="0"/>
-		<BaseColorMap Name="9381001.dds" mc="0"/>
-		<RMMap Name="9381002.dds" mc="0"/>
+		<NormalMap Name="Trench_Shovel1_Norm.dds" mc="0"/>
+		<BaseColorMap Name="Trench_Shovel1_Base.dds" mc="0"/>
+		<RMMap Name="Trench_Shovel1_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

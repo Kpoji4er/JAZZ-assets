@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="4589001.dds" mc="0"/>
-		<AOMap Name="4589000.dds" mc="0"/>
-		<BaseColorMap Name="4589002.dds" mc="0"/>
-		<RMMap Name="4589003.dds" mc="0"/>
+		<NormalMap Name="Garand_Norm.dds" mc="0"/>
+		<AOMap Name="Garand_AO.dds" mc="0"/>
+		<BaseColorMap Name="Garand_Base.dds" mc="0"/>
+		<RMMap Name="Garand_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

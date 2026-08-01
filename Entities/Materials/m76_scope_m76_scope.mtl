@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6351001.dds" mc="0"/>
-		<AOMap Name="6351000.dds" mc="0"/>
-		<BaseColorMap Name="6351002.dds" mc="0"/>
-		<RMMap Name="6351003.dds" mc="0"/>
+		<NormalMap Name="m76_scope_Norm.dds" mc="0"/>
+		<AOMap Name="m76_scope_AO.dds" mc="0"/>
+		<BaseColorMap Name="m76_scope_Base.dds" mc="0"/>
+		<RMMap Name="m76_scope_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

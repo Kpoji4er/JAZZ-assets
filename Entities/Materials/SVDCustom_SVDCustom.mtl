@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="63720007796907756515.dds" mc="0"/>
-		<SIMap Name="63720013345353103803.dds" mc="0"/>
-		<BaseColorMap Name="63720029019874195412.dds" mc="0"/>
+		<NormalMap Name="SVDCustom_Norm.dds" mc="0"/>
+		<SIMap Name="SVDCustom_SI_2.dds" mc="0"/>
+		<BaseColorMap Name="SVDCustom_Base_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -52,8 +52,8 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<SIMap Name="63720033530706982757.dds" mc="0"/>
-		<BaseColorMap Name="63720046725735059605.dds" mc="0"/>
+		<SIMap Name="SVDCustom_SI.dds" mc="0"/>
+		<BaseColorMap Name="SVDCustom_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

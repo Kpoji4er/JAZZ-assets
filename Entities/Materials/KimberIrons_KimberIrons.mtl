@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="76250008562128854935.dds" mc="0"/>
-		<BaseColorMap Name="76250016593819508511.dds" mc="0"/>
-		<RMMap Name="76250025393799407503.dds" mc="0"/>
+		<NormalMap Name="KimberIrons_Norm.dds" mc="0"/>
+		<BaseColorMap Name="KimberIrons_Base.dds" mc="0"/>
+		<RMMap Name="KimberIrons_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

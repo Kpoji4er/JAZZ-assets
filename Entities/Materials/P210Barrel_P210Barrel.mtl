@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="68270014474775069730.dds" mc="0"/>
-		<AOMap Name="68270006238002103648.dds" mc="0"/>
-		<BaseColorMap Name="68270028903009490444.dds" mc="0"/>
-		<RMMap Name="68270030182792203329.dds" mc="0"/>
+		<NormalMap Name="P210_Norm.dds" mc="0"/>
+		<AOMap Name="P210_AO.dds" mc="0"/>
+		<BaseColorMap Name="P210_Base.dds" mc="0"/>
+		<RMMap Name="P210_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -53,10 +53,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="68270056903251086489.dds" mc="0"/>
-		<AOMap Name="68270047917316128551.dds" mc="0"/>
-		<BaseColorMap Name="68270060611162075923.dds" mc="0"/>
-		<RMMap Name="68270079971119948788.dds" mc="0"/>
+		<NormalMap Name="P210Barrel_Norm.dds" mc="0"/>
+		<AOMap Name="P210Barrel_AO.dds" mc="0"/>
+		<BaseColorMap Name="P210Barrel_Base.dds" mc="0"/>
+		<RMMap Name="P210Barrel_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

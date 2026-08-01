@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8746001.dds" mc="0"/>
-		<AOMap Name="8746000.dds" mc="0"/>
-		<SIMap Name="8746002.dds" mc="0"/>
-		<SpecialMap Name="8746005.dds" mc="0"/>
-		<BaseColorMap Name="8746003.dds" mc="0"/>
-		<RMMap Name="8746004.dds" mc="0"/>
+		<NormalMap Name="G3SimpleScope_Norm.dds" mc="0"/>
+		<AOMap Name="G3SimpleScope_AO.dds" mc="0"/>
+		<SIMap Name="G3SimpleScope_SI.dds" mc="0"/>
+		<SpecialMap Name="G3SimpleScope_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="G3SimpleScope_Base.dds" mc="0"/>
+		<RMMap Name="G3SimpleScope_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

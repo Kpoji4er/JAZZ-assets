@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8144004.dds" mc="0"/>
-		<SpecialMap Name="8144007.dds" mc="0"/>
-		<BaseColorMap Name="8144005.dds" mc="0"/>
-		<RMMap Name="8144006.dds" mc="0"/>
+		<NormalMap Name="UMP45_Norm.dds" mc="0"/>
+		<SpecialMap Name="UMP45_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="UMP45_Base.dds" mc="0"/>
+		<RMMap Name="UMP45_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

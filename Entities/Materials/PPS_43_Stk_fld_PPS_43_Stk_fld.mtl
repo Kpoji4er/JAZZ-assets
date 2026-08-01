@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9247001.dds" mc="0"/>
-		<AOMap Name="9247000.dds" mc="0"/>
-		<BaseColorMap Name="9247002.dds" mc="0"/>
-		<RMMap Name="9247003.dds" mc="0"/>
+		<NormalMap Name="PPS_43_Norm.dds" mc="0"/>
+		<AOMap Name="PPS_43_AO.dds" mc="0"/>
+		<BaseColorMap Name="PPS_43_Base.dds" mc="0"/>
+		<RMMap Name="PPS_43_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

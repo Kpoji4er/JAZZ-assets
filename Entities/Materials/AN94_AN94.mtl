@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3252003.dds" mc="0"/>
-		<SIMap Name="3252007.dds" mc="0"/>
-		<SpecialMap Name="3252011.dds" mc="0"/>
-		<BaseColorMap Name="3252009.dds" mc="0"/>
-		<RMMap Name="3252010.dds" mc="0"/>
+		<NormalMap Name="AN94_Norm_2.dds" mc="0"/>
+		<SIMap Name="AN94_SI.dds" mc="0"/>
+		<SpecialMap Name="AN94_SPEC_2.dds" mc="0"/>
+		<BaseColorMap Name="AN94_Base.dds" mc="0"/>
+		<RMMap Name="AN94_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,10 +54,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3252012.dds" mc="0"/>
-		<SpecialMap Name="3252015.dds" mc="0"/>
-		<BaseColorMap Name="3252013.dds" mc="0"/>
-		<RMMap Name="3252014.dds" mc="0"/>
+		<NormalMap Name="AN94_Norm.dds" mc="0"/>
+		<SpecialMap Name="AN94_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="AN94_Base_2.dds" mc="0"/>
+		<RMMap Name="AN94_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

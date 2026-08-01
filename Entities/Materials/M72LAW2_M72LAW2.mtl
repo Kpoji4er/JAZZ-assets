@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="4960000.dds" mc="0"/>
-		<BaseColorMap Name="4960001.dds" mc="0"/>
-		<RMMap Name="4960002.dds" mc="0"/>
+		<NormalMap Name="M72LAW2_Norm.dds" mc="0"/>
+		<BaseColorMap Name="M72LAW2_Base.dds" mc="0"/>
+		<RMMap Name="M72LAW2_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

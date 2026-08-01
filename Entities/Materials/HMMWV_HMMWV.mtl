@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3899000.dds" mc="0"/>
-		<SIMap Name="3899001.dds" mc="0"/>
-		<BaseColorMap Name="3899002.dds" mc="0"/>
-		<RMMap Name="3899003.dds" mc="0"/>
+		<NormalMap Name="HMMWV_Norm.dds" mc="0"/>
+		<SIMap Name="HMMWV_SI_2.dds" mc="0"/>
+		<BaseColorMap Name="HMMWV_Base_5.dds" mc="0"/>
+		<RMMap Name="HMMWV_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -53,7 +53,7 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<BaseColorMap Name="3899004.dds" mc="0"/>
+		<BaseColorMap Name="HMMWV_Base_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -102,8 +102,8 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3899005.dds" mc="0"/>
-		<BaseColorMap Name="3899006.dds" mc="0"/>
+		<NormalMap Name="HMMWV_Norm_3.dds" mc="0"/>
+		<BaseColorMap Name="HMMWV_Base_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -152,8 +152,8 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<SIMap Name="3899007.dds" mc="0"/>
-		<BaseColorMap Name="3899008.dds" mc="0"/>
+		<SIMap Name="HMMWV_SI.dds" mc="0"/>
+		<BaseColorMap Name="HMMWV_Base_4.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -202,9 +202,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3899009.dds" mc="0"/>
-		<BaseColorMap Name="3899010.dds" mc="0"/>
-		<RMMap Name="3899011.dds" mc="0"/>
+		<NormalMap Name="HMMWV_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="HMMWV_Base.dds" mc="0"/>
+		<RMMap Name="HMMWV_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

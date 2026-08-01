@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="74170013489829620888.dds" mc="0"/>
-		<AOMap Name="74170004074068991448.dds" mc="0"/>
-		<SIMap Name="74170020533234993921.dds" mc="0"/>
-		<BaseColorMap Name="74170033455116386569.dds" mc="0"/>
-		<RMMap Name="74170049270799631293.dds" mc="0"/>
+		<NormalMap Name="P226ff_Norm_4.dds" mc="0"/>
+		<AOMap Name="P226ff_AO.dds" mc="0"/>
+		<SIMap Name="P226ff_SI.dds" mc="0"/>
+		<BaseColorMap Name="P226ff_Base.dds" mc="0"/>
+		<RMMap Name="P226ff_RM_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,11 +54,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="74170066058579413322.dds" mc="0"/>
-		<AOMap Name="74170054686522131127.dds" mc="0"/>
-		<SIMap Name="74170077773593112366.dds" mc="0"/>
-		<BaseColorMap Name="74170086816866447810.dds" mc="0"/>
-		<RMMap Name="74170098326912234064.dds" mc="0"/>
+		<NormalMap Name="P226ff_Norm_3.dds" mc="0"/>
+		<AOMap Name="P226ff_AO_2.dds" mc="0"/>
+		<SIMap Name="P226ff_SI_2.dds" mc="0"/>
+		<BaseColorMap Name="P226ff_Base_3.dds" mc="0"/>
+		<RMMap Name="P226ff_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -107,11 +107,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="74170117764668206398.dds" mc="0"/>
-		<AOMap Name="74170104413911588113.dds" mc="0"/>
-		<SIMap Name="74170124467466952292.dds" mc="0"/>
-		<BaseColorMap Name="74170136942586869008.dds" mc="0"/>
-		<RMMap Name="74170148658596496612.dds" mc="0"/>
+		<NormalMap Name="P226ff_Norm_2.dds" mc="0"/>
+		<AOMap Name="P226ff_AO_3.dds" mc="0"/>
+		<SIMap Name="P226ff_SI_3.dds" mc="0"/>
+		<BaseColorMap Name="P226ff_Base_2.dds" mc="0"/>
+		<RMMap Name="P226ff_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -160,11 +160,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="74170163081396614249.dds" mc="0"/>
-		<AOMap Name="74170154302261476181.dds" mc="0"/>
-		<SIMap Name="74170179078522639919.dds" mc="0"/>
-		<BaseColorMap Name="74170188353041758197.dds" mc="0"/>
-		<RMMap Name="74170196557452715312.dds" mc="0"/>
+		<NormalMap Name="P226ff_Norm.dds" mc="0"/>
+		<AOMap Name="P226ff_AO_4.dds" mc="0"/>
+		<SIMap Name="P226ff_SI_4.dds" mc="0"/>
+		<BaseColorMap Name="P226ff_Base_4.dds" mc="0"/>
+		<RMMap Name="P226ff_RM_4.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6820001.dds" mc="0"/>
-		<AOMap Name="6820000.dds" mc="0"/>
-		<SIMap Name="6820002.dds" mc="0"/>
-		<SpecialMap Name="6820005.dds" mc="0"/>
-		<BaseColorMap Name="6820003.dds" mc="0"/>
-		<RMMap Name="6820004.dds" mc="0"/>
+		<NormalMap Name="CAR15Light_Norm.dds" mc="0"/>
+		<AOMap Name="CAR15Light_AO.dds" mc="0"/>
+		<SIMap Name="CAR15Light_SI.dds" mc="0"/>
+		<SpecialMap Name="CAR15Light_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="CAR15Light_Base.dds" mc="0"/>
+		<RMMap Name="CAR15Light_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -55,12 +55,12 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="6820001.dds" mc="0"/>
-		<AOMap Name="6820000.dds" mc="0"/>
-		<SIMap Name="6820002.dds" mc="0"/>
-		<SpecialMap Name="6820005.dds" mc="0"/>
-		<BaseColorMap Name="6820003.dds" mc="0"/>
-		<RMMap Name="6820004.dds" mc="0"/>
+		<NormalMap Name="CAR15Light_Norm.dds" mc="0"/>
+		<AOMap Name="CAR15Light_AO.dds" mc="0"/>
+		<SIMap Name="CAR15Light_SI.dds" mc="0"/>
+		<SpecialMap Name="CAR15Light_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="CAR15Light_Base.dds" mc="0"/>
+		<RMMap Name="CAR15Light_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

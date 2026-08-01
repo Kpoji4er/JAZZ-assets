@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="5723006.dds" mc="0"/>
-		<AOMap Name="5723005.dds" mc="0"/>
-		<SpecialMap Name="5723009.dds" mc="0"/>
-		<BaseColorMap Name="5723007.dds" mc="0"/>
-		<RMMap Name="5723008.dds" mc="0"/>
+		<NormalMap Name="PPSHDrum_Norm.dds" mc="0"/>
+		<AOMap Name="PPSHDrum_AO.dds" mc="0"/>
+		<SpecialMap Name="PPSHDrum_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="PPSHDrum_Base.dds" mc="0"/>
+		<RMMap Name="PPSHDrum_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

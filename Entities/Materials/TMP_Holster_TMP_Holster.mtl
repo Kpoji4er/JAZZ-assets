@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="7573001.dds" mc="0"/>
-		<AOMap Name="7573000.dds" mc="0"/>
-		<SpecialMap Name="7573004.dds" mc="0"/>
-		<BaseColorMap Name="7573002.dds" mc="0"/>
-		<RMMap Name="7573003.dds" mc="0"/>
+		<NormalMap Name="TMP_Holster_Norm.dds" mc="0"/>
+		<AOMap Name="TMP_Holster_AO.dds" mc="0"/>
+		<SpecialMap Name="TMP_Holster_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="TMP_Holster_Base.dds" mc="0"/>
+		<RMMap Name="TMP_Holster_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

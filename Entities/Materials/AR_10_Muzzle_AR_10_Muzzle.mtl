@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8081000.dds" mc="0"/>
-		<BaseColorMap Name="8081001.dds" mc="0"/>
-		<RMMap Name="8081002.dds" mc="0"/>
+		<NormalMap Name="AR10_Auto_Norm.dds" mc="0"/>
+		<BaseColorMap Name="AR10_Auto_Base.dds" mc="0"/>
+		<RMMap Name="AR10_Auto_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

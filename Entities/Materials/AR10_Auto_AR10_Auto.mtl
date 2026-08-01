@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6248000.dds" mc="0"/>
-		<BaseColorMap Name="6248001.dds" mc="0"/>
-		<RMMap Name="6248002.dds" mc="0"/>
+		<NormalMap Name="AR10_Auto_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="AR10_Auto_Base_2.dds" mc="0"/>
+		<RMMap Name="AR10_Auto_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -52,9 +52,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="6248003.dds" mc="0"/>
-		<BaseColorMap Name="6248004.dds" mc="0"/>
-		<RMMap Name="6248005.dds" mc="0"/>
+		<NormalMap Name="AR10_Auto_Norm.dds" mc="0"/>
+		<BaseColorMap Name="AR10_Auto_Base.dds" mc="0"/>
+		<RMMap Name="AR10_Auto_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

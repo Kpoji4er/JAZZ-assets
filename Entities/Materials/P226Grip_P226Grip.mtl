@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="56360017243118943221.dds" mc="0"/>
-		<AOMap Name="56360007393209530220.dds" mc="0"/>
-		<SIMap Name="56360021448392558394.dds" mc="0"/>
-		<BaseColorMap Name="56360036012461908042.dds" mc="0"/>
-		<RMMap Name="56360048640291317019.dds" mc="0"/>
+		<NormalMap Name="P226Grip_Norm.dds" mc="0"/>
+		<AOMap Name="P226Grip_AO.dds" mc="0"/>
+		<SIMap Name="P226Grip_SI.dds" mc="0"/>
+		<BaseColorMap Name="P226Grip_Base.dds" mc="0"/>
+		<RMMap Name="P226Grip_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

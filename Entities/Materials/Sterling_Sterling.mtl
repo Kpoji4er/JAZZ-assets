@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="5840001.dds" mc="0"/>
-		<BaseColorMap Name="5840014.dds" mc="0"/>
+		<NormalMap Name="Sterling_Norm.dds" mc="0"/>
+		<BaseColorMap Name="Sterling_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

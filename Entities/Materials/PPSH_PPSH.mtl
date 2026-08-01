@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3315001.dds" mc="0"/>
-		<AOMap Name="3315000.dds" mc="0"/>
-		<SpecialMap Name="3315004.dds" mc="0"/>
-		<BaseColorMap Name="3315002.dds" mc="0"/>
-		<RMMap Name="3315003.dds" mc="0"/>
+		<NormalMap Name="PPSH_Norm.dds" mc="0"/>
+		<AOMap Name="PPSH_AO.dds" mc="0"/>
+		<SpecialMap Name="PPSH_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="PPSH_Base.dds" mc="0"/>
+		<RMMap Name="PPSH_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3853001.dds" mc="0"/>
-		<AOMap Name="3853000.dds" mc="0"/>
-		<SpecialMap Name="3853004.dds" mc="0"/>
-		<BaseColorMap Name="3853002.dds" mc="0"/>
-		<RMMap Name="3853003.dds" mc="0"/>
+		<NormalMap Name="USP45_Norm.dds" mc="0"/>
+		<AOMap Name="USP45_AO.dds" mc="0"/>
+		<SpecialMap Name="USP45_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="USP45_Base.dds" mc="0"/>
+		<RMMap Name="USP45_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

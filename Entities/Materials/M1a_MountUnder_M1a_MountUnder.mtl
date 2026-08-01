@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9359001.dds" mc="0"/>
-		<AOMap Name="9359000.dds" mc="0"/>
-		<BaseColorMap Name="9359002.dds" mc="0"/>
-		<RMMap Name="9359003.dds" mc="0"/>
+		<NormalMap Name="M1a_MountUnder_Norm.dds" mc="0"/>
+		<AOMap Name="M1a_MountUnder_AO.dds" mc="0"/>
+		<BaseColorMap Name="M1a_MountUnder_Base.dds" mc="0"/>
+		<RMMap Name="M1a_MountUnder_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

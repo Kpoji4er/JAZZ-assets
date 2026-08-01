@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6354001.dds" mc="0"/>
-		<AOMap Name="6354000.dds" mc="0"/>
-		<SpecialMap Name="6354004.dds" mc="0"/>
-		<BaseColorMap Name="6354002.dds" mc="0"/>
-		<RMMap Name="6354003.dds" mc="0"/>
+		<NormalMap Name="SVT_Byonet_Norm.dds" mc="0"/>
+		<AOMap Name="SVT_Byonet_AO.dds" mc="0"/>
+		<SpecialMap Name="SVT_Byonet_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="SVT_Byonet_Base.dds" mc="0"/>
+		<RMMap Name="SVT_Byonet_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

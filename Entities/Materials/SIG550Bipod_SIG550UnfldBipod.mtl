@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="7375001.dds" mc="0"/>
-		<AOMap Name="7375000.dds" mc="0"/>
-		<SIMap Name="7375002.dds" mc="0"/>
-		<SpecialMap Name="7375005.dds" mc="0"/>
-		<BaseColorMap Name="7375003.dds" mc="0"/>
-		<RMMap Name="7375004.dds" mc="0"/>
+		<NormalMap Name="Sig550_Norm_2.dds" mc="0"/>
+		<AOMap Name="Sig550_AO_3.dds" mc="0"/>
+		<SIMap Name="Sig550_SI.dds" mc="0"/>
+		<SpecialMap Name="Sig550_SPEC_2.dds" mc="0"/>
+		<BaseColorMap Name="Sig550_Base_2.dds" mc="0"/>
+		<RMMap Name="Sig550_RM_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3241001.dds" mc="0"/>
-		<AOMap Name="3241000.dds" mc="0"/>
-		<SIMap Name="3241002.dds" mc="0"/>
-		<SpecialMap Name="3241005.dds" mc="0"/>
-		<BaseColorMap Name="3241003.dds" mc="0"/>
-		<RMMap Name="3241004.dds" mc="0"/>
+		<NormalMap Name="R870_Norm_2.dds" mc="0"/>
+		<AOMap Name="R870_AO.dds" mc="0"/>
+		<SIMap Name="R870_SI.dds" mc="0"/>
+		<SpecialMap Name="R870_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="R870_Base_2.dds" mc="0"/>
+		<RMMap Name="R870_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -55,11 +55,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3241007.dds" mc="0"/>
-		<AOMap Name="3241006.dds" mc="0"/>
-		<SpecialMap Name="3241010.dds" mc="0"/>
-		<BaseColorMap Name="3241008.dds" mc="0"/>
-		<RMMap Name="3241009.dds" mc="0"/>
+		<NormalMap Name="R870_Norm.dds" mc="0"/>
+		<AOMap Name="R870_AO_2.dds" mc="0"/>
+		<SpecialMap Name="R870_SPEC_2.dds" mc="0"/>
+		<BaseColorMap Name="R870_Base.dds" mc="0"/>
+		<RMMap Name="R870_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

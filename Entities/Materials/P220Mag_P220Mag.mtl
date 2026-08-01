@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="50050018030342055205.dds" mc="0"/>
-		<AOMap Name="50050004890563271441.dds" mc="0"/>
-		<BaseColorMap Name="50050023517181577023.dds" mc="0"/>
+		<NormalMap Name="P220Mag_Norm.dds" mc="0"/>
+		<AOMap Name="P220Mag_AO.dds" mc="0"/>
+		<BaseColorMap Name="P220Mag_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

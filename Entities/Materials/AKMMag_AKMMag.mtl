@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="4494000.dds" mc="0"/>
-		<SpecialMap Name="4494003.dds" mc="0"/>
-		<BaseColorMap Name="4494001.dds" mc="0"/>
-		<RMMap Name="4494002.dds" mc="0"/>
+		<NormalMap Name="AKMMag_Norm.dds" mc="0"/>
+		<SpecialMap Name="AKMMag_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="AKMMag_Base.dds" mc="0"/>
+		<RMMap Name="AKMMag_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="7520000.dds" mc="0"/>
-		<BaseColorMap Name="7520001.dds" mc="0"/>
-		<RMMap Name="7520002.dds" mc="0"/>
+		<NormalMap Name="VSS_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="VSS_Base.dds" mc="0"/>
+		<RMMap Name="VSS_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -52,9 +52,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="7520003.dds" mc="0"/>
-		<BaseColorMap Name="7520004.dds" mc="0"/>
-		<RMMap Name="7520005.dds" mc="0"/>
+		<NormalMap Name="VSS_Norm.dds" mc="0"/>
+		<BaseColorMap Name="VSS_Base_2.dds" mc="0"/>
+		<RMMap Name="VSS_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

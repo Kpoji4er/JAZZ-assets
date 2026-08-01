@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="57180008742190801605.dds" mc="0"/>
-		<BaseColorMap Name="57180010271285141146.dds" mc="0"/>
-		<RMMap Name="57180023917724405506.dds" mc="0"/>
+		<NormalMap Name="ZF4Scope_Norm.dds" mc="0"/>
+		<BaseColorMap Name="ZF4Scope_Base.dds" mc="0"/>
+		<RMMap Name="ZF4Scope_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

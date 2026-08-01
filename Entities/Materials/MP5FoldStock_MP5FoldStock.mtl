@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9342001.dds" mc="0"/>
-		<AOMap Name="9342000.dds" mc="0"/>
-		<SpecialMap Name="9342004.dds" mc="0"/>
-		<BaseColorMap Name="9342002.dds" mc="0"/>
-		<RMMap Name="9342003.dds" mc="0"/>
+		<NormalMap Name="MP5SD_Norm.dds" mc="0"/>
+		<AOMap Name="MP5SD_AO.dds" mc="0"/>
+		<SpecialMap Name="MP5SD_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="MP5SD_Base.dds" mc="0"/>
+		<RMMap Name="MP5SD_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3285001.dds" mc="0"/>
-		<SpecialMap Name="3285006.dds" mc="0"/>
-		<AOMap Name="3285000.dds" mc="0"/>
-		<SIMap Name="3285002.dds" mc="0"/>
-		<SpecialMap Name="3285005.dds" mc="0"/>
-		<BaseColorMap Name="3285003.dds" mc="0"/>
-		<RMMap Name="3285004.dds" mc="0"/>
+		<NormalMap Name="PKAA_Norm.dds" mc="0"/>
+		<SpecialMap Name="PKAA_SPEC.dds" mc="0"/>
+		<AOMap Name="PKAA_AO.dds" mc="0"/>
+		<SIMap Name="PKAA_SI.dds" mc="0"/>
+		<SpecialMap Name="PKAA_SPEC_2.dds" mc="0"/>
+		<BaseColorMap Name="PKAA_Base.dds" mc="0"/>
+		<RMMap Name="PKAA_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

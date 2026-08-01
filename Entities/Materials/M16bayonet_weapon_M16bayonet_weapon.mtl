@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="11179001.dds" mc="0"/>
-		<AOMap Name="11179000.dds" mc="0"/>
-		<SpecialMap Name="11179004.dds" mc="0"/>
-		<BaseColorMap Name="11179002.dds" mc="0"/>
-		<RMMap Name="11179003.dds" mc="0"/>
+		<NormalMap Name="M16Bayonet_Norm.dds" mc="0"/>
+		<AOMap Name="M16Bayonet_AO.dds" mc="0"/>
+		<SpecialMap Name="M16Bayonet_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="M16Bayonet_Base.dds" mc="0"/>
+		<RMMap Name="M16Bayonet_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

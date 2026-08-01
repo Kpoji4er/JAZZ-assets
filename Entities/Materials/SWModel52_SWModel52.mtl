@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="62700017474530998201.dds" mc="0"/>
-		<AOMap Name="62700005155907356451.dds" mc="0"/>
-		<SIMap Name="62700020838624088529.dds" mc="0"/>
-		<BaseColorMap Name="62700035153160617758.dds" mc="0"/>
-		<RMMap Name="62700041172911148667.dds" mc="0"/>
+		<NormalMap Name="SWModel52_Norm.dds" mc="0"/>
+		<AOMap Name="SWModel52_AO_2.dds" mc="0"/>
+		<SIMap Name="SWModel52_SI.dds" mc="0"/>
+		<BaseColorMap Name="SWModel52_Base.dds" mc="0"/>
+		<RMMap Name="SWModel52_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,11 +54,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="62700065760936256496.dds" mc="0"/>
-		<AOMap Name="62700051730320927631.dds" mc="0"/>
-		<SIMap Name="62700072463166255092.dds" mc="0"/>
-		<BaseColorMap Name="62700083943926139718.dds" mc="0"/>
-		<RMMap Name="62700092067821872585.dds" mc="0"/>
+		<NormalMap Name="SWModel52_Norm_2.dds" mc="0"/>
+		<AOMap Name="SWModel52_AO.dds" mc="0"/>
+		<SIMap Name="SWModel52_SI_2.dds" mc="0"/>
+		<BaseColorMap Name="SWModel52_Base_2.dds" mc="0"/>
+		<RMMap Name="SWModel52_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

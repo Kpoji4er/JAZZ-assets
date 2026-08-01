@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3872001.dds" mc="0"/>
-		<AOMap Name="3872000.dds" mc="0"/>
-		<SpecialMap Name="3872004.dds" mc="0"/>
-		<BaseColorMap Name="3872002.dds" mc="0"/>
-		<RMMap Name="3872003.dds" mc="0"/>
+		<NormalMap Name="TT33f_Norm.dds" mc="0"/>
+		<AOMap Name="TT33f_AO.dds" mc="0"/>
+		<SpecialMap Name="TT33f_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="TT33f_Base.dds" mc="0"/>
+		<RMMap Name="TT33f_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="58210002118835805129.dds" mc="0"/>
-		<BaseColorMap Name="58210012775324748880.dds" mc="0"/>
-		<RMMap Name="58210029149976562240.dds" mc="0"/>
+		<NormalMap Name="KorthRev_Norm.dds" mc="0"/>
+		<BaseColorMap Name="KorthRev_Base.dds" mc="0"/>
+		<RMMap Name="KorthRev_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6161013.dds" mc="0"/>
-		<AOMap Name="6161012.dds" mc="0"/>
-		<BaseColorMap Name="6161002.dds" mc="0"/>
-		<RMMap Name="6161014.dds" mc="0"/>
+		<NormalMap Name="AR_10_DMR_Norm_2.dds" mc="0"/>
+		<AOMap Name="AR_10_DMR_AO_3.dds" mc="0"/>
+		<BaseColorMap Name="AR_10_DMR_Base.dds" mc="0"/>
+		<RMMap Name="AR_10_DMR_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -53,10 +53,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="6161005.dds" mc="0"/>
-		<AOMap Name="6161004.dds" mc="0"/>
-		<BaseColorMap Name="6161006.dds" mc="0"/>
-		<RMMap Name="6161007.dds" mc="0"/>
+		<NormalMap Name="AR_10_DMR_Norm_3.dds" mc="0"/>
+		<AOMap Name="AR_10_DMR_AO_2.dds" mc="0"/>
+		<BaseColorMap Name="AR_10_DMR_Base_3.dds" mc="0"/>
+		<RMMap Name="AR_10_DMR_RM_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -105,10 +105,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="6161009.dds" mc="0"/>
-		<AOMap Name="6161008.dds" mc="0"/>
-		<BaseColorMap Name="6161010.dds" mc="0"/>
-		<RMMap Name="6161011.dds" mc="0"/>
+		<NormalMap Name="AR_10_DMR_Norm.dds" mc="0"/>
+		<AOMap Name="AR_10_DMR_AO.dds" mc="0"/>
+		<BaseColorMap Name="AR_10_DMR_Base_2.dds" mc="0"/>
+		<RMMap Name="AR_10_DMR_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

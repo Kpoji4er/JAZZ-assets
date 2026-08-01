@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="88000010294861800433.dds" mc="0"/>
-		<AOMap Name="88000005874961576012.dds" mc="0"/>
-		<BaseColorMap Name="88000026086151895937.dds" mc="0"/>
-		<RMMap Name="88000039199704927961.dds" mc="0"/>
+		<NormalMap Name="DeLisle_Norm.dds" mc="0"/>
+		<AOMap Name="DeLisle_AO.dds" mc="0"/>
+		<BaseColorMap Name="DeLisle_Base.dds" mc="0"/>
+		<RMMap Name="DeLisle_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -53,10 +53,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="88000010294861800433.dds" mc="0"/>
-		<AOMap Name="88000005874961576012.dds" mc="0"/>
-		<BaseColorMap Name="88000026086151895937.dds" mc="0"/>
-		<RMMap Name="88000039199704927961.dds" mc="0"/>
+		<NormalMap Name="DeLisle_Norm.dds" mc="0"/>
+		<AOMap Name="DeLisle_AO.dds" mc="0"/>
+		<BaseColorMap Name="DeLisle_Base.dds" mc="0"/>
+		<RMMap Name="DeLisle_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

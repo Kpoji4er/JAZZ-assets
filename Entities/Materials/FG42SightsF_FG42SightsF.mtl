@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="74390008435356918992.dds" mc="0"/>
-		<BaseColorMap Name="74390019019337896075.dds" mc="0"/>
+		<NormalMap Name="FG42_Norm.dds" mc="0"/>
+		<BaseColorMap Name="FG42_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

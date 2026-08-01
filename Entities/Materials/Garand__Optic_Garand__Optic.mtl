@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8790001.dds" mc="0"/>
-		<AOMap Name="8790000.dds" mc="0"/>
-		<BaseColorMap Name="8790002.dds" mc="0"/>
-		<RMMap Name="8790003.dds" mc="0"/>
+		<NormalMap Name="Garand_Optic_Norm.dds" mc="0"/>
+		<AOMap Name="Garand_Optic_AO.dds" mc="0"/>
+		<BaseColorMap Name="Garand_Optic_Base.dds" mc="0"/>
+		<RMMap Name="Garand_Optic_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

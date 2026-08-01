@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<SIMap Name="32680009620106742885.dds" mc="0"/>
-		<BaseColorMap Name="32680018356338004402.dds" mc="0"/>
+		<SIMap Name="1p29_SI.dds" mc="0"/>
+		<BaseColorMap Name="1p29_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

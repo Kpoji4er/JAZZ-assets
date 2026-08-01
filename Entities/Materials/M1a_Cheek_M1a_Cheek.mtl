@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6298001.dds" mc="0"/>
-		<AOMap Name="6298000.dds" mc="0"/>
-		<SpecialMap Name="6298004.dds" mc="0"/>
-		<BaseColorMap Name="6298002.dds" mc="0"/>
-		<RMMap Name="6298003.dds" mc="0"/>
+		<NormalMap Name="M1a_Cheek_Norm.dds" mc="0"/>
+		<AOMap Name="M1a_Cheek_AO.dds" mc="0"/>
+		<SpecialMap Name="M1a_Cheek_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="M1a_Cheek_Base.dds" mc="0"/>
+		<RMMap Name="M1a_Cheek_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="4599001.dds" mc="0"/>
-		<AOMap Name="4599000.dds" mc="0"/>
-		<SpecialMap Name="4599004.dds" mc="0"/>
-		<BaseColorMap Name="4599002.dds" mc="0"/>
-		<RMMap Name="4599003.dds" mc="0"/>
+		<NormalMap Name="Grease_Norm.dds" mc="0"/>
+		<AOMap Name="Grease_AO.dds" mc="0"/>
+		<SpecialMap Name="Grease_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="Grease_Base.dds" mc="0"/>
+		<RMMap Name="Grease_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

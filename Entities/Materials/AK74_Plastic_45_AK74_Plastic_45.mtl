@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9762001.dds" mc="0"/>
-		<AOMap Name="9762000.dds" mc="0"/>
-		<BaseColorMap Name="9762002.dds" mc="0"/>
-		<RMMap Name="9762003.dds" mc="0"/>
+		<NormalMap Name="AK74_Plastic_45_Norm.dds" mc="0"/>
+		<AOMap Name="AK74_Plastic_45_AO.dds" mc="0"/>
+		<BaseColorMap Name="AK74_Plastic_45_Base.dds" mc="0"/>
+		<RMMap Name="AK74_Plastic_45_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

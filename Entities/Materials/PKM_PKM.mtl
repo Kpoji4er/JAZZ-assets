@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="2732001.dds" mc="0"/>
-		<AOMap Name="2732000.dds" mc="0"/>
-		<SpecialMap Name="2732004.dds" mc="0"/>
-		<BaseColorMap Name="2732002.dds" mc="0"/>
-		<RMMap Name="2732003.dds" mc="0"/>
+		<NormalMap Name="PKM_Norm_5.dds" mc="0"/>
+		<AOMap Name="PKM_AO_6.dds" mc="0"/>
+		<SpecialMap Name="PKM_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="PKM_Base_4.dds" mc="0"/>
+		<RMMap Name="PKM_RM_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,11 +54,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="2732006.dds" mc="0"/>
-		<AOMap Name="2732005.dds" mc="0"/>
-		<SpecialMap Name="2732009.dds" mc="0"/>
-		<BaseColorMap Name="2732007.dds" mc="0"/>
-		<RMMap Name="2732008.dds" mc="0"/>
+		<NormalMap Name="PKM_Norm_7.dds" mc="0"/>
+		<AOMap Name="PKM_AO_2.dds" mc="0"/>
+		<SpecialMap Name="PKM_SPEC_2.dds" mc="0"/>
+		<BaseColorMap Name="PKM_Base_5.dds" mc="0"/>
+		<RMMap Name="PKM_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -107,11 +107,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="2732011.dds" mc="0"/>
-		<AOMap Name="2732010.dds" mc="0"/>
-		<SpecialMap Name="2732014.dds" mc="0"/>
-		<BaseColorMap Name="2732012.dds" mc="0"/>
-		<RMMap Name="2732013.dds" mc="0"/>
+		<NormalMap Name="PKM_Norm_3.dds" mc="0"/>
+		<AOMap Name="PKM_AO_3.dds" mc="0"/>
+		<SpecialMap Name="PKM_SPEC_5.dds" mc="0"/>
+		<BaseColorMap Name="PKM_Base_6.dds" mc="0"/>
+		<RMMap Name="PKM_RM_6.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -160,11 +160,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="2732016.dds" mc="0"/>
-		<AOMap Name="2732015.dds" mc="0"/>
-		<SpecialMap Name="2732019.dds" mc="0"/>
-		<BaseColorMap Name="2732017.dds" mc="0"/>
-		<RMMap Name="2732018.dds" mc="0"/>
+		<NormalMap Name="PKM_Norm_2.dds" mc="0"/>
+		<AOMap Name="PKM_AO.dds" mc="0"/>
+		<SpecialMap Name="PKM_SPEC_4.dds" mc="0"/>
+		<BaseColorMap Name="PKM_Base_3.dds" mc="0"/>
+		<RMMap Name="PKM_RM_7.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -213,11 +213,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="2732021.dds" mc="0"/>
-		<AOMap Name="2732020.dds" mc="0"/>
-		<SpecialMap Name="2732024.dds" mc="0"/>
-		<BaseColorMap Name="2732022.dds" mc="0"/>
-		<RMMap Name="2732023.dds" mc="0"/>
+		<NormalMap Name="PKM_Norm_6.dds" mc="0"/>
+		<AOMap Name="PKM_AO_4.dds" mc="0"/>
+		<SpecialMap Name="PKM_SPEC_3.dds" mc="0"/>
+		<BaseColorMap Name="PKM_Base_2.dds" mc="0"/>
+		<RMMap Name="PKM_RM_4.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -266,11 +266,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="2732026.dds" mc="0"/>
-		<AOMap Name="2732025.dds" mc="0"/>
-		<SpecialMap Name="2732029.dds" mc="0"/>
-		<BaseColorMap Name="2732027.dds" mc="0"/>
-		<RMMap Name="2732028.dds" mc="0"/>
+		<NormalMap Name="PKM_Norm.dds" mc="0"/>
+		<AOMap Name="PKM_AO_5.dds" mc="0"/>
+		<SpecialMap Name="PKM_SPEC_6.dds" mc="0"/>
+		<BaseColorMap Name="PKM_Base_7.dds" mc="0"/>
+		<RMMap Name="PKM_RM_5.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -319,11 +319,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="2732030.dds" mc="0"/>
-		<AOMap Name="2732033.dds" mc="0"/>
-		<SpecialMap Name="2732034.dds" mc="0"/>
-		<BaseColorMap Name="2732031.dds" mc="0"/>
-		<RMMap Name="2732032.dds" mc="0"/>
+		<NormalMap Name="PKM_Norm_4.dds" mc="0"/>
+		<AOMap Name="PKM_AO_2.dds" mc="0"/>
+		<SpecialMap Name="PKM_SPEC_2.dds" mc="0"/>
+		<BaseColorMap Name="PKM_Base.dds" mc="0"/>
+		<RMMap Name="PKM_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

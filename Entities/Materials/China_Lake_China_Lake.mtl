@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6959001.dds" mc="0"/>
-		<AOMap Name="6959000.dds" mc="0"/>
-		<SpecialMap Name="6959004.dds" mc="0"/>
-		<BaseColorMap Name="6959002.dds" mc="0"/>
-		<RMMap Name="6959003.dds" mc="0"/>
+		<NormalMap Name="China_Lake_Norm_2.dds" mc="0"/>
+		<AOMap Name="China_Lake_AO_2.dds" mc="0"/>
+		<SpecialMap Name="China_Lake_SPEC_2.dds" mc="0"/>
+		<BaseColorMap Name="China_Lake_Base.dds" mc="0"/>
+		<RMMap Name="China_Lake_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,11 +54,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="6959006.dds" mc="0"/>
-		<AOMap Name="6959005.dds" mc="0"/>
-		<SpecialMap Name="6959009.dds" mc="0"/>
-		<BaseColorMap Name="6959007.dds" mc="0"/>
-		<RMMap Name="6959008.dds" mc="0"/>
+		<NormalMap Name="China_Lake_Norm.dds" mc="0"/>
+		<AOMap Name="China_Lake_AO.dds" mc="0"/>
+		<SpecialMap Name="China_Lake_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="China_Lake_Base_2.dds" mc="0"/>
+		<RMMap Name="China_Lake_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

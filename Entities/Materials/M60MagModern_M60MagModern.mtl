@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8069001.dds" mc="0"/>
-		<AOMap Name="8069000.dds" mc="0"/>
-		<BaseColorMap Name="8069002.dds" mc="0"/>
-		<RMMap Name="8069003.dds" mc="0"/>
+		<NormalMap Name="M60MagModern_Norm_3.dds" mc="0"/>
+		<AOMap Name="M60MagModern_AO_2.dds" mc="0"/>
+		<BaseColorMap Name="M60MagModern_Base.dds" mc="0"/>
+		<RMMap Name="M60MagModern_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -53,10 +53,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="8069005.dds" mc="0"/>
-		<AOMap Name="8069004.dds" mc="0"/>
-		<BaseColorMap Name="8069006.dds" mc="0"/>
-		<RMMap Name="8069007.dds" mc="0"/>
+		<NormalMap Name="M60MagModern_Norm.dds" mc="0"/>
+		<AOMap Name="M60MagModern_AO.dds" mc="0"/>
+		<BaseColorMap Name="M60MagModern_Base_3.dds" mc="0"/>
+		<RMMap Name="M60MagModern_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -105,10 +105,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="8069009.dds" mc="0"/>
-		<AOMap Name="8069008.dds" mc="0"/>
-		<BaseColorMap Name="8069010.dds" mc="0"/>
-		<RMMap Name="8069011.dds" mc="0"/>
+		<NormalMap Name="M60MagModern_Norm_2.dds" mc="0"/>
+		<AOMap Name="M60MagModern_AO_3.dds" mc="0"/>
+		<BaseColorMap Name="M60MagModern_Base_2.dds" mc="0"/>
+		<RMMap Name="M60MagModern_RM_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

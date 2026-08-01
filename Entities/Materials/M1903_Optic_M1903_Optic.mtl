@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="7388001.dds" mc="0"/>
-		<AOMap Name="7388000.dds" mc="0"/>
-		<BaseColorMap Name="7388002.dds" mc="0"/>
-		<RMMap Name="7388003.dds" mc="0"/>
+		<NormalMap Name="M1903_Optic_Norm.dds" mc="0"/>
+		<AOMap Name="M1903_Optic_AO.dds" mc="0"/>
+		<BaseColorMap Name="M1903_Optic_Base.dds" mc="0"/>
+		<RMMap Name="M1903_Optic_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -53,9 +53,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="7388004.dds" mc="0"/>
-		<BaseColorMap Name="7388005.dds" mc="0"/>
-		<RMMap Name="7388006.dds" mc="0"/>
+		<NormalMap Name="M1903_Norm.dds" mc="0"/>
+		<BaseColorMap Name="M1903_Base.dds" mc="0"/>
+		<RMMap Name="M1903_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

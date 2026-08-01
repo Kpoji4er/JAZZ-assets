@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="69860000453226480134.dds" mc="0"/>
-		<BaseColorMap Name="69860010205374581391.dds" mc="0"/>
-		<RMMap Name="69860022274702675603.dds" mc="0"/>
+		<NormalMap Name="GrizzlyLAR_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="GrizzlyLAR_Base.dds" mc="0"/>
+		<RMMap Name="GrizzlyLAR_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -52,10 +52,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="69860043571861129135.dds" mc="0"/>
-		<AOMap Name="69860039337223194374.dds" mc="0"/>
-		<BaseColorMap Name="69860056266434743937.dds" mc="0"/>
-		<RMMap Name="69860063500036419623.dds" mc="0"/>
+		<NormalMap Name="GrizzlyLAR_Norm.dds" mc="0"/>
+		<AOMap Name="GrizzlyLAR_AO.dds" mc="0"/>
+		<BaseColorMap Name="GrizzlyLAR_Base_2.dds" mc="0"/>
+		<RMMap Name="GrizzlyLAR_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

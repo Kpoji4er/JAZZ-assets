@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="4598000.dds" mc="0"/>
-		<BaseColorMap Name="4598001.dds" mc="0"/>
-		<RMMap Name="4598002.dds" mc="0"/>
+		<NormalMap Name="Hamvee_Norm.dds" mc="0"/>
+		<BaseColorMap Name="Hamvee_Base_5.dds" mc="0"/>
+		<RMMap Name="Hamvee_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -52,9 +52,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="4598000.dds" mc="0"/>
-		<BaseColorMap Name="4598001.dds" mc="0"/>
-		<RMMap Name="4598002.dds" mc="0"/>
+		<NormalMap Name="Hamvee_Norm.dds" mc="0"/>
+		<BaseColorMap Name="Hamvee_Base_5.dds" mc="0"/>
+		<RMMap Name="Hamvee_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -103,8 +103,8 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="4598003.dds" mc="0"/>
-		<BaseColorMap Name="4598004.dds" mc="0"/>
+		<NormalMap Name="Hamvee_Norm_4.dds" mc="0"/>
+		<BaseColorMap Name="Hamvee_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -153,7 +153,7 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<BaseColorMap Name="4598005.dds" mc="0"/>
+		<BaseColorMap Name="Hamvee_Base_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -202,8 +202,8 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="4598006.dds" mc="0"/>
-		<BaseColorMap Name="4598007.dds" mc="0"/>
+		<NormalMap Name="Hamvee_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="Hamvee_Base_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -252,9 +252,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="4598008.dds" mc="0"/>
-		<BaseColorMap Name="4598009.dds" mc="0"/>
-		<RMMap Name="4598010.dds" mc="0"/>
+		<NormalMap Name="Hamvee_Norm_3.dds" mc="0"/>
+		<BaseColorMap Name="Hamvee_Base_4.dds" mc="0"/>
+		<RMMap Name="Hamvee_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -303,9 +303,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="4598008.dds" mc="0"/>
-		<BaseColorMap Name="4598009.dds" mc="0"/>
-		<RMMap Name="4598010.dds" mc="0"/>
+		<NormalMap Name="Hamvee_Norm_3.dds" mc="0"/>
+		<BaseColorMap Name="Hamvee_Base_4.dds" mc="0"/>
+		<RMMap Name="Hamvee_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -354,9 +354,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="4598008.dds" mc="0"/>
-		<BaseColorMap Name="4598009.dds" mc="0"/>
-		<RMMap Name="4598010.dds" mc="0"/>
+		<NormalMap Name="Hamvee_Norm_3.dds" mc="0"/>
+		<BaseColorMap Name="Hamvee_Base_4.dds" mc="0"/>
+		<RMMap Name="Hamvee_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -405,9 +405,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="4598000.dds" mc="0"/>
-		<BaseColorMap Name="4598001.dds" mc="0"/>
-		<RMMap Name="4598002.dds" mc="0"/>
+		<NormalMap Name="Hamvee_Norm.dds" mc="0"/>
+		<BaseColorMap Name="Hamvee_Base_5.dds" mc="0"/>
+		<RMMap Name="Hamvee_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -456,9 +456,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="4598008.dds" mc="0"/>
-		<BaseColorMap Name="4598009.dds" mc="0"/>
-		<RMMap Name="4598010.dds" mc="0"/>
+		<NormalMap Name="Hamvee_Norm_3.dds" mc="0"/>
+		<BaseColorMap Name="Hamvee_Base_4.dds" mc="0"/>
+		<RMMap Name="Hamvee_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

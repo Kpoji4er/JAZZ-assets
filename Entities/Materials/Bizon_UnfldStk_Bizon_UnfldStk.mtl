@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9420016.dds" mc="0"/>
-		<AOMap Name="9420015.dds" mc="0"/>
-		<SpecialMap Name="9420019.dds" mc="0"/>
-		<BaseColorMap Name="9420017.dds" mc="0"/>
-		<RMMap Name="9420018.dds" mc="0"/>
+		<NormalMap Name="Bizon_Norm.dds" mc="0"/>
+		<AOMap Name="Bizon_AO.dds" mc="0"/>
+		<SpecialMap Name="Bizon_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="Bizon_Base.dds" mc="0"/>
+		<RMMap Name="Bizon_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

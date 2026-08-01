@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8080001.dds" mc="0"/>
-		<AOMap Name="8080000.dds" mc="0"/>
-		<SIMap Name="8080002.dds" mc="0"/>
-		<SpecialMap Name="8080005.dds" mc="0"/>
-		<BaseColorMap Name="8080003.dds" mc="0"/>
-		<RMMap Name="8080004.dds" mc="0"/>
+		<NormalMap Name="Sig550_Norm.dds" mc="0"/>
+		<AOMap Name="Sig550_AO.dds" mc="0"/>
+		<SIMap Name="Sig550_SI_3.dds" mc="0"/>
+		<SpecialMap Name="Sig550_SPEC_3.dds" mc="0"/>
+		<BaseColorMap Name="Sig550_Base.dds" mc="0"/>
+		<RMMap Name="Sig550_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -55,12 +55,12 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="8080007.dds" mc="0"/>
-		<AOMap Name="8080006.dds" mc="0"/>
-		<SIMap Name="8080008.dds" mc="0"/>
-		<SpecialMap Name="8080011.dds" mc="0"/>
-		<BaseColorMap Name="8080009.dds" mc="0"/>
-		<RMMap Name="8080010.dds" mc="0"/>
+		<NormalMap Name="Sig550_Norm_3.dds" mc="0"/>
+		<AOMap Name="Sig550_AO_2.dds" mc="0"/>
+		<SIMap Name="Sig550_SI_2.dds" mc="0"/>
+		<SpecialMap Name="Sig550_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="Sig550_Base_3.dds" mc="0"/>
+		<RMMap Name="Sig550_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -109,12 +109,12 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="8080013.dds" mc="0"/>
-		<AOMap Name="8080012.dds" mc="0"/>
-		<SIMap Name="8080014.dds" mc="0"/>
-		<SpecialMap Name="8080017.dds" mc="0"/>
-		<BaseColorMap Name="8080015.dds" mc="0"/>
-		<RMMap Name="8080016.dds" mc="0"/>
+		<NormalMap Name="Sig550Custom_Norm.dds" mc="0"/>
+		<AOMap Name="Sig550Custom_AO.dds" mc="0"/>
+		<SIMap Name="Sig550Custom_SI.dds" mc="0"/>
+		<SpecialMap Name="Sig550_SPEC_2.dds" mc="0"/>
+		<BaseColorMap Name="Sig550Custom_Base.dds" mc="0"/>
+		<RMMap Name="Sig550Custom_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

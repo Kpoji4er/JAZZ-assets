@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8595000.dds" mc="0"/>
-		<SpecialMap Name="8595003.dds" mc="0"/>
-		<BaseColorMap Name="8595001.dds" mc="0"/>
-		<RMMap Name="8595002.dds" mc="0"/>
+		<NormalMap Name="MAC10_Norm.dds" mc="0"/>
+		<SpecialMap Name="MAC10_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="MAC10_Base.dds" mc="0"/>
+		<RMMap Name="MAC10_RM_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

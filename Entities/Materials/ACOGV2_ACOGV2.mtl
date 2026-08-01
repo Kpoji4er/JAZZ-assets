@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="ACOGV2_Norm.dds" mc="0"/>
-		<BaseColorMap Name="ACOGV2_Base.dds" mc="0"/>
+		<NormalMap Name="ACOGV2_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="ACOGV2_Base_2.dds" mc="0"/>
 		<RMMap Name="ACOGV2_RMMap.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
@@ -52,7 +52,7 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<BaseColorMap Name="4418003.dds" mc="0"/>
+		<BaseColorMap Name="ACOGV2_Base_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -101,9 +101,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="4418004.dds" mc="0"/>
-		<SIMap Name="4418005.dds" mc="0"/>
-		<BaseColorMap Name="4418006.dds" mc="0"/>
+		<NormalMap Name="ACOGV2_Norm.dds" mc="0"/>
+		<SIMap Name="ACOGV2_SI.dds" mc="0"/>
+		<BaseColorMap Name="ACOGV2_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

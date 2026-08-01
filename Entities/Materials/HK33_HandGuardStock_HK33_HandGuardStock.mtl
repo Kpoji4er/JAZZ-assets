@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="12238000.dds" mc="0"/>
-		<BaseColorMap Name="12238001.dds" mc="0"/>
-		<RMMap Name="12238002.dds" mc="0"/>
+		<NormalMap Name="HK33_Bipod_Norm.dds" mc="0"/>
+		<BaseColorMap Name="HK33_Bipod_Base.dds" mc="0"/>
+		<RMMap Name="HK33_Bipod_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="11003001.dds" mc="0"/>
-		<SpecialMap Name="11003004.dds" mc="0"/>
-		<AOMap Name="11003000.dds" mc="0"/>
-		<BaseColorMap Name="11003002.dds" mc="0"/>
-		<RMMap Name="11003003.dds" mc="0"/>
+		<NormalMap Name="Agram2000_Norm.dds" mc="0"/>
+		<SpecialMap Name="Agram2000_SPEC.dds" mc="0"/>
+		<AOMap Name="Agram2000_AO.dds" mc="0"/>
+		<BaseColorMap Name="Agram2000_Base.dds" mc="0"/>
+		<RMMap Name="Agram2000_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

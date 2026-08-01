@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="7958000.dds" mc="0"/>
-		<BaseColorMap Name="7958001.dds" mc="0"/>
-		<RMMap Name="7958002.dds" mc="0"/>
+		<NormalMap Name="THOMPSON_MAG_Norm.dds" mc="0"/>
+		<BaseColorMap Name="THOMPSON_MAG_Base.dds" mc="0"/>
+		<RMMap Name="THOMPSON_MAG_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

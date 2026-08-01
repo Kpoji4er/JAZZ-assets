@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="49160003295054052374.dds" mc="0"/>
-		<AOMap Name="49160005901329297030.dds" mc="0"/>
-		<BaseColorMap Name="49160022221688554318.dds" mc="0"/>
-		<RMMap Name="49160005515443397059.dds" mc="0"/>
+		<NormalMap Name="MAC1950_Norm.dds" mc="0"/>
+		<AOMap Name="MAC1950_AO.dds" mc="0"/>
+		<BaseColorMap Name="MAC1950_Base.dds" mc="0"/>
+		<RMMap Name="MAC1950_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

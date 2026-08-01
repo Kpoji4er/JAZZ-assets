@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="62490017810093766927.dds" mc="0"/>
-		<AOMap Name="62490004922793384407.dds" mc="0"/>
-		<BaseColorMap Name="62490025501576783125.dds" mc="0"/>
-		<RMMap Name="62490033283939455181.dds" mc="0"/>
+		<NormalMap Name="FG42Scope_Norm.dds" mc="0"/>
+		<AOMap Name="FG42Scope_AO.dds" mc="0"/>
+		<BaseColorMap Name="FG42Scope_Base.dds" mc="0"/>
+		<RMMap Name="FG42Scope_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

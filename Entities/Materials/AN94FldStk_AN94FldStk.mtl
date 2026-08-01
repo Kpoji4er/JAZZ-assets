@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6836003.dds" mc="0"/>
-		<SIMap Name="6836005.dds" mc="0"/>
-		<SpecialMap Name="6836008.dds" mc="0"/>
-		<BaseColorMap Name="6836006.dds" mc="0"/>
-		<RMMap Name="6836007.dds" mc="0"/>
+		<NormalMap Name="AN94_Norm_2.dds" mc="0"/>
+		<SIMap Name="AN94_SI.dds" mc="0"/>
+		<SpecialMap Name="AN94_SPEC_2.dds" mc="0"/>
+		<BaseColorMap Name="AN94_Base.dds" mc="0"/>
+		<RMMap Name="AN94_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

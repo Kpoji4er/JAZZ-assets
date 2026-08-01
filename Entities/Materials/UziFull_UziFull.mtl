@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="5215001.dds" mc="0"/>
-		<SpecialMap Name="5215004.dds" mc="0"/>
-		<AOMap Name="5215000.dds" mc="0"/>
-		<BaseColorMap Name="5688002.dds" mc="0"/>
-		<RMMap Name="5215003.dds" mc="0"/>
+		<NormalMap Name="UziFull_Norm.dds" mc="0"/>
+		<SpecialMap Name="UziFull_SPEC.dds" mc="0"/>
+		<AOMap Name="UziFull_AO.dds" mc="0"/>
+		<BaseColorMap Name="UziFull_Base.dds" mc="0"/>
+		<RMMap Name="UziFull_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

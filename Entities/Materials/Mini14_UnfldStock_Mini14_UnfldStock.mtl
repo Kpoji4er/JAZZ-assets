@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="11114004.dds" mc="0"/>
-		<BaseColorMap Name="11114001.dds" mc="0"/>
+		<NormalMap Name="Mini14_FldStock_Norm.dds" mc="0"/>
+		<BaseColorMap Name="Mini14_FldStock_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

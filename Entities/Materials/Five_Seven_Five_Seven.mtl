@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="7002000.dds" mc="0"/>
-		<BaseColorMap Name="7002001.dds" mc="0"/>
-		<RMMap Name="7002002.dds" mc="0"/>
+		<NormalMap Name="Five_Seven_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="Five_Seven_Base.dds" mc="0"/>
+		<RMMap Name="Five_Seven_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -52,9 +52,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="7002003.dds" mc="0"/>
-		<BaseColorMap Name="7002004.dds" mc="0"/>
-		<RMMap Name="7002005.dds" mc="0"/>
+		<NormalMap Name="Five_Seven_Norm.dds" mc="0"/>
+		<BaseColorMap Name="Five_Seven_Base_2.dds" mc="0"/>
+		<RMMap Name="Five_Seven_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

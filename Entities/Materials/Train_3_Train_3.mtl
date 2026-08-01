@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="5156001.dds" mc="0"/>
-		<ColorizationMap Name="5156004.dds" mc="0"/>
-		<AOMap Name="5156000.dds" mc="0"/>
-		<BaseColorMap Name="5156002.dds" mc="0"/>
-		<RMMap Name="5156003.dds" mc="0"/>
+		<NormalMap Name="Train_3_Norm.dds" mc="0"/>
+		<ColorizationMap Name="Train_3_Color.dds" mc="0"/>
+		<AOMap Name="Train_3_AO.dds" mc="0"/>
+		<BaseColorMap Name="Train_3_Base.dds" mc="0"/>
+		<RMMap Name="Train_3_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

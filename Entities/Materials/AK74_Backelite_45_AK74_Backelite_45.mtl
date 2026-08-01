@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="10942001.dds" mc="0"/>
-		<AOMap Name="10942000.dds" mc="0"/>
-		<BaseColorMap Name="10942002.dds" mc="0"/>
-		<RMMap Name="10942003.dds" mc="0"/>
+		<NormalMap Name="AK74_Backelite_45_Norm.dds" mc="0"/>
+		<AOMap Name="AK74_Backelite_45_AO.dds" mc="0"/>
+		<BaseColorMap Name="AK74_Backelite_45_Base.dds" mc="0"/>
+		<RMMap Name="AK74_Backelite_45_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

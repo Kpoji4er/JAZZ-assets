@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="50620017659723024824.dds" mc="0"/>
-		<AOMap Name="50620000025982502283.dds" mc="0"/>
-		<SIMap Name="50620021016998725523.dds" mc="0"/>
-		<BaseColorMap Name="50620034185765306951.dds" mc="0"/>
-		<RMMap Name="50620042850977686744.dds" mc="0"/>
+		<NormalMap Name="M73Base_Norm.dds" mc="0"/>
+		<AOMap Name="M73Base_AO.dds" mc="0"/>
+		<SIMap Name="M73Base_SI.dds" mc="0"/>
+		<BaseColorMap Name="M73Base_Base.dds" mc="0"/>
+		<RMMap Name="M73Base_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

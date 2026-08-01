@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8724006.dds" mc="0"/>
-		<AOMap Name="8724005.dds" mc="0"/>
-		<SpecialMap Name="8724009.dds" mc="0"/>
-		<BaseColorMap Name="8724007.dds" mc="0"/>
-		<RMMap Name="8724008.dds" mc="0"/>
+		<NormalMap Name="M1aGrip_Light_Norm.dds" mc="0"/>
+		<AOMap Name="M1aGrip_Light_AO.dds" mc="0"/>
+		<SpecialMap Name="M1aGrip_Light_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="M1aGrip_Light_Base.dds" mc="0"/>
+		<RMMap Name="M1aGrip_Light_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

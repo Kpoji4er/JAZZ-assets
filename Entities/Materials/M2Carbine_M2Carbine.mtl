@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="63190004657219524238.dds" mc="0"/>
-		<BaseColorMap Name="63190012153184654015.dds" mc="0"/>
-		<RMMap Name="63190020963789076607.dds" mc="0"/>
+		<NormalMap Name="M2Carbine_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="M2Carbine_Base.dds" mc="0"/>
+		<RMMap Name="M2Carbine_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -52,10 +52,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="63190040399433762237.dds" mc="0"/>
-		<AOMap Name="63190031979916613064.dds" mc="0"/>
-		<BaseColorMap Name="63190052990060013060.dds" mc="0"/>
-		<RMMap Name="63190062276910426076.dds" mc="0"/>
+		<NormalMap Name="M2Carbine_Norm.dds" mc="0"/>
+		<AOMap Name="M2Carbine_AO.dds" mc="0"/>
+		<BaseColorMap Name="M2Carbine_Base_2.dds" mc="0"/>
+		<RMMap Name="M2Carbine_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

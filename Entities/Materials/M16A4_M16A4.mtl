@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3797000.dds" mc="0"/>
-		<SpecialMap Name="3797003.dds" mc="0"/>
-		<BaseColorMap Name="3797001.dds" mc="0"/>
-		<RMMap Name="3797002.dds" mc="0"/>
+		<NormalMap Name="M16A4_Norm.dds" mc="0"/>
+		<SpecialMap Name="M16A4_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="M16A4_Base_2.dds" mc="0"/>
+		<RMMap Name="M16A4_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -53,9 +53,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3797004.dds" mc="0"/>
-		<BaseColorMap Name="3797005.dds" mc="0"/>
-		<RMMap Name="3797006.dds" mc="0"/>
+		<NormalMap Name="M16A4_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="M16A4_Base.dds" mc="0"/>
+		<RMMap Name="M16A4_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

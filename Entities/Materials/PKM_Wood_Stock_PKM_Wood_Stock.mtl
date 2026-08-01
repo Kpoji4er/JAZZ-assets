@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9347001.dds" mc="0"/>
-		<AOMap Name="9347000.dds" mc="0"/>
-		<SpecialMap Name="9347004.dds" mc="0"/>
-		<BaseColorMap Name="9347002.dds" mc="0"/>
-		<RMMap Name="9347003.dds" mc="0"/>
+		<NormalMap Name="PKM_Wood_Stock_Norm.dds" mc="0"/>
+		<AOMap Name="PKM_Wood_Stock_AO.dds" mc="0"/>
+		<SpecialMap Name="PKM_Wood_Stock_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="PKM_Wood_Stock_Base.dds" mc="0"/>
+		<RMMap Name="PKM_Wood_Stock_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

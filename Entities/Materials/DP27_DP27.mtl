@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3253001.dds" mc="0"/>
-		<AOMap Name="3253000.dds" mc="0"/>
-		<SpecialMap Name="3253004.dds" mc="0"/>
-		<BaseColorMap Name="3253002.dds" mc="0"/>
-		<RMMap Name="3253003.dds" mc="0"/>
+		<NormalMap Name="DP27_Norm.dds" mc="0"/>
+		<AOMap Name="DP27_AO.dds" mc="0"/>
+		<SpecialMap Name="DP27_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="DP27_Base.dds" mc="0"/>
+		<RMMap Name="DP27_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

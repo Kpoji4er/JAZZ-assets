@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<SIMap Name="9858000.dds" mc="0"/>
-		<SpecialMap Name="9858003.dds" mc="0"/>
-		<BaseColorMap Name="9858001.dds" mc="0"/>
-		<RMMap Name="9858002.dds" mc="0"/>
+		<SIMap Name="M16BarrelRedDot_SI.dds" mc="0"/>
+		<SpecialMap Name="M16BarrelRedDot_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="M16BarrelRedDot_Base.dds" mc="0"/>
+		<RMMap Name="M16BarrelRedDot_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

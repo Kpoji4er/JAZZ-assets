@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="5606026.dds" mc="0"/>
-		<AOMap Name="5606025.dds" mc="0"/>
-		<SpecialMap Name="5606029.dds" mc="0"/>
-		<BaseColorMap Name="5606027.dds" mc="0"/>
-		<RMMap Name="5606028.dds" mc="0"/>
+		<NormalMap Name="Colt1911_Norm.dds" mc="0"/>
+		<AOMap Name="Colt1911_AO.dds" mc="0"/>
+		<SpecialMap Name="Colt1911_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="Colt1911_Base.dds" mc="0"/>
+		<RMMap Name="Colt1911_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

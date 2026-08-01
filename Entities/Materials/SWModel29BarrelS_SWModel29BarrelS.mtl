@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="10457001540880810362.dds" mc="0"/>
-		<AOMap Name="10457000839683856303.dds" mc="0"/>
-		<BaseColorMap Name="10457002618163314528.dds" mc="0"/>
-		<RMMap Name="10457003159078651080.dds" mc="0"/>
+		<NormalMap Name="SWModel29_Norm.dds" mc="0"/>
+		<AOMap Name="SWModel29_AO.dds" mc="0"/>
+		<BaseColorMap Name="SWModel29_Base.dds" mc="0"/>
+		<RMMap Name="SWModel29_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

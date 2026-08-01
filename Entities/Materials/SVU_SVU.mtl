@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="2754001.dds" mc="0"/>
-		<SpecialMap Name="2754004.dds" mc="0"/>
-		<AOMap Name="2754000.dds" mc="0"/>
-		<BaseColorMap Name="2754002.dds" mc="0"/>
-		<RMMap Name="2754003.dds" mc="0"/>
+		<NormalMap Name="SVU_Norm_2.dds" mc="0"/>
+		<SpecialMap Name="SVU_SPEC_2.dds" mc="0"/>
+		<AOMap Name="SVU_AO.dds" mc="0"/>
+		<BaseColorMap Name="SVU_Base_2.dds" mc="0"/>
+		<RMMap Name="SVU_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,11 +54,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="2754006.dds" mc="0"/>
-		<SpecialMap Name="2754009.dds" mc="0"/>
-		<AOMap Name="2754005.dds" mc="0"/>
-		<BaseColorMap Name="2754007.dds" mc="0"/>
-		<RMMap Name="2754008.dds" mc="0"/>
+		<NormalMap Name="SVU_Norm.dds" mc="0"/>
+		<SpecialMap Name="SVU_SPEC.dds" mc="0"/>
+		<AOMap Name="SVU_AO_2.dds" mc="0"/>
+		<BaseColorMap Name="SVU_Base.dds" mc="0"/>
+		<RMMap Name="SVU_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

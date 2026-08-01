@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3995001.dds" mc="0"/>
-		<AOMap Name="3995000.dds" mc="0"/>
-		<SIMap Name="3995002.dds" mc="0"/>
-		<BaseColorMap Name="3995003.dds" mc="0"/>
-		<RMMap Name="3995004.dds" mc="0"/>
+		<NormalMap Name="Kobra_Norm.dds" mc="0"/>
+		<AOMap Name="Kobra_AO.dds" mc="0"/>
+		<SIMap Name="Kobra_SI.dds" mc="0"/>
+		<BaseColorMap Name="Kobra_Base.dds" mc="0"/>
+		<RMMap Name="Kobra_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

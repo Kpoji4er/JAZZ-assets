@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="4416010.dds" mc="0"/>
-		<AOMap Name="4416009.dds" mc="0"/>
-		<SpecialMap Name="4416012.dds" mc="0"/>
-		<BaseColorMap Name="4416006.dds" mc="0"/>
-		<RMMap Name="4416011.dds" mc="0"/>
+		<NormalMap Name="J_AK47_Norm.dds" mc="0"/>
+		<AOMap Name="J_AK47_AO.dds" mc="0"/>
+		<SpecialMap Name="J_AK47_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="J_AK47_Base.dds" mc="0"/>
+		<RMMap Name="J_AK47_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

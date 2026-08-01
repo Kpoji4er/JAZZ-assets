@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="5240000.dds" mc="0"/>
-		<SpecialMap Name="5240003.dds" mc="0"/>
-		<BaseColorMap Name="5240001.dds" mc="0"/>
-		<RMMap Name="5240002.dds" mc="0"/>
+		<NormalMap Name="Striker_Norm.dds" mc="0"/>
+		<SpecialMap Name="Striker_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="Striker_Base.dds" mc="0"/>
+		<RMMap Name="Striker_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

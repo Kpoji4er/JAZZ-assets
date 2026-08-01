@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6313000.dds" mc="0"/>
-		<BaseColorMap Name="6313001.dds" mc="0"/>
-		<RMMap Name="6313002.dds" mc="0"/>
+		<NormalMap Name="MP7_Scope_Norm.dds" mc="0"/>
+		<BaseColorMap Name="MP7_Scope_Base.dds" mc="0"/>
+		<RMMap Name="MP7_Scope_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

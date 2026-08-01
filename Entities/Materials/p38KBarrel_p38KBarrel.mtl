@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="68940015017973534967.dds" mc="0"/>
-		<AOMap Name="68940004359742438037.dds" mc="0"/>
-		<BaseColorMap Name="68940028912021588377.dds" mc="0"/>
-		<RMMap Name="68940035686750449367.dds" mc="0"/>
+		<NormalMap Name="P38_Norm.dds" mc="0"/>
+		<AOMap Name="P38_AO.dds" mc="0"/>
+		<BaseColorMap Name="P38_Base.dds" mc="0"/>
+		<RMMap Name="p38KBarrel_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

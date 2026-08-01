@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="68130011882712063922.dds" mc="0"/>
-		<AOMap Name="68130009189065645934.dds" mc="0"/>
-		<BaseColorMap Name="68130022904658329748.dds" mc="0"/>
-		<RMMap Name="68130031340053431774.dds" mc="0"/>
+		<NormalMap Name="M2Carmag30_Norm.dds" mc="0"/>
+		<AOMap Name="M2Carmag30_AO.dds" mc="0"/>
+		<BaseColorMap Name="M2Carmag30_Base.dds" mc="0"/>
+		<RMMap Name="M2Carmag30_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

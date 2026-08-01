@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6825001.dds" mc="0"/>
-		<AOMap Name="6825000.dds" mc="0"/>
-		<SIMap Name="6825002.dds" mc="0"/>
-		<SpecialMap Name="6825005.dds" mc="0"/>
-		<BaseColorMap Name="6825003.dds" mc="0"/>
-		<RMMap Name="6825004.dds" mc="0"/>
+		<NormalMap Name="M16ScopeX3_Norm.dds" mc="0"/>
+		<AOMap Name="M16ScopeX3_AO.dds" mc="0"/>
+		<SIMap Name="M16ScopeX3_SI.dds" mc="0"/>
+		<SpecialMap Name="M16ScopeX3_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="M16ScopeX3_Base.dds" mc="0"/>
+		<RMMap Name="M16ScopeX3_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -55,8 +55,8 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="6825006.dds" mc="0"/>
-		<BaseColorMap Name="6825007.dds" mc="0"/>
+		<NormalMap Name="M16ScopeX3_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="M16ScopeX3_Base_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

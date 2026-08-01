@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="56120019703489175197.dds" mc="0"/>
-		<AOMap Name="56120005102444771960.dds" mc="0"/>
-		<SIMap Name="56120020119678544326.dds" mc="0"/>
-		<BaseColorMap Name="56120035992580744798.dds" mc="0"/>
-		<RMMap Name="56120043649568248666.dds" mc="0"/>
+		<NormalMap Name="Colt1917_Norm.dds" mc="0"/>
+		<AOMap Name="Colt1917_AO.dds" mc="0"/>
+		<SIMap Name="Colt1917_SI.dds" mc="0"/>
+		<BaseColorMap Name="Colt1917_Base.dds" mc="0"/>
+		<RMMap Name="Colt1917_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

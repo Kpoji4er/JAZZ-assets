@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="7524001.dds" mc="0"/>
-		<AOMap Name="7524000.dds" mc="0"/>
-		<SpecialMap Name="7524004.dds" mc="0"/>
-		<BaseColorMap Name="7524002.dds" mc="0"/>
-		<RMMap Name="7524003.dds" mc="0"/>
+		<NormalMap Name="M1a_Cheek_Norm.dds" mc="0"/>
+		<AOMap Name="M1a_Cheek_AO.dds" mc="0"/>
+		<SpecialMap Name="M1a_Cheek_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="M1a_Cheek_Base.dds" mc="0"/>
+		<RMMap Name="M1a_Cheek_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,11 +54,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="7524006.dds" mc="0"/>
-		<AOMap Name="7524005.dds" mc="0"/>
-		<SpecialMap Name="7524009.dds" mc="0"/>
-		<BaseColorMap Name="7524007.dds" mc="0"/>
-		<RMMap Name="7524008.dds" mc="0"/>
+		<NormalMap Name="M1aMag_ergo_Norm.dds" mc="0"/>
+		<AOMap Name="M1aMag_ergo_AO.dds" mc="0"/>
+		<SpecialMap Name="M1aMag_ergo_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="M1aMag_ergo_Base.dds" mc="0"/>
+		<RMMap Name="M1aMag_ergo_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

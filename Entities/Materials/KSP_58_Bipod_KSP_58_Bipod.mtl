@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8031005.dds" mc="0"/>
-		<BaseColorMap Name="8031006.dds" mc="0"/>
-		<RMMap Name="8031007.dds" mc="0"/>
+		<NormalMap Name="KSP_58_B_Norm.dds" mc="0"/>
+		<BaseColorMap Name="KSP_58_B_Base.dds" mc="0"/>
+		<RMMap Name="KSP_58_B_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

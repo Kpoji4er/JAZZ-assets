@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="86300010974510842215.dds" mc="0"/>
-		<AOMap Name="86300006702363867144.dds" mc="0"/>
-		<BaseColorMap Name="86300024318019731786.dds" mc="0"/>
-		<RMMap Name="86300031811066978933.dds" mc="0"/>
+		<NormalMap Name="P220RailUnder_Norm.dds" mc="0"/>
+		<AOMap Name="P220RailUnder_AO.dds" mc="0"/>
+		<BaseColorMap Name="P220RailUnder_Base.dds" mc="0"/>
+		<RMMap Name="P220RailUnder_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

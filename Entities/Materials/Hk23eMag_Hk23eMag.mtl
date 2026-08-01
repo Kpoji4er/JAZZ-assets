@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="5658001.dds" mc="0"/>
-		<AOMap Name="5658000.dds" mc="0"/>
-		<SIMap Name="5658002.dds" mc="0"/>
-		<BaseColorMap Name="5658003.dds" mc="0"/>
-		<RMMap Name="5658004.dds" mc="0"/>
+		<NormalMap Name="HK23e_Norm_4.dds" mc="0"/>
+		<AOMap Name="HK23e_AO_2.dds" mc="0"/>
+		<SIMap Name="HK23e_SI_2.dds" mc="0"/>
+		<BaseColorMap Name="HK23e_Base_3.dds" mc="0"/>
+		<RMMap Name="HK23e_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

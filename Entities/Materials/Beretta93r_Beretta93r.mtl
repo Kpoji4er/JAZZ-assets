@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="69330016343526434943.dds" mc="0"/>
-		<BaseColorMap Name="69330020093815950203.dds" mc="0"/>
-		<RMMap Name="69330030694963962604.dds" mc="0"/>
+		<NormalMap Name="Beretta93r_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="Beretta93r_Base_2.dds" mc="0"/>
+		<RMMap Name="Beretta93r_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -52,9 +52,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="69330009921402968612.dds" mc="0"/>
-		<BaseColorMap Name="69330017860711833323.dds" mc="0"/>
-		<RMMap Name="69330026622964218521.dds" mc="0"/>
+		<NormalMap Name="Beretta93r_Norm.dds" mc="0"/>
+		<BaseColorMap Name="Beretta93r_Base.dds" mc="0"/>
+		<RMMap Name="Beretta93r_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

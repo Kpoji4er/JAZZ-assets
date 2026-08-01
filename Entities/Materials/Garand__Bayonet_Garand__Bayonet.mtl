@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="10001000.dds" mc="0"/>
-		<BaseColorMap Name="10001001.dds" mc="0"/>
-		<RMMap Name="10001002.dds" mc="0"/>
+		<NormalMap Name="Garand_Bayonet_Norm.dds" mc="0"/>
+		<BaseColorMap Name="Garand_Bayonet_Base.dds" mc="0"/>
+		<RMMap Name="Garand_Bayonet_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

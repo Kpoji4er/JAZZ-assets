@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="5747000.dds" mc="0"/>
-		<SpecialMap Name="5747003.dds" mc="0"/>
-		<BaseColorMap Name="5747001.dds" mc="0"/>
-		<RMMap Name="5747002.dds" mc="0"/>
+		<NormalMap Name="G3Sniper_Norm_3.dds" mc="0"/>
+		<SpecialMap Name="G3Sniper_SPEC_2.dds" mc="0"/>
+		<BaseColorMap Name="G3Sniper_Base_4.dds" mc="0"/>
+		<RMMap Name="G3Sniper_RM_6.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -53,10 +53,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="5747004.dds" mc="0"/>
-		<SpecialMap Name="5747007.dds" mc="0"/>
-		<BaseColorMap Name="5747005.dds" mc="0"/>
-		<RMMap Name="5747006.dds" mc="0"/>
+		<NormalMap Name="G3Sniper_Norm_2.dds" mc="0"/>
+		<SpecialMap Name="G3A3_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="G3A3_Base_6.dds" mc="0"/>
+		<RMMap Name="G3Sniper_RM_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -105,10 +105,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="5747008.dds" mc="0"/>
-		<SpecialMap Name="5747011.dds" mc="0"/>
-		<BaseColorMap Name="5747009.dds" mc="0"/>
-		<RMMap Name="5747010.dds" mc="0"/>
+		<NormalMap Name="G3A3_Norm_2.dds" mc="0"/>
+		<SpecialMap Name="G3Sniper_SPEC_3.dds" mc="0"/>
+		<BaseColorMap Name="G3Sniper_Base_3.dds" mc="0"/>
+		<RMMap Name="G3Sniper_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -157,10 +157,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="5747012.dds" mc="0"/>
-		<SpecialMap Name="5747015.dds" mc="0"/>
-		<BaseColorMap Name="5747013.dds" mc="0"/>
-		<RMMap Name="5747014.dds" mc="0"/>
+		<NormalMap Name="G3Sniper_Norm_6.dds" mc="0"/>
+		<SpecialMap Name="G3A3_SPEC_5.dds" mc="0"/>
+		<BaseColorMap Name="G3Sniper_Base_5.dds" mc="0"/>
+		<RMMap Name="G3Sniper_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -209,10 +209,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="5747016.dds" mc="0"/>
-		<SpecialMap Name="5747019.dds" mc="0"/>
-		<BaseColorMap Name="5747017.dds" mc="0"/>
-		<RMMap Name="5747018.dds" mc="0"/>
+		<NormalMap Name="G3Sniper_Norm_4.dds" mc="0"/>
+		<SpecialMap Name="G3Sniper_SPEC_4.dds" mc="0"/>
+		<BaseColorMap Name="G3Sniper_Base.dds" mc="0"/>
+		<RMMap Name="G3Sniper_RM_4.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -261,10 +261,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="5747020.dds" mc="0"/>
-		<SpecialMap Name="5747023.dds" mc="0"/>
-		<BaseColorMap Name="5747021.dds" mc="0"/>
-		<RMMap Name="5747022.dds" mc="0"/>
+		<NormalMap Name="G3Sniper_Norm_5.dds" mc="0"/>
+		<SpecialMap Name="G3Sniper_SPEC_5.dds" mc="0"/>
+		<BaseColorMap Name="G3Sniper_Base_2.dds" mc="0"/>
+		<RMMap Name="G3Sniper_RM_7.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -313,10 +313,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="5747024.dds" mc="0"/>
-		<SpecialMap Name="5747027.dds" mc="0"/>
-		<BaseColorMap Name="5747025.dds" mc="0"/>
-		<RMMap Name="5747026.dds" mc="0"/>
+		<NormalMap Name="G3Sniper_Norm.dds" mc="0"/>
+		<SpecialMap Name="G3Sniper_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="G3A3_Base_2.dds" mc="0"/>
+		<RMMap Name="G3Sniper_RM_5.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="10448001.dds" mc="0"/>
-		<AOMap Name="10448000.dds" mc="0"/>
-		<SpecialMap Name="10448004.dds" mc="0"/>
-		<BaseColorMap Name="10448002.dds" mc="0"/>
-		<RMMap Name="10448003.dds" mc="0"/>
+		<NormalMap Name="CAR15_Norm.dds" mc="0"/>
+		<AOMap Name="CAR15_AO.dds" mc="0"/>
+		<SpecialMap Name="CAR15_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="CAR15_Base.dds" mc="0"/>
+		<RMMap Name="CAR15_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

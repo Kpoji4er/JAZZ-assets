@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="2685001.dds" mc="0"/>
-		<AOMap Name="2685000.dds" mc="0"/>
-		<BaseColorMap Name="2685002.dds" mc="0"/>
-		<RMMap Name="2685003.dds" mc="0"/>
+		<NormalMap Name="P90_Norm_2.dds" mc="0"/>
+		<AOMap Name="P90_AO_2.dds" mc="0"/>
+		<BaseColorMap Name="P90_Base.dds" mc="0"/>
+		<RMMap Name="P90_RM_4.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -53,11 +53,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="2685005.dds" mc="0"/>
-		<SpecialMap Name="2685008.dds" mc="0"/>
-		<AOMap Name="2685004.dds" mc="0"/>
-		<BaseColorMap Name="2685006.dds" mc="0"/>
-		<RMMap Name="2685007.dds" mc="0"/>
+		<NormalMap Name="P90_Norm.dds" mc="0"/>
+		<SpecialMap Name="P90_SPEC_2.dds" mc="0"/>
+		<AOMap Name="P90_AO.dds" mc="0"/>
+		<BaseColorMap Name="P90_Base_3.dds" mc="0"/>
+		<RMMap Name="P90_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -106,11 +106,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="2685010.dds" mc="0"/>
-		<SpecialMap Name="2685013.dds" mc="0"/>
-		<AOMap Name="2685009.dds" mc="0"/>
-		<BaseColorMap Name="2685011.dds" mc="0"/>
-		<RMMap Name="2685012.dds" mc="0"/>
+		<NormalMap Name="P90_Norm_4.dds" mc="0"/>
+		<SpecialMap Name="P90_SPEC.dds" mc="0"/>
+		<AOMap Name="P90_AO_3.dds" mc="0"/>
+		<BaseColorMap Name="P90_Base_4.dds" mc="0"/>
+		<RMMap Name="P90_RM_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -159,11 +159,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="2685015.dds" mc="0"/>
-		<SpecialMap Name="2685018.dds" mc="0"/>
-		<AOMap Name="2685014.dds" mc="0"/>
-		<BaseColorMap Name="2685016.dds" mc="0"/>
-		<RMMap Name="2685017.dds" mc="0"/>
+		<NormalMap Name="P90_Norm_3.dds" mc="0"/>
+		<SpecialMap Name="P90_SPEC_3.dds" mc="0"/>
+		<AOMap Name="P90_AO_4.dds" mc="0"/>
+		<BaseColorMap Name="P90_Base_2.dds" mc="0"/>
+		<RMMap Name="P90_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

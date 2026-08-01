@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9431001.dds" mc="0"/>
-		<AOMap Name="9431000.dds" mc="0"/>
-		<SpecialMap Name="9431004.dds" mc="0"/>
-		<BaseColorMap Name="9431002.dds" mc="0"/>
-		<RMMap Name="9431003.dds" mc="0"/>
+		<NormalMap Name="Scorpion_Norm.dds" mc="0"/>
+		<AOMap Name="Scorpion_AO.dds" mc="0"/>
+		<SpecialMap Name="Scorpion_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="Scorpion_Base.dds" mc="0"/>
+		<RMMap Name="Scorpion_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

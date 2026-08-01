@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="4506001.dds" mc="0"/>
-		<AOMap Name="4506000.dds" mc="0"/>
-		<SIMap Name="4506002.dds" mc="0"/>
-		<BaseColorMap Name="4506003.dds" mc="0"/>
-		<RMMap Name="4506004.dds" mc="0"/>
+		<NormalMap Name="Spas12_Norm.dds" mc="0"/>
+		<AOMap Name="Spas12_AO.dds" mc="0"/>
+		<SIMap Name="Spas12_SI.dds" mc="0"/>
+		<BaseColorMap Name="Spas12_Base.dds" mc="0"/>
+		<RMMap Name="Spas12_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

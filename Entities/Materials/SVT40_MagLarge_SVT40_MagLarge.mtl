@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9216001.dds" mc="0"/>
-		<AOMap Name="9216000.dds" mc="0"/>
-		<SpecialMap Name="9216004.dds" mc="0"/>
-		<BaseColorMap Name="9216002.dds" mc="0"/>
-		<RMMap Name="9216003.dds" mc="0"/>
+		<NormalMap Name="SVT_40_Norm.dds" mc="0"/>
+		<AOMap Name="SVT_40_AO.dds" mc="0"/>
+		<SpecialMap Name="SVT_40_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="SVT_40_Base.dds" mc="0"/>
+		<RMMap Name="SVT_40_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

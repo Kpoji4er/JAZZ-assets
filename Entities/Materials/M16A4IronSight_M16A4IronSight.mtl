@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9216009.dds" mc="0"/>
-		<BaseColorMap Name="9216010.dds" mc="0"/>
+		<NormalMap Name="M16A4IronSight_Norm.dds" mc="0"/>
+		<BaseColorMap Name="M16A4IronSight_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9989001.dds" mc="0"/>
-		<AOMap Name="9989000.dds" mc="0"/>
-		<SpecialMap Name="9989004.dds" mc="0"/>
-		<BaseColorMap Name="9989002.dds" mc="0"/>
-		<RMMap Name="9989003.dds" mc="0"/>
+		<NormalMap Name="G3Sniper_Muzzle_Norm.dds" mc="0"/>
+		<AOMap Name="G3Sniper_Muzzle_AO.dds" mc="0"/>
+		<SpecialMap Name="G3Sniper_Muzzle_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="G3Sniper_Muzzle_Base.dds" mc="0"/>
+		<RMMap Name="G3Sniper_Muzzle_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

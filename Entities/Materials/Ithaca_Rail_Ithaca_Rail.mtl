@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="7573006.dds" mc="0"/>
-		<AOMap Name="7573005.dds" mc="0"/>
-		<SpecialMap Name="7573009.dds" mc="0"/>
-		<BaseColorMap Name="7573007.dds" mc="0"/>
-		<RMMap Name="7573008.dds" mc="0"/>
+		<NormalMap Name="Ithaca_Rail_Norm.dds" mc="0"/>
+		<AOMap Name="Ithaca_Rail_AO.dds" mc="0"/>
+		<SpecialMap Name="Ithaca_Rail_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="Ithaca_Rail_Base.dds" mc="0"/>
+		<RMMap Name="Ithaca_Rail_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

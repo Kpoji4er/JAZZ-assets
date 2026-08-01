@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="46020007300284572767.dds" mc="0"/>
-		<BaseColorMap Name="46020011540458376961.dds" mc="0"/>
-		<RMMap Name="46020022410556477480.dds" mc="0"/>
+		<NormalMap Name="Kimber_Norm.dds" mc="0"/>
+		<BaseColorMap Name="Kimber_Base.dds" mc="0"/>
+		<RMMap Name="Kimber_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

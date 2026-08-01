@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6366001.dds" mc="0"/>
-		<AOMap Name="6366000.dds" mc="0"/>
-		<SpecialMap Name="6366004.dds" mc="0"/>
-		<BaseColorMap Name="6366002.dds" mc="0"/>
-		<RMMap Name="6366003.dds" mc="0"/>
+		<NormalMap Name="BAR_Norm.dds" mc="0"/>
+		<AOMap Name="BAR_AO.dds" mc="0"/>
+		<SpecialMap Name="BAR_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="BAR_Base.dds" mc="0"/>
+		<RMMap Name="BAR_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

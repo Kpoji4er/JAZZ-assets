@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6847001.dds" mc="0"/>
-		<AOMap Name="6847000.dds" mc="0"/>
-		<SIMap Name="6847002.dds" mc="0"/>
-		<SpecialMap Name="6847005.dds" mc="0"/>
-		<BaseColorMap Name="6847003.dds" mc="0"/>
-		<RMMap Name="6847004.dds" mc="0"/>
+		<NormalMap Name="HK_33_Drum_Base.dds" mc="0"/>
+		<AOMap Name="HK_33_Drum_Norm.dds" mc="0"/>
+		<SIMap Name="HK_33_Drum_RM.dds" mc="0"/>
+		<SpecialMap Name="Aimpoint5000_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="Aimpoint5000_Base.dds" mc="0"/>
+		<RMMap Name="Aimpoint5000_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

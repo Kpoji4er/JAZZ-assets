@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9400001.dds" mc="0"/>
-		<SpecialMap Name="9400004.dds" mc="0"/>
-		<AOMap Name="9400000.dds" mc="0"/>
-		<BaseColorMap Name="9400002.dds" mc="0"/>
-		<RMMap Name="9400003.dds" mc="0"/>
+		<NormalMap Name="AKModernMuzzle_Norm.dds" mc="0"/>
+		<SpecialMap Name="AKModernMuzzle_SPEC.dds" mc="0"/>
+		<AOMap Name="AKModernMuzzle_AO.dds" mc="0"/>
+		<BaseColorMap Name="AKModernMuzzle_Base.dds" mc="0"/>
+		<RMMap Name="AKModernMuzzle_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

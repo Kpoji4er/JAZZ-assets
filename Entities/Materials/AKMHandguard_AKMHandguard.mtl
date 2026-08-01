@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8127000.dds" mc="0"/>
-		<SpecialMap Name="8127003.dds" mc="0"/>
-		<BaseColorMap Name="8127001.dds" mc="0"/>
-		<RMMap Name="8127002.dds" mc="0"/>
+		<NormalMap Name="AKMHandguard_Norm.dds" mc="0"/>
+		<SpecialMap Name="P90_SPEC_3.dds" mc="0"/>
+		<BaseColorMap Name="AKMHandguard_Base.dds" mc="0"/>
+		<RMMap Name="AKMHandguard_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

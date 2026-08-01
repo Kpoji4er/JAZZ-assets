@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9889001.dds" mc="0"/>
-		<AOMap Name="9889000.dds" mc="0"/>
-		<SIMap Name="9889002.dds" mc="0"/>
-		<BaseColorMap Name="9889003.dds" mc="0"/>
-		<RMMap Name="9889004.dds" mc="0"/>
+		<NormalMap Name="M16DoubleStanag_Norm.dds" mc="0"/>
+		<AOMap Name="M16DoubleStanag_AO.dds" mc="0"/>
+		<SIMap Name="M16DoubleStanag_SI.dds" mc="0"/>
+		<BaseColorMap Name="M16DoubleStanag_Base.dds" mc="0"/>
+		<RMMap Name="M16DoubleStanag_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

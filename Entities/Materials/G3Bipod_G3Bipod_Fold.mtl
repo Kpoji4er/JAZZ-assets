@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="5116001.dds" mc="0"/>
-		<AOMap Name="5116000.dds" mc="0"/>
-		<SpecialMap Name="5116004.dds" mc="0"/>
-		<BaseColorMap Name="5116002.dds" mc="0"/>
-		<RMMap Name="5116003.dds" mc="0"/>
+		<NormalMap Name="G3Supressor_Norm.dds" mc="0"/>
+		<AOMap Name="G3Supressor_AO.dds" mc="0"/>
+		<SpecialMap Name="G3Supressor_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="G3Supressor_Base.dds" mc="0"/>
+		<RMMap Name="G3Supressor_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

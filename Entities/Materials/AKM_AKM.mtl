@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="2717000.dds" mc="0"/>
-		<BaseColorMap Name="2717001.dds" mc="0"/>
-		<RMMap Name="2717002.dds" mc="0"/>
+		<NormalMap Name="AKM_Norm.dds" mc="0"/>
+		<BaseColorMap Name="AKM_Base_2.dds" mc="0"/>
+		<RMMap Name="AKM_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -52,9 +52,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="2717004.dds" mc="0"/>
-		<BaseColorMap Name="2717005.dds" mc="0"/>
-		<RMMap Name="2717006.dds" mc="0"/>
+		<NormalMap Name="AKM_Norm_3.dds" mc="0"/>
+		<BaseColorMap Name="AKM_Base_3.dds" mc="0"/>
+		<RMMap Name="AKM_RM_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -103,9 +103,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="2717008.dds" mc="0"/>
-		<BaseColorMap Name="2717009.dds" mc="0"/>
-		<RMMap Name="2717010.dds" mc="0"/>
+		<NormalMap Name="AKM_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="AKM_Base.dds" mc="0"/>
+		<RMMap Name="AKM_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

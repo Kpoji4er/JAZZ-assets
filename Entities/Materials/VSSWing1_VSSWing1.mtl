@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="5706000.dds" mc="0"/>
-		<BaseColorMap Name="5706001.dds" mc="0"/>
-		<RMMap Name="5706002.dds" mc="0"/>
+		<NormalMap Name="VSS_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="VSS_Base.dds" mc="0"/>
+		<RMMap Name="VSS_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

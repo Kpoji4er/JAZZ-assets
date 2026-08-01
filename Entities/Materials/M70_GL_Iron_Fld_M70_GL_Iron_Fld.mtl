@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9798001.dds" mc="0"/>
-		<AOMap Name="9798000.dds" mc="0"/>
-		<SpecialMap Name="9798004.dds" mc="0"/>
-		<BaseColorMap Name="9798002.dds" mc="0"/>
-		<RMMap Name="9798003.dds" mc="0"/>
+		<NormalMap Name="Zastava_M70_Norm.dds" mc="0"/>
+		<AOMap Name="Zastava_M70_AO.dds" mc="0"/>
+		<SpecialMap Name="Zastava_M70_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="Zastava_M70_Base.dds" mc="0"/>
+		<RMMap Name="Zastava_M70_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

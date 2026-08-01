@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6302001.dds" mc="0"/>
-		<SpecialMap Name="6302004.dds" mc="0"/>
-		<AOMap Name="6302000.dds" mc="0"/>
-		<BaseColorMap Name="6302002.dds" mc="0"/>
-		<RMMap Name="6302003.dds" mc="0"/>
+		<NormalMap Name="Type56_Norm.dds" mc="0"/>
+		<SpecialMap Name="P90Planks_SPEC.dds" mc="0"/>
+		<AOMap Name="Type56_AO.dds" mc="0"/>
+		<BaseColorMap Name="Type56_Base.dds" mc="0"/>
+		<RMMap Name="Type56_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

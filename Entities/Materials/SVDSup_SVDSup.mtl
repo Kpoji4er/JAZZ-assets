@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="45490000307791325655.dds" mc="0"/>
-		<SIMap Name="45490019794490121016.dds" mc="0"/>
-		<BaseColorMap Name="45490020606665254324.dds" mc="0"/>
+		<NormalMap Name="SVDSup_Norm.dds" mc="0"/>
+		<SIMap Name="SVDSup_SI.dds" mc="0"/>
+		<BaseColorMap Name="SVDSup_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

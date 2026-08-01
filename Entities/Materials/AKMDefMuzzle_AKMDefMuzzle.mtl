@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8135000.dds" mc="0"/>
-		<SpecialMap Name="8135003.dds" mc="0"/>
-		<BaseColorMap Name="8135001.dds" mc="0"/>
-		<RMMap Name="8135002.dds" mc="0"/>
+		<NormalMap Name="AKM_Norm_2.dds" mc="0"/>
+		<SpecialMap Name="AKMDefMuzzle_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="AKM_Base.dds" mc="0"/>
+		<RMMap Name="AKM_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

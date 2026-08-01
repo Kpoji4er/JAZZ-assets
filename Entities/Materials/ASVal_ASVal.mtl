@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3939000.dds" mc="0"/>
-		<SIMap Name="3939001.dds" mc="0"/>
-		<BaseColorMap Name="3939002.dds" mc="0"/>
-		<RMMap Name="3939003.dds" mc="0"/>
+		<NormalMap Name="ASVal_Norm.dds" mc="0"/>
+		<SIMap Name="ASVal_SI.dds" mc="0"/>
+		<BaseColorMap Name="ASVal_Base.dds" mc="0"/>
+		<RMMap Name="ASVal_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

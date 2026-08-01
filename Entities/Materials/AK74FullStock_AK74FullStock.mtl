@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8666000.dds" mc="0"/>
-		<BaseColorMap Name="8666001.dds" mc="0"/>
-		<RMMap Name="8666002.dds" mc="0"/>
+		<NormalMap Name="AK74FullStock_Norm.dds" mc="0"/>
+		<BaseColorMap Name="AK74FullStock_Base.dds" mc="0"/>
+		<RMMap Name="AK74FullStock_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

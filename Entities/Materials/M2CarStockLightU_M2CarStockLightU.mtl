@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="10510001388009147038.dds" mc="0"/>
-		<AOMap Name="10510000529725500182.dds" mc="0"/>
-		<BaseColorMap Name="10510002520163081580.dds" mc="0"/>
-		<RMMap Name="10510003084655094318.dds" mc="0"/>
+		<NormalMap Name="M2Carbine_Norm.dds" mc="0"/>
+		<AOMap Name="M2Carbine_AO.dds" mc="0"/>
+		<BaseColorMap Name="M2Carbine_Base_2.dds" mc="0"/>
+		<RMMap Name="M2Carbine_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

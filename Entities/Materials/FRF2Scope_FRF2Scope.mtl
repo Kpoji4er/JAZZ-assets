@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6278007.dds" mc="0"/>
-		<AOMap Name="6278006.dds" mc="0"/>
-		<SIMap Name="6278008.dds" mc="0"/>
-		<BaseColorMap Name="6278009.dds" mc="0"/>
-		<RMMap Name="6278010.dds" mc="0"/>
+		<NormalMap Name="FRF2_Norm.dds" mc="0"/>
+		<AOMap Name="FRF2_AO.dds" mc="0"/>
+		<SIMap Name="FRF2_SI.dds" mc="0"/>
+		<BaseColorMap Name="FRF2_Base.dds" mc="0"/>
+		<RMMap Name="FRF2_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

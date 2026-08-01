@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9359005.dds" mc="0"/>
-		<AOMap Name="9359004.dds" mc="0"/>
-		<SIMap Name="9359006.dds" mc="0"/>
-		<SpecialMap Name="9359009.dds" mc="0"/>
-		<BaseColorMap Name="9359007.dds" mc="0"/>
-		<RMMap Name="9359008.dds" mc="0"/>
+		<NormalMap Name="SigErgoStock_Norm.dds" mc="0"/>
+		<AOMap Name="SigErgoStock_AO.dds" mc="0"/>
+		<SIMap Name="SigErgoStock_SI.dds" mc="0"/>
+		<SpecialMap Name="SigErgoStock_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="SigErgoStock_Base.dds" mc="0"/>
+		<RMMap Name="SigErgoStock_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

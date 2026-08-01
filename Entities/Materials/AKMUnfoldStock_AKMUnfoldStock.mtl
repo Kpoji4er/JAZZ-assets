@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9349000.dds" mc="0"/>
-		<SpecialMap Name="9349003.dds" mc="0"/>
-		<BaseColorMap Name="9349001.dds" mc="0"/>
-		<RMMap Name="9349002.dds" mc="0"/>
+		<NormalMap Name="AKMFoldStock_Norm.dds" mc="0"/>
+		<SpecialMap Name="P90_SPEC_3.dds" mc="0"/>
+		<BaseColorMap Name="AKMFoldStock_Base.dds" mc="0"/>
+		<RMMap Name="AKMFoldStock_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -53,10 +53,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="9349000.dds" mc="0"/>
-		<SpecialMap Name="9349004.dds" mc="0"/>
-		<BaseColorMap Name="9349001.dds" mc="0"/>
-		<RMMap Name="9349002.dds" mc="0"/>
+		<NormalMap Name="AKMFoldStock_Norm.dds" mc="0"/>
+		<SpecialMap Name="AKMFoldStock_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="AKMFoldStock_Base.dds" mc="0"/>
+		<RMMap Name="AKMFoldStock_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="10470000.dds" mc="0"/>
-		<SpecialMap Name="10470003.dds" mc="0"/>
-		<BaseColorMap Name="10470001.dds" mc="0"/>
-		<RMMap Name="10470002.dds" mc="0"/>
+		<NormalMap Name="AK74_Norm.dds" mc="0"/>
+		<SpecialMap Name="AK74RecieverGrip_Base.dds" mc="0"/>
+		<BaseColorMap Name="AK74RecieverGrip_Norm.dds" mc="0"/>
+		<RMMap Name="AK74_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

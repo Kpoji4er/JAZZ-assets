@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="5712001.dds" mc="0"/>
-		<AOMap Name="5712000.dds" mc="0"/>
-		<BaseColorMap Name="5712002.dds" mc="0"/>
-		<RMMap Name="5712003.dds" mc="0"/>
+		<NormalMap Name="MP5Plank_Norm.dds" mc="0"/>
+		<AOMap Name="MP5Plank_AO.dds" mc="0"/>
+		<BaseColorMap Name="MP5Plank_Base.dds" mc="0"/>
+		<RMMap Name="MP5Plank_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

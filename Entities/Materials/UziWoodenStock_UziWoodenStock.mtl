@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="9448001.dds" mc="0"/>
-		<SpecialMap Name="9448004.dds" mc="0"/>
-		<AOMap Name="9448000.dds" mc="0"/>
-		<BaseColorMap Name="9448002.dds" mc="0"/>
-		<RMMap Name="9448003.dds" mc="0"/>
+		<NormalMap Name="UziWoodenStock_Norm.dds" mc="0"/>
+		<SpecialMap Name="UziWoodenStock_SPEC.dds" mc="0"/>
+		<AOMap Name="UziWoodenStock_AO.dds" mc="0"/>
+		<BaseColorMap Name="UziWoodenStock_Base.dds" mc="0"/>
+		<RMMap Name="UziWoodenStock_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

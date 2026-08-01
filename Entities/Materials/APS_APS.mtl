@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="27280008966864667202.dds" mc="0"/>
-		<BaseColorMap Name="27280013759845734969.dds" mc="0"/>
-		<RMMap Name="27280020744773176417.dds" mc="0"/>
+		<NormalMap Name="APS_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="APS_Base.dds" mc="0"/>
+		<RMMap Name="APS_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -52,9 +52,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="27280032396327271674.dds" mc="0"/>
-		<BaseColorMap Name="27280042145375446043.dds" mc="0"/>
-		<RMMap Name="27280052780625958640.dds" mc="0"/>
+		<NormalMap Name="APS_Norm.dds" mc="0"/>
+		<BaseColorMap Name="APS_Base_2.dds" mc="0"/>
+		<RMMap Name="APS_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

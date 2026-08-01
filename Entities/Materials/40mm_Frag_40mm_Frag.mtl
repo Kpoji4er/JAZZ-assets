@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6297001.dds" mc="0"/>
-		<AOMap Name="6297000.dds" mc="0"/>
-		<SpecialMap Name="6297004.dds" mc="0"/>
-		<BaseColorMap Name="6297002.dds" mc="0"/>
-		<RMMap Name="6297003.dds" mc="0"/>
+		<NormalMap Name="40mm_Frag_Norm.dds" mc="0"/>
+		<AOMap Name="40mm_Frag_AO.dds" mc="0"/>
+		<SpecialMap Name="40mm_Frag_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="40mm_Frag_Base.dds" mc="0"/>
+		<RMMap Name="40mm_Frag_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

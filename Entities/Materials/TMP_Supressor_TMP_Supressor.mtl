@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8818001.dds" mc="0"/>
-		<AOMap Name="8818000.dds" mc="0"/>
-		<SpecialMap Name="8818004.dds" mc="0"/>
-		<BaseColorMap Name="8818002.dds" mc="0"/>
-		<RMMap Name="8818003.dds" mc="0"/>
+		<NormalMap Name="TMP_Supressor_Norm.dds" mc="0"/>
+		<AOMap Name="TMP_Supressor_AO.dds" mc="0"/>
+		<SpecialMap Name="TMP_Supressor_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="TMP_Supressor_Base.dds" mc="0"/>
+		<RMMap Name="TMP_Supressor_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

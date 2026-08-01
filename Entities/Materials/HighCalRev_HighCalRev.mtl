@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6957001.dds" mc="0"/>
-		<AOMap Name="6957000.dds" mc="0"/>
-		<SpecialMap Name="6957004.dds" mc="0"/>
-		<BaseColorMap Name="6957002.dds" mc="0"/>
-		<RMMap Name="6957003.dds" mc="0"/>
+		<NormalMap Name="HighCalRev_Norm_2.dds" mc="0"/>
+		<AOMap Name="HighCalRev_AO_2.dds" mc="0"/>
+		<SpecialMap Name="HighCalRev_SPEC_2.dds" mc="0"/>
+		<BaseColorMap Name="HighCalRev_Base_2.dds" mc="0"/>
+		<RMMap Name="HighCalRev_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,11 +54,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="6957006.dds" mc="0"/>
-		<AOMap Name="6957005.dds" mc="0"/>
-		<SpecialMap Name="6957009.dds" mc="0"/>
-		<BaseColorMap Name="6957007.dds" mc="0"/>
-		<RMMap Name="6957008.dds" mc="0"/>
+		<NormalMap Name="HighCalRev_Norm.dds" mc="0"/>
+		<AOMap Name="HighCalRev_AO.dds" mc="0"/>
+		<SpecialMap Name="HighCalRev_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="HighCalRev_Base.dds" mc="0"/>
+		<RMMap Name="HighCalRev_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

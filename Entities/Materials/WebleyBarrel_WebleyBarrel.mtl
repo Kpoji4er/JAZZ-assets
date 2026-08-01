@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="82160014061027363068.dds" mc="0"/>
-		<BaseColorMap Name="82160026859071370280.dds" mc="0"/>
-		<RMMap Name="82160003946695582203.dds" mc="0"/>
+		<NormalMap Name="Webleyf_Norm.dds" mc="0"/>
+		<BaseColorMap Name="Webleyf_Base.dds" mc="0"/>
+		<RMMap Name="Webleyf_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

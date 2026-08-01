@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="68480015393649932694.dds" mc="0"/>
-		<AOMap Name="68480006922007627998.dds" mc="0"/>
-		<SIMap Name="68480029889388030983.dds" mc="0"/>
-		<BaseColorMap Name="68480033395038828620.dds" mc="0"/>
-		<RMMap Name="68480040057376207146.dds" mc="0"/>
+		<NormalMap Name="P226Reflex_Norm.dds" mc="0"/>
+		<AOMap Name="P226Reflex_AO.dds" mc="0"/>
+		<SIMap Name="P226Reflex_SI.dds" mc="0"/>
+		<BaseColorMap Name="P226Reflex_Base.dds" mc="0"/>
+		<RMMap Name="P226Reflex_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

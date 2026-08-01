@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<BaseColorMap Name="8041000.dds" mc="0"/>
+		<BaseColorMap Name="Chevy_S10_SM_Base_4.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -50,9 +50,9 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="8041001.dds" mc="0"/>
-		<BaseColorMap Name="8041002.dds" mc="0"/>
-		<RMMap Name="8041003.dds" mc="0"/>
+		<NormalMap Name="Chevy_S10_SM_Norm_3.dds" mc="0"/>
+		<BaseColorMap Name="Chevy_S10_SM_Base_2.dds" mc="0"/>
+		<RMMap Name="Chevy_S10_SM_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -101,10 +101,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="8041005.dds" mc="0"/>
-		<AOMap Name="8041004.dds" mc="0"/>
-		<BaseColorMap Name="8041006.dds" mc="0"/>
-		<RMMap Name="8041007.dds" mc="0"/>
+		<NormalMap Name="Chevy_S10_SM_Norm.dds" mc="0"/>
+		<AOMap Name="Chevy_S10_SM_AO.dds" mc="0"/>
+		<BaseColorMap Name="Chevy_S10_SM_Base_3.dds" mc="0"/>
+		<RMMap Name="Chevy_S10_SM_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -153,8 +153,8 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="8041008.dds" mc="0"/>
-		<BaseColorMap Name="8041009.dds" mc="0"/>
+		<NormalMap Name="Chevy_S10_SM_Norm_2.dds" mc="0"/>
+		<BaseColorMap Name="Chevy_S10_SM_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

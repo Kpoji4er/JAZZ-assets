@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<BaseColorMap Name="3243000.dds" mc="0"/>
+		<BaseColorMap Name="M4A1_Base.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -50,7 +50,7 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<BaseColorMap Name="3243001.dds" mc="0"/>
+		<BaseColorMap Name="M4A1_Base_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -99,7 +99,7 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<BaseColorMap Name="3243002.dds" mc="0"/>
+		<BaseColorMap Name="M4A1_Base_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -148,7 +148,7 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<BaseColorMap Name="3243003.dds" mc="0"/>
+		<BaseColorMap Name="M4A1_Base_5.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -197,7 +197,7 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<BaseColorMap Name="3243004.dds" mc="0"/>
+		<BaseColorMap Name="M4A1_Base_4.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

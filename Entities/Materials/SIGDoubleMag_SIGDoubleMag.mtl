@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8107001.dds" mc="0"/>
-		<AOMap Name="8107000.dds" mc="0"/>
-		<SIMap Name="8107002.dds" mc="0"/>
-		<SpecialMap Name="8107005.dds" mc="0"/>
-		<BaseColorMap Name="8107003.dds" mc="0"/>
-		<RMMap Name="8107004.dds" mc="0"/>
+		<NormalMap Name="SigMagDef_Norm.dds" mc="0"/>
+		<AOMap Name="SigMagDef_AO.dds" mc="0"/>
+		<SIMap Name="SigMagDef_SI.dds" mc="0"/>
+		<SpecialMap Name="SigMagDef_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="SigMagDef_Base.dds" mc="0"/>
+		<RMMap Name="SigMagDef_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

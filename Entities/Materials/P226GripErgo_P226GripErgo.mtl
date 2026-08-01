@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="80330014113069395315.dds" mc="0"/>
-		<AOMap Name="80330009768944564157.dds" mc="0"/>
-		<SIMap Name="80330027156444472874.dds" mc="0"/>
-		<BaseColorMap Name="80330039651701097970.dds" mc="0"/>
-		<RMMap Name="80330045383714341642.dds" mc="0"/>
+		<NormalMap Name="P226GripErgo_Norm.dds" mc="0"/>
+		<AOMap Name="P226GripErgo_AO.dds" mc="0"/>
+		<SIMap Name="P226GripErgo_SI.dds" mc="0"/>
+		<BaseColorMap Name="P226GripErgo_Base.dds" mc="0"/>
+		<RMMap Name="P226GripErgo_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

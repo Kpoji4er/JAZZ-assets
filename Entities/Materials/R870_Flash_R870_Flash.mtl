@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6830001.dds" mc="0"/>
-		<AOMap Name="6830000.dds" mc="0"/>
-		<SIMap Name="6830002.dds" mc="0"/>
-		<SpecialMap Name="6830005.dds" mc="0"/>
-		<BaseColorMap Name="6830003.dds" mc="0"/>
-		<RMMap Name="6830004.dds" mc="0"/>
+		<NormalMap Name="R870_Norm_2.dds" mc="0"/>
+		<AOMap Name="R870_AO.dds" mc="0"/>
+		<SIMap Name="R870_SI.dds" mc="0"/>
+		<SpecialMap Name="R870_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="R870_Base_2.dds" mc="0"/>
+		<RMMap Name="R870_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

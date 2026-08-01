@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="32760018402785443094.dds" mc="0"/>
-		<ColorizationMap Name="32760020155540418894.dds" mc="0"/>
-		<AOMap Name="32760002739694497337.dds" mc="0"/>
-		<BaseColorMap Name="32760031838868707519.dds" mc="0"/>
-		<RMMap Name="32760006947498231864.dds" mc="0"/>
+		<NormalMap Name="SW19_Norm.dds" mc="0"/>
+		<ColorizationMap Name="SW19_Color.dds" mc="0"/>
+		<AOMap Name="SW19_AO_2.dds" mc="0"/>
+		<BaseColorMap Name="SW19_Base.dds" mc="0"/>
+		<RMMap Name="SW19_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,10 +54,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="32760062771407975039.dds" mc="0"/>
-		<AOMap Name="32760054034113469900.dds" mc="0"/>
-		<BaseColorMap Name="32760086645671755986.dds" mc="0"/>
-		<RMMap Name="32760013796288048593.dds" mc="0"/>
+		<NormalMap Name="SW19_Norm_2.dds" mc="0"/>
+		<AOMap Name="SW19_AO.dds" mc="0"/>
+		<BaseColorMap Name="SW19_Base_2.dds" mc="0"/>
+		<RMMap Name="SW19_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

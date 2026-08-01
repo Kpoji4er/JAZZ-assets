@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="5692001.dds" mc="0"/>
-		<AOMap Name="5692000.dds" mc="0"/>
-		<SpecialMap Name="5692004.dds" mc="0"/>
-		<BaseColorMap Name="5692002.dds" mc="0"/>
-		<RMMap Name="5692003.dds" mc="0"/>
+		<NormalMap Name="Ithaca37_Norm.dds" mc="0"/>
+		<AOMap Name="Ithaca37_AO.dds" mc="0"/>
+		<SpecialMap Name="Ithaca37_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="Ithaca37_Base.dds" mc="0"/>
+		<RMMap Name="Ithaca37_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

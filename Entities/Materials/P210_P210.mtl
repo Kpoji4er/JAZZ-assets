@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="32270014571967014473.dds" mc="0"/>
-		<AOMap Name="32270006658956207043.dds" mc="0"/>
-		<BaseColorMap Name="32270028934453115462.dds" mc="0"/>
-		<RMMap Name="32270030755898872980.dds" mc="0"/>
+		<NormalMap Name="P210_Norm.dds" mc="0"/>
+		<AOMap Name="P210_AO.dds" mc="0"/>
+		<BaseColorMap Name="P210_Base.dds" mc="0"/>
+		<RMMap Name="P210_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

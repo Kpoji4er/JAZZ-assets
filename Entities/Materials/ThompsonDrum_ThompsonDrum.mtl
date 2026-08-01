@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8264001.dds" mc="0"/>
-		<AOMap Name="8264000.dds" mc="0"/>
-		<SpecialMap Name="8264004.dds" mc="0"/>
-		<BaseColorMap Name="8264002.dds" mc="0"/>
-		<RMMap Name="8264003.dds" mc="0"/>
+		<NormalMap Name="ThompsonDrum_Norm.dds" mc="0"/>
+		<AOMap Name="ThompsonDrum_AO.dds" mc="0"/>
+		<SpecialMap Name="ThompsonDrum_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="ThompsonDrum_Base.dds" mc="0"/>
+		<RMMap Name="ThompsonDrum_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

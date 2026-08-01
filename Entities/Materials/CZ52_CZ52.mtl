@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="32600018853754535791.dds" mc="0"/>
-		<AOMap Name="32600005105843869612.dds" mc="0"/>
-		<BaseColorMap Name="32600024751424039636.dds" mc="0"/>
-		<RMMap Name="32600039368666489242.dds" mc="0"/>
+		<NormalMap Name="CZ52_Norm_2.dds" mc="0"/>
+		<AOMap Name="CZ52_AO.dds" mc="0"/>
+		<BaseColorMap Name="CZ52_Base.dds" mc="0"/>
+		<RMMap Name="CZ52_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -53,10 +53,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="32600057539939215128.dds" mc="0"/>
-		<AOMap Name="32600045420958470907.dds" mc="0"/>
-		<BaseColorMap Name="32600063028205810041.dds" mc="0"/>
-		<RMMap Name="32600072867514862283.dds" mc="0"/>
+		<NormalMap Name="CZ52_Norm.dds" mc="0"/>
+		<AOMap Name="CZ52_AO.dds" mc="0"/>
+		<BaseColorMap Name="CZ52_Base_2.dds" mc="0"/>
+		<RMMap Name="CZ52_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3849001.dds" mc="0"/>
-		<AOMap Name="3849000.dds" mc="0"/>
-		<SIMap Name="3849002.dds" mc="0"/>
-		<BaseColorMap Name="3849003.dds" mc="0"/>
-		<RMMap Name="3849004.dds" mc="0"/>
+		<NormalMap Name="HK23e_Norm_3.dds" mc="0"/>
+		<AOMap Name="HK23e_AO_3.dds" mc="0"/>
+		<SIMap Name="HK23e_SI.dds" mc="0"/>
+		<BaseColorMap Name="HK23e_Base.dds" mc="0"/>
+		<RMMap Name="HK23e_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,11 +54,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3849007.dds" mc="0"/>
-		<ColorizationMap Name="3849010.dds" mc="0"/>
-		<AOMap Name="3849006.dds" mc="0"/>
-		<BaseColorMap Name="3849008.dds" mc="0"/>
-		<RMMap Name="3849009.dds" mc="0"/>
+		<NormalMap Name="HK23e_Norm.dds" mc="0"/>
+		<ColorizationMap Name="HK23e_Color_2.dds" mc="0"/>
+		<AOMap Name="HK23e_AO.dds" mc="0"/>
+		<BaseColorMap Name="HK23e_Base_2.dds" mc="0"/>
+		<RMMap Name="HK23e_RM_4.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -107,12 +107,12 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3849012.dds" mc="0"/>
-		<ColorizationMap Name="3849016.dds" mc="0"/>
-		<AOMap Name="3849011.dds" mc="0"/>
-		<SIMap Name="3849013.dds" mc="0"/>
-		<BaseColorMap Name="3849014.dds" mc="0"/>
-		<RMMap Name="3849015.dds" mc="0"/>
+		<NormalMap Name="HK23e_Norm_2.dds" mc="0"/>
+		<ColorizationMap Name="HK23e_Color.dds" mc="0"/>
+		<AOMap Name="HK23e_AO_3.dds" mc="0"/>
+		<SIMap Name="HK23e_SI_3.dds" mc="0"/>
+		<BaseColorMap Name="HK23e_Base_4.dds" mc="0"/>
+		<RMMap Name="HK23e_RM_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -161,12 +161,12 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3849018.dds" mc="0"/>
-		<ColorizationMap Name="3849022.dds" mc="0"/>
-		<AOMap Name="3849017.dds" mc="0"/>
-		<SIMap Name="3849019.dds" mc="0"/>
-		<BaseColorMap Name="3849020.dds" mc="0"/>
-		<RMMap Name="3849021.dds" mc="0"/>
+		<NormalMap Name="HK23e_Norm_4.dds" mc="0"/>
+		<ColorizationMap Name="HK23e_Color_3.dds" mc="0"/>
+		<AOMap Name="HK23e_AO_2.dds" mc="0"/>
+		<SIMap Name="HK23e_SI_2.dds" mc="0"/>
+		<BaseColorMap Name="HK23e_Base_3.dds" mc="0"/>
+		<RMMap Name="HK23e_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

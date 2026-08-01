@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="93110011058179164264.dds" mc="0"/>
-		<AOMap Name="93110003480376811997.dds" mc="0"/>
-		<SIMap Name="93110027150128300836.dds" mc="0"/>
-		<BaseColorMap Name="93110038276961076558.dds" mc="0"/>
-		<RMMap Name="93110042803499193650.dds" mc="0"/>
+		<NormalMap Name="M73GripBase_Norm.dds" mc="0"/>
+		<AOMap Name="M73GripBase_AO.dds" mc="0"/>
+		<SIMap Name="M73GripBase_SI.dds" mc="0"/>
+		<BaseColorMap Name="M73GripBase_Base.dds" mc="0"/>
+		<RMMap Name="M73GripBase_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,11 +54,11 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="93110064836877357752.dds" mc="0"/>
-		<AOMap Name="93110054720353283889.dds" mc="0"/>
-		<SIMap Name="93110070243407185202.dds" mc="0"/>
-		<BaseColorMap Name="93110088186053697869.dds" mc="0"/>
-		<RMMap Name="93110094340898066484.dds" mc="0"/>
+		<NormalMap Name="M73Base_Norm.dds" mc="0"/>
+		<AOMap Name="M73Base_AO.dds" mc="0"/>
+		<SIMap Name="M73Base_SI.dds" mc="0"/>
+		<BaseColorMap Name="M73Base_Base.dds" mc="0"/>
+		<RMMap Name="M73Base_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

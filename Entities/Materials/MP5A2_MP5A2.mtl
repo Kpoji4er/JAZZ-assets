@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3825001.dds" mc="0"/>
-		<AOMap Name="3825000.dds" mc="0"/>
-		<SpecialMap Name="3825004.dds" mc="0"/>
-		<BaseColorMap Name="3825002.dds" mc="0"/>
-		<RMMap Name="3825003.dds" mc="0"/>
+		<NormalMap Name="MP5A2_Norm.dds" mc="0"/>
+		<AOMap Name="MP5A2_AO.dds" mc="0"/>
+		<SpecialMap Name="MP5A2_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="MP5A2_Base_2.dds" mc="0"/>
+		<RMMap Name="MP5A2_RM_2.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,10 +54,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3825006.dds" mc="0"/>
-		<AOMap Name="3825005.dds" mc="0"/>
-		<BaseColorMap Name="3825007.dds" mc="0"/>
-		<RMMap Name="3825008.dds" mc="0"/>
+		<NormalMap Name="MP5A2_Norm_2.dds" mc="0"/>
+		<AOMap Name="MP5A2_AO_2.dds" mc="0"/>
+		<BaseColorMap Name="MP5A2_Base.dds" mc="0"/>
+		<RMMap Name="MP5A2_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

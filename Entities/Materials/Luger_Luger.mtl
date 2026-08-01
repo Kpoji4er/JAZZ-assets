@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="4011006.dds" mc="0"/>
-		<AOMap Name="4011005.dds" mc="0"/>
-		<SpecialMap Name="4011009.dds" mc="0"/>
-		<BaseColorMap Name="4011007.dds" mc="0"/>
-		<RMMap Name="4011008.dds" mc="0"/>
+		<NormalMap Name="Luger_Norm.dds" mc="0"/>
+		<AOMap Name="Luger_AO.dds" mc="0"/>
+		<SpecialMap Name="Luger_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="Luger_Base.dds" mc="0"/>
+		<RMMap Name="Luger_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

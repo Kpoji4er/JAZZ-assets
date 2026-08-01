@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="8873001.dds" mc="0"/>
-		<AOMap Name="8873000.dds" mc="0"/>
-		<SIMap Name="8873002.dds" mc="0"/>
-		<BaseColorMap Name="8873003.dds" mc="0"/>
-		<RMMap Name="8873004.dds" mc="0"/>
+		<NormalMap Name="cartridge_box_Norm.dds" mc="0"/>
+		<AOMap Name="cartridge_box_AO.dds" mc="0"/>
+		<SIMap Name="cartridge_box_SI.dds" mc="0"/>
+		<BaseColorMap Name="cartridge_box_Base.dds" mc="0"/>
+		<RMMap Name="cartridge_box_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

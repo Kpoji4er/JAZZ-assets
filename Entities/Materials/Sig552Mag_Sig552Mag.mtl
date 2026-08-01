@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="6224001.dds" mc="0"/>
-		<AOMap Name="6224000.dds" mc="0"/>
-		<SIMap Name="6224002.dds" mc="0"/>
-		<BaseColorMap Name="6224003.dds" mc="0"/>
-		<RMMap Name="6224004.dds" mc="0"/>
+		<NormalMap Name="Sig552Mag_Norm.dds" mc="0"/>
+		<AOMap Name="Sig552Mag_AO.dds" mc="0"/>
+		<SIMap Name="Sig552Mag_SI.dds" mc="0"/>
+		<BaseColorMap Name="Sig552Mag_Base.dds" mc="0"/>
+		<RMMap Name="Sig552Mag_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -54,12 +54,12 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="6224001.dds" mc="0"/>
-		<AOMap Name="6224000.dds" mc="0"/>
-		<SIMap Name="6224002.dds" mc="0"/>
-		<SpecialMap Name="6224005.dds" mc="0"/>
-		<BaseColorMap Name="6224003.dds" mc="0"/>
-		<RMMap Name="6224004.dds" mc="0"/>
+		<NormalMap Name="Sig552Mag_Norm.dds" mc="0"/>
+		<AOMap Name="Sig552Mag_AO.dds" mc="0"/>
+		<SIMap Name="Sig552Mag_SI.dds" mc="0"/>
+		<SpecialMap Name="Sig552Mag_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="Sig552Mag_Base.dds" mc="0"/>
+		<RMMap Name="Sig552Mag_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

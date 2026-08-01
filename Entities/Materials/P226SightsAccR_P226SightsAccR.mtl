@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="92050015019646371277.dds" mc="0"/>
-		<AOMap Name="92050008241722468283.dds" mc="0"/>
-		<SIMap Name="92050022513646509899.dds" mc="0"/>
-		<BaseColorMap Name="92050035644588514498.dds" mc="0"/>
-		<RMMap Name="92050048398305700421.dds" mc="0"/>
+		<NormalMap Name="P226SightsF_Norm.dds" mc="0"/>
+		<AOMap Name="P226SightsF_AO.dds" mc="0"/>
+		<SIMap Name="P226SightsF_SI.dds" mc="0"/>
+		<BaseColorMap Name="P226SightsF_Base.dds" mc="0"/>
+		<RMMap Name="P226SightsF_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

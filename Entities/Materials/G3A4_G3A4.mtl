@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <Materials>
 	<Material>
-		<NormalMap Name="3239000.dds" mc="0"/>
-		<SpecialMap Name="3239003.dds" mc="0"/>
-		<BaseColorMap Name="3239001.dds" mc="0"/>
-		<RMMap Name="3239002.dds" mc="0"/>
+		<NormalMap Name="G3A4_Norm.dds" mc="0"/>
+		<SpecialMap Name="G3A4_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="G3A4_Base.dds" mc="0"/>
+		<RMMap Name="G3A4_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -53,10 +53,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3239004.dds" mc="0"/>
-		<SpecialMap Name="3239007.dds" mc="0"/>
-		<BaseColorMap Name="3239005.dds" mc="0"/>
-		<RMMap Name="3239006.dds" mc="0"/>
+		<NormalMap Name="G3A3_Norm_5.dds" mc="0"/>
+		<SpecialMap Name="G3A3_SPEC.dds" mc="0"/>
+		<BaseColorMap Name="G3A3_Base_6.dds" mc="0"/>
+		<RMMap Name="G3A3_RM.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -105,10 +105,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3239008.dds" mc="0"/>
-		<SpecialMap Name="3239011.dds" mc="0"/>
-		<BaseColorMap Name="3239009.dds" mc="0"/>
-		<RMMap Name="3239010.dds" mc="0"/>
+		<NormalMap Name="G3A3_Norm_7.dds" mc="0"/>
+		<SpecialMap Name="G3A3_SPEC_5.dds" mc="0"/>
+		<BaseColorMap Name="G3A3_Base_5.dds" mc="0"/>
+		<RMMap Name="G3A3_RM_5.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -157,10 +157,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3239012.dds" mc="0"/>
-		<SpecialMap Name="3239015.dds" mc="0"/>
-		<BaseColorMap Name="3239013.dds" mc="0"/>
-		<RMMap Name="3239014.dds" mc="0"/>
+		<NormalMap Name="G3A3_Norm.dds" mc="0"/>
+		<SpecialMap Name="G3A3_SPEC_4.dds" mc="0"/>
+		<BaseColorMap Name="G3A3_Base_2.dds" mc="0"/>
+		<RMMap Name="G3A3_RM_7.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -209,10 +209,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3239016.dds" mc="0"/>
-		<SpecialMap Name="3239019.dds" mc="0"/>
-		<BaseColorMap Name="3239017.dds" mc="0"/>
-		<RMMap Name="3239018.dds" mc="0"/>
+		<NormalMap Name="G3A3_Norm_4.dds" mc="0"/>
+		<SpecialMap Name="G3A3_SPEC_3.dds" mc="0"/>
+		<BaseColorMap Name="G3A3_Base_7.dds" mc="0"/>
+		<RMMap Name="G3A3_RM_3.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -261,10 +261,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3239020.dds" mc="0"/>
-		<SpecialMap Name="3239023.dds" mc="0"/>
-		<BaseColorMap Name="3239021.dds" mc="0"/>
-		<RMMap Name="3239022.dds" mc="0"/>
+		<NormalMap Name="G3A3_Norm_2.dds" mc="0"/>
+		<SpecialMap Name="G3A3_SPEC_7.dds" mc="0"/>
+		<BaseColorMap Name="G3A3_Base_4.dds" mc="0"/>
+		<RMMap Name="G3A3_RM_4.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>
@@ -313,10 +313,10 @@
 		<Property Colors="1"/>
 	</Material>
 	<Material>
-		<NormalMap Name="3239024.dds" mc="0"/>
-		<SpecialMap Name="3239027.dds" mc="0"/>
-		<BaseColorMap Name="3239025.dds" mc="0"/>
-		<RMMap Name="3239026.dds" mc="0"/>
+		<NormalMap Name="G3A3_Norm_3.dds" mc="0"/>
+		<SpecialMap Name="G3A3_SPEC_6.dds" mc="0"/>
+		<BaseColorMap Name="G3A3_Base.dds" mc="0"/>
+		<RMMap Name="G3A3_RM_6.dds" mc="0"/>
 		<Property Opacity="100"/>
 		<Property ViewDependentOpacity="0"/>
 		<Property VertexNoise="None"/>

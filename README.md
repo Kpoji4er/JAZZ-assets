@@ -4,4 +4,7 @@
 
 Репозиторий: <https://github.com/Kpoji4er/JAZZ-assets>
 
+**Скачать для игры (не Code → Download ZIP):**  
+https://github.com/Kpoji4er/JAZZ-assets/releases/download/playable/jazz_assets-playable.zip
+
 Документация комплекта: пакет `jazz` → `docs/technical/`.

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="AKR_AK74M_Magazine">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AKR_AK74M_Magazine_Mesh.m.hgm" />
+			<material file="Materials/AKR_AK74M_Magazine_Mesh.mtl" />
+			<bsphere value="2.859,0.000,-7.801,12.155" />
+			<box min="-3.910,-1.613,-18.366" max="9.628,1.613,2.764" />
+			</lod>
+	</mesh_description>
+</entity>

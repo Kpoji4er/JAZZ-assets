@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="SR3M_Stock">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SR3M_Stock_Mesh.m.hgm" />
+			<material file="Materials/SR3M_Stock_Mesh.mtl" />
+			<bsphere value="-13.551,2.026,-4.992,14.934" />
+			<box min="-27.350,0.206,-11.047" max="0.249,3.845,1.063" />
+			</lod>
+	</mesh_description>
+</entity>

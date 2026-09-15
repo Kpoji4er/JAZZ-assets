@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="SR3M_Muzzle">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SR3M_Muzzle_Mesh.m.hgm" />
+			<material file="Materials/SR3M_Muzzle_Mesh.mtl" />
+			<bsphere value="2.020,-0.001,0.046,3.202" />
+			<box min="-0.509,-2.016,-1.969" max="4.550,2.014,2.061" />
+			</lod>
+		<attach name="Muzzle" spot_pos="4.550,0.000,0.000" />
+	</mesh_description>
+</entity>

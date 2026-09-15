@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="AKR_AK74M_Muzzle">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AKR_AK74M_Muzzle_Mesh.m.hgm" />
+			<material file="Materials/AKR_AK74M_Muzzle_Mesh.mtl" />
+			<bsphere value="2.223,0.000,0.013,2.913" />
+			<box min="-0.554,-1.265,-1.252" max="5.000,1.265,1.278" />
+			</lod>
+	</mesh_description>
+</entity>

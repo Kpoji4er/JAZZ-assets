@@ -4475,4 +4475,49 @@ return {
 			'obstruction', true,
 		}),
 		}),
+	PlaceObj('ModItemFolder', { 'name', "SR3M" }, {
+		PlaceObj('ModItemEntity', { 'name', "SR3M", 'ClassParents', {}, 'entity_name', "SR3M" }),
+		PlaceObj('ModItemEntity', { 'name', "SR3M_Handguard", 'ClassParents', {}, 'entity_name', "SR3M_Handguard" }),
+		PlaceObj('ModItemEntity', { 'name', "SR3M_Magazine", 'ClassParents', {}, 'entity_name', "SR3M_Magazine" }),
+		PlaceObj('ModItemEntity', { 'name', "SR3M_Muzzle", 'ClassParents', {}, 'entity_name', "SR3M_Muzzle" }),
+		PlaceObj('ModItemEntity', { 'name', "SR3M_Stock", 'ClassParents', {}, 'entity_name', "SR3M_Stock" }),
+		PlaceObj('ModItemEntity', { 'name', "SR3M_StockFolded", 'ClassParents', {}, 'entity_name', "SR3M_StockFolded" }),
+	}),
+PlaceObj('ModItemFolder', { 'name', "L42A1" }, {
+PlaceObj('ModItemEntity', { 'name', "L42A1", 'ClassParents', {}, 'entity_name', "L42A1" }),
+PlaceObj('ModItemEntity', { 'name', "L42A1_Scope", 'ClassParents', {}, 'entity_name', "L42A1_Scope" }),
+}),
+PlaceObj('ModItemFolder', { 'name', "JAZZ_MosinModular" }, {
+PlaceObj('ModItemEntity', { 'name', "MOSIN_1891", 'ClassParents', {}, 'entity_name', "MOSIN_1891" }),
+PlaceObj('ModItemEntity', { 'name', "MOSIN_M38", 'ClassParents', {}, 'entity_name', "MOSIN_M38" }),
+PlaceObj('ModItemEntity', { 'name', "MOSIN_Obrez", 'ClassParents', {}, 'entity_name', "MOSIN_Obrez" }),
+}),
+
+PlaceObj('ModItemFolder', { 'name', "AK remasters" }, {
+PlaceObj('ModItemEntity', { 'name', "AKR_AK74", 'ClassParents', {}, 'entity_name', "AKR_AK74" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK74_Handguard", 'ClassParents', {}, 'entity_name', "AKR_AK74_Handguard" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK74_Magazine", 'ClassParents', {}, 'entity_name', "AKR_AK74_Magazine" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK74_Muzzle", 'ClassParents', {}, 'entity_name', "AKR_AK74_Muzzle" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK74_Stock", 'ClassParents', {}, 'entity_name', "AKR_AK74_Stock" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AKM", 'ClassParents', {}, 'entity_name', "AKR_AKM" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AKM_Handguard", 'ClassParents', {}, 'entity_name', "AKR_AKM_Handguard" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AKM_Magazine", 'ClassParents', {}, 'entity_name', "AKR_AKM_Magazine" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AKM_Muzzle", 'ClassParents', {}, 'entity_name', "AKR_AKM_Muzzle" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AKM_Stock", 'ClassParents', {}, 'entity_name', "AKR_AKM_Stock" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK74M", 'ClassParents', {}, 'entity_name', "AKR_AK74M" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK74M_Handguard", 'ClassParents', {}, 'entity_name', "AKR_AK74M_Handguard" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK74M_Magazine", 'ClassParents', {}, 'entity_name', "AKR_AK74M_Magazine" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK74M_Muzzle", 'ClassParents', {}, 'entity_name', "AKR_AK74M_Muzzle" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK74M_Stock", 'ClassParents', {}, 'entity_name', "AKR_AK74M_Stock" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK74M_StockFolded", 'ClassParents', {}, 'entity_name', "AKR_AK74M_StockFolded" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK105", 'ClassParents', {}, 'entity_name', "AKR_AK105" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK105_Handguard", 'ClassParents', {}, 'entity_name', "AKR_AK105_Handguard" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK105_Magazine", 'ClassParents', {}, 'entity_name', "AKR_AK105_Magazine" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK105_Muzzle", 'ClassParents', {}, 'entity_name', "AKR_AK105_Muzzle" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK105_Stock", 'ClassParents', {}, 'entity_name', "AKR_AK105_Stock" }),
+PlaceObj('ModItemEntity', { 'name', "AKR_AK105_StockFolded", 'ClassParents', {}, 'entity_name', "AKR_AK105_StockFolded" }),
+}),
+
+
+
 }

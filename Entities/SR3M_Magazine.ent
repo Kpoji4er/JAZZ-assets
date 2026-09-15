@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="SR3M_Magazine">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SR3M_Magazine_Mesh.m.hgm" />
+			<material file="Materials/SR3M_Magazine_Mesh.mtl" />
+			<bsphere value="3.271,-0.012,-10.702,13.457" />
+			<box min="-3.262,-1.466,-22.800" max="9.804,1.442,1.397" />
+			</lod>
+	</mesh_description>
+</entity>

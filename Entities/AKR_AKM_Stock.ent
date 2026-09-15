@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="AKR_AKM_Stock">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AKR_AKM_Stock_Mesh.m.hgm" />
+			<material file="Materials/AKR_AKM_Stock_Mesh.mtl" />
+			<bsphere value="-7.337,0.000,-1.106,11.986" />
+			<box min="-18.309,-1.678,-6.042" max="3.635,1.678,3.830" />
+			</lod>
+	</mesh_description>
+</entity>

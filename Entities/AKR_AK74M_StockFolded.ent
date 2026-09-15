@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="AKR_AK74M_StockFolded">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AKR_AK74M_StockFolded_Mesh.m.hgm" />
+			<material file="Materials/AKR_AK74M_StockFolded_Mesh.mtl" />
+			<bsphere value="12.139,2.158,0.000,13.527" />
+			<box min="-0.500,0.263,-4.951" max="24.777,4.053,4.951" />
+			</lod>
+	</mesh_description>
+</entity>

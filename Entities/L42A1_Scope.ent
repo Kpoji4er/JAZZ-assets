@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="L42A1_Scope">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/L42A1_Scope_Mesh.m.hgm" />
+			<material file="Materials/L42A1_Scope_Mesh.mtl" />
+			<bsphere value="-1.959,0.041,2.691,13.481" />
+			<box min="-15.311,-2.511,-0.634" max="11.393,2.594,6.017" />
+			</lod>
+	</mesh_description>
+</entity>

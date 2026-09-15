@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="SR3M_Handguard">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SR3M_Handguard_Mesh.m.hgm" />
+			<material file="Materials/SR3M_Handguard_Mesh.mtl" />
+			<bsphere value="9.575,0.001,0.287,11.143" />
+			<box min="-0.332,-3.737,-4.725" max="19.483,3.739,5.299" />
+			</lod>
+	</mesh_description>
+</entity>

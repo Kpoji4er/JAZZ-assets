@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
 	'title', "Jazz Assets",
 	'description', "Assets for Jazz\n\nАссеты для работы Джаз",
 	'image', "Mod/pDGDhr/Images/J.png",
-	'last_changes', "Update\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
+	'last_changes', "- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
 	'ignore_files', {
 		-- VCS / IDE / agent (tracked in git, not for Steam pack)
 		"*.git/*",
@@ -44,10 +44,51 @@ return PlaceObj('ModDef', {
 	'id', "pDGDhr",
 	'author', "Doctor_Leevsy",
 	'version_minor', 2,
-	'version', 649,
+	'version', 650,
 	'lua_revision', 233360,
 	'saved_with_revision', 366685,
 	'entities', {
+
+
+
+		"AKR_AK74",
+		"AKR_AK74_Handguard",
+		"AKR_AK74_Magazine",
+		"AKR_AK74_Muzzle",
+		"AKR_AK74_Stock",
+		"AKR_AKM",
+		"AKR_AKM_Handguard",
+		"AKR_AKM_Magazine",
+		"AKR_AKM_Muzzle",
+		"AKR_AKM_Stock",
+		"AKR_AK74M",
+		"AKR_AK74M_Handguard",
+		"AKR_AK74M_Magazine",
+		"AKR_AK74M_Muzzle",
+		"AKR_AK74M_Stock",
+		"AKR_AK74M_StockFolded",
+		"AKR_AK105",
+		"AKR_AK105_Handguard",
+		"AKR_AK105_Magazine",
+		"AKR_AK105_Muzzle",
+		"AKR_AK105_Stock",
+		"AKR_AK105_StockFolded",
+
+
+		"MOSIN_1891",
+		"MOSIN_M38",
+		"MOSIN_Obrez",
+
+		"L42A1",
+		"L42A1_Scope",
+
+		"SR3M",
+		"SR3M_Handguard",
+		"SR3M_Magazine",
+		"SR3M_Muzzle",
+		"SR3M_Stock",
+		"SR3M_StockFolded",
+
 		"M79",
 		"40mm_Frag",
 		"SKS",
@@ -540,6 +581,47 @@ return PlaceObj('ModDef', {
 		"Train_1",
 	},
 	'code', {
+
+
+
+		"Entities/AKR_AK74.lua",
+		"Entities/AKR_AK74_Handguard.lua",
+		"Entities/AKR_AK74_Magazine.lua",
+		"Entities/AKR_AK74_Muzzle.lua",
+		"Entities/AKR_AK74_Stock.lua",
+		"Entities/AKR_AKM.lua",
+		"Entities/AKR_AKM_Handguard.lua",
+		"Entities/AKR_AKM_Magazine.lua",
+		"Entities/AKR_AKM_Muzzle.lua",
+		"Entities/AKR_AKM_Stock.lua",
+		"Entities/AKR_AK74M.lua",
+		"Entities/AKR_AK74M_Handguard.lua",
+		"Entities/AKR_AK74M_Magazine.lua",
+		"Entities/AKR_AK74M_Muzzle.lua",
+		"Entities/AKR_AK74M_Stock.lua",
+		"Entities/AKR_AK74M_StockFolded.lua",
+		"Entities/AKR_AK105.lua",
+		"Entities/AKR_AK105_Handguard.lua",
+		"Entities/AKR_AK105_Magazine.lua",
+		"Entities/AKR_AK105_Muzzle.lua",
+		"Entities/AKR_AK105_Stock.lua",
+		"Entities/AKR_AK105_StockFolded.lua",
+
+
+		"Entities/MOSIN_1891.lua",
+		"Entities/MOSIN_M38.lua",
+		"Entities/MOSIN_Obrez.lua",
+
+		"Entities/L42A1.lua",
+		"Entities/L42A1_Scope.lua",
+
+		"Entities/SR3M.lua",
+		"Entities/SR3M_Handguard.lua",
+		"Entities/SR3M_Magazine.lua",
+		"Entities/SR3M_Muzzle.lua",
+		"Entities/SR3M_Stock.lua",
+		"Entities/SR3M_StockFolded.lua",
+
 		"Entities/M79.lua",
 		"Entities/40mm_Frag.lua",
 		"Entities/SKS.lua",

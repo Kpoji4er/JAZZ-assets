@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="SR3M">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/SR3M_Mesh.m.hgm" />
+			<material file="Materials/SR3M_Mesh.mtl" />
+			<bsphere value="15.657,1.089,1.906,23.587" />
+			<box min="-5.898,-2.272,-8.668" max="37.211,4.449,12.479" />
+			</lod>
+		<attach name="Barrel" spot_pos="41.350,0.000,6.720" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Hand_l_grip" spot_pos="24.400,0.000,4.400" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Handguard" spot_pos="16.400,0.000,6.720" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Magazine" spot_pos="12.720,0.000,4.000" />
+		<attach name="Muzzle" spot_pos="36.800,0.000,6.720" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Stock" spot_pos="-5.200,-1.884,6.160" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Trigger" spot_pos="4.400,0.000,1.760" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Under" spot_pos="27.120,0.000,2.692" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>

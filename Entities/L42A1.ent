@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="L42A1">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/L42A1_Mesh.m.hgm" />
+			<material file="Materials/L42A1_Mesh.mtl" />
+			<bsphere value="16.323,1.363,-0.540,55.605" />
+			<box min="-38.771,-2.008,-10.055" max="71.416,4.734,8.975" />
+			</lod>
+		<attach name="Hand_l_grip" spot_pos="20.000,0.000,-1.200" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Magazine" spot_pos="9.000,0.000,-2.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzle" spot_pos="71.400,0.000,5.700" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Scope" spot_pos="5.500,0.000,6.800" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Trigger" spot_pos="2.500,0.000,-2.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>

@@ -4581,5 +4581,4 @@ PlaceObj('ModItemEntity', {
     'ClassParents', { "CharacterArmorMale" },
     'entity_name', "JAZZ_ZylonFull_Male",
 }),
-PlaceObj('ModItemEntity', { 'name', "JAZZ_SpecOpsBody_Male", 'entity_name', "JAZZ_SpecOpsBody_Male", 'ClassParents', { "CharacterBodyMale" } }),
 }

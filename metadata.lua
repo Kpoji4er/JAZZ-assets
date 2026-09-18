@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
 	'title', "Jazz Assets",
 	'description', "Assets for Jazz\n\nАссеты для работы Джаз",
 	'image', "Mod/pDGDhr/Images/J.png",
-	'last_changes', "- Legion torso armor models: cuirass, mail, tire, Twaron/Guardian/Zylon [no new game]\n- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
+	'last_changes', "- Remove poorly-rigged JAZZ_SpecOpsBody_Male [no new game]\n- Legion torso armor models: cuirass, mail, tire, Twaron/Guardian/Zylon [no new game]\n- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
 	'ignore_files', {
 		-- VCS / IDE / agent (tracked in git, not for Steam pack)
 		"*.git/*",
@@ -44,12 +44,10 @@ return PlaceObj('ModDef', {
 	'id', "pDGDhr",
 	'author', "Doctor_Leevsy",
 	'version_minor', 2,
-	'version', 651,
+	'version', 652,
 	'lua_revision', 233360,
 	'saved_with_revision', 366685,
 	'entities', {
-		"JAZZ_SpecOpsBody_Male",
-
 		"JAZZ_ZylonFull_Male",
 
 		"JAZZ_ZylonMedium_Male",
@@ -605,8 +603,6 @@ return PlaceObj('ModDef', {
 		"Train_1",
 	},
 	'code', {
-		"Entities/JAZZ_SpecOpsBody_Male.lua",
-
 		"Entities/JAZZ_ZylonFull_Male.lua",
 
 		"Entities/JAZZ_ZylonMedium_Male.lua",

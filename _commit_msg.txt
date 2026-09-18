@@ -1,0 +1,3 @@
+Add Legion torso armor entities and textures [no new game] [skip discord]
+
+Register cuirass, mail, tire, and Twaron/Guardian/Zylon male armor parts for JAZZ-APPEAR-001.

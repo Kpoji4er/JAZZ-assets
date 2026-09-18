@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
 	'title', "Jazz Assets",
 	'description', "Assets for Jazz\n\nАссеты для работы Джаз",
 	'image', "Mod/pDGDhr/Images/J.png",
-	'last_changes', "- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
+	'last_changes', "- Legion torso armor models: cuirass, mail, tire, Twaron/Guardian/Zylon [no new game]\n- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
 	'ignore_files', {
 		-- VCS / IDE / agent (tracked in git, not for Steam pack)
 		"*.git/*",
@@ -44,12 +44,35 @@ return PlaceObj('ModDef', {
 	'id', "pDGDhr",
 	'author', "Doctor_Leevsy",
 	'version_minor', 2,
-	'version', 650,
+	'version', 651,
 	'lua_revision', 233360,
 	'saved_with_revision', 366685,
 	'entities', {
+		"JAZZ_SpecOpsBody_Male",
 
+		"JAZZ_ZylonFull_Male",
 
+		"JAZZ_ZylonMedium_Male",
+
+		"JAZZ_ZylonLight_Male",
+
+		"JAZZ_GuardianFull_Male",
+
+		"JAZZ_GuardianMedium_Male",
+
+		"JAZZ_GuardianLight_Male",
+
+		"JAZZ_TwaronFull_Male",
+
+		"JAZZ_TwaronMedium_Male",
+
+		"JAZZ_TwaronLight_Male",
+
+		"JAZZ_TireArmor_Male",
+
+		"JAZZ_TireBrigantine_Male",
+
+		"JAZZ_Chainmail_Male",
 
 		"AKR_AK74",
 		"AKR_AK74_Handguard",
@@ -74,6 +97,7 @@ return PlaceObj('ModDef', {
 		"AKR_AK105_Stock",
 		"AKR_AK105_StockFolded",
 
+		"JAZZ_ImprovisedCuirass_Male",
 
 		"MOSIN_1891",
 		"MOSIN_M38",
@@ -581,8 +605,31 @@ return PlaceObj('ModDef', {
 		"Train_1",
 	},
 	'code', {
+		"Entities/JAZZ_SpecOpsBody_Male.lua",
 
+		"Entities/JAZZ_ZylonFull_Male.lua",
 
+		"Entities/JAZZ_ZylonMedium_Male.lua",
+
+		"Entities/JAZZ_ZylonLight_Male.lua",
+
+		"Entities/JAZZ_GuardianFull_Male.lua",
+
+		"Entities/JAZZ_GuardianMedium_Male.lua",
+
+		"Entities/JAZZ_GuardianLight_Male.lua",
+
+		"Entities/JAZZ_TwaronFull_Male.lua",
+
+		"Entities/JAZZ_TwaronMedium_Male.lua",
+
+		"Entities/JAZZ_TwaronLight_Male.lua",
+
+		"Entities/JAZZ_TireArmor_Male.lua",
+
+		"Entities/JAZZ_TireBrigantine_Male.lua",
+
+		"Entities/JAZZ_Chainmail_Male.lua",
 
 		"Entities/AKR_AK74.lua",
 		"Entities/AKR_AK74_Handguard.lua",
@@ -607,6 +654,7 @@ return PlaceObj('ModDef', {
 		"Entities/AKR_AK105_Stock.lua",
 		"Entities/AKR_AK105_StockFolded.lua",
 
+		"Entities/JAZZ_ImprovisedCuirass_Male.lua",
 
 		"Entities/MOSIN_1891.lua",
 		"Entities/MOSIN_M38.lua",

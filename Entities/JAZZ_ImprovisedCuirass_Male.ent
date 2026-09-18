@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_ImprovisedCuirass_Male">
+	<inherit entity="Male" mesh_ref="mesh" />
+	<state id="_mesh">
+		<mesh_ref ref="mesh" />
+	</state>
+	<mesh_description id="mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_ImprovisedCuirass_Male_mesh.m.hgm" />
+			<material file="Materials/JAZZ_ImprovisedCuirass_Male_mesh.mtl" />
+			<bsphere value="1.040,4.836,127.627,35.443" />
+			<box min="-19.900,-23.854,102.900" max="21.980,33.525,152.354" />
+			</lod>
+	</mesh_description>
+</entity>

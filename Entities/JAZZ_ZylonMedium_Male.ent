@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_ZylonMedium_Male">
+	<inherit entity="Male" mesh_ref="mesh" />
+	<state id="_mesh">
+		<mesh_ref ref="mesh" />
+	</state>
+	<mesh_description id="mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_ZylonMedium_Male_mesh.m.hgm" />
+			<material file="Materials/JAZZ_ZylonMedium_Male_mesh.mtl" />
+			<bsphere value="0.818,0.025,115.850,48.009" />
+			<box min="-23.197,-27.164,72.435" max="24.832,27.213,159.266" />
+			</lod>
+	</mesh_description>
+</entity>

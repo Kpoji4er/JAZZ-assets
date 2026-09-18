@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_SpecOpsBody_Male">
+	<inherit entity="Male" mesh_ref="mesh" />
+	<state id="_mesh">
+		<mesh_ref ref="mesh" />
+	</state>
+	<mesh_description id="mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_SpecOpsBody_Male_mesh.m.hgm" />
+			<material file="Materials/JAZZ_SpecOpsBody_Male_mesh.mtl" />
+			<bsphere value="1.115,-0.755,89.926,94.095" />
+			<box min="-17.331,-70.572,0.000" max="19.561,69.063,179.852" />
+			</lod>
+	</mesh_description>
+</entity>

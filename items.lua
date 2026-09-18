@@ -4492,7 +4492,11 @@ PlaceObj('ModItemEntity', { 'name', "MOSIN_1891", 'ClassParents', {}, 'entity_na
 PlaceObj('ModItemEntity', { 'name', "MOSIN_M38", 'ClassParents', {}, 'entity_name', "MOSIN_M38" }),
 PlaceObj('ModItemEntity', { 'name', "MOSIN_Obrez", 'ClassParents', {}, 'entity_name', "MOSIN_Obrez" }),
 }),
-
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_ImprovisedCuirass_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_ImprovisedCuirass_Male",
+}),
 PlaceObj('ModItemFolder', { 'name', "AK remasters" }, {
 PlaceObj('ModItemEntity', { 'name', "AKR_AK74", 'ClassParents', {}, 'entity_name', "AKR_AK74" }),
 PlaceObj('ModItemEntity', { 'name', "AKR_AK74_Handguard", 'ClassParents', {}, 'entity_name', "AKR_AK74_Handguard" }),
@@ -4517,7 +4521,65 @@ PlaceObj('ModItemEntity', { 'name', "AKR_AK105_Muzzle", 'ClassParents', {}, 'ent
 PlaceObj('ModItemEntity', { 'name', "AKR_AK105_Stock", 'ClassParents', {}, 'entity_name', "AKR_AK105_Stock" }),
 PlaceObj('ModItemEntity', { 'name', "AKR_AK105_StockFolded", 'ClassParents', {}, 'entity_name', "AKR_AK105_StockFolded" }),
 }),
-
-
-
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_Chainmail_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_Chainmail_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_TireBrigantine_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_TireBrigantine_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_TireArmor_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_TireArmor_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_TwaronLight_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_TwaronLight_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_TwaronMedium_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_TwaronMedium_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_TwaronFull_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_TwaronFull_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_GuardianLight_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_GuardianLight_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_GuardianMedium_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_GuardianMedium_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_GuardianFull_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_GuardianFull_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_ZylonLight_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_ZylonLight_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_ZylonMedium_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_ZylonMedium_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_ZylonFull_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_ZylonFull_Male",
+}),
+PlaceObj('ModItemEntity', { 'name', "JAZZ_SpecOpsBody_Male", 'entity_name', "JAZZ_SpecOpsBody_Male", 'ClassParents', { "CharacterBodyMale" } }),
 }

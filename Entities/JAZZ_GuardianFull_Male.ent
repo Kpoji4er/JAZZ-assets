@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_GuardianFull_Male">
+	<inherit entity="Male" mesh_ref="mesh" />
+	<state id="_mesh">
+		<mesh_ref ref="mesh" />
+	</state>
+	<mesh_description id="mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_GuardianFull_Male_mesh.m.hgm" />
+			<material file="Materials/JAZZ_GuardianFull_Male_mesh.mtl" />
+			<bsphere value="0.818,0.037,115.850,63.755" />
+			<box min="-23.197,-62.936,72.435" max="24.832,63.009,159.266" />
+			</lod>
+	</mesh_description>
+</entity>

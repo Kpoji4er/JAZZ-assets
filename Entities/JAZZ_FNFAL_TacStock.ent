@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_FNFAL_TacStock">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_FNFAL_TacStock_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_FNFAL_TacStock_Mesh.mtl" />
+			<bsphere value="-11.059,0.043,-3.801,14.787" />
+			<box min="-24.186,-1.737,-10.619" max="2.068,1.822,3.018" />
+			</lod>
+	</mesh_description>
+</entity>

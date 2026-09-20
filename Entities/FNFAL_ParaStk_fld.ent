@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="FNFAL_ParaStk_fld">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/FNFAL_ParaStk_fld_Mesh.m.hgm" />
+			<material file="Materials/FNFAL_ParaStk_fld_Mesh.mtl" />
+			<bsphere value="8.434,0.591,-4.264,15.818" />
+			<box min="-4.792,-1.165,-12.895" max="21.661,2.348,4.366" />
+			</lod>
+	</mesh_description>
+</entity>

@@ -25,4 +25,5 @@
 | Current-state реализации | `../jazz/docs/technical/` |
 | Player-facing эффект / drift technical | `../jazz/.cursor/rules/jazz-docs-sync.mdc` + `$document-jazz-systems` |
 | Броня/одежда Легиона, HGM, offline QA | `../jazz/.agents/docs/playbooks/legion-armor-modeling.md` |
+| Свой Hat/Body/Pants/Armor из Blender | `../jazz/.agents/skills/export-jazz-character-element/SKILL.md` |
 | Numeric DDS после import ствола | `$rename-jazz-weapon-textures` |

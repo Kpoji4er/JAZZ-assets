@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
 	'title', "Jazz Assets",
 	'description', "Assets for Jazz\n\nАссеты для работы Джаз",
 	'image', "Mod/pDGDhr/Images/J.png",
-	'last_changes', "- FN FAL Para fold stock and tactical RIS furniture [no new game]\n- Remove poorly-rigged JAZZ_SpecOpsBody_Male [no new game]\n- Legion torso armor models: cuirass, mail, tire, Twaron/Guardian/Zylon [no new game]\n- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
+	'last_changes', "- JAZZ-ASSETS-003: JazzHat_SSh68 CharacterHat (Head-local, no Male inherit) [no new game]\n- FN FAL Para fold stock and tactical RIS furniture [no new game]\n- Remove poorly-rigged JAZZ_SpecOpsBody_Male [no new game]\n- Legion torso armor models: cuirass, mail, tire, Twaron/Guardian/Zylon [no new game]\n- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
 	'ignore_files', {
 		-- VCS / IDE / agent (tracked in git, not for Steam pack)
 		"*.git/*",
@@ -44,7 +44,7 @@ return PlaceObj('ModDef', {
 	'id', "pDGDhr",
 	'author', "Doctor_Leevsy",
 	'version_minor', 2,
-	'version', 653,
+	'version', 654,
 	'lua_revision', 233360,
 	'saved_with_revision', 366685,
 	'entities', {
@@ -87,6 +87,8 @@ return PlaceObj('ModDef', {
 		"M4R_M4A1_RearSight",
 
 		"JAZZ_ZylonFull_Male",
+
+		"JazzHat_SSh68",
 
 		"JAZZ_ZylonMedium_Male",
 
@@ -684,6 +686,8 @@ return PlaceObj('ModDef', {
 		"Entities/M4R_M4A1_RearSight.lua",
 
 		"Entities/JAZZ_ZylonFull_Male.lua",
+
+		"Entities/JazzHat_SSh68.lua",
 
 		"Entities/JAZZ_ZylonMedium_Male.lua",
 

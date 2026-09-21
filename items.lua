@@ -4581,6 +4581,12 @@ PlaceObj('ModItemEntity', {
     'ClassParents', { "CharacterArmorMale" },
     'entity_name', "JAZZ_ZylonFull_Male",
 }),
+PlaceObj('ModItemEntity', {
+    'name', "JazzHat_SSh68",
+    'class_parent', "CharacterHat",
+    'ClassParents', { "CharacterHat" },
+    'entity_name', "JazzHat_SSh68",
+}),
 				PlaceObj('ModItemEntity', {
 					'name', "FNFAL_ParaStk_fld",
 					'ClassParents', {},

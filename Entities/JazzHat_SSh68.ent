@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity path="" name="JazzHat_SSh68">
+	<state id="idle">
+		<mesh_ref ref="mesh"/>
+	</state>
+	<mesh_description id="mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JazzHat_SSh68_mesh.m.hgm"/>
+			<material file="Materials/JazzHat_SSh68_mesh.mtl"/>
+			<bsphere value="1.807,0.353,12.178,15.887"/>
+			<box min="-11.956,-10.798,4.242" max="15.571,11.504,20.113"/>
+		</lod>
+	</mesh_description>
+</entity>

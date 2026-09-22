@@ -1,15 +1,16 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entity path="" name="JAZZ_TwaronFull_Male">
-	<inherit entity="Male" mesh_ref="mesh" />
+	<inherit entity="Male" mesh_ref="mesh"/>
 	<state id="_mesh">
-		<mesh_ref ref="mesh" />
+		<mesh_ref ref="mesh"/>
 	</state>
 	<mesh_description id="mesh">
 		<lod idx="0" distance="0">
-			<mesh file="Meshes/JAZZ_TwaronFull_Male_mesh.m.hgm" />
-			<material file="Materials/JAZZ_TwaronFull_Male_mesh.mtl" />
-			<bsphere value="0.818,0.037,115.850,63.755" />
-			<box min="-23.197,-62.936,72.435" max="24.832,63.009,159.266" />
-			</lod>
+			<mesh file="Meshes/JAZZ_TwaronFull_Male_mesh.m.hgm"/>
+			<material file="Materials/JAZZ_TwaronFull_Male_mesh.mtl"/>
+			<bsphere value="3.000,-0.005,114.548,70.215"/>
+			<box min="-17.106,-70.083,67.090" max="23.106,70.073,162.007"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/TwaronFull_Ready.fbx"/>
+		</lod>
 	</mesh_description>
 </entity>

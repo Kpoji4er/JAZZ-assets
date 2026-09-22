@@ -1,15 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <entity path="" name="JAZZ_TwaronLight_Male">
-	<inherit entity="Male" mesh_ref="mesh" />
+	<inherit entity="Male" mesh_ref="mesh"/>
 	<state id="_mesh">
-		<mesh_ref ref="mesh" />
+		<mesh_ref ref="mesh"/>
 	</state>
+	<mesh_description id="Jazz_TwaronLight">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/Jazz_TwaronLight_Jazz_TwaronLight.m.hgm"/>
+			<material file="Materials/Jazz_TwaronLight_Jazz_TwaronLight.mtl"/>
+			<bsphere value="2.801,-0.234,128.089,35.586"/>
+			<box min="-16.958,-26.399,99.366" max="22.559,25.931,156.812"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/TwaronLight_ready.fbx"/>
+		</lod>
+	</mesh_description>
 	<mesh_description id="mesh">
 		<lod idx="0" distance="0">
-			<mesh file="Meshes/JAZZ_TwaronLight_Male_mesh.m.hgm" />
-			<material file="Materials/JAZZ_TwaronLight_Male_mesh.mtl" />
-			<bsphere value="1.552,0.171,126.968,36.518" />
-			<box min="-21.728,-26.872,99.498" max="24.832,27.213,154.438" />
-			</lod>
+			<mesh file="Meshes/Jazz_TwaronLight_mesh.m.hgm"/>
+			<material file="Materials/Jazz_TwaronLight_mesh.mtl"/>
+			<bsphere value="2.801,-0.234,128.089,35.586"/>
+			<box min="-16.958,-26.399,99.366" max="22.559,25.931,156.812"/>
+			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/TwaronLight_ready.fbx"/>
+		</lod>
 	</mesh_description>
 </entity>

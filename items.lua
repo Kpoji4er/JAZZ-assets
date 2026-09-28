@@ -4816,4 +4816,9 @@ PlaceObj('ModItemEntity', {
     'ClassParents', { "CharacterArmorMale" },
     'entity_name', "JAZZ_LeatherArmor_Male",
 }),
+PlaceObj('ModItemEntity', {
+	'name', "JAZZ_M14_MkIII_Scope",
+	'ClassParents', {},
+	'entity_name', "JAZZ_M14_MkIII_Scope",
+}),
 }

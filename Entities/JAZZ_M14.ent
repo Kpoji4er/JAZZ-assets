@@ -24,6 +24,6 @@
 		<attach name="Stock" spot_pos="-18.000,0.000,2.500" />
 		<attach name="Trigger" spot_pos="4.000,0.000,-1.000" />
 		<attach name="Under" spot_pos="56.000,-0.425,7.295" />
-	<attach name="OpticsMount" spot_pos="0.000,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	<attach name="Opticsmount" spot_pos="0.000,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
 	</mesh_description>
 </entity>

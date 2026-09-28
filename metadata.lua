@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
 	'title', "Jazz Assets",
 	'description', "Assets for Jazz\n\nАссеты для работы Джаз",
 	'image', "Mod/pDGDhr/Images/J.png",
-	'last_changes', "- Snapshot all local weapon and armor model, material and texture work [no new game]\n- Replace Twaron/Zylon/Guardian vest meshes with owner Blender ports [no new game]\n- JAZZ-ASSETS-003: JazzHat_SSh68 CharacterHat (Head-local, no Male inherit) [no new game]\n- FN FAL Para fold stock and tactical RIS furniture [no new game]\n- Remove poorly-rigged JAZZ_SpecOpsBody_Male [no new game]\n- Legion torso armor models: cuirass, mail, tire, Twaron/Guardian/Zylon [no new game]\n- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
+	'last_changes', "- Extend M16 RIS, repair AK103 magazine normals, restore MkIII scope and connect chainmail straps [no new game]\n- Snapshot all local weapon and armor model, material and texture work [no new game]\n- Replace Twaron/Zylon/Guardian vest meshes with owner Blender ports [no new game]\n- JAZZ-ASSETS-003: JazzHat_SSh68 CharacterHat (Head-local, no Male inherit) [no new game]\n- FN FAL Para fold stock and tactical RIS furniture [no new game]\n- Remove poorly-rigged JAZZ_SpecOpsBody_Male [no new game]\n- Legion torso armor models: cuirass, mail, tire, Twaron/Guardian/Zylon [no new game]\n- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
 	'ignore_files', {
 		-- VCS / IDE / agent (tracked in git, not for Steam pack)
 		"*.git/*",
@@ -44,10 +44,12 @@ return PlaceObj('ModDef', {
 	'id', "pDGDhr",
 	'author', "Doctor_Leevsy",
 	'version_minor', 2,
-	'version', 656,
+	'version', 657,
 	'lua_revision', 233360,
 	'saved_with_revision', 366685,
 	'entities', {
+		"JAZZ_M14_MkIII_Scope",
+
 		"JAZZ_LeatherArmor_Male",
 
 		"JAZZ_M14_OpticsMount",
@@ -706,6 +708,8 @@ return PlaceObj('ModDef', {
 		"JAZZ_FNFAL_TacStock",
 	},
 	'code', {
+		"Entities/JAZZ_M14_MkIII_Scope.lua",
+
 		"Entities/JAZZ_LeatherArmor_Male.lua",
 
 		"Entities/JAZZ_M14_OpticsMount.lua",

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_M14_MkIII_Scope">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_M14_MkIII_Scope_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_M14_MkIII_Mesh.mtl" />
+			<bsphere value="-0.789,1.732,-1.294,16.956" />
+			<box min="-16.500,-3.880,-9.336" max="14.921,7.344,6.747" />
+			</lod>
+	</mesh_description>
+</entity>

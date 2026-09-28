@@ -18,9 +18,9 @@
 		<attach name="Mountfront" spot_pos="21.012,0.394,5.267" spot_rot="0.000000,0.000000,1.000000,0.0000" />
 		<attach name="Muzzle" spot_pos="53.450,0.003,8.287" spot_rot="0.000000,0.000000,1.000000,0.0000" />
 		<attach name="Scope" spot_pos="4.779,0.302,12.121" spot_rot="0.000000,0.000000,1.000000,0.0000" />
-		<attach name="Side" spot_pos="22.974,-3.022,8.709" spot_rot="1.000000,0.000000,0.000000,90.0000" />
+		<attach name="Side" spot_pos="27.000,0.000,12.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
 		<attach name="Stock" spot_pos="-17.351,0.003,3.567" spot_rot="0.000000,0.000000,1.000000,0.0000" />
 		<attach name="Trigger" spot_pos="-4.770,0.255,1.308" spot_rot="0.000000,0.000000,1.000000,0.0000" />
-		<attach name="Under" spot_pos="29.450,0.394,5.267" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Under" spot_pos="34.450,0.000,5.267" spot_rot="0.000000,0.000000,1.000000,0.0000" />
 	</mesh_description>
 </entity>

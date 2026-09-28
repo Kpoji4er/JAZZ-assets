@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="M4R_M4A1_CarryHandle">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M4R_M4A1_CarryHandle_Mesh.m.hgm" />
+			<material file="Materials/M4R_M4A1_CarryHandle_Mesh.mtl" />
+			<bsphere value="2.591,-0.603,1.382,9.666" />
+			<box min="-6.681,-2.904,-1.199" max="11.863,1.698,3.962" />
+			</lod>
+	</mesh_description>
+</entity>

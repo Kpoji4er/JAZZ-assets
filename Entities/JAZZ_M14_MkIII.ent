@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_M14_MkIII">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_M14_MkIII_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_M14_MkIII_Mesh.mtl" />
+			<bsphere value="8.896,0.787,1.058,42.118" />
+			<box min="-32.208,-3.246,-9.388" max="50.000,4.820,11.504" />
+			</lod>
+		<attach name="Barrel" spot_pos="50.000,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Bipod" spot_pos="46.000,0.000,2.700" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="General" spot_pos="18.000,0.000,11.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Hand_l_grip" spot_pos="32.000,0.000,3.022" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Magazine" spot_pos="19.000,0.000,3.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Mount" spot_pos="18.000,0.000,11.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Mountside" spot_pos="32.000,-2.600,6.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzle" spot_pos="79.800,0.000,7.300" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzletip" spot_pos="80.300,0.000,7.300" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Scope" spot_pos="18.000,0.000,11.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Side" spot_pos="32.000,-2.600,6.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Stock" spot_pos="-18.000,0.000,2.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Trigger" spot_pos="4.000,0.000,-1.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Under" spot_pos="38.000,0.000,2.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>

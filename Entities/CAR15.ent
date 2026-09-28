@@ -9,7 +9,6 @@
 			<material file="Materials/CAR15_CAR15.mtl"/>
 			<bsphere value="13.248,0.202,3.156,37.017"/>
 			<box min="-23.306,-3.533,-9.037" max="49.802,3.937,15.349"/>
-			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/CAR15.fbx"/>
 		</lod>
 		<attach name="Hand_l_grip" spot_pos="29.778,-0.487,7.486" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
 		<attach name="Magazine" spot_pos="12.316,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000"/>

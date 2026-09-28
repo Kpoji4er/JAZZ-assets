@@ -15,6 +15,8 @@
 		<attach name="Handguard" spot_pos="16.400,0.000,6.720" spot_rot="0.000000,0.000000,1.000000,0.0000" />
 		<attach name="Magazine" spot_pos="12.720,0.000,4.000" />
 		<attach name="Muzzle" spot_pos="36.800,0.000,6.720" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Scope" spot_pos="6.000,0.000,10.950" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Side" spot_pos="25.600,3.736,7.610" spot_rot="-1.000000,-0.000000,0.000000,90.0000" />
 		<attach name="Stock" spot_pos="-5.200,-1.884,6.160" spot_rot="0.000000,0.000000,1.000000,0.0000" />
 		<attach name="Trigger" spot_pos="4.400,0.000,1.760" spot_rot="0.000000,0.000000,1.000000,0.0000" />
 		<attach name="Under" spot_pos="27.120,0.000,2.692" spot_rot="0.000000,0.000000,1.000000,0.0000" />

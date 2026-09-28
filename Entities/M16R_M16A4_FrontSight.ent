@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="M16R_M16A4_FrontSight">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16R_M16A4_FrontSight_Mesh.m.hgm" />
+			<material file="Materials/M16R_M16A4_FrontSight_Mesh.mtl" />
+			<bsphere value="38.264,0.000,2.621,5.439" />
+			<box min="35.643,-1.483,-2.163" max="40.884,1.483,7.404" />
+			</lod>
+	</mesh_description>
+</entity>

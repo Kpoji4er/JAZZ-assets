@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_VZ58_Reflex">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_VZ58_Reflex_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_VZ58_Reflex_Mesh.mtl" />
+			<bsphere value="-0.508,0.098,1.904,3.941" />
+			<box min="-3.656,-2.003,-0.588" max="2.641,2.199,4.395" />
+			</lod>
+	</mesh_description>
+</entity>

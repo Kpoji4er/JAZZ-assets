@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="M4R_M4A1_BarrelLong">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M4R_M4A1_BarrelLong_Mesh.m.hgm" />
+			<material file="Materials/M4R_M4A1_BarrelLong_Mesh.mtl" />
+			<bsphere value="27.009,0.000,-0.233,24.536" />
+			<box min="2.501,-1.738,-2.115" max="51.517,1.738,1.649" />
+			</lod>
+		<attach name="Muzzle" spot_pos="51.517,0.000,-0.440" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>

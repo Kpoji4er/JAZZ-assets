@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_VZ58_Suppressor">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_VZ58_Suppressor_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_VZ58_Suppressor_Mesh.mtl" />
+			<bsphere value="7.443,0.000,-0.289,9.126" />
+			<box min="-1.551,-2.138,-2.427" max="16.437,2.138,1.849" />
+			</lod>
+		<attach name="Muzzletip" spot_pos="16.433,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>

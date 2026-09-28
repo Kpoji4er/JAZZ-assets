@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_VZ58_Foregrip">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_VZ58_Foregrip_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_VZ58_Foregrip_Mesh.mtl" />
+			<bsphere value="0.400,0.005,-2.653,4.346" />
+			<box min="-2.804,-1.235,-5.845" max="3.603,1.245,0.540" />
+			</lod>
+	</mesh_description>
+</entity>

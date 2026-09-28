@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_M14_MkIII_MagazineNormal">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_M14_MkIII_MagazineNormal_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_M14_MkIII_MagazineNormal_Mesh.mtl" />
+			<bsphere value="-3.484,-0.011,-4.959,8.435" />
+			<box min="-7.839,-1.666,-13.006" max="0.871,1.644,3.088" />
+			</lod>
+	</mesh_description>
+</entity>

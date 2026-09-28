@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="M16R_M16A4_CarryHandle">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16R_M16A4_CarryHandle_Mesh.m.hgm" />
+			<material file="Materials/M16R_M16A4_CarryHandle_Mesh.mtl" />
+			<bsphere value="-4.474,-0.315,2.246,10.216" />
+			<box min="-14.274,-2.747,-0.482" max="5.327,2.117,4.974" />
+			</lod>
+	</mesh_description>
+</entity>

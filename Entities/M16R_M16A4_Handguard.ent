@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="M16R_M16A4_Handguard">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16R_M16A4_Handguard_Mesh.m.hgm" />
+			<material file="Materials/M16R_M16A4_Handguard_Mesh.mtl" />
+			<bsphere value="0.000,0.000,0.000,16.352" />
+			<box min="-16.053,-3.887,-3.728" max="16.053,3.887,3.728" />
+			</lod>
+	</mesh_description>
+</entity>

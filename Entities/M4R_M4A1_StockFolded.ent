@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="M4R_M4A1_StockFolded">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M4R_M4A1_StockFolded_Mesh.m.hgm" />
+			<material file="Materials/M4R_M4A1_StockFolded_Mesh.mtl" />
+			<bsphere value="-2.203,0.000,0.000,10.911" />
+			<box min="-10.895,-2.548,-6.850" max="6.490,2.548,6.850" />
+			</lod>
+	</mesh_description>
+</entity>

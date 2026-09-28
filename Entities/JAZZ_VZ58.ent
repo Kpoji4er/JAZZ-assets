@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_VZ58">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_VZ58_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_VZ58_Mesh.mtl" />
+			<bsphere value="26.569,0.798,5.937,30.785" />
+			<box min="-4.075,-2.156,0.563" max="57.213,3.751,11.312" />
+			</lod>
+		<attach name="Hand_l_grip" spot_pos="27.903,0.000,2.990" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Handgrip" spot_pos="0.000,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Handguard" spot_pos="27.903,0.000,6.976" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Magazine" spot_pos="19.931,0.000,2.990" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzle" spot_pos="57.201,0.000,6.976" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzletip" spot_pos="57.201,0.000,6.976" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Scope" spot_pos="27.903,0.000,10.464" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Stock" spot_pos="-3.986,0.000,5.979" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Trigger" spot_pos="5.979,0.000,2.990" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Under" spot_pos="27.903,0.000,3.488" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>

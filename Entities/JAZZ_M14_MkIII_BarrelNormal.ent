@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_M14_MkIII_BarrelNormal">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_M14_MkIII_BarrelNormal_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_M14_MkIII_BarrelNormal_Mesh.mtl" />
+			<bsphere value="14.896,0.128,7.111,15.426" />
+			<box min="0.000,-2.412,3.112" max="29.792,2.668,11.111" />
+			</lod>
+		<attach name="Muzzle" spot_pos="29.800,0.000,7.300" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzletip" spot_pos="30.300,0.000,7.300" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>

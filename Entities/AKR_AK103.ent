@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="AKR_AK103">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AKR_AK103_Mesh.m.hgm" />
+			<material file="Materials/AKR_AK103_Mesh.mtl" />
+			<bsphere value="29.302,-0.009,1.318,33.077" />
+			<box min="-2.756,-3.613,-8.452" max="61.359,3.596,11.087" />
+			</lod>
+		<attach name="Barrel" spot_pos="51.873,0.000,5.793" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Bipod" spot_pos="39.880,0.100,5.256" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="General" spot_pos="6.838,-0.045,4.132" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Hand_l_grip" spot_pos="33.672,0.000,3.889" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Handguard" spot_pos="33.672,0.000,6.197" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Magazine" spot_pos="14.549,0.000,5.328" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Mount" spot_pos="6.588,0.165,4.002" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzle" spot_pos="59.017,0.000,5.793" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzletip" spot_pos="67.237,0.000,5.793" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Scope" spot_pos="5.308,-0.136,10.633" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Side" spot_pos="33.672,2.500,6.197" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Side3" spot_pos="20.585,4.423,5.801" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Stock" spot_pos="-1.903,2.000,1.205" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Trigger" spot_pos="11.914,0.000,4.328" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Under" spot_pos="45.660,0.000,5.116" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_VZ58_HandguardWood">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_VZ58_HandguardWood_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_VZ58_HandguardWood_Mesh.mtl" />
+			<bsphere value="1.138,0.001,-0.272,11.110" />
+			<box min="-9.511,-1.871,-3.502" max="11.788,1.873,2.959" />
+			</lod>
+	</mesh_description>
+</entity>

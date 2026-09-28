@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_VZ58_GripWood">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_VZ58_GripWood_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_VZ58_GripWood_Mesh.mtl" />
+			<bsphere value="0.034,0.000,-0.514,6.036" />
+			<box min="-4.033,-1.389,-4.930" max="4.101,1.390,3.903" />
+			</lod>
+	</mesh_description>
+</entity>

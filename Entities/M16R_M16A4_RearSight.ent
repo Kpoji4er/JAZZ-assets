@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="M16R_M16A4_RearSight">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16R_M16A4_RearSight_Mesh.m.hgm" />
+			<material file="Materials/M16R_M16A4_RearSight_Mesh.mtl" />
+			<bsphere value="-433.444,-0.002,53.724,3.590" />
+			<box min="-436.235,-1.736,52.277" max="-430.653,1.733,55.170" />
+			</lod>
+	</mesh_description>
+</entity>

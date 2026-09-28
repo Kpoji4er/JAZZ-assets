@@ -4620,6 +4620,16 @@ PlaceObj('ModItemEntity', { 'name', "M4R_M4A1_Stock", 'ClassParents', {}, 'entit
 PlaceObj('ModItemEntity', { 'name', "M4R_M4A1_StockFolded", 'ClassParents', {}, 'entity_name', "M4R_M4A1_StockFolded" }),
 PlaceObj('ModItemEntity', { 'name', "M4R_M4A1_CarryHandle", 'ClassParents', {}, 'entity_name', "M4R_M4A1_CarryHandle" }),
 PlaceObj('ModItemEntity', { 'name', "M4R_M4A1_RearSight", 'ClassParents', {}, 'entity_name', "M4R_M4A1_RearSight" }),
+PlaceObj('ModItemEntity', {
+    'name', "M16R_M16A4_FrontSight",
+    'ClassParents', {},
+    'entity_name', "M16R_M16A4_FrontSight",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "M4R_M4A1_FrontSight",
+    'ClassParents', {},
+    'entity_name', "M4R_M4A1_FrontSight",
+}),
 PlaceObj('ModItemEntity', { 'name', "M16R_M16A4_Handgrip", 'ClassParents', {}, 'entity_name', "M16R_M16A4_Handgrip" }),
 PlaceObj('ModItemEntity', { 'name', "M16R_M16A4_DefMuzzle", 'ClassParents', {}, 'entity_name', "M16R_M16A4_DefMuzzle" }),
 PlaceObj('ModItemEntity', { 'name', "M16R_M16A4_Stock", 'ClassParents', {}, 'entity_name', "M16R_M16A4_Stock" }),
@@ -4645,4 +4655,165 @@ PlaceObj('ModItemEntity', { 'name', "M4R_M4A1_HandguardRifle", 'ClassParents', {
 		PlaceObj('ModItemEntity', { 'name', "AKR_AK103_Stock", 'ClassParents', {}, 'entity_name', "AKR_AK103_Stock" }),
 		PlaceObj('ModItemEntity', { 'name', "AKR_AK103_StockFolded", 'ClassParents', {}, 'entity_name', "AKR_AK103_StockFolded" }),
 	}),
+	PlaceObj('ModItemFolder', { 'name', "M14Family" }, {
+		PlaceObj('ModItemEntity', { 'name', "JAZZ_M14", 'ClassParents', {}, 'entity_name', "JAZZ_M14" }),
+		PlaceObj('ModItemEntity', { 'name', "JAZZ_M14_ART", 'ClassParents', {}, 'entity_name', "JAZZ_M14_ART" }),
+		PlaceObj('ModItemEntity', { 'name', "MK14EBR", 'ClassParents', {}, 'entity_name', "MK14EBR" }),
+		PlaceObj('ModItemEntity', { 'name', "JAZZ_M14_MkIII", 'ClassParents', {}, 'entity_name', "JAZZ_M14_MkIII" }),
+	}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_6B3_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_6B3_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "MK14EBR_BarrelNormal",
+    'ClassParents', {},
+    'entity_name', "MK14EBR_BarrelNormal",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "MK14EBR_BarrelShort",
+    'ClassParents', {},
+    'entity_name', "MK14EBR_BarrelShort",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "MK14EBR_BarrelLong",
+    'ClassParents', {},
+    'entity_name', "MK14EBR_BarrelLong",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_M14_BarrelNormal",
+    'ClassParents', {},
+    'entity_name', "JAZZ_M14_BarrelNormal",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_M14_BarrelShort",
+    'ClassParents', {},
+    'entity_name', "JAZZ_M14_BarrelShort",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_M14_BarrelLong",
+    'ClassParents', {},
+    'entity_name', "JAZZ_M14_BarrelLong",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_M14_MagazineShort",
+    'ClassParents', {},
+    'entity_name', "JAZZ_M14_MagazineShort",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_M14_MagazineNormal",
+    'ClassParents', {},
+    'entity_name', "JAZZ_M14_MagazineNormal",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_M14_MkIII_BarrelNormal",
+    'ClassParents', {},
+    'entity_name', "JAZZ_M14_MkIII_BarrelNormal",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_M14_MkIII_BarrelShort",
+    'ClassParents', {},
+    'entity_name', "JAZZ_M14_MkIII_BarrelShort",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_M14_MkIII_BarrelLong",
+    'ClassParents', {},
+    'entity_name', "JAZZ_M14_MkIII_BarrelLong",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_M14_MkIII_MagazineShort",
+    'ClassParents', {},
+    'entity_name', "JAZZ_M14_MkIII_MagazineShort",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_M14_MkIII_MagazineNormal",
+    'ClassParents', {},
+    'entity_name', "JAZZ_M14_MkIII_MagazineNormal",
+}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VektorR4",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VektorR4",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58_Foregrip",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58_Foregrip",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58_GripModern",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58_GripModern",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58_GripWood",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58_GripWood",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58_HandguardRIS",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58_HandguardRIS",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58_HandguardWood",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58_HandguardWood",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58_MagQuick",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58_MagQuick",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58_Magazine",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58_Magazine",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58_Reflex",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58_Reflex",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58_StockModern",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58_StockModern",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58_StockWire",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58_StockWire",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58_StockWood",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58_StockWood",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58_Suppressor",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58_Suppressor",
+	}),
+	PlaceObj('ModItemEntity', {
+		'name', "JAZZ_VZ58_StockWireFolded",
+		'ClassParents', {},
+		'entity_name', "JAZZ_VZ58_StockWireFolded",
+	}),
+PlaceObj('ModItemEntity', {
+	'name', "JAZZ_M14_OpticsMount",
+	'ClassParents', {},
+	'entity_name', "JAZZ_M14_OpticsMount",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_LeatherArmor_Male",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_LeatherArmor_Male",
+}),
 }

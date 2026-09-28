@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="M16R_M16A4_DefMuzzle">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16R_M16A4_DefMuzzle_Mesh.m.hgm" />
+			<material file="Materials/M16R_M16A4_DefMuzzle_Mesh.mtl" />
+			<bsphere value="2.533,-0.001,0.194,2.823" />
+			<box min="0.000,-1.406,-1.038" max="5.065,1.403,1.426" />
+			</lod>
+	</mesh_description>
+</entity>

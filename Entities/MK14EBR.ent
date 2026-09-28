@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="MK14EBR">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MK14EBR_Mesh.m.hgm" />
+			<material file="Materials/MK14EBR_Mesh.mtl" />
+			<bsphere value="15.693,0.932,4.429,40.550" />
+			<box min="-23.940,-3.024,-5.295" max="55.326,4.887,14.154" />
+			</lod>
+		<attach name="Barrel" spot_pos="21.124,0.000,8.989" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Bipod" spot_pos="49.000,0.000,5.774" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="General" spot_pos="20.225,0.000,13.933" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Hand_l_grip" spot_pos="35.955,0.000,2.247" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Magazine" spot_pos="15.056,0.000,2.247" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Mount" spot_pos="20.225,0.000,13.933" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Mountside" spot_pos="38.202,-2.697,8.539" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzle" spot_pos="75.955,0.000,8.989" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzletip" spot_pos="76.854,0.000,8.989" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Scope" spot_pos="20.225,0.000,14.382" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Side" spot_pos="44.000,-2.780,8.750" spot_rot="1.000000,0.000000,0.000000,90.0000" />
+		<attach name="Stock" spot_pos="-4.494,0.000,6.292" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Trigger" spot_pos="2.921,0.000,1.461" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Under" spot_pos="40.000,0.000,5.774" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>

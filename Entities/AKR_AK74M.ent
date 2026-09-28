@@ -7,20 +7,20 @@
 		<lod idx="0" distance="0">
 			<mesh file="Meshes/AKR_AK74M_Mesh.m.hgm" />
 			<material file="Materials/AKR_AK74M_Mesh.mtl" />
-			<bsphere value="23.354,1.113,5.123,33.498" />
-			<box min="-9.030,-2.685,-4.683" max="55.739,4.911,14.928" />
+			<bsphere value="27.984,1.113,4.013,33.498" />
+			<box min="-4.400,-2.685,-5.793" max="60.369,4.911,13.818" />
 			</lod>
-		<attach name="Bipod" spot_pos="38.000,0.000,9.132" spot_rot="0.000000,0.000000,1.000000,0.0000" />
-		<attach name="General" spot_pos="1.666,-0.100,8.162" spot_rot="0.000000,0.000000,1.000000,0.0000" />
-		<attach name="Hand_l_grip" spot_pos="25.008,0.000,7.722" spot_rot="0.000000,0.000000,1.000000,0.0000" />
-		<attach name="Handguard" spot_pos="25.008,0.000,10.085" spot_rot="0.000000,0.000000,1.000000,0.0000" />
-		<attach name="Magazine" spot_pos="9.000,0.000,6.299" spot_rot="0.000000,0.000000,1.000000,0.0000" />
-		<attach name="Mount" spot_pos="1.417,0.426,7.735" spot_rot="0.000000,0.000000,1.000000,0.0000" />
-		<attach name="Muzzle" spot_pos="55.949,0.000,9.655" spot_rot="0.000000,0.000000,1.000000,0.0000" />
-		<attach name="Scope" spot_pos="0.091,0.126,14.388" spot_rot="0.000000,0.000000,1.000000,0.0000" />
-		<attach name="Side" spot_pos="25.008,2.500,10.085" spot_rot="0.000000,0.000000,1.000000,0.0000" />
-		<attach name="Stock" spot_pos="-8.454,2.000,5.096" spot_rot="0.000000,0.000000,1.000000,0.0000" />
-		<attach name="Trigger" spot_pos="4.500,0.000,1.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
-		<attach name="Under" spot_pos="41.790,0.000,8.961" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Bipod" spot_pos="42.630,0.000,8.022" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="General" spot_pos="6.296,-0.100,7.052" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Hand_l_grip" spot_pos="29.638,0.000,6.612" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Handguard" spot_pos="29.638,0.000,8.975" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Magazine" spot_pos="13.630,0.000,5.189" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Mount" spot_pos="6.047,0.426,6.625" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzle" spot_pos="60.579,0.000,8.545" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Scope" spot_pos="4.721,0.126,13.278" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Side" spot_pos="29.638,2.500,8.975" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Stock" spot_pos="-3.824,2.000,3.986" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Trigger" spot_pos="9.130,0.000,-0.110" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Under" spot_pos="46.420,0.000,7.851" spot_rot="0.000000,0.000000,1.000000,0.0000" />
 	</mesh_description>
 </entity>

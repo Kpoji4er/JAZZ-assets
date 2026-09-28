@@ -8,8 +8,8 @@
 		<lod idx="0" distance="0">
 			<mesh file="Meshes/JAZZ_Chainmail_Male_mesh.m.hgm" />
 			<material file="Materials/JAZZ_Chainmail_Male_mesh.mtl" />
-			<bsphere value="1.705,-0.382,127.806,41.344" />
-			<box min="-20.738,-39.763,98.883" max="24.147,38.999,156.729" />
+			<bsphere value="1.957,0.719,125.585,43.269" />
+			<box min="-18.473,-39.914,92.505" max="22.386,41.352,158.665" />
 			</lod>
 	</mesh_description>
 </entity>

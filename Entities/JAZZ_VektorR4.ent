@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_VektorR4">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_VektorR4_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_VektorR4_Mesh.mtl" />
+			<bsphere value="18.832,0.005,0.553,50.891" />
+			<box min="-31.418,-2.497,-13.131" max="69.082,2.506,14.238" />
+			</lod>
+		<attach name="Barrel" spot_pos="50.000,0.000,8.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Hand_l_grip" spot_pos="30.000,0.000,3.200" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Magazine" spot_pos="12.500,0.000,2.200" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzle" spot_pos="69.100,0.000,8.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzletip" spot_pos="69.100,0.000,8.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Trigger" spot_pos="4.400,0.000,1.300" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>

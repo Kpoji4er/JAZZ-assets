@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_VZ58_StockWood">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_VZ58_StockWood_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_VZ58_StockWood_Mesh.mtl" />
+			<bsphere value="-11.483,-0.322,-5.302,13.637" />
+			<box min="-23.301,-2.179,-12.423" max="0.335,1.534,1.819" />
+			</lod>
+	</mesh_description>
+</entity>

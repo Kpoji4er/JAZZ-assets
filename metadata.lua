@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
 	'title', "Jazz Assets",
 	'description', "Assets for Jazz\n\nАссеты для работы Джаз",
 	'image', "Mod/pDGDhr/Images/J.png",
-	'last_changes', "- Replace Twaron/Zylon/Guardian vest meshes with owner Blender ports [no new game]\n- JAZZ-ASSETS-003: JazzHat_SSh68 CharacterHat (Head-local, no Male inherit) [no new game]\n- FN FAL Para fold stock and tactical RIS furniture [no new game]\n- Remove poorly-rigged JAZZ_SpecOpsBody_Male [no new game]\n- Legion torso armor models: cuirass, mail, tire, Twaron/Guardian/Zylon [no new game]\n- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
+	'last_changes', "- Snapshot all local weapon and armor model, material and texture work [no new game]\n- Replace Twaron/Zylon/Guardian vest meshes with owner Blender ports [no new game]\n- JAZZ-ASSETS-003: JazzHat_SSh68 CharacterHat (Head-local, no Male inherit) [no new game]\n- FN FAL Para fold stock and tactical RIS furniture [no new game]\n- Remove poorly-rigged JAZZ_SpecOpsBody_Male [no new game]\n- Legion torso armor models: cuirass, mail, tire, Twaron/Guardian/Zylon [no new game]\n- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
 	'ignore_files', {
 		-- VCS / IDE / agent (tracked in git, not for Steam pack)
 		"*.git/*",
@@ -44,10 +44,69 @@ return PlaceObj('ModDef', {
 	'id', "pDGDhr",
 	'author', "Doctor_Leevsy",
 	'version_minor', 2,
-	'version', 655,
+	'version', 656,
 	'lua_revision', 233360,
 	'saved_with_revision', 366685,
 	'entities', {
+		"JAZZ_LeatherArmor_Male",
+
+		"JAZZ_M14_OpticsMount",
+
+		"JAZZ_VZ58_StockWireFolded",
+
+		"JAZZ_VZ58",
+		"JAZZ_VZ58_Foregrip",
+		"JAZZ_VZ58_GripModern",
+		"JAZZ_VZ58_GripWood",
+		"JAZZ_VZ58_HandguardRIS",
+		"JAZZ_VZ58_HandguardWood",
+		"JAZZ_VZ58_MagQuick",
+		"JAZZ_VZ58_Magazine",
+		"JAZZ_VZ58_Reflex",
+		"JAZZ_VZ58_StockModern",
+		"JAZZ_VZ58_StockWire",
+		"JAZZ_VZ58_StockWood",
+		"JAZZ_VZ58_Suppressor",
+
+		"JAZZ_VektorR4",
+
+		"M16R_M16A4_FrontSight",
+
+		"M4R_M4A1_FrontSight",
+
+		"JAZZ_M14_MkIII_MagazineNormal",
+
+		"JAZZ_M14_MkIII_MagazineShort",
+
+		"JAZZ_M14_MkIII_BarrelLong",
+
+		"JAZZ_M14_MkIII_BarrelShort",
+
+		"JAZZ_M14_MkIII_BarrelNormal",
+
+		"JAZZ_M14_MagazineNormal",
+
+		"JAZZ_M14_MagazineShort",
+
+		"JAZZ_M14_BarrelLong",
+
+		"JAZZ_M14_BarrelShort",
+
+		"JAZZ_M14_BarrelNormal",
+
+		"MK14EBR_BarrelLong",
+
+		"MK14EBR_BarrelShort",
+
+		"MK14EBR_BarrelNormal",
+
+		"JAZZ_6B3_Male",
+
+		"JAZZ_M14",
+		"JAZZ_M14_ART",
+		"MK14EBR",
+		"JAZZ_M14_MkIII",
+
 		"M16R_M16A4_Handgrip",
 		"M16R_M16A4_DefMuzzle",
 		"M16R_M16A4_Stock",
@@ -647,6 +706,65 @@ return PlaceObj('ModDef', {
 		"JAZZ_FNFAL_TacStock",
 	},
 	'code', {
+		"Entities/JAZZ_LeatherArmor_Male.lua",
+
+		"Entities/JAZZ_M14_OpticsMount.lua",
+
+		"Entities/JAZZ_VZ58_StockWireFolded.lua",
+
+		"Entities/JAZZ_VZ58.lua",
+		"Entities/JAZZ_VZ58_Foregrip.lua",
+		"Entities/JAZZ_VZ58_GripModern.lua",
+		"Entities/JAZZ_VZ58_GripWood.lua",
+		"Entities/JAZZ_VZ58_HandguardRIS.lua",
+		"Entities/JAZZ_VZ58_HandguardWood.lua",
+		"Entities/JAZZ_VZ58_MagQuick.lua",
+		"Entities/JAZZ_VZ58_Magazine.lua",
+		"Entities/JAZZ_VZ58_Reflex.lua",
+		"Entities/JAZZ_VZ58_StockModern.lua",
+		"Entities/JAZZ_VZ58_StockWire.lua",
+		"Entities/JAZZ_VZ58_StockWood.lua",
+		"Entities/JAZZ_VZ58_Suppressor.lua",
+
+		"Entities/JAZZ_VektorR4.lua",
+
+		"Entities/M16R_M16A4_FrontSight.lua",
+
+		"Entities/M4R_M4A1_FrontSight.lua",
+
+		"Entities/JAZZ_M14_MkIII_MagazineNormal.lua",
+
+		"Entities/JAZZ_M14_MkIII_MagazineShort.lua",
+
+		"Entities/JAZZ_M14_MkIII_BarrelLong.lua",
+
+		"Entities/JAZZ_M14_MkIII_BarrelShort.lua",
+
+		"Entities/JAZZ_M14_MkIII_BarrelNormal.lua",
+
+		"Entities/JAZZ_M14_MagazineNormal.lua",
+
+		"Entities/JAZZ_M14_MagazineShort.lua",
+
+		"Entities/JAZZ_M14_BarrelLong.lua",
+
+		"Entities/JAZZ_M14_BarrelShort.lua",
+
+		"Entities/JAZZ_M14_BarrelNormal.lua",
+
+		"Entities/MK14EBR_BarrelLong.lua",
+
+		"Entities/MK14EBR_BarrelShort.lua",
+
+		"Entities/MK14EBR_BarrelNormal.lua",
+
+		"Entities/JAZZ_6B3_Male.lua",
+
+		"Entities/JAZZ_M14.lua",
+		"Entities/JAZZ_M14_ART.lua",
+		"Entities/MK14EBR.lua",
+		"Entities/JAZZ_M14_MkIII.lua",
+
 		"Entities/M16R_M16A4_Handgrip.lua",
 		"Entities/M16R_M16A4_DefMuzzle.lua",
 		"Entities/M16R_M16A4_Stock.lua",

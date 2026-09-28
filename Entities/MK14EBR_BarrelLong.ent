@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="MK14EBR_BarrelLong">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/MK14EBR_BarrelLong_Mesh.m.hgm" />
+			<material file="Materials/MK14EBR_BarrelLong_Mesh.mtl" />
+			<bsphere value="32.424,0.003,1.980,32.374" />
+			<box min="0.078,-1.229,-1.482" max="64.770,1.234,5.442" />
+			</lod>
+		<attach name="Muzzle" spot_pos="64.701,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzletip" spot_pos="65.762,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>

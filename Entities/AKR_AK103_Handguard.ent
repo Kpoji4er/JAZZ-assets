@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="AKR_AK103_Handguard">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/AKR_AK103_Handguard_Mesh.m.hgm" />
+			<material file="Materials/AKR_AK103_Handguard_Mesh.mtl" />
+			<bsphere value="0.000,-0.743,0.000,11.561" />
+			<box min="-11.058,-3.090,-3.808" max="11.058,1.604,3.808" />
+			</lod>
+	</mesh_description>
+</entity>

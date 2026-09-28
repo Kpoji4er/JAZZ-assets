@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="M16R_M16A4_Magazine20">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M16R_M16A4_Magazine20_Mesh.m.hgm" />
+			<material file="Materials/M16R_M16A4_Magazine20_Mesh.mtl" />
+			<bsphere value="0.400,-0.017,-6.308,7.640" />
+			<box min="-3.641,-1.275,-13.017" max="4.441,1.241,0.400" />
+			</lod>
+	</mesh_description>
+</entity>

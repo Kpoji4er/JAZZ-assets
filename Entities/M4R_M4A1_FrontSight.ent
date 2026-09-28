@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="M4R_M4A1_FrontSight">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M4R_M4A1_FrontSight_Mesh.m.hgm" />
+			<material file="Materials/M4R_M4A1_FrontSight_Mesh.mtl" />
+			<bsphere value="22.538,0.001,2.479,5.146" />
+			<box min="20.058,-1.402,-2.046" max="25.018,1.404,7.005" />
+			</lod>
+	</mesh_description>
+</entity>

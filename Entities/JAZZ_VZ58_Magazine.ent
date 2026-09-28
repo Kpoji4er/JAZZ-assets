@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_VZ58_Magazine">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_VZ58_Magazine_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_VZ58_Magazine_Mesh.mtl" />
+			<bsphere value="-2.270,-0.002,-6.921,12.102" />
+			<box min="-9.812,-1.475,-17.195" max="5.272,1.471,3.354" />
+			</lod>
+	</mesh_description>
+</entity>

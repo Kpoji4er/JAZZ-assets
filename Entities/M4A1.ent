@@ -9,7 +9,6 @@
 			<material file="Materials/M4A1_M4A1.mtl"/>
 			<bsphere value="20.266,0.642,0.475,44.965"/>
 			<box min="-23.958,-3.162,-9.625" max="64.491,4.446,10.574"/>
-			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
 		</lod>
 		<attach name="Magazine" spot_pos="11.826,0.517,-1.679" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
 		<attach name="Mountfront" spot_pos="28.986,0.374,3.790" spot_rot="0.000000,0.000000,1.000000,0.0000"/>

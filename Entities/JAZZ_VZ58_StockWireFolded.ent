@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_VZ58_StockWireFolded">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_VZ58_StockWireFolded_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_VZ58_StockWireFolded_Mesh.mtl" />
+			<bsphere value="8.673,1.302,-4.380,13.643" />
+			<box min="-3.168,-2.632,-10.592" max="20.514,5.237,1.833" />
+			</lod>
+	</mesh_description>
+</entity>

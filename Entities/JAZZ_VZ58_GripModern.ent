@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_VZ58_GripModern">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_VZ58_GripModern_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_VZ58_GripModern_Mesh.mtl" />
+			<bsphere value="0.117,0.001,-0.572,5.930" />
+			<box min="-3.940,-1.428,-5.019" max="4.174,1.429,3.874" />
+			</lod>
+	</mesh_description>
+</entity>

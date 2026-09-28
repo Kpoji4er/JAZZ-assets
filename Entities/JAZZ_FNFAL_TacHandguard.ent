@@ -7,8 +7,8 @@
 		<lod idx="0" distance="0">
 			<mesh file="Meshes/JAZZ_FNFAL_TacHandguard_Mesh.m.hgm" />
 			<material file="Materials/JAZZ_FNFAL_TacHandguard_Mesh.mtl" />
-			<bsphere value="0.039,-0.447,0.082,13.985" />
-			<box min="-13.567,-3.726,-2.866" max="13.645,2.833,3.029" />
+			<bsphere value="2.147,-0.447,0.082,13.985" />
+			<box min="-11.459,-3.726,-2.866" max="15.753,2.833,3.029" />
 			</lod>
 	</mesh_description>
 </entity>

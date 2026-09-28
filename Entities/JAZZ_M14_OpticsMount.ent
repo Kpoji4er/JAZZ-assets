@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_M14_OpticsMount">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_M14_OpticsMount_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_M14_Mesh.mtl" />
+			<bsphere value="18.704,-1.027,11.832,7.444" />
+			<box min="11.755,-2.466,9.459" max="25.653,0.413,14.205" />
+			</lod>
+	</mesh_description>
+</entity>

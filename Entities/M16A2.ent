@@ -9,7 +9,6 @@
 			<material file="Materials/M16A2_M16A2.mtl"/>
 			<bsphere value="22.618,0.568,2.794,56.585"/>
 			<box min="-33.698,-3.030,-9.700" max="78.933,4.165,15.287"/>
-			<src file="C:/Users/23ser/AppData/Roaming/Jagged Alliance 3/ModAssets/FBX/M4_16 Complex.fbx"/>
 		</lod>
 		<attach name="Hand_l_grip" spot_pos="31.018,0.000,6.717" spot_rot="0.000000,0.000000,1.000000,0.0000"/>
 		<attach name="Handguard" spot_pos="54.470,-0.012,7.061" spot_rot="0.000000,0.000000,1.000000,0.0000"/>

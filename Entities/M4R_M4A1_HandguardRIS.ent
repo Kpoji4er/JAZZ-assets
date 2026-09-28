@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="M4R_M4A1_HandguardRIS">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M4R_M4A1_HandguardRIS_Mesh.m.hgm" />
+			<material file="Materials/M4R_M4A1_HandguardRIS_Mesh.mtl" />
+			<bsphere value="0.256,-0.021,-0.020,9.567" />
+			<box min="-9.022,-3.294,-3.361" max="9.535,3.252,3.321" />
+			</lod>
+	</mesh_description>
+</entity>

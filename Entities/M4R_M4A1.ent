@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="M4R_M4A1">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M4R_M4A1_Mesh.m.hgm" />
+			<material file="Materials/M4R_M4A1_Mesh.mtl" />
+			<bsphere value="-4.267,0.356,5.846,24.233" />
+			<box min="-27.864,-2.827,-0.087" max="19.329,3.538,11.780" />
+			</lod>
+		<attach name="Barrel" spot_pos="16.620,0.003,8.727" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Gassblock" spot_pos="16.620,0.003,8.727" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Handgrip" spot_pos="-2.137,0.000,-2.067" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Handguard" spot_pos="27.644,0.003,8.494" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Magazine" spot_pos="12.002,0.003,7.399" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Mountfront" spot_pos="21.012,0.394,5.267" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzle" spot_pos="53.450,0.003,8.287" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Scope" spot_pos="4.779,0.302,12.121" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Side" spot_pos="22.974,-3.022,8.709" spot_rot="1.000000,0.000000,0.000000,90.0000" />
+		<attach name="Stock" spot_pos="-17.351,0.003,3.567" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Trigger" spot_pos="-4.770,0.255,1.308" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Under" spot_pos="29.450,0.394,5.267" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>

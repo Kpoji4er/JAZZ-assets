@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="M4R_M4A1_HandguardRifle">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/M4R_M4A1_HandguardRifle_Mesh.m.hgm" />
+			<material file="Materials/M4R_M4A1_HandguardRifle_Mesh.mtl" />
+			<bsphere value="6.215,-0.002,0.000,14.064" />
+			<box min="-7.592,-3.345,-3.206" max="20.022,3.341,3.206" />
+			</lod>
+	</mesh_description>
+</entity>

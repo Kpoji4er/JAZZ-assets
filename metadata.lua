@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
 	'title', "Jazz Assets",
 	'description', "Assets for Jazz\n\nАссеты для работы Джаз",
 	'image', "Mod/pDGDhr/Images/J.png",
-	'last_changes', "- Extend M16 RIS, repair AK103 magazine normals, restore MkIII scope and connect chainmail straps [no new game]\n- Snapshot all local weapon and armor model, material and texture work [no new game]\n- Replace Twaron/Zylon/Guardian vest meshes with owner Blender ports [no new game]\n- JAZZ-ASSETS-003: JazzHat_SSh68 CharacterHat (Head-local, no Male inherit) [no new game]\n- FN FAL Para fold stock and tactical RIS furniture [no new game]\n- Remove poorly-rigged JAZZ_SpecOpsBody_Male [no new game]\n- Legion torso armor models: cuirass, mail, tire, Twaron/Guardian/Zylon [no new game]\n- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
+	'last_changes', "- 6Б3: новая модель 14802 треугольника; плечевые лямки больше не следуют за руками.\n- Extend M16 RIS, repair AK103 magazine normals, restore MkIII scope and connect chainmail straps [no new game]\n- Snapshot all local weapon and armor model, material and texture work [no new game]\n- Replace Twaron/Zylon/Guardian vest meshes with owner Blender ports [no new game]\n- JAZZ-ASSETS-003: JazzHat_SSh68 CharacterHat (Head-local, no Male inherit) [no new game]\n- FN FAL Para fold stock and tactical RIS furniture [no new game]\n- Remove poorly-rigged JAZZ_SpecOpsBody_Male [no new game]\n- Legion torso armor models: cuirass, mail, tire, Twaron/Guardian/Zylon [no new game]\n- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload",
 	'ignore_files', {
 		-- VCS / IDE / agent (tracked in git, not for Steam pack)
 		"*.git/*",
@@ -44,7 +44,7 @@ return PlaceObj('ModDef', {
 	'id', "pDGDhr",
 	'author', "Doctor_Leevsy",
 	'version_minor', 2,
-	'version', 657,
+	'version', 658,
 	'lua_revision', 233360,
 	'saved_with_revision', 366685,
 	'entities', {

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Materials>
 	<Material>
-		<NormalMap Name="JazzHat_SSh68_Norm.dds" mc="0" />
-		<BaseColorMap Name="JazzHat_SSh68_Base.dds" mc="0" />
-		<RMMap Name="JazzHat_SSh68_RM.dds" mc="0" />
+		<NormalMap Name="JAZZ_6B13_Male_Norm.dds" mc="0" />
+		<BaseColorMap Name="JAZZ_6B13_Male_Base.dds" mc="0" />
+		<RMMap Name="JAZZ_6B13_Male_RM.dds" mc="0" />
 		<Property Opacity="100" />
 		<Property ViewDependentOpacity="0" />
 		<Property VertexNoise="None" />
@@ -27,7 +27,7 @@
 		<Property AnimationFramesX="1" />
 		<Property AnimationFramesY="1" />
 		<Property AnimationTime="0" />
-		<Property StretchFactor1="1.000000" />
+		<Property StretchFactor1="7.057061" />
 		<Property StretchFactor2="1.000000" />
 		<Property TerrainDistortedMesh="0" />
 		<Property Deposition="0" />

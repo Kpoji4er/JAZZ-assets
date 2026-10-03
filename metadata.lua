@@ -2,7 +2,7 @@ return PlaceObj('ModDef', {
 	'title', "Jazz Assets",
 	'description', "Assets for Jazz\n\nАссеты для работы Джаз",
 	'image', "Mod/pDGDhr/Images/J.png",
-	'last_changes', "- Add 6B13 and 6B7-1M models and update SSh-60 [no new game]\n- Legion armor: rigged Meshy brigandine, tire armor and leather vest; Chainmail Body with torso and rigid upper pauldrons.\n- 6Б3: переэкспортированы RM и fallback с roughness в R/G, metallic в B.\n- 6Б3: новая модель 14802 треугольника; плечевые лямки больше не следуют за руками.\n- Extend M16 RIS, repair AK103 magazine normals, restore MkIII scope and connect chainmail straps [no new game]\n- Snapshot all local weapon and armor model, material and texture work [no new game]\n- Replace Twaron/Zylon/Guardian vest meshes with owner Blender ports [no new game]\n- JAZZ-ASSETS-003: JazzHat_SSh68 CharacterHat (Head-local, no Male inherit) [no new game]\n- FN FAL Para fold stock and tactical RIS furniture [no new game]\n- Remove poorly-rigged JAZZ_SpecOpsBody_Male [no new game]\n- Legion torso armor models: cuirass, mail, tire, Twaron/Guardian/Zylon [no new game]\n- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload\n- Добавлены модели АЕК, HK416 и Конрада; исправлены поверхности HK416, R4/VZ58, карты материалов оружия и модели брони.",
+	'last_changes', "- Add 6B13 and 6B7-1M models and update SSh-60 [no new game]\n- Legion armor: rigged Meshy brigandine, tire armor and leather vest; Chainmail Body with torso and rigid upper pauldrons.\n- 6Б3: переэкспортированы RM и fallback с roughness в R/G, metallic в B.\n- 6Б3: новая модель 14802 треугольника; плечевые лямки больше не следуют за руками.\n- Extend M16 RIS, repair AK103 magazine normals, restore MkIII scope and connect chainmail straps [no new game]\n- Snapshot all local weapon and armor model, material and texture work [no new game]\n- Replace Twaron/Zylon/Guardian vest meshes with owner Blender ports [no new game]\n- JAZZ-ASSETS-003: JazzHat_SSh68 CharacterHat (Head-local, no Male inherit) [no new game]\n- FN FAL Para fold stock and tactical RIS furniture [no new game]\n- Remove poorly-rigged JAZZ_SpecOpsBody_Male [no new game]\n- Legion torso armor models: cuirass, mail, tire, Twaron/Guardian/Zylon [no new game]\n- Weapon models, materials and icons for SR3M, L42A1, Mosin and AK family.\nUpdate\n- JAZZ-ASSETS-002: numeric DDS → Entity_MapType, unused purge, content-dedupe, stale mtlbin removed\n- Packaging: expand .gitignore + metadata ignore_files for Steam upload\n- Добавлены модели АЕК, HK416 и Конрада; исправлены поверхности HK416, R4/VZ58, карты материалов оружия и модели брони.\n- Исходники моделей Sources исключены из игровых пакетов.",
 	'ignore_files', {
 		-- VCS / IDE / agent (tracked in git, not for Steam pack)
 		"*.git/*",
@@ -15,6 +15,7 @@ return PlaceObj('ModDef', {
 		-- Dev docs & tooling (in git, not runtime)
 		"*docs/*",
 		"*scripts/*",
+		"*Sources/*",
 		"*_localization/*",
 		-- Intermediates / backups (also listed in .gitignore)
 		"*__pycache__/*",
@@ -44,7 +45,7 @@ return PlaceObj('ModDef', {
 	'id', "pDGDhr",
 	'author', "Doctor_Leevsy",
 	'version_minor', 2,
-	'version', 662,
+	'version', 663,
 	'lua_revision', 233360,
 	'saved_with_revision', 366685,
 	'entities', {

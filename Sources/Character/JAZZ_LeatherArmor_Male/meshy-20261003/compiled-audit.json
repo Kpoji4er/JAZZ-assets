@@ -1,0 +1,11 @@
+{
+  "entity": "JAZZ_LeatherArmor_Male",
+  "source_triangles": 18000,
+  "compiled_triangles": 18000,
+  "vertex_max_m": 9.182278881780803e-05,
+  "triangle_max_m": 8.772805449552834e-05,
+  "missing_triangle_max_m": 8.772805449552834e-05,
+  "position_tolerance_mm": 0.1,
+  "pass": true,
+  "winding_positive_area_fraction": 0.0
+}

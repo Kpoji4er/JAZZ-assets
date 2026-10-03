@@ -1,0 +1,7 @@
+{
+  "vertices": 16396,
+  "max_weight_l1_error": 0.011523658918991056,
+  "mean_weight_l1_error": 0.0024020484623148777,
+  "limit": 0.04,
+  "pass": true
+}

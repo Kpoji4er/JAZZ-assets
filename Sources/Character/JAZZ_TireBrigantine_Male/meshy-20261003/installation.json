@@ -1,0 +1,25 @@
+{
+  "item": "TireBrigantine",
+  "entity": "JAZZ_TireBrigantine_Male",
+  "installed": true,
+  "runtime": "NOT_RUN",
+  "files": 9,
+  "protected": {
+    "jazz\\ArmorIcons\\TireBrigantine.png": "53f27df97198102d580f138d01132ce52e85d2b6368b42833cca10d927b1b7a6",
+    "jazz\\InventoryItem\\JazzArmor_TireBrigantine.lua": "e1560975d1af753d40a4172ea30814efce52c16b2da128ecb11776de5e8c5da1",
+    "jazz_assets\\items.lua": "bd70ed01aee54d68c585be8cefd44c16f816c8e9010ccf49d80846857f31d49f",
+    "jazz_assets\\metadata.lua": "40ebac8a9410c9349e1523c55111a2384eeb1de42b7415cad505811e4b02af64",
+    "jazz_assets\\Entities\\JAZZ_TireBrigantine_Male.lua": "cea4fc4d54abc3aac8b52dc6b0eefd65219f2ea102fab91152a26d957ac2e1ff"
+  },
+  "sha256": {
+    "Entities\\JAZZ_TireBrigantine_Male.ent": "f944e8047681216a2bb4d51912842c1f0e02478e58eee91e4d6df32b4fbb9428",
+    "Entities\\Materials\\JAZZ_TireBrigantine_Male_mesh.mtl": "e68cc7a8c13357db599a9151d347a6beac6b7899f6ecffdf98c3f9744b287198",
+    "Entities\\Meshes\\JAZZ_TireBrigantine_Male_mesh.m.hgm": "417f0e0fe837bff5ff0528089a623c96bf63738adb5b4f49970ad33f2d78fc8e",
+    "Entities\\Textures\\JAZZ_TireBrigantine_1_Norm.dds": "302936a18d76def3eb426fdf5eb55d0819f00c99393c39d6f7ba0b4ba1a9a18a",
+    "Entities\\Textures\\JAZZ_TireBrigantine_2_Base.dds": "3d948be8e79768e784306a2cdf7ee4c60bb2494dbf361998dcb0de779cfc4881",
+    "Entities\\Textures\\JAZZ_TireBrigantine_3_RM.dds": "d114325c445c3d34253234a11db545e4787bcaf8058e500caa9e67c3cd4af38f",
+    "Entities\\Textures\\Fallbacks\\JAZZ_TireBrigantine_1_Norm.dds": "3dc675cf7065e486a824c5e46e2332404e53ecf327a684c79c90a5652c390b33",
+    "Entities\\Textures\\Fallbacks\\JAZZ_TireBrigantine_2_Base.dds": "3ae91358b5fc34c3db9dd515814f6957224d60dae9529ecbc8b6060a844106c8",
+    "Entities\\Textures\\Fallbacks\\JAZZ_TireBrigantine_3_RM.dds": "19f69cf34145fdbd20907ae89c431f5b1a5dddcbc1e48867e3374e3c01e3a16d"
+  }
+}

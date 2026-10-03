@@ -1,0 +1,27 @@
+{
+  "item": "Chainmail",
+  "entity": "JAZZ_Chainmail_Male",
+  "installed": true,
+  "runtime": "NOT_RUN",
+  "files": 11,
+  "protected": {
+    "jazz\\ArmorIcons\\Chainmail.png": "af5d4815369e65349a5adad59aed1a32d4672b378d998155ee43638e3fc9dbae",
+    "jazz\\InventoryItem\\JazzArmor_Chainmail.lua": "2813edf33df4229fe399ab4b93925e4f25e92102cec4f063590bedc1c64108f5",
+    "jazz_assets\\items.lua": "085703f5f203e63e63f627e1f8d350dafaef7bc072d3e894900649740b374a84",
+    "jazz_assets\\metadata.lua": "df539d4303476c787892da36b33a57530681fefb737983f26aa895b8ba9ded8d",
+    "jazz_assets\\Entities\\JAZZ_Chainmail_Male.lua": "2a46c003a1dfc47622ec495724f69d4b670da776f2923942ca5eef935a46200d"
+  },
+  "sha256": {
+    "Entities\\JAZZ_Chainmail_Male.ent": "af6ded689e65214806eb5eeb4d7ff39de84e6312d5022e5ebdba9853d4b3da6d",
+    "Entities\\Materials\\JAZZ_Chainmail_Male_mesh.mtl": "b7cd727fd8e8de2c4fb2d678ca5082c65fdcf3c380960764c5c7a8d7eb226825",
+    "Entities\\Meshes\\JAZZ_Chainmail_Male_mesh.m.hgm": "06d943c1e76576d5c3b3d7898b6a1ce0f31990203000a76366563988cb1e750c",
+    "Entities\\Textures\\JAZZ_Chainmail_1_Norm.dds": "e877c58e290cff78aac28ceff5aaa3caa28e588903e0a83eeaefe771c3821553",
+    "Entities\\Textures\\JAZZ_Chainmail_2_Color.dds": "b29ca916a3f9880a5bd7da2b925766c9bba8ae873c42e8b3c1c2ed6c6f000e01",
+    "Entities\\Textures\\JAZZ_Chainmail_3_Base.dds": "bb86738fd9c7bb3964f3d337194a65b975c829c77990b5e6fcedf94f80cdf844",
+    "Entities\\Textures\\JAZZ_Chainmail_4_RM.dds": "ebf121d77a796b9c28c555eb1b992a33731937c06672a09e29edb5be7f883b71",
+    "Entities\\Textures\\Fallbacks\\JAZZ_Chainmail_1_Norm.dds": "81bff4fb8af88df4b94c8b0313d46afbc7e52a2b5f9c20d69ae0fb4072324ed9",
+    "Entities\\Textures\\Fallbacks\\JAZZ_Chainmail_2_Color.dds": "6dc66d6a7bcdaf64e6a9a2d17c99b3ee7b531e341a83700cbeb3d86f4f4330fc",
+    "Entities\\Textures\\Fallbacks\\JAZZ_Chainmail_3_Base.dds": "974ee73199ba7396856dda0e6baf6a0830d5362337bb204c8850124bb9dce12e",
+    "Entities\\Textures\\Fallbacks\\JAZZ_Chainmail_4_RM.dds": "37229e5a17d00b413368538b1b2b20f24405472ef022185a391285386111fc5f"
+  }
+}

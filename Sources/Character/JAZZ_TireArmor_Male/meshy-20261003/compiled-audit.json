@@ -1,0 +1,11 @@
+{
+  "entity": "JAZZ_TireArmor_Male",
+  "source_triangles": 18000,
+  "compiled_triangles": 18000,
+  "vertex_max_m": 9.591746493242681e-05,
+  "triangle_max_m": 8.974907541414723e-05,
+  "missing_triangle_max_m": 8.974907541414723e-05,
+  "position_tolerance_mm": 0.1,
+  "pass": true,
+  "winding_positive_area_fraction": 1.8499061530506156e-07
+}

@@ -8,8 +8,8 @@
 		<lod idx="0" distance="0">
 			<mesh file="Meshes/JAZZ_TireArmor_Male_mesh.m.hgm" />
 			<material file="Materials/JAZZ_TireArmor_Male_mesh.mtl" />
-			<bsphere value="1.486,-0.035,127.775,64.006" />
-			<box min="-21.981,-63.503,101.055" max="24.952,63.433,154.496" />
+			<bsphere value="1.760,-0.482,127.499,40.004" />
+			<box min="-21.744,-35.741,97.000" max="25.265,34.777,157.998" />
 			</lod>
 	</mesh_description>
 </entity>

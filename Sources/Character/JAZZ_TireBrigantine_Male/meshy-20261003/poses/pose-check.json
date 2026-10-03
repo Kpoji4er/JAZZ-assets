@@ -1,0 +1,43 @@
+{
+  "status": "PASS_SKIN_STRUCTURE",
+  "runtime": "NOT_RUN",
+  "collision_acceptance": false,
+  "vertices": 8772,
+  "poses": [
+    {
+      "pose": "rest",
+      "max_motion_m": 6.821077135557705e-05,
+      "edge_strain_p99": 1.000152737961423,
+      "reference_body_p99": 1.0000340336098767,
+      "limit": 1.8
+    },
+    {
+      "pose": "lean",
+      "max_motion_m": 0.2052475318611169,
+      "edge_strain_p99": 1.2501591726791816,
+      "reference_body_p99": 1.1447516021497988,
+      "limit": 1.8
+    },
+    {
+      "pose": "deep_lean",
+      "max_motion_m": 0.32531035882692244,
+      "edge_strain_p99": 1.4732782052218896,
+      "reference_body_p99": 1.1461564636099815,
+      "limit": 1.8
+    },
+    {
+      "pose": "twist",
+      "max_motion_m": 0.270865086372563,
+      "edge_strain_p99": 1.3583433098393163,
+      "reference_body_p99": 1.161561984851236,
+      "limit": 1.8
+    },
+    {
+      "pose": "arms_isolated",
+      "max_motion_m": 0.0,
+      "edge_strain_p99": 1.000152737961423,
+      "reference_body_p99": 1.5736975197287373,
+      "limit": 1.8236975197287373
+    }
+  ]
+}

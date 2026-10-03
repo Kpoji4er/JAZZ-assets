@@ -1,0 +1,1 @@
+{"status":"REVIEWED_FOR_GAME_TEST","views":["poses/shoulders_isolated_front.png","baked-preview/baked_front.png"],"runtime":"Root Body fix confirmed live; final mesh NOT_RUN","limitation":"Extreme synthetic arm rotations omit native helper animation; game aim/crouch/prone acceptance remains open"}

@@ -8,8 +8,8 @@
 		<lod idx="0" distance="0">
 			<mesh file="Meshes/JAZZ_TireBrigantine_Male_mesh.m.hgm" />
 			<material file="Materials/JAZZ_TireBrigantine_Male_mesh.mtl" />
-			<bsphere value="1.431,3.674,127.738,39.197" />
-			<box min="-20.760,-26.616,100.941" max="23.622,33.965,154.536" />
+			<bsphere value="1.217,1.740,126.000,34.560" />
+			<box min="-17.181,-25.832,100.000" max="19.615,29.311,152.000" />
 			</lod>
 	</mesh_description>
 </entity>

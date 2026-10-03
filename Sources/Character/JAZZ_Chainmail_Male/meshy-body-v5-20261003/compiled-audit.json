@@ -1,0 +1,11 @@
+{
+  "entity": "JAZZ_Chainmail_Male",
+  "source_triangles": 22272,
+  "compiled_triangles": 22272,
+  "vertex_max_m": 0.00010078831110149622,
+  "triangle_max_m": 9.183141810353845e-05,
+  "missing_triangle_max_m": 9.183141810353845e-05,
+  "position_tolerance_mm": 0.11,
+  "pass": true,
+  "winding_positive_area_fraction": 0.0
+}

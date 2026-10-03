@@ -1,0 +1,56 @@
+{
+  "status": "PASS_SKIN_STRUCTURE",
+  "runtime": "NOT_RUN",
+  "collision_acceptance": false,
+  "vertices": 11192,
+  "poses": [
+    {
+      "pose": "rest",
+      "max_motion_m": 7.416851018738141e-05,
+      "edge_strain_p99": 1.0001717736978395,
+      "reference_body_p99": 1.0000340336098767,
+      "limit": 1.8,
+      "garment_p99": 1.0001954728073323
+    },
+    {
+      "pose": "lean",
+      "max_motion_m": 0.8065086746361239,
+      "edge_strain_p99": 1.350453545479055,
+      "reference_body_p99": 1.1447516021497988,
+      "limit": 1.8,
+      "garment_p99": 1.3392866399542445
+    },
+    {
+      "pose": "deep_lean",
+      "max_motion_m": 0.849605362981334,
+      "edge_strain_p99": 1.473694587555298,
+      "reference_body_p99": 1.1461564636099815,
+      "limit": 1.8,
+      "garment_p99": 1.5013714726795186
+    },
+    {
+      "pose": "twist",
+      "max_motion_m": 0.38383593429260504,
+      "edge_strain_p99": 1.3500887932646934,
+      "reference_body_p99": 1.161561984851236,
+      "limit": 1.8,
+      "garment_p99": 1.3763195383868254
+    },
+    {
+      "pose": "elbows",
+      "max_motion_m": 0.46216891558968143,
+      "edge_strain_p99": 2.0198170908690987,
+      "reference_body_p99": 2.5214902749212373,
+      "limit": 2.7714902749212373,
+      "garment_p99": 1.0002276356987019
+    },
+    {
+      "pose": "shoulders_isolated",
+      "max_motion_m": 0.9596394876741405,
+      "edge_strain_p99": 1.8160762887450794,
+      "reference_body_p99": 1.5736975197287373,
+      "limit": 1.8236975197287373,
+      "garment_p99": 1.6145449078600975
+    }
+  ]
+}

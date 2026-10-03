@@ -1,0 +1,11 @@
+{
+  "entity": "JAZZ_TireBrigantine_Male",
+  "source_triangles": 18000,
+  "compiled_triangles": 18000,
+  "vertex_max_m": 9.125450742430985e-05,
+  "triangle_max_m": 8.823846292216331e-05,
+  "missing_triangle_max_m": 8.823846292216331e-05,
+  "position_tolerance_mm": 0.1,
+  "pass": true,
+  "winding_positive_area_fraction": 1.9571557119927353e-05
+}

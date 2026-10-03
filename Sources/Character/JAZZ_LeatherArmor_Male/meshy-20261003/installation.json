@@ -1,0 +1,25 @@
+{
+  "item": "LeatherArmor",
+  "entity": "JAZZ_LeatherArmor_Male",
+  "installed": true,
+  "runtime": "NOT_RUN",
+  "files": 9,
+  "protected": {
+    "jazz\\ArmorIcons\\LeatherArmor.png": "1811718bc7cac223042614919652347f1a471eee6c88d9099afe5d50decce72f",
+    "jazz\\InventoryItem\\JazzArmor_LeatherArmor.lua": "c12778586dae861fbf3c11ee7d68edef64e7b58e75df92c60d8a8b075ffac96d",
+    "jazz_assets\\items.lua": "bd70ed01aee54d68c585be8cefd44c16f816c8e9010ccf49d80846857f31d49f",
+    "jazz_assets\\metadata.lua": "40ebac8a9410c9349e1523c55111a2384eeb1de42b7415cad505811e4b02af64",
+    "jazz_assets\\Entities\\JAZZ_LeatherArmor_Male.lua": "f1f9f58261e688637313d8974f3bae6f2bf1bacf801db351f7b6a62482454959"
+  },
+  "sha256": {
+    "Entities\\JAZZ_LeatherArmor_Male.ent": "011fb4d1edcb49ec0d220d77a844f38de191aba3f5e3bdc25f2103083410ec29",
+    "Entities\\Materials\\JAZZ_LeatherArmor_Male_mesh.mtl": "b252214c4d1a9cd374be1fc7fb909820e53213e73a8c30062ef59c33e10d1cbf",
+    "Entities\\Meshes\\JAZZ_LeatherArmor_Male_mesh.m.hgm": "c8f35b93357069159960b2bff0e2dd4b4f34ce7fabe028217208f272b35c3245",
+    "Entities\\Textures\\JAZZ_LeatherArmor_1_Norm.dds": "fc20bb9488e909f32225870f813b4931621b046d06398b226341f4c9bb28630a",
+    "Entities\\Textures\\JAZZ_LeatherArmor_2_Base.dds": "7a8fcf2d1ea48ed1beb1691e1a42fe958c4e46114254c608f6504b5bd349e454",
+    "Entities\\Textures\\JAZZ_LeatherArmor_3_RM.dds": "28c907be38e5bf1f28846d61a7c9ff888daf7236737108f8fbe0f659c3da57c0",
+    "Entities\\Textures\\Fallbacks\\JAZZ_LeatherArmor_1_Norm.dds": "2e24381b6145b334f2db67ab1d4827ab6f8367e70a7259326f8ed8e7306445ed",
+    "Entities\\Textures\\Fallbacks\\JAZZ_LeatherArmor_2_Base.dds": "2ba858b9a30d2e7f1bfc6bb92af2317484e5258600b9642fa45b3d17c31dd100",
+    "Entities\\Textures\\Fallbacks\\JAZZ_LeatherArmor_3_RM.dds": "893236c66e50e69de81f6d44b93136bf4590564249c43d32d2e3f8e2e1b361f0"
+  }
+}

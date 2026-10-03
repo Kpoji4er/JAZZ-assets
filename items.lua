@@ -4523,7 +4523,8 @@ PlaceObj('ModItemEntity', { 'name', "AKR_AK105_StockFolded", 'ClassParents', {},
 }),
 PlaceObj('ModItemEntity', {
     'name', "JAZZ_Chainmail_Male",
-    'ClassParents', { "CharacterArmorMale" },
+    'ClassParents', {},
+    'class_parent', "CharacterBodyMale",
     'entity_name', "JAZZ_Chainmail_Male",
 }),
 PlaceObj('ModItemEntity', {

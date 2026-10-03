@@ -1,0 +1,32 @@
+{
+  "source_triangles": 20809,
+  "bone_count": 85,
+  "parts": {
+    "JAZZ_ConradBody": {
+      "triangles": 12378,
+      "vertices": 8666,
+      "unweighted": 0,
+      "max_influences": 4,
+      "custom_normals": false,
+      "geometry_issues": []
+    },
+    "JAZZ_ConradPants": {
+      "triangles": 6867,
+      "vertices": 4403,
+      "unweighted": 0,
+      "max_influences": 4,
+      "custom_normals": false,
+      "geometry_issues": []
+    },
+    "JAZZ_ConradHead": {
+      "triangles": 1564,
+      "vertices": 1016,
+      "unweighted": 0,
+      "max_influences": 4,
+      "custom_normals": false,
+      "geometry_issues": []
+    }
+  },
+  "donor_distance_p99": 0.07942137792706487,
+  "runtime": "NOT_RUN"
+}

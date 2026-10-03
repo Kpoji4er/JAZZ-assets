@@ -4588,6 +4588,12 @@ PlaceObj('ModItemEntity', {
     'ClassParents', { "CharacterHat" },
     'entity_name', "JazzHat_SSh68",
 }),
+PlaceObj('ModItemEntity', {
+    'name', "JazzHat_6B7",
+    'class_parent', "CharacterHat",
+    'ClassParents', { "CharacterHat" },
+    'entity_name', "JazzHat_6B7",
+}),
 				PlaceObj('ModItemEntity', {
 					'name', "FNFAL_ParaStk_fld",
 					'ClassParents', {},
@@ -4666,6 +4672,12 @@ PlaceObj('ModItemEntity', {
     'name', "JAZZ_6B3_Male",
     'ClassParents', { "CharacterArmorMale" },
     'entity_name', "JAZZ_6B3_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_6B13_Male",
+    'class_parent', "CharacterArmorMale",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_6B13_Male",
 }),
 PlaceObj('ModItemEntity', {
     'name', "MK14EBR_BarrelNormal",
@@ -4822,16 +4834,24 @@ PlaceObj('ModItemEntity', {
 	'ClassParents', {},
 	'entity_name', "JAZZ_M14_MkIII_Scope",
 }),
-PlaceObj('ModItemEntity', {
-    'name', "JazzHat_6B7",
-    'class_parent', "CharacterHat",
-    'ClassParents', { "CharacterHat" },
-    'entity_name', "JazzHat_6B7",
-}),
-PlaceObj('ModItemEntity', {
-    'name', "JAZZ_6B13_Male",
-    'class_parent', "CharacterArmorMale",
-    'ClassParents', { "CharacterArmorMale" },
-    'entity_name', "JAZZ_6B13_Male",
-}),
+
+PlaceObj('ModItemEntity', { 'name', "JAZZ_ConradBody", 'entity_name', "JAZZ_ConradBody", 'class_parent', "CharacterBodyMale", 'ClassParents', {} }),
+
+PlaceObj('ModItemEntity', { 'name', "JAZZ_ConradPants", 'entity_name', "JAZZ_ConradPants", 'class_parent', "CharacterPantsMale", 'ClassParents', {} }),
+
+PlaceObj('ModItemEntity', { 'name', "JAZZ_ConradHead", 'entity_name', "JAZZ_ConradHead", 'class_parent', "CharacterHeadMale", 'ClassParents', {} }),
+PlaceObj('ModItemEntity', {'name',"JAZZ_AEK971",'ClassParents',{},'entity_name',"JAZZ_AEK971"}),
+PlaceObj('ModItemEntity', {'name',"JAZZ_AEK971_Magazine",'ClassParents',{},'entity_name',"JAZZ_AEK971_Magazine"}),
+PlaceObj('ModItemEntity', {'name',"JAZZ_AEK971_Stock",'ClassParents',{},'entity_name',"JAZZ_AEK971_Stock"}),
+PlaceObj('ModItemEntity', {'name',"JAZZ_AEK971_StockFolded",'ClassParents',{},'entity_name',"JAZZ_AEK971_StockFolded"}),
+PlaceObj('ModItemEntity', {'name',"JAZZ_AEK973S",'ClassParents',{},'entity_name',"JAZZ_AEK973S"}),
+PlaceObj('ModItemEntity', {'name',"JAZZ_AEK973S_Magazine",'ClassParents',{},'entity_name',"JAZZ_AEK973S_Magazine"}),
+PlaceObj('ModItemEntity', {'name',"JAZZ_AEK973S_Stock",'ClassParents',{},'entity_name',"JAZZ_AEK973S_Stock"}),
+PlaceObj('ModItemEntity', {'name',"JAZZ_AEK973S_StockFolded",'ClassParents',{},'entity_name',"JAZZ_AEK973S_StockFolded"}),
+PlaceObj('ModItemEntity', {'name',"JAZZ_HK416_Long",'ClassParents',{},'entity_name',"JAZZ_HK416_Long"}),
+PlaceObj('ModItemEntity', {'name',"JAZZ_HK416_Magazine",'ClassParents',{},'entity_name',"JAZZ_HK416_Magazine"}),
+PlaceObj('ModItemEntity', {'name',"JAZZ_HK416_Short",'ClassParents',{},'entity_name',"JAZZ_HK416_Short"}),
+PlaceObj('ModItemEntity', {'name',"JAZZ_HK416_Standard",'ClassParents',{},'entity_name',"JAZZ_HK416_Standard"}),
+PlaceObj('ModItemEntity', {'name',"JAZZ_HK416_Stock",'ClassParents',{},'entity_name',"JAZZ_HK416_Stock"}),
+PlaceObj('ModItemEntity', {'name',"JAZZ_HK416_StockCTR",'ClassParents',{},'entity_name',"JAZZ_HK416_StockCTR"}),
 }

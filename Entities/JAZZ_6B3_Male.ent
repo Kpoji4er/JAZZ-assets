@@ -8,8 +8,8 @@
 		<lod idx="0" distance="0">
 			<mesh file="Meshes/JAZZ_6B3_Male_mesh.m.hgm" />
 			<material file="Materials/JAZZ_6B3_Male_mesh.mtl" />
-			<bsphere value="1.927,-0.605,127.000,36.374" />
-			<box min="-22.104,-25.112,99.000" max="25.959,23.903,155.000" />
+			<bsphere value="3.177,-0.605,126.999,35.564" />
+			<box min="-19.604,-25.112,99.000" max="25.959,23.903,154.998" />
 			</lod>
 	</mesh_description>
 </entity>

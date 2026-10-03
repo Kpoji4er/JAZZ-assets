@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_AEK971_Stock">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_AEK971_Stock_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_AEK971_Stock_Mesh.mtl" />
+			<bsphere value="-19.661,-0.182,1.949,13.888" />
+			<box min="-32.672,-1.533,-3.317" max="-6.649,1.168,7.216" />
+			</lod>
+	</mesh_description>
+</entity>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_AEK973S_Magazine">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_AEK973S_Magazine_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_AEK973S_Magazine_Mesh.mtl" />
+			<bsphere value="16.885,0.010,-1.498,12.382" />
+			<box min="8.800,-1.393,-11.693" max="24.969,1.413,8.696" />
+			</lod>
+	</mesh_description>
+</entity>

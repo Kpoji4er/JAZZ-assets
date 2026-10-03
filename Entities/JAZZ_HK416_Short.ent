@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_HK416_Short">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_HK416_Short_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_HK416_Short_Mesh.mtl" />
+			<bsphere value="4.799,0.035,6.609,34.462" />
+			<box min="-29.208,-3.938,-4.269" max="38.805,4.007,17.487" />
+			</lod>
+		<attach name="Barrel" spot_pos="0.000,0.000,0.000" />
+		<attach name="Hand_l_grip" spot_pos="24.000,0.000,9.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Magazine" spot_pos="0.000,0.000,0.000" />
+		<attach name="Mount" spot_pos="5.000,0.000,14.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzle" spot_pos="38.805,0.000,10.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzletip" spot_pos="38.805,0.000,10.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Scope" spot_pos="5.000,0.000,14.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Side" spot_pos="25.000,3.300,11.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Stock" spot_pos="0.000,0.000,0.000" />
+		<attach name="Trigger" spot_pos="0.000,0.000,1.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Under" spot_pos="24.000,0.000,7.700" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>

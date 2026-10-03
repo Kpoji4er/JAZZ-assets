@@ -1,0 +1,10 @@
+{
+  "entity": "JAZZ_ConradHead",
+  "source_triangles": 1564,
+  "compiled_triangles": 1564,
+  "vertex_max_m": 2.5803317839745432e-05,
+  "triangle_max_m": 2.0443138055270538e-05,
+  "missing_triangle_max_m": 2.0443138055270538e-05,
+  "pass": true,
+  "winding_positive_area_fraction": 0.0
+}

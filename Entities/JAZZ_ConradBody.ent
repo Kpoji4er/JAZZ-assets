@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_ConradBody">
+	<inherit entity="Male" mesh_ref="mesh" />
+	<state id="_mesh">
+		<mesh_ref ref="mesh" />
+	</state>
+	<mesh_description id="mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_ConradBody_mesh.m.hgm" />
+			<material file="Materials/JAZZ_ConradBody_mesh.mtl" />
+			<bsphere value="0.094,-0.004,127.068,74.776" />
+			<box min="-19.435,-70.408,97.699" max="19.622,70.400,156.438" />
+			</lod>
+	</mesh_description>
+</entity>

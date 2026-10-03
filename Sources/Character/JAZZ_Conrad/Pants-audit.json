@@ -1,0 +1,10 @@
+{
+  "entity": "JAZZ_ConradPants",
+  "source_triangles": 6867,
+  "compiled_triangles": 6867,
+  "vertex_max_m": 2.6052866815007292e-05,
+  "triangle_max_m": 2.2499412807519548e-05,
+  "missing_triangle_max_m": 2.2499412807519548e-05,
+  "pass": true,
+  "winding_positive_area_fraction": 0.0
+}

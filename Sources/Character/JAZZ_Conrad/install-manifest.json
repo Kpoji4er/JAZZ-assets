@@ -1,0 +1,74 @@
+[
+  {
+    "path": "Entities/JAZZ_ConradBody.ent",
+    "sha256": "840b12d0a46e49cd744ea8207e4e8bdcedf679fd52b0cf1dcd4a6a7fe176b923"
+  },
+  {
+    "path": "Entities/JAZZ_ConradBody.lua",
+    "sha256": "eadd9050e4cc97653f59d13d2cf871ff5a02cf2812638fef68848d96cbabd00e"
+  },
+  {
+    "path": "Entities/JAZZ_ConradHead.ent",
+    "sha256": "07a7cfe7715df0a6ad82d4178ca7d0b6771b7d4daaaedf7b589874473e3a9db9"
+  },
+  {
+    "path": "Entities/JAZZ_ConradHead.lua",
+    "sha256": "ddb25fa1430745717e0052ac737315a99934e848aaa8d71ef1f36b065c1b7a18"
+  },
+  {
+    "path": "Entities/JAZZ_ConradPants.ent",
+    "sha256": "3c28c0654b70517003668912559fdf261ed1e73822d297c8b54d9b7403542840"
+  },
+  {
+    "path": "Entities/JAZZ_ConradPants.lua",
+    "sha256": "1a7f819725d435d9de5b53d7b481ff70addb2f4b689631de71211afe6ee21982"
+  },
+  {
+    "path": "Entities/Materials/JAZZ_ConradBody_mesh.mtl",
+    "sha256": "6cdba5ce42cf7388887a8ab160d93c39e37efd02ee552e8d57d0271470ed6ec4"
+  },
+  {
+    "path": "Entities/Materials/JAZZ_ConradHead_mesh.mtl",
+    "sha256": "6cdba5ce42cf7388887a8ab160d93c39e37efd02ee552e8d57d0271470ed6ec4"
+  },
+  {
+    "path": "Entities/Materials/JAZZ_ConradPants_mesh.mtl",
+    "sha256": "6cdba5ce42cf7388887a8ab160d93c39e37efd02ee552e8d57d0271470ed6ec4"
+  },
+  {
+    "path": "Entities/Meshes/JAZZ_ConradBody_mesh.m.hgm",
+    "sha256": "a70917f78317641b8c13af0abbbb56a45689a3dfdffc4fe45e1f2448c0edcb2b"
+  },
+  {
+    "path": "Entities/Meshes/JAZZ_ConradHead_mesh.m.hgm",
+    "sha256": "d5bf272e0cb3dc2b0768efbdb5e85127cc543328b4b6bdd651fff662273573de"
+  },
+  {
+    "path": "Entities/Meshes/JAZZ_ConradPants_mesh.m.hgm",
+    "sha256": "9a2099e4231e23e33c193cd50ba27d9823eb3109c0576cd2168dea7f38dff274"
+  },
+  {
+    "path": "Entities/Textures/JAZZ_Conrad_1_Norm.dds",
+    "sha256": "13f16b630a8486ed0b4eb19474193b0d92e22035a00b16209ec18bd64ba84232"
+  },
+  {
+    "path": "Entities/Textures/JAZZ_Conrad_2_Base.dds",
+    "sha256": "fd484bd68242e29b604e63781b8719dead0199fb321c16b27bff4c5f591fbb3f"
+  },
+  {
+    "path": "Entities/Textures/JAZZ_Conrad_3_RM.dds",
+    "sha256": "31f21b83ebee58b84e92dddd31c98b6030460fb9e7d7549d4eb8e0d62e6dffe2"
+  },
+  {
+    "path": "Entities/Textures/Fallbacks/JAZZ_Conrad_1_Norm.dds",
+    "sha256": "4b89c6a5a2f44a4516632ae4bd02f6a99b7f6a1ec37a1f6a7c0b6b70115e7fb3"
+  },
+  {
+    "path": "Entities/Textures/Fallbacks/JAZZ_Conrad_2_Base.dds",
+    "sha256": "03c5398d25ea062f20dfdba41e00e09ee205650817ee6d4f58e96b226f5b206c"
+  },
+  {
+    "path": "Entities/Textures/Fallbacks/JAZZ_Conrad_3_RM.dds",
+    "sha256": "4025d0a06383c1eba3ee78f5fe2bc5d343f4e6dc65e26cdf63516c0c393e1918"
+  }
+]

@@ -1,0 +1,63 @@
+PlaceObj('ModItemAppearancePreset', {
+			ArmorColor = PlaceObj('ColorizationPropSet', {
+			'EditableColor1', RGBA(0, 0, 0, 255),
+			'EditableColor2', RGBA(0, 0, 0, 255),
+			'EditableColor3', RGBA(0, 0, 0, 255),
+			}),
+			Body = "Faction_Adonis_Top_05",
+			Hair = "EquipmentLen_Hair",
+			BodyColor = PlaceObj('ColorizationPropSet', {
+			'EditableColor1', RGBA(185, 150, 120, 255),
+			'EditableColor2', RGBA(62, 72, 40, 255),
+			'EditableColor3', RGBA(40, 46, 28, 255),
+			}),
+			ChestColor = PlaceObj('ColorizationPropSet', {
+			'EditableColor1', RGBA(0, 0, 0, 255),
+			'EditableColor2', RGBA(0, 0, 0, 255),
+			'EditableColor3', RGBA(0, 0, 0, 255),
+			}),
+			HairColor = PlaceObj('ColorizationPropSet', {
+			'EditableColor1', RGBA(29, 27, 27, 255),
+			'EditableRoughness1', 20,
+			'EditableMetallic1', 20,
+			'EditableColor2', RGBA(4, 4, 4, 255),
+			'EditableRoughness2', -70,
+			'EditableMetallic2', -128,
+			'EditableRoughness3', -128,
+			'EditableMetallic3', 127,
+			}),
+			Hat2Color = PlaceObj('ColorizationPropSet', {
+			'EditableColor1', RGBA(0, 0, 0, 255),
+			'EditableColor2', RGBA(0, 0, 0, 255),
+			'EditableColor3', RGBA(0, 0, 0, 255),
+			}),
+			HatColor = PlaceObj('ColorizationPropSet', {
+			'EditableColor1', RGBA(128, 6, 6, 255),
+			'EditableColor2', RGBA(12, 12, 12, 255),
+			'EditableColor3', RGBA(0, 0, 0, 255),
+			}),
+			Head = "Head_Len",
+			HeadColor = PlaceObj('ColorizationPropSet', {
+			'EditableColor1', RGBA(0, 0, 0, 255),
+			'EditableColor2', RGBA(0, 0, 0, 255),
+			'EditableColor3', RGBA(0, 0, 0, 255),
+			}),
+			HipColor = PlaceObj('ColorizationPropSet', {
+			'EditableColor1', RGBA(0, 0, 0, 255),
+			'EditableColor2', RGBA(0, 0, 0, 255),
+			'EditableColor3', RGBA(0, 0, 0, 255),
+			}),
+			Pants = "Faction_Adonis_Bottom_02",
+			PantsColor = PlaceObj('ColorizationPropSet', {
+			'EditableColor1', RGBA(55, 64, 38, 255),
+			'EditableColor2', RGBA(12, 12, 12, 255),
+			'EditableColor3', RGBA(12, 12, 12, 255),
+			}),
+			ShirtColor = PlaceObj('ColorizationPropSet', {
+			'EditableColor1', RGBA(0, 0, 0, 255),
+			'EditableColor2', RGBA(0, 0, 0, 255),
+			'EditableColor3', RGBA(0, 0, 0, 255),
+			}),
+			group = "JAZZ_JA12",
+			id = "Conrad",
+		}),

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_HK416_StockCTR">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_HK416_StockCTR_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_HK416_StockCTR_Mesh.mtl" />
+			<bsphere value="-25.025,0.000,6.078,10.654" />
+			<box min="-33.602,-1.905,-0.340" max="-16.447,1.905,12.496" />
+			</lod>
+	</mesh_description>
+</entity>

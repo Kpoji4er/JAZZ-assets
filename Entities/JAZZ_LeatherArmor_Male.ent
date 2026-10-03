@@ -8,8 +8,8 @@
 		<lod idx="0" distance="0">
 			<mesh file="Meshes/JAZZ_LeatherArmor_Male_mesh.m.hgm" />
 			<material file="Materials/JAZZ_LeatherArmor_Male_mesh.mtl" />
-			<bsphere value="1.648,-0.843,127.500,32.038" />
-			<box min="-16.734,-26.350,103.000" max="20.030,24.664,152.000" />
+			<bsphere value="1.648,-0.843,128.904,33.118" />
+			<box min="-16.734,-26.350,103.000" max="20.030,24.664,154.809" />
 			</lod>
 	</mesh_description>
 </entity>

@@ -1,0 +1,10 @@
+{
+  "entity": "JAZZ_ConradBody",
+  "source_triangles": 12378,
+  "compiled_triangles": 12378,
+  "vertex_max_m": 2.678061355254613e-05,
+  "triangle_max_m": 2.0069681340828538e-05,
+  "missing_triangle_max_m": 2.0069681340828538e-05,
+  "pass": true,
+  "winding_positive_area_fraction": 0.0
+}

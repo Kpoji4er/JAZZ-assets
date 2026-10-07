@@ -4854,6 +4854,18 @@ PlaceObj('ModItemEntity', {'name',"JAZZ_HK416_Short",'ClassParents',{},'entity_n
 PlaceObj('ModItemEntity', {'name',"JAZZ_HK416_Standard",'ClassParents',{},'entity_name',"JAZZ_HK416_Standard"}),
 PlaceObj('ModItemEntity', {'name',"JAZZ_HK416_Stock",'ClassParents',{},'entity_name',"JAZZ_HK416_Stock"}),
 PlaceObj('ModItemEntity', {'name',"JAZZ_HK416_StockCTR",'ClassParents',{},'entity_name',"JAZZ_HK416_StockCTR"}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_PASGT_Male",
+    'class_parent', "CharacterArmorMale",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_PASGT_Male",
+}),
+PlaceObj('ModItemEntity', {
+    'name', "JAZZ_RBA_Male",
+    'class_parent', "CharacterArmorMale",
+    'ClassParents', { "CharacterArmorMale" },
+    'entity_name', "JAZZ_RBA_Male",
+}),
 PlaceObj('ModItemEntity', {'name',"JAZZ_SCAR_H_Long",'ClassParents',{},'entity_name',"JAZZ_SCAR_H_Long"}),
 PlaceObj('ModItemEntity', {'name',"JAZZ_SCAR_H_Magazine",'ClassParents',{},'entity_name',"JAZZ_SCAR_H_Magazine"}),
 PlaceObj('ModItemEntity', {'name',"JAZZ_SCAR_H_Muzzle",'ClassParents',{},'entity_name',"JAZZ_SCAR_H_Muzzle"}),

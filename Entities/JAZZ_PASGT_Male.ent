@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_PASGT_Male">
+	<inherit entity="Male" mesh_ref="mesh" />
+	<state id="_mesh">
+		<mesh_ref ref="mesh" />
+	</state>
+	<mesh_description id="mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_PASGT_Male_mesh.m.hgm" />
+			<material file="Materials/JAZZ_PASGT_Male_mesh.mtl" />
+			<bsphere value="2.441,-0.148,132.000,39.111" />
+			<box min="-19.004,-25.455,99.500" max="23.886,25.160,164.500" />
+			</lod>
+	</mesh_description>
+</entity>

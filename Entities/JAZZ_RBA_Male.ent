@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_RBA_Male">
+	<inherit entity="Male" mesh_ref="mesh" />
+	<state id="_mesh">
+		<mesh_ref ref="mesh" />
+	</state>
+	<mesh_description id="mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_RBA_Male_mesh.m.hgm" />
+			<material file="Materials/JAZZ_RBA_Male_mesh.mtl" />
+			<bsphere value="3.208,0.893,130.500,34.434" />
+			<box min="-22.284,-23.842,105.000" max="28.701,25.629,156.000" />
+			</lod>
+	</mesh_description>
+</entity>

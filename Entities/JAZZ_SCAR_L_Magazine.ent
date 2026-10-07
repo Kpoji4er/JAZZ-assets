@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_SCAR_L_Magazine">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_SCAR_L_Magazine_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_SCAR_L_Magazine_Mesh.mtl" />
+			<bsphere value="9.405,-0.402,-1.628,10.086" />
+			<box min="5.217,-1.713,-11.030" max="13.593,0.909,7.775" />
+			</lod>
+	</mesh_description>
+</entity>

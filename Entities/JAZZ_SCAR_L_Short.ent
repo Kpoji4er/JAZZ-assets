@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<entity path="" name="JAZZ_SCAR_L_Short">
+	<state id="idle">
+		<mesh_ref ref="Mesh" />
+	</state>
+	<mesh_description id="Mesh">
+		<lod idx="0" distance="0">
+			<mesh file="Meshes/JAZZ_SCAR_L_Short_Mesh.m.hgm" />
+			<material file="Materials/JAZZ_SCAR_L_Short_Mesh.mtl" />
+			<bsphere value="14.368,-0.629,3.657,26.646" />
+			<box min="-10.214,-4.254,-7.328" max="38.950,2.995,14.641" />
+			</lod>
+		<attach name="Barrel" spot_pos="0.000,0.000,0.000" />
+		<attach name="Hand_l_grip" spot_pos="22.000,0.000,4.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Magazine" spot_pos="0.000,0.000,0.000" />
+		<attach name="Muzzle" spot_pos="0.000,0.000,0.000" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Muzzletip" spot_pos="38.950,-0.360,8.350" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Scope" spot_pos="8.000,0.000,13.100" />
+		<attach name="Side" spot_pos="26.000,3.000,8.500" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+		<attach name="Stock" spot_pos="0.000,0.000,0.000" />
+		<attach name="Trigger" spot_pos="0.000,0.000,0.800" />
+		<attach name="Under" spot_pos="26.000,0.000,3.900" spot_rot="0.000000,0.000000,1.000000,0.0000" />
+	</mesh_description>
+</entity>
